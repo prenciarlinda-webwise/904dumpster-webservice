@@ -1,0 +1,43 @@
+{
+  "name": "904-dumpster-frontend",
+  "version": "1.0.0",
+  "description": "904 Dumpster - Dumpster Rental Jacksonville FL",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postbuild": "next-sitemap"
+  },
+  "keywords": [
+    "dumpster rental",
+    "jacksonville",
+    "junk removal",
+    "demolition"
+  ],
+  "author": "904 Dumpster",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "autoprefixer": "^10.4.23",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.561.0",
+    "next": "^16.0.10",
+    "next-sitemap": "^4.2.3",
+    "postcss": "^8.5.6",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-google-recaptcha-v3": "^1.11.0",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.3",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.2",
+    "eslint-config-next": "^16.0.10"
+  }
+}
