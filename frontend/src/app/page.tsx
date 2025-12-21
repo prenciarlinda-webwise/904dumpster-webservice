@@ -1,0 +1,683 @@
+import Image from 'next/image'
+import Link from 'next/link'
+import {
+  Phone,
+  Truck,
+  Clock,
+  Shield,
+  Star,
+  ArrowRight,
+  CheckCircle2,
+  Home as HomeIcon,
+  HardHat,
+  Building2,
+  MapPin,
+  Users,
+  DollarSign,
+  Award,
+  Zap,
+} from 'lucide-react'
+import { BUSINESS } from '@/lib/constants'
+import { FAQSection } from '@/components/FAQSection'
+import { ZipForm } from '@/components/ZipForm'
+
+// Service Areas for Geo Section
+const SERVICE_AREAS = {
+  duval: ['Jacksonville', 'Jacksonville Beach', 'Atlantic Beach', 'Neptune Beach', 'Arlington', 'Riverside', 'San Marco', 'Mandarin', 'Southside'],
+  stJohns: ['St. Augustine', 'Ponte Vedra Beach', 'Nocatee', 'St. Johns', 'Fruit Cove', 'Julington Creek'],
+  clay: ['Orange Park', 'Fleming Island', 'Middleburg', 'Green Cove Springs', 'Oakleaf'],
+  nassau: ['Fernandina Beach', 'Yulee', 'Callahan', 'Hilliard'],
+}
+
+// FAQ Data
+const FAQ_DATA = [
+  {
+    question: 'How much does dumpster rental cost in Jacksonville?',
+    answer:
+      'Dumpster rental prices in Jacksonville typically range from $275-$550 depending on the size. Our 10-yard dumpster starts at $275, 15-yard at $350, and 20-yard at $425. All prices include delivery, pickup, and disposal with no hidden fees.',
+  },
+  {
+    question: 'How long can I keep the dumpster?',
+    answer:
+      'Our standard rental period is 7-14 days, which is included in your quote. Need more time? Just give us a call and we can extend your rental at a daily rate.',
+  },
+  {
+    question: 'What size dumpster do I need?',
+    answer:
+      '10-yard dumpsters are perfect for small cleanouts and single-room renovations. 15-yard dumpsters work great for roofing projects and medium cleanouts. 20-yard dumpsters are ideal for large renovations, construction, and estate cleanouts.',
+  },
+  {
+    question: 'Do you offer same-day delivery?',
+    answer:
+      'Yes! We offer same-day dumpster delivery throughout Jacksonville and surrounding areas when you call before noon. Next-day delivery is always available.',
+  },
+  {
+    question: 'What can I put in the dumpster?',
+    answer:
+      'You can dispose of most household items, construction debris, furniture, appliances, yard waste, and roofing materials. We cannot accept hazardous materials, paint, batteries, tires, or electronics.',
+  },
+]
+
+// JSON-LD Schemas
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: FAQ_DATA.map((faq) => ({
+    '@type': 'Question',
+    name: faq.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: faq.answer,
+    },
+  })),
+}
+
+const reviewSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: '904 Dumpster',
+  image: 'https://www.904dumpster.com/images/og-image.jpg',
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: 'Jacksonville',
+    addressRegion: 'FL',
+    postalCode: '32246',
+    addressCountry: 'US',
+  },
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: '4.9',
+    reviewCount: '523',
+    bestRating: '5',
+    worstRating: '1',
+  },
+  review: [
+    {
+      '@type': 'Review',
+      author: { '@type': 'Person', name: 'Mike T.' },
+      reviewRating: { '@type': 'Rating', ratingValue: '5' },
+      reviewBody: 'Fast delivery, fair pricing, and the driver was super helpful placing the dumpster exactly where I needed it. Will use again!',
+    },
+    {
+      '@type': 'Review',
+      author: { '@type': 'Person', name: 'Sarah K.' },
+      reviewRating: { '@type': 'Rating', ratingValue: '5' },
+      reviewBody: 'Used them for my kitchen renovation. No hidden fees, easy scheduling. Highly recommend 904 Dumpster!',
+    },
+  ],
+}
+
+export default function HomePage() {
+  return (
+    <>
+      {/* JSON-LD Schemas */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewSchema) }}
+      />
+
+      <div className="min-h-screen -mt-16 lg:-mt-32">
+        {/* ============================================
+            SECTION 1: HERO (Conversion & Intent)
+        ============================================ */}
+        <section className="relative min-h-screen flex items-center">
+          {/* Background */}
+          <div className="absolute inset-0 z-0">
+            <Image
+              src="/images/hero-dumpster-rental-jacksonville.jpg"
+              alt="Affordable Dumpster Rental Jacksonville FL - 904 Dumpster"
+              fill
+              className="object-cover"
+              priority
+            />
+            <div className="absolute inset-0 bg-gradient-to-br from-secondary/95 via-secondary/80 to-secondary/60" />
+          </div>
+
+          {/* Floating Decorations */}
+          <div className="absolute top-1/4 right-10 w-72 h-72 bg-primary/20 rounded-full blur-3xl" />
+          <div className="absolute bottom-1/4 left-10 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />
+
+          {/* Hero Content */}
+          <div className="relative z-10 max-w-7xl mx-auto px-4 lg:px-6 py-32 lg:py-40 w-full">
+            <div className="grid lg:grid-cols-2 gap-12 items-center">
+              {/* Left - Headlines */}
+              <div>
+                {/* Trust Signal Badge */}
+                <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 mb-6">
+                  <div className="flex -space-x-1">
+                    {[...Array(5)].map((_, i) => (
+                      <Star key={i} className="w-4 h-4 text-yellow-400 fill-yellow-400" />
+                    ))}
+                  </div>
+                  <span className="text-white/90 text-sm font-medium">
+                    Over 500+ 5-Star Reviews in NE Florida
+                  </span>
+                </div>
+
+                {/* H1 - Primary Keyword */}
+                <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6 leading-tight">
+                  Affordable Dumpster Rental in{' '}
+                  <span className="text-primary">Jacksonville, FL</span>
+                </h1>
+
+                {/* Sub-headline */}
+                <p className="text-xl md:text-2xl text-white/80 mb-8 leading-relaxed">
+                  Local, Reliable Roll-Off Bins for Homeowners & Contractors in the 904.
+                  Same-day delivery. No hidden fees.
+                </p>
+
+                {/* Trust Indicators */}
+                <div className="flex flex-wrap items-center gap-4 mb-8">
+                  <div className="flex items-center gap-2 text-white/70 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-primary" />
+                    <span>Same-Day Delivery</span>
+                  </div>
+                  <div className="flex items-center gap-2 text-white/70 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-primary" />
+                    <span>Locally Owned</span>
+                  </div>
+                  <div className="flex items-center gap-2 text-white/70 text-sm">
+                    <CheckCircle2 className="w-5 h-5 text-primary" />
+                    <span>No Hidden Fees</span>
+                  </div>
+                </div>
+
+                {/* CTA Buttons - Mobile */}
+                <div className="flex flex-col sm:flex-row gap-4 lg:hidden">
+                  <a
+                    href={`tel:${BUSINESS.phoneRaw}`}
+                    className="bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-5 rounded-2xl flex items-center justify-center gap-3 shadow-2xl shadow-primary/30 transition-all"
+                  >
+                    <Phone className="w-5 h-5" />
+                    Call {BUSINESS.phone}
+                  </a>
+                </div>
+              </div>
+
+              {/* Right - Quick Quote Form */}
+              <ZipForm />
+            </div>
+          </div>
+
+          {/* Scroll Indicator */}
+          <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 hidden lg:block">
+            <div className="w-6 h-10 border-2 border-white/30 rounded-full flex items-start justify-center p-2">
+              <div className="w-1.5 h-3 bg-white/60 rounded-full animate-bounce" />
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 2: PROBLEM-SOLVER GRID (Internal Linking)
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Solutions For Every Project
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Dumpster Solutions for Every Project
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                Whether you&apos;re a homeowner tackling a cleanout or a contractor managing a job site,
+                we have the right dumpster for you.
+              </p>
+            </div>
+
+            {/* Silo Links Grid */}
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+              {[
+                {
+                  icon: HomeIcon,
+                  title: 'Home Cleanouts',
+                  desc: 'Purge the clutter with ease. Perfect for garage, attic, and estate cleanouts.',
+                  href: '/dumpster-rental/dumpsters-for-home-cleanouts',
+                  color: 'from-blue-500 to-blue-600',
+                },
+                {
+                  icon: HardHat,
+                  title: 'Construction Sites',
+                  desc: 'Heavy-duty bins for pros. Handles lumber, drywall, and debris.',
+                  href: '/dumpster-rental/dumpsters-for-construction-projects',
+                  color: 'from-orange-500 to-orange-600',
+                },
+                {
+                  icon: Building2,
+                  title: 'Roofing Jobs',
+                  desc: 'Shingle-ready roll-offs. Built for heavy roofing materials.',
+                  href: '/dumpster-rental/dumpsters-for-roofing-projects',
+                  color: 'from-red-500 to-red-600',
+                },
+                {
+                  icon: Users,
+                  title: 'Property Managers',
+                  desc: 'Fast turnarounds for rentals. Recurring service available.',
+                  href: '/dumpster-rental/dumpsters-for-property-owners',
+                  color: 'from-purple-500 to-purple-600',
+                },
+              ].map((item, i) => (
+                <Link
+                  key={i}
+                  href={item.href}
+                  className="group relative bg-gray-50 rounded-2xl p-8 hover:bg-white hover:shadow-2xl hover:shadow-black/10 hover:-translate-y-2 transition-all duration-300"
+                >
+                  <div
+                    className={`w-16 h-16 bg-gradient-to-br ${item.color} rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform`}
+                  >
+                    <item.icon className="w-8 h-8 text-white" />
+                  </div>
+                  <h3 className="text-xl font-bold text-secondary mb-3 group-hover:text-primary transition-colors">
+                    {item.title}
+                  </h3>
+                  <p className="text-gray-500 mb-4">{item.desc}</p>
+                  <span className="inline-flex items-center gap-2 text-primary font-semibold text-sm group-hover:gap-3 transition-all">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 3: SIZE SELECTOR (Visual & Transactional)
+        ============================================ */}
+        <section id="sizes" className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Roll-Off Dumpster Sizes
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Choose Your Dumpster Size
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                All prices include delivery, pickup, disposal, and a 7-day rental period.
+                No hidden fees, ever.
+              </p>
+            </div>
+
+            {/* Size Cards */}
+            <div className="grid md:grid-cols-3 gap-8">
+              {[
+                {
+                  size: '10',
+                  name: '10 Yard Dumpster',
+                  dimensions: "12' L × 8' W × 3.5' H",
+                  bestFor: ['Small Cleanouts', 'Concrete/Dirt', 'Single Room Reno'],
+                  price: 'From $275',
+                  popular: false,
+                },
+                {
+                  size: '15',
+                  name: '15 Yard Dumpster',
+                  dimensions: "16' L × 8' W × 4' H",
+                  bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
+                  price: 'From $350',
+                  popular: true,
+                },
+                {
+                  size: '20',
+                  name: '20 Yard Dumpster',
+                  dimensions: "22' L × 8' W × 4.5' H",
+                  bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
+                  price: 'From $425',
+                  popular: false,
+                },
+              ].map((dumpster, index) => (
+                <div
+                  key={dumpster.size}
+                  className={`relative bg-white rounded-3xl overflow-hidden shadow-xl shadow-black/5 hover:shadow-2xl transition-all duration-500 ${
+                    dumpster.popular ? 'ring-2 ring-primary' : ''
+                  }`}
+                >
+                  {/* Popular Badge */}
+                  {dumpster.popular && (
+                    <div className="absolute top-4 right-4 bg-primary text-white text-xs font-bold px-3 py-1 rounded-full z-10">
+                      Most Popular
+                    </div>
+                  )}
+
+                  {/* Image */}
+                  <div className="relative h-48 overflow-hidden bg-gradient-to-br from-gray-100 to-gray-200">
+                    <Image
+                      src={`/images/${dumpster.size}-yard-dumpster.jpg`}
+                      alt={`${dumpster.name} Rental Jacksonville FL`}
+                      fill
+                      className="object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+                    <div className="absolute bottom-4 left-4">
+                      <span className="text-4xl font-black text-white">{dumpster.size}</span>
+                      <span className="text-white/80 ml-1">yard</span>
+                    </div>
+                  </div>
+
+                  {/* Content */}
+                  <div className="p-8">
+                    <div className="text-sm text-gray-500 mb-4">
+                      <strong>Dimensions:</strong> {dumpster.dimensions}
+                    </div>
+
+                    <div className="mb-6">
+                      <div className="text-sm font-semibold text-secondary mb-3">Best For:</div>
+                      <div className="flex flex-wrap gap-2">
+                        {dumpster.bestFor.map((item, i) => (
+                          <span
+                            key={i}
+                            className="bg-primary/10 text-primary text-sm px-3 py-1 rounded-full font-medium"
+                          >
+                            {item}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+
+                    <div className="flex items-end justify-between mb-6">
+                      <div>
+                        <span className="text-3xl font-black text-secondary">{dumpster.price}</span>
+                      </div>
+                    </div>
+
+                    <a
+                      href={`tel:${BUSINESS.phoneRaw}`}
+                      className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-colors ${
+                        dumpster.popular
+                          ? 'bg-primary hover:bg-primary/90 text-white'
+                          : 'bg-secondary hover:bg-primary text-white'
+                      }`}
+                    >
+                      <Phone className="w-4 h-4" />
+                      Rent {dumpster.size} Yard Bin
+                    </a>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Size Guide CTA */}
+            <div className="text-center mt-12">
+              <p className="text-gray-500 mb-4">Not sure which size you need?</p>
+              <Link
+                href="/services/dumpster-size-guide"
+                className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
+              >
+                View Our Complete Size Guide
+                <ArrowRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 4: LOCAL SERVICE AREA "GEO-SILO"
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="grid lg:grid-cols-2 gap-12 items-start">
+              {/* Left - Content */}
+              <div>
+                <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                  Service Areas
+                </span>
+                <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                  Serving Jacksonville & Surrounding 904 Areas
+                </h2>
+                <p className="text-gray-600 text-lg mb-8">
+                  We proudly deliver dumpsters throughout Duval, St. Johns, Clay, and Nassau counties.
+                  Same-day delivery available in most areas when you call before noon.
+                </p>
+
+                {/* County Lists */}
+                <div className="grid sm:grid-cols-2 gap-6">
+                  <div>
+                    <h3 className="font-bold text-secondary mb-3 flex items-center gap-2">
+                      <MapPin className="w-5 h-5 text-primary" />
+                      Duval County
+                    </h3>
+                    <ul className="space-y-2 text-gray-600">
+                      {SERVICE_AREAS.duval.map((area) => (
+                        <li key={area} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary" />
+                          {area}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-secondary mb-3 flex items-center gap-2">
+                      <MapPin className="w-5 h-5 text-primary" />
+                      St. Johns County
+                    </h3>
+                    <ul className="space-y-2 text-gray-600">
+                      {SERVICE_AREAS.stJohns.map((area) => (
+                        <li key={area} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary" />
+                          {area}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-secondary mb-3 flex items-center gap-2">
+                      <MapPin className="w-5 h-5 text-primary" />
+                      Clay County
+                    </h3>
+                    <ul className="space-y-2 text-gray-600">
+                      {SERVICE_AREAS.clay.map((area) => (
+                        <li key={area} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary" />
+                          {area}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-secondary mb-3 flex items-center gap-2">
+                      <MapPin className="w-5 h-5 text-primary" />
+                      Nassau County
+                    </h3>
+                    <ul className="space-y-2 text-gray-600">
+                      {SERVICE_AREAS.nassau.map((area) => (
+                        <li key={area} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary" />
+                          {area}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </div>
+
+                <div className="mt-8">
+                  <Link
+                    href="/locations"
+                    className="inline-flex items-center gap-2 bg-primary hover:bg-primary/90 text-white font-bold px-6 py-3 rounded-xl transition-all"
+                  >
+                    View All Service Areas
+                    <ArrowRight className="w-4 h-4" />
+                  </Link>
+                </div>
+              </div>
+
+              {/* Right - Map */}
+              <div className="bg-gray-100 rounded-3xl overflow-hidden h-[500px] lg:h-[600px]">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d441050.7825570982!2d-81.97979073!3d30.3321838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e5b716f1ceafeb%3A0xc4cd7d3896fcc7e2!2sJacksonville%2C%20FL!5e0!3m2!1sen!2sus!4v1702900000000!5m2!1sen!2sus"
+                  width="100%"
+                  height="100%"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="904 Dumpster Service Area - Jacksonville FL"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 5: WHY CHOOSE US (Authority)
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-secondary relative overflow-hidden">
+          {/* Background Pattern */}
+          <div className="absolute inset-0 opacity-10">
+            <div className="absolute top-10 left-10 w-40 h-40 border border-white rounded-full" />
+            <div className="absolute bottom-10 right-10 w-60 h-60 border border-white rounded-full" />
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 border border-white rounded-full" />
+          </div>
+
+          <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Why Choose Us
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white mb-6">
+                The Local Difference
+              </h2>
+              <p className="text-white/60 text-lg max-w-2xl mx-auto">
+                We&apos;re not a broker or a national call center. We&apos;re your neighbors,
+                and we take pride in serving the Jacksonville community.
+              </p>
+            </div>
+
+            {/* Features Grid */}
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+              {[
+                {
+                  icon: DollarSign,
+                  title: 'No Hidden Fees',
+                  desc: 'Your quote includes everything: delivery, pickup, disposal, and rental period. What we quote is what you pay.',
+                },
+                {
+                  icon: Truck,
+                  title: 'Driveway-Friendly Trucks',
+                  desc: 'Our trucks are designed to protect your driveway. We use boards and take care placing your dumpster.',
+                },
+                {
+                  icon: Award,
+                  title: 'Locally Owned',
+                  desc: 'We live and work in Jacksonville. We\'re not a broker sending random trucks – we\'re your local dumpster experts.',
+                },
+                {
+                  icon: Zap,
+                  title: 'Same-Day Service',
+                  desc: 'Call before noon and get your dumpster the same day. We understand your project can\'t wait.',
+                },
+              ].map((item, i) => (
+                <div key={i} className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-white/10">
+                  <div className="w-14 h-14 bg-primary rounded-2xl flex items-center justify-center mb-6">
+                    <item.icon className="w-7 h-7 text-white" />
+                  </div>
+                  <h3 className="text-xl font-bold text-white mb-3">{item.title}</h3>
+                  <p className="text-white/60">{item.desc}</p>
+                </div>
+              ))}
+            </div>
+
+            {/* CTA */}
+            <div className="text-center mt-16">
+              <a
+                href={`tel:${BUSINESS.phoneRaw}`}
+                className="inline-flex items-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl shadow-primary/30 transition-all duration-300"
+              >
+                <Phone className="w-6 h-6" />
+                Call {BUSINESS.phone}
+              </a>
+              <p className="text-white/40 mt-4">Free quotes • No obligation • Fast response</p>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 6: FAQ (SEO + Schema)
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Common Questions
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Frequently Asked Questions
+              </h2>
+              <p className="text-gray-600 text-lg">
+                Everything you need to know about renting a dumpster in Jacksonville.
+              </p>
+            </div>
+
+            {/* FAQ Accordion */}
+            <FAQSection faqs={FAQ_DATA} />
+
+            {/* More Questions CTA */}
+            <div className="text-center mt-12">
+              <p className="text-gray-500 mb-4">Have more questions?</p>
+              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <Link
+                  href="/frequently-asked-questions"
+                  className="inline-flex items-center justify-center gap-2 text-primary font-bold hover:gap-3 transition-all"
+                >
+                  View All FAQs
+                  <ArrowRight className="w-5 h-5" />
+                </Link>
+                <span className="text-gray-300 hidden sm:block">|</span>
+                <a
+                  href={`tel:${BUSINESS.phoneRaw}`}
+                  className="inline-flex items-center justify-center gap-2 text-secondary font-bold"
+                >
+                  <Phone className="w-4 h-4" />
+                  Call Us: {BUSINESS.phone}
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 7: FINAL CTA
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-primary relative overflow-hidden">
+          {/* Background Pattern */}
+          <div className="absolute inset-0 opacity-20">
+            <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_30%_20%,white_0%,transparent_50%)]" />
+          </div>
+
+          <div className="relative max-w-4xl mx-auto px-4 lg:px-6 text-center">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white mb-6">
+              Ready to Get Started?
+            </h2>
+            <p className="text-white/80 text-xl mb-10 max-w-2xl mx-auto">
+              Call now for a free quote on dumpster rental in Jacksonville, FL.
+              Same-day delivery available!
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <a
+                href={`tel:${BUSINESS.phoneRaw}`}
+                className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
+              >
+                <Phone className="w-6 h-6" />
+                {BUSINESS.phone}
+              </a>
+              <Link
+                href="/contact-us"
+                className="inline-flex items-center justify-center gap-2 bg-transparent border-2 border-white text-white font-bold text-xl px-10 py-5 rounded-2xl hover:bg-white hover:text-primary transition-all duration-300"
+              >
+                Request Quote Online
+                <ArrowRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </section>
+      </div>
+    </>
+  )
+}
