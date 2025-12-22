@@ -8,7 +8,7 @@ import { generatePricingItemListSchema, generateBreadcrumbSchema } from '@/lib/s
 export const metadata: Metadata = {
   title: 'Dumpster Rental Prices Jacksonville FL',
   description:
-    'Dumpster rental prices in Jacksonville FL. 10-yard from $275, 15-yard from $350, 20-yard from $425. No hidden fees.',
+    'Dumpster rental prices in Jacksonville FL. 10-yard from $275, 15-yard from $325, 20-yard from $375. 5-day rental included. No hidden fees.',
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental-pricing-jacksonville',
   },

@@ -84,7 +84,7 @@ export const SERVICES: ServicePage[] = [
     type: 'dumpster-size',
     title: '15 Yard Dumpster Rental',
     metaTitle: '15 Yard Dumpster Rental Jacksonville FL',
-    metaDescription: 'Rent a 15 yard dumpster in Jacksonville FL from $350. Ideal for roofing projects and kitchen remodels.',
+    metaDescription: 'Rent a 15 yard dumpster in Jacksonville FL from $325. Ideal for roofing projects and kitchen remodels.',
     keywords: [
       '15 yard dumpster',
       '15 yard dumpster rental',
@@ -124,7 +124,7 @@ export const SERVICES: ServicePage[] = [
     type: 'dumpster-size',
     title: '20 Yard Dumpster Rental',
     metaTitle: '20 Yard Dumpster Rental Jacksonville FL',
-    metaDescription: 'Rent a 20 yard dumpster in Jacksonville FL from $425. Perfect for large renovations and construction projects.',
+    metaDescription: 'Rent a 20 yard dumpster in Jacksonville FL from $375. Perfect for large renovations and construction projects.',
     keywords: [
       '20 yard dumpster',
       '20 yard dumpster rental',

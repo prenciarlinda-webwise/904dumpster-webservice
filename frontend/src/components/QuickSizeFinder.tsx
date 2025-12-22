@@ -77,12 +77,12 @@ const DUMPSTER_INFO: Record<string, { price: string; dimensions: string; capacit
     capacity: '3-4 pickup truck loads',
   },
   '15': {
-    price: '$350',
+    price: '$325',
     dimensions: "16' L × 8' W × 4' H",
     capacity: '5-6 pickup truck loads',
   },
   '20': {
-    price: '$425',
+    price: '$375',
     dimensions: "22' L × 8' W × 4.5' H",
     capacity: '7-8 pickup truck loads',
   },
@@ -145,7 +145,7 @@ export function QuickSizeFinder() {
             </div>
             <div className="flex items-center gap-2">
               <CheckCircle2 className="w-4 h-4" />
-              <span>7-day rental included</span>
+              <span>5-day rental included</span>
             </div>
           </div>
         </div>

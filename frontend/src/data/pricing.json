@@ -26,7 +26,7 @@
     "15-yard": {
       "size": "15",
       "name": "15 Yard Dumpster",
-      "basePrice": 350,
+      "basePrice": 325,
       "rentalDays": 5,
       "tonnageIncluded": 3,
       "additionalDayRate": 15,
@@ -49,7 +49,7 @@
     "20-yard": {
       "size": "20",
       "name": "20 Yard Dumpster",
-      "basePrice": 425,
+      "basePrice": 375,
       "rentalDays": 5,
       "tonnageIncluded": 4,
       "additionalDayRate": 15,

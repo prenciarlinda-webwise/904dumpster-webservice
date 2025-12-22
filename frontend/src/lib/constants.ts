@@ -9,7 +9,8 @@ export const BUSINESS = {
   address: 'Jacksonville, FL 32246',
   hours: {
     weekday: 'Mon-Fri 8AM-7PM',
-    weekend: 'Sat-Sun 8AM-5PM',
+    weekend: 'Sat 8AM-5PM',
+    sunday: 'Closed',
   },
 } as const
 
