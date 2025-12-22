@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { usePathname } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
 import { Menu, X, Phone, ChevronRight, MapPin, Wrench, BookOpen, ArrowRight } from 'lucide-react'
@@ -20,6 +21,11 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [activeMenu, setActiveMenu] = useState<string | null>(null)
   const [scrolled, setScrolled] = useState(false)
+  const pathname = usePathname()
+
+  // Only use transparent header on homepage
+  const isHomePage = pathname === '/'
+  const useTransparentHeader = isHomePage && !scrolled
 
   useEffect(() => {
     const handleScroll = () => {
@@ -52,35 +58,30 @@ export default function Header() {
       {/* Main Header */}
       <header
         className={`fixed top-0 left-0 right-0 z-40 transition-all duration-500 ${
-          scrolled
-            ? 'bg-white/95 backdrop-blur-md shadow-lg shadow-black/5'
-            : 'bg-transparent'
+          useTransparentHeader
+            ? 'bg-transparent'
+            : 'bg-white/95 backdrop-blur-md shadow-lg shadow-black/5'
         }`}
       >
-        {/* Top Bar - Desktop */}
-        <div
-          className={`hidden lg:block transition-all duration-500 overflow-hidden ${
-            scrolled ? 'max-h-0 opacity-0' : 'max-h-12 opacity-100'
-          }`}
-        >
-          <div className="bg-secondary/95 backdrop-blur-sm text-white py-2.5">
-            <div className="max-w-7xl mx-auto px-6 flex justify-between items-center text-sm">
-              <div className="flex items-center gap-2 text-gray-300">
-                <span className="inline-block w-2 h-2 bg-primary rounded-full animate-pulse" />
-                <span>{BUSINESS.hours.weekday}</span>
-                <span className="text-gray-500">|</span>
-                <span>{BUSINESS.hours.weekend}</span>
+        {/* Top Bar - Desktop (only on homepage, before scroll) */}
+        {isHomePage && (
+          <div
+            className={`hidden lg:block transition-all duration-500 overflow-hidden ${
+              scrolled ? 'max-h-0 opacity-0' : 'max-h-12 opacity-100'
+            }`}
+          >
+            <div className="bg-secondary/95 backdrop-blur-sm text-white py-2.5">
+              <div className="max-w-7xl mx-auto px-6 flex justify-center items-center text-sm">
+                <div className="flex items-center gap-2 text-gray-300">
+                  <span className="inline-block w-2 h-2 bg-primary rounded-full animate-pulse" />
+                  <span>{BUSINESS.hours.weekday}</span>
+                  <span className="text-gray-500">|</span>
+                  <span>{BUSINESS.hours.weekend}</span>
+                </div>
               </div>
-              <a
-                href={`tel:${BUSINESS.phoneRaw}`}
-                className="flex items-center gap-2 font-semibold text-white hover:text-primary transition-colors group"
-              >
-                <Phone className="w-4 h-4 group-hover:animate-bounce" />
-                {BUSINESS.phone}
-              </a>
             </div>
           </div>
-        </div>
+        )}
 
         {/* Main Navigation */}
         <nav className="max-w-7xl mx-auto px-4 lg:px-6">
@@ -89,7 +90,7 @@ export default function Header() {
             <Link href="/" className="flex-shrink-0">
               <Image
                 src="/images/904-dumpsters-logo.png"
-                alt="904 Dumpster"
+                alt="904 Dumpster - Dumpster Rental Jacksonville"
                 width={180}
                 height={50}
                 className="h-10 lg:h-12 w-auto"
@@ -103,19 +104,19 @@ export default function Header() {
                 <div
                   key={link.label}
                   className="relative group"
-                  onMouseEnter={() => (link.hasMegaMenu || link.hasDropdown) ? setActiveMenu(link.label) : null}
+                  onMouseEnter={() => ('hasMegaMenu' in link || 'hasDropdown' in link) ? setActiveMenu(link.label) : null}
                   onMouseLeave={() => setActiveMenu(null)}
                 >
                   <Link
                     href={link.href}
                     className={`flex items-center gap-1.5 px-4 py-2.5 font-medium transition-all duration-300 rounded-full ${
-                      scrolled
-                        ? 'text-secondary hover:text-primary hover:bg-primary/5'
-                        : 'text-white/90 hover:text-white hover:bg-white/10'
+                      useTransparentHeader
+                        ? 'text-white/90 hover:text-white hover:bg-white/10'
+                        : 'text-secondary hover:text-primary hover:bg-primary/5'
                     }`}
                   >
                     {link.label}
-                    {(link.hasMegaMenu || link.hasDropdown) && (
+                    {('hasMegaMenu' in link || 'hasDropdown' in link) && (
                       <ChevronRight
                         className={`w-4 h-4 transition-transform duration-300 ${
                           activeMenu === link.label ? 'rotate-90' : ''
@@ -358,7 +359,7 @@ export default function Header() {
             <button
               onClick={toggleMobileMenu}
               className={`lg:hidden p-2.5 rounded-xl transition-colors ${
-                scrolled ? 'text-secondary hover:bg-gray-100' : 'text-white hover:bg-white/10'
+                useTransparentHeader ? 'text-white hover:bg-white/10' : 'text-secondary hover:bg-gray-100'
               }`}
               aria-label="Toggle menu"
             >
@@ -392,7 +393,7 @@ export default function Header() {
           <div className="flex items-center justify-between p-6 border-b border-gray-100">
             <Image
               src="/images/904-dumpsters-logo.png"
-              alt="904 Dumpster"
+              alt="904 Dumpster - Dumpster Rental Jacksonville"
               width={140}
               height={40}
               className="h-8 w-auto"
@@ -410,7 +411,7 @@ export default function Header() {
             <nav className="p-4 space-y-1">
               {NAV_LINKS.map((link) => (
                 <div key={link.label}>
-                  {link.hasMegaMenu || link.hasDropdown ? (
+                  {'hasMegaMenu' in link || 'hasDropdown' in link ? (
                     <>
                       <button
                         onClick={() => toggleSubmenu(link.label)}
@@ -591,7 +592,7 @@ export default function Header() {
       </div>
 
       {/* Spacer for fixed header */}
-      <div className="h-16 lg:h-32" />
+      <div className={isHomePage ? 'h-16 lg:h-32' : 'h-16 lg:h-20'} />
     </>
   )
 }

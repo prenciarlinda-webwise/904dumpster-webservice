@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  904dumpster-frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: 904dumpster-frontend:latest
+    container_name: 904dumpster-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_TELEMETRY_DISABLED=1
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - 904dumpster-network
+
+networks:
+  904dumpster-network:
+    driver: bridge
