@@ -103,7 +103,7 @@ export default function Header() {
                 <div
                   key={link.label}
                   className="relative group"
-                  onMouseEnter={() => (link.hasMegaMenu || link.hasDropdown) ? setActiveMenu(link.label) : null}
+                  onMouseEnter={() => ('hasMegaMenu' in link || 'hasDropdown' in link) ? setActiveMenu(link.label) : null}
                   onMouseLeave={() => setActiveMenu(null)}
                 >
                   <Link
@@ -115,7 +115,7 @@ export default function Header() {
                     }`}
                   >
                     {link.label}
-                    {(link.hasMegaMenu || link.hasDropdown) && (
+                    {('hasMegaMenu' in link || 'hasDropdown' in link) && (
                       <ChevronRight
                         className={`w-4 h-4 transition-transform duration-300 ${
                           activeMenu === link.label ? 'rotate-90' : ''
@@ -410,7 +410,7 @@ export default function Header() {
             <nav className="p-4 space-y-1">
               {NAV_LINKS.map((link) => (
                 <div key={link.label}>
-                  {link.hasMegaMenu || link.hasDropdown ? (
+                  {('hasMegaMenu' in link || 'hasDropdown' in link) ? (
                     <>
                       <button
                         onClick={() => toggleSubmenu(link.label)}

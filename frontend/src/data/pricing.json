@@ -1,0 +1,66 @@
+{
+  "priceValidUntil": "2025-12-31",
+  "currency": "USD",
+  "dumpsters": {
+    "10-yard": {
+      "basePrice": 275,
+      "dimensions": {
+        "length": 12,
+        "width": 8,
+        "height": 3.5
+      },
+      "weightLimit": 4000,
+      "tonnageIncluded": 2,
+      "rentalDays": 5,
+      "truckLoadsEquivalent": "3-4",
+      "idealFor": [
+        "Garage cleanouts",
+        "Small renovations",
+        "Yard debris",
+        "Attic cleanouts"
+      ]
+    },
+    "15-yard": {
+      "basePrice": 350,
+      "dimensions": {
+        "length": 16,
+        "width": 8,
+        "height": 4
+      },
+      "weightLimit": 6000,
+      "tonnageIncluded": 3,
+      "rentalDays": 5,
+      "truckLoadsEquivalent": "5-6",
+      "idealFor": [
+        "Roofing projects",
+        "Kitchen remodels",
+        "Medium cleanouts",
+        "Deck removal"
+      ]
+    },
+    "20-yard": {
+      "basePrice": 425,
+      "dimensions": {
+        "length": 22,
+        "width": 8,
+        "height": 4.5
+      },
+      "weightLimit": 8000,
+      "tonnageIncluded": 4,
+      "rentalDays": 7,
+      "truckLoadsEquivalent": "7-8",
+      "idealFor": [
+        "Large renovations",
+        "Construction jobs",
+        "Estate cleanouts",
+        "Commercial projects"
+      ]
+    }
+  },
+  "additionalFees": {
+    "overweightPerTon": 75,
+    "extendedRentalPerDay": 15,
+    "deliverySameDaySurcharge": 0,
+    "prohibitedItemsFee": "Varies"
+  }
+}
