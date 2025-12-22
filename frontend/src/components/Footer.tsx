@@ -1,13 +1,65 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { Phone, Mail, MapPin, Clock, ArrowRight, ArrowUpRight } from 'lucide-react'
+import { Phone, Mail, MapPin, Clock, ArrowRight } from 'lucide-react'
 import {
   BUSINESS,
-  FOOTER_SERVICES,
-  FOOTER_LOCATIONS,
-  FOOTER_COMPANY,
   FOOTER_LEGAL,
 } from '@/lib/constants'
+
+// Complete sitemap structure
+const SITEMAP = {
+  dumpsterSizes: {
+    title: 'Dumpster Sizes',
+    links: [
+      { label: '10 Yard Dumpster', href: '/10-yard-dumpster-rental' },
+      { label: '15 Yard Dumpster', href: '/15-yard-dumpster-rental' },
+      { label: '20 Yard Dumpster', href: '/20-yard-dumpster-rental' },
+      { label: 'Size Guide', href: '/dumpster-size-guide' },
+    ],
+  },
+  services: {
+    title: 'Services',
+    links: [
+      { label: 'Residential Dumpster Rental', href: '/residential-dumpster-rental' },
+      { label: 'Commercial Dumpster Rental', href: '/commercial-dumpster-rental' },
+      { label: 'Construction Dumpster Rental', href: '/construction-dumpster-rental' },
+      { label: 'Concrete Disposal', href: '/concrete-disposal-dumpster' },
+      { label: 'Junk Removal', href: '/junk-removal-jacksonville' },
+      { label: 'Demolition Services', href: '/demolition-services-jacksonville' },
+    ],
+  },
+  locations: {
+    title: 'Service Areas',
+    links: [
+      { label: 'Jacksonville', href: '/' },
+      { label: 'St. Augustine', href: '/dumpster-rental-st-augustine-fl' },
+      { label: 'Ponte Vedra Beach', href: '/dumpster-rental-ponte-vedra-fl' },
+      { label: 'Jacksonville Beach', href: '/dumpster-rental-jacksonville-beach-fl' },
+      { label: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl' },
+      { label: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl' },
+      { label: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
+      { label: 'Middleburg', href: '/dumpster-rental-middleburg-fl' },
+    ],
+  },
+  resources: {
+    title: 'Resources',
+    links: [
+      { label: 'Blog', href: '/blog' },
+      { label: 'Pricing Guide', href: '/dumpster-rental-pricing-jacksonville' },
+      { label: 'Prohibited Items', href: '/rules/prohibited-items-list' },
+      { label: 'FAQ', href: '/frequently-asked-questions' },
+    ],
+  },
+  company: {
+    title: 'Company',
+    links: [
+      { label: 'About Us', href: '/about' },
+      { label: 'Contact Us', href: '/contact-us' },
+      { label: 'Privacy Policy', href: '/privacy-policy' },
+      { label: 'Terms of Service', href: '/terms-of-service' },
+    ],
+  },
+}
 
 export default function Footer() {
   const currentYear = new Date().getFullYear()
@@ -42,15 +94,15 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Main Footer */}
+      {/* Main Footer - Contact Info */}
       <div className="relative max-w-7xl mx-auto px-4 lg:px-6 py-16 lg:py-20">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-12 lg:gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8">
           {/* Company Info */}
           <div className="lg:col-span-4">
             <Link href="/" className="inline-block mb-6">
               <Image
                 src="/images/904-dumpsters-logo.png"
-                alt="904 Dumpster"
+                alt="904 Dumpster - Dumpster Rental Jacksonville"
                 width={180}
                 height={50}
                 className="h-12 w-auto brightness-0 invert"
@@ -97,60 +149,6 @@ export default function Footer() {
                 </div>
               </div>
             </div>
-          </div>
-
-          {/* Services */}
-          <div className="lg:col-span-2">
-            <h3 className="text-sm font-bold uppercase tracking-wider text-white/40 mb-6">Services</h3>
-            <ul className="space-y-3">
-              {FOOTER_SERVICES.map((link) => (
-                <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="group flex items-center gap-2 text-white/70 hover:text-primary transition-colors"
-                  >
-                    <ArrowRight className="w-4 h-4 opacity-0 -ml-6 group-hover:opacity-100 group-hover:ml-0 transition-all" />
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas */}
-          <div className="lg:col-span-3">
-            <h3 className="text-sm font-bold uppercase tracking-wider text-white/40 mb-6">Service Areas</h3>
-            <ul className="space-y-3">
-              {FOOTER_LOCATIONS.map((link) => (
-                <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="group flex items-center gap-2 text-white/70 hover:text-primary transition-colors"
-                  >
-                    <ArrowRight className="w-4 h-4 opacity-0 -ml-6 group-hover:opacity-100 group-hover:ml-0 transition-all" />
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Company */}
-          <div className="lg:col-span-3">
-            <h3 className="text-sm font-bold uppercase tracking-wider text-white/40 mb-6">Company</h3>
-            <ul className="space-y-3">
-              {FOOTER_COMPANY.map((link) => (
-                <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="group flex items-center gap-2 text-white/70 hover:text-primary transition-colors"
-                  >
-                    <ArrowRight className="w-4 h-4 opacity-0 -ml-6 group-hover:opacity-100 group-hover:ml-0 transition-all" />
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
 
             {/* Location Badge */}
             <div className="mt-8 p-4 bg-white/5 rounded-xl border border-white/10">
@@ -161,6 +159,31 @@ export default function Footer() {
                   <div className="text-sm text-white/50 mt-1">Serving all of Northeast Florida</div>
                 </div>
               </div>
+            </div>
+          </div>
+
+          {/* Sitemap Grid */}
+          <div className="lg:col-span-8">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+              {Object.values(SITEMAP).map((section) => (
+                <div key={section.title}>
+                  <h3 className="text-sm font-bold uppercase tracking-wider text-white/40 mb-4">
+                    {section.title}
+                  </h3>
+                  <ul className="space-y-2">
+                    {section.links.map((link) => (
+                      <li key={link.href}>
+                        <Link
+                          href={link.href}
+                          className="text-sm text-white/70 hover:text-primary transition-colors"
+                        >
+                          {link.label}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
             </div>
           </div>
         </div>

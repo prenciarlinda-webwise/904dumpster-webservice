@@ -3,6 +3,11 @@ import { Roboto } from 'next/font/google'
 import '@/styles/globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import {
+  generateWebSiteSchema,
+  generateOrganizationSchema,
+  generateSiteNavigationSchema,
+} from '@/lib/schema'
 
 const roboto = Roboto({
   subsets: ['latin'],
@@ -14,8 +19,8 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://www.904dumpster.com'),
   title: {
-    default: '904 Dumpster Rental Jacksonville | Affordable Roll-Off Bins FL',
-    template: '%s | 904 Dumpster',
+    default: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
+    template: '%s - 904 Dumpster',
   },
   description:
     'Fast, local dumpster rental in Jacksonville & Northeast Florida. 10, 15, & 20 yard roll-off containers for home cleanouts, construction, and roofing. Book online!',
@@ -33,9 +38,9 @@ export const metadata: Metadata = {
     'roll off dumpster rental jacksonville fl',
     'affordable dumpster rental jacksonville fl',
   ],
-  authors: [{ name: '904 Dumpster' }],
-  creator: '904 Dumpster',
-  publisher: '904 Dumpster',
+  authors: [{ name: '904 Dumpster - Dumpster Rental Jacksonville' }],
+  creator: '904 Dumpster - Dumpster Rental Jacksonville',
+  publisher: '904 Dumpster - Dumpster Rental Jacksonville',
   formatDetection: {
     email: false,
     address: false,
@@ -45,10 +50,10 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://www.904dumpster.com',
-    siteName: '904 Dumpster',
-    title: '904 Dumpster Rental Jacksonville | Affordable Roll-Off Bins FL',
+    siteName: '904 Dumpster - Dumpster Rental Jacksonville',
+    title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description:
-      'Fast, local dumpster rental in Jacksonville & Northeast Florida. 10, 15, & 20 yard roll-off containers for home cleanouts, construction, and roofing.',
+      'Affordable dumpster rental in Jacksonville FL. 10, 15, & 20 yard roll-off containers. Same-day delivery available.',
     images: [
       {
         url: '/images/og-image.jpg',
@@ -60,9 +65,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '904 Dumpster Rental Jacksonville | Affordable Roll-Off Bins FL',
+    title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description:
-      'Fast, local dumpster rental in Jacksonville & NE Florida. 10, 15, & 20 yard roll-off containers. Book online!',
+      'Affordable dumpster rental in Jacksonville FL. Same-day delivery available.',
     images: ['/images/og-image.jpg'],
   },
   robots: {
@@ -77,121 +82,24 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    // Add your verification codes here
-    // google: 'your-google-verification-code',
+    // IMPORTANT: Add your Google Search Console verification code here
+    // Get this from GSC > Settings > Ownership verification > HTML tag
+    google: 'ADD_YOUR_GSC_VERIFICATION_CODE_HERE',
     // yandex: 'your-yandex-verification-code',
   },
+  // FIXED: Use relative canonical so each page gets its correct URL
+  // Before: hardcoded to homepage which prevented sub-pages from ranking
   alternates: {
-    canonical: 'https://www.904dumpster.com',
+    canonical: './',
   },
 }
 
-// JSON-LD Schema for Local Business
-const jsonLd = {
-  '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
-  '@id': 'https://www.904dumpster.com',
-  name: '904 Dumpster',
-  description:
-    'Professional dumpster rental and waste management services in Jacksonville, FL. Same-day delivery available for residential and commercial projects.',
-  url: 'https://www.904dumpster.com',
-  telephone: '(904) 240-5598',
-  email: 'info@904dumpster.com',
-  address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Jacksonville',
-    addressRegion: 'FL',
-    postalCode: '32246',
-    addressCountry: 'US',
-  },
-  geo: {
-    '@type': 'GeoCoordinates',
-    latitude: 30.3322,
-    longitude: -81.6557,
-  },
-  openingHoursSpecification: [
-    {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-      opens: '08:00',
-      closes: '19:00',
-    },
-    {
-      '@type': 'OpeningHoursSpecification',
-      dayOfWeek: ['Saturday', 'Sunday'],
-      opens: '08:00',
-      closes: '17:00',
-    },
-  ],
-  priceRange: '$$',
-  areaServed: {
-    '@type': 'GeoCircle',
-    geoMidpoint: {
-      '@type': 'GeoCoordinates',
-      latitude: 30.3322,
-      longitude: -81.6557,
-    },
-    geoRadius: '50000',
-  },
-  serviceArea: [
-    { '@type': 'City', name: 'Jacksonville', addressRegion: 'FL' },
-    { '@type': 'City', name: 'St. Augustine', addressRegion: 'FL' },
-    { '@type': 'City', name: 'Orange Park', addressRegion: 'FL' },
-    { '@type': 'City', name: 'Ponte Vedra Beach', addressRegion: 'FL' },
-    { '@type': 'City', name: 'Fernandina Beach', addressRegion: 'FL' },
-  ],
-  hasOfferCatalog: {
-    '@type': 'OfferCatalog',
-    name: 'Dumpster Rental Services',
-    itemListElement: [
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: '10 Yard Dumpster Rental',
-          description: 'Perfect for small home cleanouts and minor renovation projects',
-        },
-      },
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: '15 Yard Dumpster Rental',
-          description: 'Great for roofing projects and medium cleanouts',
-        },
-      },
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: '20 Yard Dumpster Rental',
-          description: 'Ideal for large renovation projects and construction jobs',
-        },
-      },
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: 'Junk Removal',
-          description: 'Full-service junk removal for residential and commercial properties',
-        },
-      },
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: 'Demolition Services',
-          description: 'Professional demolition services including permits and cleanup',
-        },
-      },
-    ],
-  },
-  sameAs: [
-    // Add social media URLs here
-    // 'https://www.facebook.com/904dumpster',
-    // 'https://www.instagram.com/904dumpster',
-  ],
-}
+// Global JSON-LD Schemas for rich results and AI indexing
+// Note: LocalBusiness is applied ONLY on Homepage (main office) and NOT globally
+// Location pages use Service schema with areaServed to avoid confusing Google
+const webSiteSchema = generateWebSiteSchema()
+const organizationSchema = generateOrganizationSchema()
+const siteNavigationSchema = generateSiteNavigationSchema()
 
 export default function RootLayout({
   children,
@@ -203,9 +111,20 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/images/904-dumpsters-logo.png" type="image/png" />
         <link rel="apple-touch-icon" href="/images/904-dumpsters-logo.png" />
+        {/* WebSite Schema - For sitelinks search box */}
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(webSiteSchema) }}
+        />
+        {/* Organization Schema - For knowledge panel */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        {/* SiteNavigation Schema - For AI indexing */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteNavigationSchema) }}
         />
       </head>
       <body className={roboto.className}>

@@ -1,66 +1,88 @@
 {
-  "priceValidUntil": "2025-12-31",
-  "currency": "USD",
   "dumpsters": {
     "10-yard": {
+      "size": "10",
+      "name": "10 Yard Dumpster",
       "basePrice": 275,
+      "rentalDays": 5,
+      "tonnageIncluded": 2,
+      "additionalDayRate": 15,
+      "overweightRate": 65,
       "dimensions": {
         "length": 12,
         "width": 8,
         "height": 3.5
       },
       "weightLimit": 4000,
-      "tonnageIncluded": 2,
-      "rentalDays": 5,
-      "truckLoadsEquivalent": "3-4",
-      "idealFor": [
+      "truckLoadsEquivalent": 3,
+      "description": "Perfect for small home cleanouts and minor renovation projects.",
+      "ideal": [
+        "Small home cleanouts",
         "Garage cleanouts",
-        "Small renovations",
-        "Yard debris",
-        "Attic cleanouts"
+        "Minor renovation projects",
+        "Small landscaping projects"
       ]
     },
     "15-yard": {
+      "size": "15",
+      "name": "15 Yard Dumpster",
       "basePrice": 350,
+      "rentalDays": 5,
+      "tonnageIncluded": 3,
+      "additionalDayRate": 15,
+      "overweightRate": 65,
       "dimensions": {
         "length": 16,
         "width": 8,
         "height": 4
       },
       "weightLimit": 6000,
-      "tonnageIncluded": 3,
-      "rentalDays": 5,
-      "truckLoadsEquivalent": "5-6",
-      "idealFor": [
+      "truckLoadsEquivalent": 5,
+      "description": "Great for roofing projects and medium-sized cleanouts.",
+      "ideal": [
         "Roofing projects",
-        "Kitchen remodels",
         "Medium cleanouts",
+        "Kitchen/bathroom remodels",
         "Deck removal"
       ]
     },
     "20-yard": {
+      "size": "20",
+      "name": "20 Yard Dumpster",
       "basePrice": 425,
+      "rentalDays": 5,
+      "tonnageIncluded": 4,
+      "additionalDayRate": 15,
+      "overweightRate": 65,
       "dimensions": {
         "length": 22,
         "width": 8,
         "height": 4.5
       },
       "weightLimit": 8000,
-      "tonnageIncluded": 4,
-      "rentalDays": 7,
-      "truckLoadsEquivalent": "7-8",
-      "idealFor": [
-        "Large renovations",
+      "truckLoadsEquivalent": 7,
+      "description": "Ideal for large renovation projects and construction jobs.",
+      "ideal": [
+        "Large renovation projects",
         "Construction jobs",
         "Estate cleanouts",
         "Commercial projects"
       ]
     }
   },
-  "additionalFees": {
-    "overweightPerTon": 75,
-    "extendedRentalPerDay": 15,
-    "deliverySameDaySurcharge": 0,
-    "prohibitedItemsFee": "Varies"
-  }
+  "junkRemoval": {
+    "quarterTruck": 150,
+    "halfTruck": 275,
+    "fullTruck": 450,
+    "minimumCharge": 150
+  },
+  "demolition": {
+    "shedOutbuilding": { "from": 500, "description": "Shed & outbuilding removal" },
+    "deckPatio": { "from": 400, "description": "Deck and patio demolition" },
+    "pool": { "from": 2500, "description": "Above-ground pool removal" },
+    "interior": { "from": 300, "description": "Interior demolition per room" },
+    "fence": { "from": 200, "description": "Fence removal" },
+    "concrete": { "from": 400, "description": "Concrete slab removal" }
+  },
+  "priceValidUntil": "2025-12-31"
 }

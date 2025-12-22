@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import Script from 'next/script'
 import {
   Phone,
   ArrowRight,
@@ -56,6 +57,7 @@ export function ServicePageTemplate({
               src={heroImage}
               alt={title}
               fill
+              priority
               className="object-cover opacity-20"
             />
           </div>
@@ -99,6 +101,7 @@ export function ServicePageTemplate({
         </div>
       </section>
 
+      {/* Google Reviews - Compact */}
       {/* Features & Benefits */}
       <section className="py-20 lg:py-28 bg-white">
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
@@ -231,7 +234,7 @@ export function ServicePageTemplate({
               {DUMPSTER_SIZES.map((dumpster) => (
                 <Link
                   key={dumpster.size}
-                  href={`/services/${dumpster.slug}`}
+                  href={dumpster.href}
                   className="group bg-white rounded-2xl p-6 shadow-lg shadow-black/5 hover:shadow-xl hover:-translate-y-1 transition-all"
                 >
                   <div className="text-4xl font-black text-primary mb-2">
