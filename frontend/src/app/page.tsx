@@ -300,11 +300,11 @@ export default function HomePage() {
                 {/* CTA Buttons - Mobile */}
                 <div className="flex flex-col sm:flex-row gap-4 lg:hidden">
                   <a
-                    href={`tel:${BUSINESS.phoneRaw}`}
+                    href="#sizes"
                     className="bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-5 rounded-2xl flex items-center justify-center gap-3 shadow-2xl shadow-primary/30 transition-all"
                   >
-                    <Phone className="w-5 h-5" />
-                    Call {BUSINESS.phone}
+                    <Truck className="w-5 h-5" />
+                    View Our Dumpster Sizes
                   </a>
                 </div>
               </div>
@@ -427,7 +427,7 @@ export default function HomePage() {
                   size: '10',
                   name: '10 Yard Dumpster',
                   dimensions: "12' L × 8' W × 3.5' H",
-                  bestFor: ['Small Cleanouts', 'Concrete/Dirt', 'Single Room Reno'],
+                  bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
                   price: 'From $275',
                   popular: false,
                 },

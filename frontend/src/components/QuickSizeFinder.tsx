@@ -25,8 +25,8 @@ const PROJECT_TYPES = [
     icon: Home,
     label: 'Home Cleanout',
     description: 'Garage, attic, or basement',
-    recommended: '10',
-    alt: '15',
+    recommended: '15',
+    alt: '20',
   },
   {
     id: 'renovation',
@@ -57,16 +57,16 @@ const PROJECT_TYPES = [
     icon: TreePine,
     label: 'Yard Waste',
     description: 'Landscaping & tree debris',
-    recommended: '10',
-    alt: '15',
+    recommended: '15',
+    alt: '20',
   },
   {
     id: 'junk',
     icon: Trash2,
     label: 'Junk Removal',
     description: 'General debris & trash',
-    recommended: '10',
-    alt: '15',
+    recommended: '15',
+    alt: '20',
   },
 ]
 
@@ -153,7 +153,12 @@ export function QuickSizeFinder() {
         {/* Alternative Size */}
         <p className="text-center text-gray-500 text-sm mb-4">
           Need more space? Consider our{' '}
-          <span className="font-semibold text-primary">{project.alt}-yard</span> option
+          <a
+            href={`/${project.alt}-yard-dumpster-rental`}
+            className="font-semibold text-primary hover:underline"
+          >
+            {project.alt}-yard option
+          </a>
         </p>
 
         {/* CTAs */}
@@ -232,7 +237,7 @@ export function QuickSizeFinder() {
           <Shield className="w-4 h-4" /> Licensed
         </span>
         <span className="flex items-center gap-1">
-          <Clock className="w-4 h-4" /> 7 Days/Week
+          <Clock className="w-4 h-4" /> 6 Days/Week
         </span>
         <span className="flex items-center gap-1">
           <Truck className="w-4 h-4" /> Same-Day
