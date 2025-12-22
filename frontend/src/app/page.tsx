@@ -36,12 +36,12 @@ const FAQ_DATA = [
   {
     question: 'How much does dumpster rental cost in Jacksonville?',
     answer:
-      'Dumpster rental prices in Jacksonville typically range from $275-$550 depending on the size. Our 10-yard dumpster starts at $275, 15-yard at $350, and 20-yard at $425. All prices include delivery, pickup, and disposal with no hidden fees.',
+      'Dumpster rental prices in Jacksonville typically range from $275-$375 depending on the size. Our 10-yard dumpster starts at $275, 15-yard at $325, and 20-yard at $375. All prices include delivery, pickup, and disposal with no hidden fees.',
   },
   {
     question: 'How long can I keep the dumpster?',
     answer:
-      'Our standard rental period is 7-14 days, which is included in your quote. Need more time? Just give us a call and we can extend your rental at a daily rate.',
+      'Our standard rental period is 5 days, which is included in your quote. Need more time? Just give us a call and we can extend your rental at $15 per additional day.',
   },
   {
     question: 'What size dumpster do I need?',
@@ -415,7 +415,7 @@ export default function HomePage() {
                 Choose Your Dumpster Size
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                All prices include delivery, pickup, disposal, and a 7-day rental period.
+                All prices include delivery, pickup, disposal, and a 5-day rental period.
                 No hidden fees, ever.
               </p>
             </div>
@@ -436,7 +436,7 @@ export default function HomePage() {
                   name: '15 Yard Dumpster',
                   dimensions: "16' L × 8' W × 4' H",
                   bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
-                  price: 'From $350',
+                  price: 'From $325',
                   popular: true,
                 },
                 {
@@ -444,7 +444,7 @@ export default function HomePage() {
                   name: '20 Yard Dumpster',
                   dimensions: "22' L × 8' W × 4.5' H",
                   bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
-                  price: 'From $425',
+                  price: 'From $375',
                   popular: false,
                 },
               ].map((dumpster, index) => (
@@ -523,7 +523,7 @@ export default function HomePage() {
             <div className="text-center mt-12">
               <p className="text-gray-500 mb-4">Not sure which size you need?</p>
               <Link
-                href="/services/dumpster-size-guide"
+                href="/dumpster-size-guide"
                 className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
               >
                 View Our Complete Size Guide

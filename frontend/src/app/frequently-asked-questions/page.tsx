@@ -75,7 +75,7 @@ const faqs = [
       {
         question: 'How much does it cost to rent a dumpster?',
         answer:
-          'Our pricing starts at $275 for a 10-yard dumpster, $350 for a 15-yard, and $425 for a 20-yard. All prices include delivery, pickup, and disposal up to the included weight limit. There are no hidden fees.',
+          'Our pricing starts at $275 for a 10-yard dumpster, $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, and a 5-day rental. Additional days are $15/day. There are no hidden fees.',
       },
       {
         question: 'What is included in the rental price?',
