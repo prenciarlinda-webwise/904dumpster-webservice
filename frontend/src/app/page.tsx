@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import Script from 'next/script'
 import {
   Phone,
   Truck,
@@ -19,7 +20,8 @@ import {
 } from 'lucide-react'
 import { BUSINESS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
-import { ZipForm } from '@/components/ZipForm'
+import { QuickSizeFinder } from '@/components/QuickSizeFinder'
+import { GoogleReviews } from '@/components/GoogleReviews'
 
 // Service Areas for Geo Section
 const SERVICE_AREAS = {
@@ -59,6 +61,8 @@ const FAQ_DATA = [
 ]
 
 // JSON-LD Schemas
+
+// FAQ Schema for rich results
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
@@ -72,11 +76,31 @@ const faqSchema = {
   })),
 }
 
-const reviewSchema = {
+// LocalBusiness Schema - ONLY on Homepage (main office in Jacksonville)
+// This is the main business location - location pages use Service schema instead
+// STRATEGY: Emphasize "904 Area Code" and "Locally Owned" to beat national brokers
+const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
-  name: '904 Dumpster',
+  '@id': 'https://www.904dumpster.com/#localbusiness',
+  // IMPORTANT: Match GBP name exactly for Local Pack ranking
+  name: '904 Dumpster - Dumpster Rental Jacksonville',
+  // BROKER KILLER: Emphasize local ownership - Google's Helpful Content update prioritizes local expertise
+  description: '904 Dumpster is a locally owned and operated dumpster rental company serving the 904 area code - Jacksonville and Northeast Florida. Not a broker or national call center. Same-day delivery, transparent pricing, and real local service from your neighbors.',
+  alternateName: '904 Dumpster',
+  slogan: 'Your Local 904 Dumpster Rental - Not a Broker, Just Your Neighbors',
+  url: 'https://www.904dumpster.com',
+  telephone: BUSINESS.phone,
+  email: BUSINESS.email,
   image: 'https://www.904dumpster.com/images/og-image.jpg',
+  logo: 'https://www.904dumpster.com/images/904-dumpsters-logo.png',
+  // Social proof - tells Google these are all the same entity
+  sameAs: [
+    'https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/',
+    'https://www.yelp.com/biz/904-dumpsters-jacksonville',
+    'https://www.instagram.com/904dumpsters/',
+    'https://www.tiktok.com/@904dumpsters',
+  ],
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Jacksonville',
@@ -84,10 +108,30 @@ const reviewSchema = {
     postalCode: '32246',
     addressCountry: 'US',
   },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 30.3322,
+    longitude: -81.6557,
+  },
+  openingHoursSpecification: [
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+      opens: '08:00',
+      closes: '19:00',
+    },
+    {
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: ['Saturday', 'Sunday'],
+      opens: '08:00',
+      closes: '17:00',
+    },
+  ],
+  priceRange: '$$',
   aggregateRating: {
     '@type': 'AggregateRating',
-    ratingValue: '4.9',
-    reviewCount: '523',
+    ratingValue: '5.0',
+    reviewCount: '143',
     bestRating: '5',
     worstRating: '1',
   },
@@ -105,19 +149,86 @@ const reviewSchema = {
       reviewBody: 'Used them for my kitchen renovation. No hidden fees, easy scheduling. Highly recommend 904 Dumpster!',
     },
   ],
+  // Local expertise signals for Google's Helpful Content update
+  knowsAbout: [
+    'Jacksonville dumpster rental',
+    'Northeast Florida waste disposal',
+    'Duval County construction debris removal',
+    'St. Johns County dumpster service',
+    'Clay County roll-off containers',
+    '904 area code local services',
+    // Additional services for keyword ranking
+    'Junk removal Jacksonville FL',
+    'Demolition services Jacksonville',
+    'Construction debris hauling Jacksonville',
+    'Estate cleanout services Northeast Florida',
+    'Roofing debris removal Jacksonville',
+  ],
+  // Additional local business properties
+  foundingLocation: {
+    '@type': 'Place',
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: 'Jacksonville',
+      addressRegion: 'FL',
+      addressCountry: 'US',
+    },
+  },
+  areaServed: [
+    { '@type': 'City', name: 'Jacksonville', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'St. Augustine', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'Orange Park', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'Ponte Vedra Beach', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'Jacksonville Beach', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'Atlantic Beach', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'Neptune Beach', containedInPlace: { '@type': 'State', name: 'Florida' } },
+    { '@type': 'City', name: 'Middleburg', containedInPlace: { '@type': 'State', name: 'Florida' } },
+  ],
+  hasOfferCatalog: {
+    '@type': 'OfferCatalog',
+    name: 'Dumpster Rental Services',
+    itemListElement: [
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: '10 Yard Dumpster Rental',
+          url: 'https://www.904dumpster.com/10-yard-dumpster-rental',
+        },
+      },
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: '15 Yard Dumpster Rental',
+          url: 'https://www.904dumpster.com/15-yard-dumpster-rental',
+        },
+      },
+      {
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: '20 Yard Dumpster Rental',
+          url: 'https://www.904dumpster.com/20-yard-dumpster-rental',
+        },
+      },
+    ],
+  },
 }
 
 export default function HomePage() {
   return (
     <>
       {/* JSON-LD Schemas */}
+      {/* LocalBusiness Schema - Main office in Jacksonville (NOT applied globally) */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }}
+      />
+      {/* FAQ Schema for rich results */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewSchema) }}
       />
 
       <div className="min-h-screen -mt-16 lg:-mt-32">
@@ -154,7 +265,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <span className="text-white/90 text-sm font-medium">
-                    Over 500+ 5-Star Reviews in NE Florida
+                    143 Five-Star Google Reviews
                   </span>
                 </div>
 
@@ -198,8 +309,8 @@ export default function HomePage() {
                 </div>
               </div>
 
-              {/* Right - Quick Quote Form */}
-              <ZipForm />
+              {/* Right - Quick Size Finder */}
+              <QuickSizeFinder />
             </div>
           </div>
 
@@ -286,7 +397,12 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 3: SIZE SELECTOR (Visual & Transactional)
+            SECTION 3: GOOGLE REVIEWS (Social Proof)
+        ============================================ */}
+        <GoogleReviews />
+
+        {/* ============================================
+            SECTION 4: SIZE SELECTOR (Visual & Transactional)
         ============================================ */}
         <section id="sizes" className="py-20 lg:py-28 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4 lg:px-6">
@@ -387,14 +503,15 @@ export default function HomePage() {
                     </div>
 
                     <a
-                      href={`tel:${BUSINESS.phoneRaw}`}
+                      href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-colors ${
                         dumpster.popular
                           ? 'bg-primary hover:bg-primary/90 text-white'
                           : 'bg-secondary hover:bg-primary text-white'
                       }`}
                     >
-                      <Phone className="w-4 h-4" />
                       Rent {dumpster.size} Yard Bin
                     </a>
                   </div>
@@ -417,9 +534,9 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 4: LOCAL SERVICE AREA "GEO-SILO"
+            SECTION 5: LOCAL SERVICE AREA "GEO-SILO"
         ============================================ */}
-        <section className="py-20 lg:py-28 bg-white">
+        <section className="py-20 lg:py-28 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4 lg:px-6">
             <div className="grid lg:grid-cols-2 gap-12 items-start">
               {/* Left - Content */}
@@ -507,6 +624,16 @@ export default function HomePage() {
               </div>
 
               {/* Right - Map */}
+              {/*
+                IMPORTANT: Replace this placeholder with your actual Google Business Profile embed URL!
+                Steps:
+                1. Go to Google Maps and search for your business (or create GMB listing first)
+                2. Click "Share" > "Embed a map"
+                3. Copy the src URL from the iframe code
+                4. Paste it below
+
+                Having a generic Jacksonville map (instead of your business) sends negative quality signals to Google.
+              */}
               <div className="bg-gray-100 rounded-3xl overflow-hidden h-[500px] lg:h-[600px]">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d441050.7825570982!2d-81.97979073!3d30.3321838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e5b716f1ceafeb%3A0xc4cd7d3896fcc7e2!2sJacksonville%2C%20FL!5e0!3m2!1sen!2sus!4v1702900000000!5m2!1sen!2sus"
@@ -524,7 +651,7 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 5: WHY CHOOSE US (Authority)
+            SECTION 6: WHY CHOOSE US (Authority)
         ============================================ */}
         <section className="py-20 lg:py-28 bg-secondary relative overflow-hidden">
           {/* Background Pattern */}
@@ -598,7 +725,7 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 6: FAQ (SEO + Schema)
+            SECTION 7: FAQ (SEO + Schema)
         ============================================ */}
         <section className="py-20 lg:py-28 bg-gray-50">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
@@ -643,7 +770,7 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 7: FINAL CTA
+            SECTION 8: FINAL CTA
         ============================================ */}
         <section className="py-20 lg:py-28 bg-primary relative overflow-hidden">
           {/* Background Pattern */}
