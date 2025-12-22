@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  # ===========================================
+  # Frontend - Next.js
+  # ===========================================
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: 904dumpster-frontend:latest
+    container_name: 904dumpster-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_TELEMETRY_DISABLED=1
+    depends_on:
+      - backend
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - web
+
+  # ===========================================
+  # Backend - Django API
+  # ===========================================
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: 904dumpster-backend:latest
+    container_name: 904dumpster-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=False
+      - SECRET_KEY=${SECRET_KEY:-change-this-secret-key-in-production}
+      - ALLOWED_HOSTS=localhost,127.0.0.1,backend,904dumpster.com,www.904dumpster.com
+      - CORS_ALLOWED_ORIGINS=http://localhost:3000,https://904dumpster.com,https://www.904dumpster.com
+      - EMAIL_HOST=${EMAIL_HOST:-smtp.hostinger.com}
+      - EMAIL_PORT=${EMAIL_PORT:-465}
+      - EMAIL_HOST_USER=${EMAIL_HOST_USER}
+      - EMAIL_HOST_PASSWORD=${EMAIL_HOST_PASSWORD}
+      - EMAIL_USE_SSL=True
+      - NOTIFICATION_EMAILS=${NOTIFICATION_EMAILS}
+      - MARKETING_EMAIL=${MARKETING_EMAIL}
+      - RECAPTCHA_SITE_KEY=${RECAPTCHA_SITE_KEY}
+      - RECAPTCHA_SECRET_KEY=${RECAPTCHA_SECRET_KEY}
+    volumes:
+      - backend_data:/app/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health/')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - web
+
+volumes:
+  backend_data:
+
+networks:
+  web:
+    driver: bridge
