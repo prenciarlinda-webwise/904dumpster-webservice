@@ -159,7 +159,7 @@ export function ServicePageTemplate({
                 <Clock className="w-7 h-7 text-primary" />
               </div>
               <div>
-                <div className="font-bold text-secondary">7-14 Day</div>
+                <div className="font-bold text-secondary">5-Day</div>
                 <div className="text-gray-500 text-sm">Rental Period</div>
               </div>
             </div>

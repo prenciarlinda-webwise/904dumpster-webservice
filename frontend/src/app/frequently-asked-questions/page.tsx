@@ -55,12 +55,13 @@ const faqs = [
       {
         question: 'What are the dimensions of your dumpsters?',
         answer:
-          'Our 10-yard dumpster is 12 feet long x 8 feet wide x 3.5 feet high. The 15-yard is 16 feet x 8 feet x 4 feet. The 20-yard is 22 feet x 8 feet x 4.5 feet. All dumpsters are 8 feet wide to fit in standard driveways.',
+          'Our 10-yard dumpster is 12 feet long x 7.5 feet wide x 3.6 feet high. The 15-yard is 14 feet x 7.5 feet x 4.5 feet. The 20-yard is 14 feet x 7.5 feet x 5.8 feet. All dumpsters are 7.5 feet wide to fit in standard driveways.',
       },
       {
         question: 'How much weight can I put in the dumpster?',
         answer:
-          'Weight limits vary by size: 10-yard holds up to 2 tons (4,000 lbs), 15-yard holds up to 3 tons (6,000 lbs), and 20-yard holds up to 4 tons (8,000 lbs). Heavy materials like concrete can reach weight limits before filling the container.',
+          'Weight limits vary by size: 10-yard holds up to 1.5 tons, 15-yard holds up to 2 tons, and 20-yard holds up to 2 tons. Heavy materials like concrete can reach weight' +
+            ' limits before filling the container.',
       },
       {
         question: 'What if I fill the dumpster before my rental period ends?',

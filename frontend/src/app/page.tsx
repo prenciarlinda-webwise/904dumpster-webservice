@@ -426,69 +426,92 @@ export default function HomePage() {
                 {
                   size: '10',
                   name: '10 Yard Dumpster',
-                  dimensions: "12' L × 8' W × 3.5' H",
+                  dimensions: "12' L × 7.5' W × 3.6' H",
+                  tons: '1.5',
                   bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
-                  price: 'From $275',
+                  price: '$275',
                   popular: false,
+                  image: '/images/10 Yard Dumpster.avif',
                 },
                 {
                   size: '15',
                   name: '15 Yard Dumpster',
-                  dimensions: "16' L × 8' W × 4' H",
+                  dimensions: "14' L × 7.5' W × 4.5' H",
+                  tons: '2',
                   bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
-                  price: 'From $325',
-                  popular: true,
+                  price: '$325',
+                  popular: false,
+                  image: '/images/15 yard dumpster.avif',
                 },
                 {
                   size: '20',
                   name: '20 Yard Dumpster',
-                  dimensions: "22' L × 8' W × 4.5' H",
+                  dimensions: "14' L × 7.5' W × 5.8' H",
+                  tons: '2',
                   bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
-                  price: 'From $375',
-                  popular: false,
+                  price: '$375',
+                  popular: true,
+                  image: '/images/20 yard dumpster.avif',
                 },
-              ].map((dumpster, index) => (
+              ].map((dumpster) => (
                 <div
                   key={dumpster.size}
-                  className={`relative bg-white rounded-3xl overflow-hidden shadow-xl shadow-black/5 hover:shadow-2xl transition-all duration-500 ${
-                    dumpster.popular ? 'ring-2 ring-primary' : ''
+                  className={`relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 ${
+                    dumpster.popular ? 'border-2 border-green-600' : 'border border-green-500'
                   }`}
                 >
+
                   {/* Popular Badge */}
                   {dumpster.popular && (
-                    <div className="absolute top-4 right-4 bg-primary text-white text-xs font-bold px-3 py-1 rounded-full z-10">
+                    <div className="absolute top-6 right-4 bg-primary text-white text-xs font-bold px-3 py-1.5 rounded-full z-10 shadow-lg">
                       Most Popular
                     </div>
                   )}
 
-                  {/* Image */}
-                  <div className="relative h-48 overflow-hidden bg-gradient-to-br from-gray-100 to-gray-200">
+                  {/* Image - White background */}
+                  <div className="bg-white p-6 pb-4">
                     <Image
-                      src={`/images/${dumpster.size}-yard-dumpster.jpg`}
+                      src={dumpster.image}
                       alt={`${dumpster.name} Rental Jacksonville FL`}
-                      fill
-                      className="object-cover"
+                      width={400}
+                      height={280}
+                      className="w-full h-auto"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-                    <div className="absolute bottom-4 left-4">
-                      <span className="text-4xl font-black text-white">{dumpster.size}</span>
-                      <span className="text-white/80 ml-1">yard</span>
-                    </div>
                   </div>
 
                   {/* Content */}
-                  <div className="p-8">
-                    <div className="text-sm text-gray-500 mb-4">
-                      <strong>Dimensions:</strong> {dumpster.dimensions}
+                  <div className="p-6 pt-2">
+                    {/* Size & Price Header */}
+                    <div className="flex items-center justify-between mb-4">
+                      <div>
+                        <span className="text-4xl font-black text-secondary">{dumpster.size}</span>
+                        <span className="text-gray-400 text-lg ml-1">yard</span>
+                      </div>
+                      <div className="text-right">
+                        <div className="text-2xl font-black text-primary">{dumpster.price}</div>
+                        <div className="text-xs text-gray-400">5-day rental</div>
+                      </div>
                     </div>
 
-                    <div className="mb-6">
-                      <div className="text-sm font-semibold text-secondary mb-3">Best For:</div>
+                    {/* Specs Grid */}
+                    <div className="grid grid-cols-2 gap-3 mb-5 p-4 bg-gray-50 rounded-xl">
+                      <div>
+                        <div className="text-xs text-gray-400 uppercase tracking-wide">Dimensions</div>
+                        <div className="text-sm font-semibold text-secondary">{dumpster.dimensions}</div>
+                      </div>
+                      <div>
+                        <div className="text-xs text-gray-400 uppercase tracking-wide">Weight Included</div>
+                        <div className="text-sm font-semibold text-secondary">{dumpster.tons} tons</div>
+                      </div>
+                    </div>
+
+                    {/* Best For Tags */}
+                    <div className="mb-5">
                       <div className="flex flex-wrap gap-2">
                         {dumpster.bestFor.map((item, i) => (
                           <span
                             key={i}
-                            className="bg-primary/10 text-primary text-sm px-3 py-1 rounded-full font-medium"
+                            className="bg-primary/10 text-primary text-xs px-3 py-1.5 rounded-full font-medium"
                           >
                             {item}
                           </span>
@@ -496,23 +519,17 @@ export default function HomePage() {
                       </div>
                     </div>
 
-                    <div className="flex items-end justify-between mb-6">
-                      <div>
-                        <span className="text-3xl font-black text-secondary">{dumpster.price}</span>
-                      </div>
-                    </div>
-
                     <a
                       href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-colors ${
+                      className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-all duration-300 ${
                         dumpster.popular
-                          ? 'bg-primary hover:bg-primary/90 text-white'
+                          ? 'bg-primary hover:bg-primary/90 text-white shadow-lg shadow-primary/30'
                           : 'bg-secondary hover:bg-primary text-white'
                       }`}
                     >
-                      Rent {dumpster.size} Yard Bin
+                      Rent Now
                     </a>
                   </div>
                 </div>
