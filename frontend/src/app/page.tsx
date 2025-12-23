@@ -323,7 +323,174 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 2: PROBLEM-SOLVER GRID (Internal Linking)
+            SECTION 2: SIZE SELECTOR (Visual & Transactional)
+        ============================================ */}
+        <section id="sizes" className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Roll-Off Dumpster Sizes
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Choose Your Dumpster Size
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                All prices include delivery, pickup, disposal, and a 5-day rental period.
+                No hidden fees, ever.
+              </p>
+            </div>
+
+            {/* Size Cards */}
+            <div className="grid md:grid-cols-3 gap-8">
+              {[
+                {
+                  size: '10',
+                  name: '10 Yard Dumpster',
+                  dimensions: "12' L × 7.5' W × 3.6' H",
+                  tons: '1.5',
+                  bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
+                  price: '$275',
+                  popular: false,
+                  image: '/images/10 Yard Dumpster.avif',
+                  href: '/10-yard-dumpster-rental',
+                },
+                {
+                  size: '15',
+                  name: '15 Yard Dumpster',
+                  dimensions: "14' L × 7.5' W × 4.5' H",
+                  tons: '2',
+                  bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
+                  price: '$325',
+                  popular: false,
+                  image: '/images/15 yard dumpster.avif',
+                  href: '/15-yard-dumpster-rental',
+                },
+                {
+                  size: '20',
+                  name: '20 Yard Dumpster',
+                  dimensions: "14' L × 7.5' W × 5.8' H",
+                  tons: '2',
+                  bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
+                  price: '$375',
+                  popular: true,
+                  image: '/images/20 yard dumpster.avif',
+                  href: '/20-yard-dumpster-rental',
+                },
+              ].map((dumpster) => (
+                <div
+                  key={dumpster.size}
+                  className={`relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 ${
+                    dumpster.popular ? 'border-2 border-green-600' : 'border border-green-500'
+                  }`}
+                >
+
+                  {/* Popular Badge */}
+                  {dumpster.popular && (
+                    <div className="absolute top-6 right-4 bg-primary text-white text-xs font-bold px-3 py-1.5 rounded-full z-10 shadow-lg">
+                      Most Popular
+                    </div>
+                  )}
+
+                  {/* Image - White background */}
+                  <div className="bg-white p-6 pb-4">
+                    <Image
+                      src={dumpster.image}
+                      alt={`${dumpster.name} Rental Jacksonville FL`}
+                      width={400}
+                      height={280}
+                      className="w-full h-auto"
+                    />
+                  </div>
+
+                  {/* Content */}
+                  <div className="p-6 pt-2">
+                    {/* Size & Price Header */}
+                    <div className="flex items-center justify-between mb-4">
+                      <div>
+                        <span className="text-4xl font-black text-secondary">{dumpster.size}</span>
+                        <span className="text-gray-400 text-lg ml-1">yard</span>
+                      </div>
+                      <div className="text-right">
+                        <div className="text-2xl font-black text-primary">{dumpster.price}</div>
+                        <div className="text-xs text-gray-400">5-day rental</div>
+                      </div>
+                    </div>
+
+                    {/* Specs Grid */}
+                    <div className="grid grid-cols-2 gap-3 mb-5 p-4 bg-gray-50 rounded-xl">
+                      <div>
+                        <div className="text-xs text-gray-400 uppercase tracking-wide">Dimensions</div>
+                        <div className="text-sm font-semibold text-secondary">{dumpster.dimensions}</div>
+                      </div>
+                      <div>
+                        <div className="text-xs text-gray-400 uppercase tracking-wide">Weight Included</div>
+                        <div className="text-sm font-semibold text-secondary">{dumpster.tons} tons</div>
+                      </div>
+                    </div>
+
+                    {/* Best For Tags */}
+                    <div className="mb-5">
+                      <div className="flex flex-wrap gap-2">
+                        {dumpster.bestFor.map((item, i) => (
+                          <span
+                            key={i}
+                            className="bg-primary/10 text-primary text-xs px-3 py-1.5 rounded-full font-medium"
+                          >
+                            {item}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+
+                    {/* CTA Buttons */}
+                    <div className="space-y-2">
+                      <a
+                        href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-all duration-300 ${
+                          dumpster.popular
+                            ? 'bg-primary hover:bg-primary/90 text-white shadow-lg shadow-primary/30'
+                            : 'bg-secondary hover:bg-primary text-white'
+                        }`}
+                      >
+                        Book Now
+                      </a>
+                      <Link
+                        href={dumpster.href}
+                        className="w-full flex items-center justify-center gap-2 font-semibold py-3 rounded-xl text-primary hover:bg-primary/10 transition-all duration-300"
+                      >
+                        View Details
+                        <ArrowRight className="w-4 h-4" />
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Size Guide CTA */}
+            <div className="text-center mt-12">
+              <p className="text-gray-500 mb-4">Not sure which size you need?</p>
+              <Link
+                href="/dumpster-size-guide"
+                className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
+              >
+                View Our Complete Size Guide
+                <ArrowRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 3: GOOGLE REVIEWS (Social Proof)
+        ============================================ */}
+        <GoogleReviews />
+
+        {/* ============================================
+            SECTION 4: PROBLEM-SOLVER GRID (Internal Linking)
         ============================================ */}
         <section className="py-20 lg:py-28 bg-white">
           <div className="max-w-7xl mx-auto px-4 lg:px-6">
@@ -392,160 +559,6 @@ export default function HomePage() {
                   </span>
                 </Link>
               ))}
-            </div>
-          </div>
-        </section>
-
-        {/* ============================================
-            SECTION 3: GOOGLE REVIEWS (Social Proof)
-        ============================================ */}
-        <GoogleReviews />
-
-        {/* ============================================
-            SECTION 4: SIZE SELECTOR (Visual & Transactional)
-        ============================================ */}
-        <section id="sizes" className="py-20 lg:py-28 bg-gray-50">
-          <div className="max-w-7xl mx-auto px-4 lg:px-6">
-            {/* Section Header */}
-            <div className="text-center mb-16">
-              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                Roll-Off Dumpster Sizes
-              </span>
-              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Choose Your Dumpster Size
-              </h2>
-              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                All prices include delivery, pickup, disposal, and a 5-day rental period.
-                No hidden fees, ever.
-              </p>
-            </div>
-
-            {/* Size Cards */}
-            <div className="grid md:grid-cols-3 gap-8">
-              {[
-                {
-                  size: '10',
-                  name: '10 Yard Dumpster',
-                  dimensions: "12' L × 7.5' W × 3.6' H",
-                  tons: '1.5',
-                  bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
-                  price: '$275',
-                  popular: false,
-                  image: '/images/10 Yard Dumpster.avif',
-                },
-                {
-                  size: '15',
-                  name: '15 Yard Dumpster',
-                  dimensions: "14' L × 7.5' W × 4.5' H",
-                  tons: '2',
-                  bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
-                  price: '$325',
-                  popular: false,
-                  image: '/images/15 yard dumpster.avif',
-                },
-                {
-                  size: '20',
-                  name: '20 Yard Dumpster',
-                  dimensions: "14' L × 7.5' W × 5.8' H",
-                  tons: '2',
-                  bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
-                  price: '$375',
-                  popular: true,
-                  image: '/images/20 yard dumpster.avif',
-                },
-              ].map((dumpster) => (
-                <div
-                  key={dumpster.size}
-                  className={`relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 ${
-                    dumpster.popular ? 'border-2 border-green-600' : 'border border-green-500'
-                  }`}
-                >
-
-                  {/* Popular Badge */}
-                  {dumpster.popular && (
-                    <div className="absolute top-6 right-4 bg-primary text-white text-xs font-bold px-3 py-1.5 rounded-full z-10 shadow-lg">
-                      Most Popular
-                    </div>
-                  )}
-
-                  {/* Image - White background */}
-                  <div className="bg-white p-6 pb-4">
-                    <Image
-                      src={dumpster.image}
-                      alt={`${dumpster.name} Rental Jacksonville FL`}
-                      width={400}
-                      height={280}
-                      className="w-full h-auto"
-                    />
-                  </div>
-
-                  {/* Content */}
-                  <div className="p-6 pt-2">
-                    {/* Size & Price Header */}
-                    <div className="flex items-center justify-between mb-4">
-                      <div>
-                        <span className="text-4xl font-black text-secondary">{dumpster.size}</span>
-                        <span className="text-gray-400 text-lg ml-1">yard</span>
-                      </div>
-                      <div className="text-right">
-                        <div className="text-2xl font-black text-primary">{dumpster.price}</div>
-                        <div className="text-xs text-gray-400">5-day rental</div>
-                      </div>
-                    </div>
-
-                    {/* Specs Grid */}
-                    <div className="grid grid-cols-2 gap-3 mb-5 p-4 bg-gray-50 rounded-xl">
-                      <div>
-                        <div className="text-xs text-gray-400 uppercase tracking-wide">Dimensions</div>
-                        <div className="text-sm font-semibold text-secondary">{dumpster.dimensions}</div>
-                      </div>
-                      <div>
-                        <div className="text-xs text-gray-400 uppercase tracking-wide">Weight Included</div>
-                        <div className="text-sm font-semibold text-secondary">{dumpster.tons} tons</div>
-                      </div>
-                    </div>
-
-                    {/* Best For Tags */}
-                    <div className="mb-5">
-                      <div className="flex flex-wrap gap-2">
-                        {dumpster.bestFor.map((item, i) => (
-                          <span
-                            key={i}
-                            className="bg-primary/10 text-primary text-xs px-3 py-1.5 rounded-full font-medium"
-                          >
-                            {item}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-
-                    <a
-                      href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-all duration-300 ${
-                        dumpster.popular
-                          ? 'bg-primary hover:bg-primary/90 text-white shadow-lg shadow-primary/30'
-                          : 'bg-secondary hover:bg-primary text-white'
-                      }`}
-                    >
-                      Rent Now
-                    </a>
-                  </div>
-                </div>
-              ))}
-            </div>
-
-            {/* Size Guide CTA */}
-            <div className="text-center mt-12">
-              <p className="text-gray-500 mb-4">Not sure which size you need?</p>
-              <Link
-                href="/dumpster-size-guide"
-                className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
-              >
-                View Our Complete Size Guide
-                <ArrowRight className="w-5 h-5" />
-              </Link>
             </div>
           </div>
         </section>
@@ -730,13 +743,15 @@ export default function HomePage() {
             {/* CTA */}
             <div className="text-center mt-16">
               <a
-                href={`tel:${BUSINESS.phoneRaw}`}
+                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl shadow-primary/30 transition-all duration-300"
               >
-                <Phone className="w-6 h-6" />
-                Call {BUSINESS.phone}
+                Book Online Now
+                <ArrowRight className="w-6 h-6" />
               </a>
-              <p className="text-white/40 mt-4">Free quotes • No obligation • Fast response</p>
+              <p className="text-white/40 mt-4">Fast booking • Instant confirmation • Same-day delivery</p>
             </div>
           </div>
         </section>
@@ -800,22 +815,24 @@ export default function HomePage() {
               Ready to Get Started?
             </h2>
             <p className="text-white/80 text-xl mb-10 max-w-2xl mx-auto">
-              Call now for a free quote on dumpster rental in Jacksonville, FL.
+              Book online now for fast, easy dumpster rental in Jacksonville, FL.
               Same-day delivery available!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href={`tel:${BUSINESS.phoneRaw}`}
+                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
               >
-                <Phone className="w-6 h-6" />
-                {BUSINESS.phone}
+                Book Online Now
+                <ArrowRight className="w-6 h-6" />
               </a>
               <Link
-                href="/contact-us"
+                href="/dumpster-size-guide"
                 className="inline-flex items-center justify-center gap-2 bg-transparent border-2 border-white text-white font-bold text-xl px-10 py-5 rounded-2xl hover:bg-white hover:text-primary transition-all duration-300"
               >
-                Request Quote Online
+                Check Size Guidelines
                 <ArrowRight className="w-5 h-5" />
               </Link>
             </div>

@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import {
-  Phone,
   ArrowRight,
   Shield,
   Clock,
@@ -16,7 +15,6 @@ import {
   TreePine,
   RotateCcw
 } from 'lucide-react'
-import { BUSINESS } from '@/lib/constants'
 
 // Project types with recommended dumpster sizes
 const PROJECT_TYPES = [
@@ -164,18 +162,10 @@ export function QuickSizeFinder() {
         {/* CTAs */}
         <div className="space-y-3">
           <a
-            href={`tel:${BUSINESS.phoneRaw}`}
-            className="w-full bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-4 rounded-xl flex items-center justify-center gap-2 shadow-lg shadow-primary/25 transition-all"
-          >
-            <Phone className="w-5 h-5" />
-            Call Now: {BUSINESS.phone}
-          </a>
-
-          <a
             href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-full bg-secondary hover:bg-secondary/90 text-white font-bold px-6 py-4 rounded-xl flex items-center justify-center gap-2 transition-all"
+            className="w-full bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-4 rounded-xl flex items-center justify-center gap-2 shadow-lg shadow-primary/25 transition-all"
           >
             Book Online Now
             <ArrowRight className="w-5 h-5" />
@@ -219,16 +209,25 @@ export function QuickSizeFinder() {
         ))}
       </div>
 
-      {/* Quick Call CTA */}
+      {/* Help Links */}
       <div className="pt-4 border-t border-gray-100">
-        <p className="text-center text-gray-500 text-sm mb-3">Not sure? We&apos;ll help you choose</p>
-        <a
-          href={`tel:${BUSINESS.phoneRaw}`}
-          className="w-full bg-secondary hover:bg-secondary/90 text-white font-bold px-6 py-4 rounded-xl flex items-center justify-center gap-2 transition-all"
-        >
-          <Phone className="w-5 h-5" />
-          {BUSINESS.phone}
-        </a>
+        <p className="text-center text-gray-500 text-sm mb-3">Not sure which size?</p>
+        <div className="flex flex-col gap-2">
+          <a
+            href="#sizes"
+            className="w-full bg-secondary hover:bg-secondary/90 text-white font-bold px-6 py-3 rounded-xl flex items-center justify-center gap-2 transition-all"
+          >
+            View All Dumpster Sizes
+            <ArrowRight className="w-4 h-4" />
+          </a>
+          <a
+            href="/dumpster-size-guide"
+            className="w-full text-primary hover:text-primary/80 font-semibold px-6 py-2 rounded-xl flex items-center justify-center gap-2 transition-all"
+          >
+            Check Size Guidelines
+            <ArrowRight className="w-4 h-4" />
+          </a>
+        </div>
       </div>
 
       {/* Mini Trust Signals */}

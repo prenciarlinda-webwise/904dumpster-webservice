@@ -8,9 +8,9 @@ import { Menu, X, Phone, ChevronRight, MapPin, Wrench, BookOpen, ArrowRight } fr
 import {
   BUSINESS,
   NAV_LINKS,
+  SERVICES_MAIN,
   SERVICES_BY_SIZE,
-  SERVICES_BY_PROJECT,
-  SERVICES_BY_USER,
+  SERVICES_APPROPRIATE_FOR,
   LOCATIONS_JAX_CORE,
   LOCATIONS_ST_JOHNS,
   LOCATIONS_CLAY_NASSAU,
@@ -134,13 +134,41 @@ export default function Header() {
                           <p className="text-gray-500 text-sm mt-1">Find the perfect dumpster for your project</p>
                         </div>
                         <div className="grid grid-cols-3 gap-0 divide-x divide-gray-100">
-                          {/* By Size */}
+                          {/* Services */}
                           <div className="p-6">
                             <div className="font-bold text-secondary mb-4 flex items-center gap-2 text-sm uppercase tracking-wider">
                               <div className="p-1.5 bg-primary/10 rounded-lg">
                                 <Wrench className="w-4 h-4 text-primary" />
                               </div>
-                              By Size
+                              Services
+                            </div>
+                            <ul className="space-y-1">
+                              {SERVICES_MAIN.map((item) => (
+                                <li key={item.href}>
+                                  <Link
+                                    href={item.href}
+                                    className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
+                                  >
+                                    <div className="flex-1">
+                                      <span className="font-semibold text-secondary group-hover/item:text-primary transition-colors">
+                                        {item.label}
+                                      </span>
+                                      <span className="block text-xs text-gray-400 mt-0.5">{item.description}</span>
+                                    </div>
+                                    <ArrowRight className="w-4 h-4 text-gray-300 group-hover/item:text-primary group-hover/item:translate-x-1 transition-all" />
+                                  </Link>
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+
+                          {/* Dumpster Sizes */}
+                          <div className="p-6">
+                            <div className="font-bold text-secondary mb-4 flex items-center gap-2 text-sm uppercase tracking-wider">
+                              <div className="p-1.5 bg-primary/10 rounded-lg">
+                                <Wrench className="w-4 h-4 text-primary" />
+                              </div>
+                              Dumpster Sizes
                             </div>
                             <ul className="space-y-1">
                               {SERVICES_BY_SIZE.map((item) => (
@@ -162,44 +190,16 @@ export default function Header() {
                             </ul>
                           </div>
 
-                          {/* By Project */}
+                          {/* Appropriate For */}
                           <div className="p-6">
                             <div className="font-bold text-secondary mb-4 flex items-center gap-2 text-sm uppercase tracking-wider">
                               <div className="p-1.5 bg-primary/10 rounded-lg">
                                 <Wrench className="w-4 h-4 text-primary" />
                               </div>
-                              By Project
+                              Appropriate For
                             </div>
                             <ul className="space-y-1">
-                              {SERVICES_BY_PROJECT.map((item) => (
-                                <li key={item.href}>
-                                  <Link
-                                    href={item.href}
-                                    className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
-                                  >
-                                    <div className="flex-1">
-                                      <span className="font-semibold text-secondary group-hover/item:text-primary transition-colors">
-                                        {item.label}
-                                      </span>
-                                      <span className="block text-xs text-gray-400 mt-0.5">{item.description}</span>
-                                    </div>
-                                    <ArrowRight className="w-4 h-4 text-gray-300 group-hover/item:text-primary group-hover/item:translate-x-1 transition-all" />
-                                  </Link>
-                                </li>
-                              ))}
-                            </ul>
-                          </div>
-
-                          {/* By User */}
-                          <div className="p-6">
-                            <div className="font-bold text-secondary mb-4 flex items-center gap-2 text-sm uppercase tracking-wider">
-                              <div className="p-1.5 bg-primary/10 rounded-lg">
-                                <Wrench className="w-4 h-4 text-primary" />
-                              </div>
-                              By User
-                            </div>
-                            <ul className="space-y-1">
-                              {SERVICES_BY_USER.map((item) => (
+                              {SERVICES_APPROPRIATE_FOR.map((item) => (
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
@@ -436,7 +436,22 @@ export default function Header() {
                         <div className="ml-4 pl-4 border-l-2 border-primary/20 space-y-4 py-4">
                           <div>
                             <div className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-4">
-                              By Size
+                              Services
+                            </div>
+                            {SERVICES_MAIN.map((item) => (
+                              <Link
+                                key={item.href}
+                                href={item.href}
+                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                                onClick={toggleMobileMenu}
+                              >
+                                {item.label}
+                              </Link>
+                            ))}
+                          </div>
+                          <div>
+                            <div className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-4">
+                              Dumpster Sizes
                             </div>
                             {SERVICES_BY_SIZE.map((item) => (
                               <Link
@@ -451,24 +466,9 @@ export default function Header() {
                           </div>
                           <div>
                             <div className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-4">
-                              By Project
+                              Appropriate For
                             </div>
-                            {SERVICES_BY_PROJECT.map((item) => (
-                              <Link
-                                key={item.href}
-                                href={item.href}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
-                                onClick={toggleMobileMenu}
-                              >
-                                {item.label}
-                              </Link>
-                            ))}
-                          </div>
-                          <div>
-                            <div className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-4">
-                              By User
-                            </div>
-                            {SERVICES_BY_USER.map((item) => (
+                            {SERVICES_APPROPRIATE_FOR.map((item) => (
                               <Link
                                 key={item.href}
                                 href={item.href}

@@ -20,7 +20,7 @@ const faqs = [
       {
         question: 'How do I order a dumpster?',
         answer:
-          'Ordering is easy! Call us at (904) 240-5598 or fill out the contact form on our website. Let us know your delivery address, project type, and preferred dumpster size. We will confirm availability and schedule your delivery.',
+          'Ordering is easy! Book online at our website for instant scheduling - just select your dumpster size, enter your delivery address, and choose your preferred delivery date. You\'ll get instant confirmation and can manage your rental online. Same-day delivery available when you book before noon.',
       },
       {
         question: 'How quickly can you deliver a dumpster?',
@@ -50,7 +50,7 @@ const faqs = [
       {
         question: 'What size dumpster do I need?',
         answer:
-          'The right size depends on your project. Our 10-yard dumpster works well for small cleanouts and single-room projects. The 15-yard is our most popular for home renovations and roofing. The 20-yard handles large renovations, construction, and estate cleanouts. Call us and we will help you choose the right size.',
+          'The right size depends on your project. Our 10-yard dumpster works well for small cleanouts and single-room projects. The 15-yard is our most popular for home renovations and roofing. The 20-yard handles large renovations, construction, and estate cleanouts. Check out our Size Guide to find the perfect fit for your project.',
       },
       {
         question: 'What are the dimensions of your dumpsters?',
@@ -263,25 +263,26 @@ export default function FAQPage() {
       <section className="py-20 lg:py-28 bg-primary">
         <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">
           <h2 className="text-3xl md:text-4xl font-black text-white mb-6">
-            Still Have Questions?
+            Ready to Book Your Dumpster?
           </h2>
           <p className="text-white/80 text-xl mb-10">
-            We are here to help! Give us a call and we will answer any questions you have about
-            dumpster rental in Jacksonville.
+            Book online now for instant scheduling and confirmation. Same-day delivery available!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href={`tel:${BUSINESS.phoneRaw}`}
+              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
             >
-              <Phone className="w-6 h-6" />
-              {BUSINESS.phone}
+              Book Online Now
+              <ArrowRight className="w-6 h-6" />
             </a>
             <Link
-              href="/contact-us"
+              href="/dumpster-size-guide"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-xl px-10 py-5 rounded-2xl transition-all"
             >
-              Contact Us
+              Check Size Guidelines
               <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
