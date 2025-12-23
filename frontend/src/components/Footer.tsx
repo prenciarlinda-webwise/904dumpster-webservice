@@ -83,11 +83,12 @@ export default function Footer() {
               </p>
             </div>
             <a
-              href={`tel:${BUSINESS.phoneRaw}`}
+              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group bg-primary hover:bg-white text-white hover:text-secondary font-bold px-8 py-4 rounded-xl flex items-center gap-3 shadow-lg shadow-primary/25 hover:shadow-white/20 transition-all duration-300"
             >
-              <Phone className="w-5 h-5" />
-              Call {BUSINESS.phone}
+              Book Online Now
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </a>
           </div>
@@ -105,7 +106,7 @@ export default function Footer() {
                 alt="904 Dumpster - Dumpster Rental Jacksonville"
                 width={180}
                 height={50}
-                className="h-12 w-auto brightness-0 invert"
+                className="h-12 w-auto"
               />
             </Link>
             <p className="text-white/60 mb-8 leading-relaxed">

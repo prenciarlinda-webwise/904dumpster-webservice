@@ -41,7 +41,6 @@ export default function PricingPage() {
       dimensions: `${pricing.dumpsters['15-yard'].dimensions.length}' x ${pricing.dumpsters['15-yard'].dimensions.width}' x ${pricing.dumpsters['15-yard'].dimensions.height}'`,
       ideal: ['Roofing projects', 'Kitchen remodels', 'Deck removal', 'Medium cleanouts'],
       href: '/15-yard-dumpster-rental',
-      popular: true,
     },
     {
       size: '20',
@@ -52,6 +51,7 @@ export default function PricingPage() {
       dimensions: `${pricing.dumpsters['20-yard'].dimensions.length}' x ${pricing.dumpsters['20-yard'].dimensions.width}' x ${pricing.dumpsters['20-yard'].dimensions.height}'`,
       ideal: ['Large renovations', 'Construction', 'Estate cleanouts', 'Commercial projects'],
       href: '/20-yard-dumpster-rental',
+      popular: true,
     },
   ]
 
@@ -297,7 +297,7 @@ export default function PricingPage() {
                   <div className="font-bold text-secondary mb-1">Weight Overage</div>
                   <p className="text-gray-600">
                     If you exceed the included weight limit, additional tons are charged at $75/ton.
-                    We will notify you before pickup if overages apply.
+                    We weigh the load at the landfill and will notify you of any overages before disposal.
                   </p>
                 </div>
               </div>
@@ -343,21 +343,23 @@ export default function PricingPage() {
             Ready to Book Your Dumpster?
           </h2>
           <p className="text-white/80 text-xl mb-10">
-            Get a free quote or book your dumpster now. Same-day delivery available!
+            Book online now for instant scheduling. Same-day delivery available!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href={`tel:${BUSINESS.phoneRaw}`}
+              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
             >
-              <Phone className="w-6 h-6" />
-              {BUSINESS.phone}
+              Book Online Now
+              <ArrowRight className="w-6 h-6" />
             </a>
             <Link
-              href="/contact-us"
+              href="/dumpster-size-guide"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-xl px-10 py-5 rounded-2xl transition-all"
             >
-              Get a Free Quote
+              Check Size Guidelines
               <ArrowRight className="w-5 h-5" />
             </Link>
           </div>

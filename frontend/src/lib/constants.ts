@@ -18,29 +18,32 @@ export const BUSINESS = {
 // SERVICES MEGA MENU STRUCTURE
 // =============================================================================
 
-// Column A: By Size
+// Column A: Services (Main offerings)
+export const SERVICES_MAIN = [
+  { label: 'Dumpster Rental', href: '/residential-dumpster-rental', description: 'Roll-off containers for any project' },
+  { label: 'Junk Removal', href: '/junk-removal-jacksonville', description: 'We do all the heavy lifting' },
+  { label: 'Demolition Services', href: '/demolition-services-jacksonville', description: 'Professional demo services' },
+] as const
+
+// Column B: Dumpster Sizes
 export const SERVICES_BY_SIZE = [
-  { label: '10 Yard', href: '/10-yard-dumpster-rental', description: 'Small cleanouts & minor projects' },
-  { label: '15 Yard', href: '/15-yard-dumpster-rental', description: 'Medium projects & roofing' },
-  { label: '20 Yard', href: '/20-yard-dumpster-rental', description: 'Large renovations & construction' },
+  { label: '10 Yard Dumpster', href: '/10-yard-dumpster-rental', description: 'Small cleanouts & garage projects' },
+  { label: '15 Yard Dumpster', href: '/15-yard-dumpster-rental', description: 'Medium renovations & roofing' },
+  { label: '20 Yard Dumpster', href: '/20-yard-dumpster-rental', description: 'Large projects & construction' },
   { label: 'Size Guide', href: '/dumpster-size-guide', description: 'Find your perfect size' },
 ] as const
 
-// Column B: By Project
-export const SERVICES_BY_PROJECT = [
-  { label: 'Residential', href: '/residential-dumpster-rental', description: 'Homeowner projects' },
-  { label: 'Construction', href: '/construction-dumpster-rental', description: 'Job site waste removal' },
-  { label: 'Commercial', href: '/commercial-dumpster-rental', description: 'Business waste service' },
-  { label: 'Demolition', href: '/demolition-services-jacksonville', description: 'Professional demo services' },
+// Column C: Appropriate For (Use cases)
+export const SERVICES_APPROPRIATE_FOR = [
+  { label: 'Homeowners', href: '/residential-dumpster-rental', description: 'DIY projects & cleanouts' },
+  { label: 'Contractors', href: '/construction-dumpster-rental', description: 'Job site waste management' },
+  { label: 'Businesses', href: '/commercial-dumpster-rental', description: 'Commercial waste solutions' },
+  { label: 'Concrete & Heavy Debris', href: '/concrete-disposal-dumpster', description: 'Brick, stone & dirt removal' },
 ] as const
 
-// Column C: By User
-export const SERVICES_BY_USER = [
-  { label: 'Homeowners', href: '/residential-dumpster-rental', description: 'DIY projects & cleanouts' },
-  { label: 'Contractors', href: '/construction-dumpster-rental', description: 'Job site service' },
-  { label: 'Businesses', href: '/commercial-dumpster-rental', description: 'Commercial accounts' },
-  { label: 'Junk Removal', href: '/junk-removal-jacksonville', description: 'Full-service hauling' },
-] as const
+// Legacy exports for backwards compatibility
+export const SERVICES_BY_PROJECT = SERVICES_MAIN
+export const SERVICES_BY_USER = SERVICES_APPROPRIATE_FOR
 
 // =============================================================================
 // LOCATIONS MEGA MENU STRUCTURE
