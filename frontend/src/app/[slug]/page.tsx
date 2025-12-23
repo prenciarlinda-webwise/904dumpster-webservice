@@ -286,17 +286,19 @@ function DumpsterSizePage({
               <p className="text-xl text-white/70 mb-8">{service.description}</p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href={`tel:${BUSINESS.phoneRaw}`}
+                  href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
                 >
-                  <Phone className="w-5 h-5" />
-                  Call {BUSINESS.phone}
+                  Book Online Now
+                  <ArrowRight className="w-5 h-5" />
                 </a>
                 <Link
-                  href="/contact-us"
+                  href="/dumpster-size-guide"
                   className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
                 >
-                  Get Free Quote
+                  Size Guide
                   <ArrowRight className="w-5 h-5" />
                 </Link>
               </div>
@@ -321,14 +323,14 @@ function DumpsterSizePage({
                   <Clock className="w-8 h-8 text-primary" />
                   <div>
                     <div className="font-bold text-secondary">{dumpster.rentalDays}-Day Rental</div>
-                    <div className="text-sm text-gray-500">Included in price</div>
+                    <div className="text-sm text-gray-500">$15/day additional</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 bg-gray-50 rounded-xl">
                   <Shield className="w-8 h-8 text-primary" />
                   <div>
                     <div className="font-bold text-secondary">Up to {dumpster.tonnageIncluded} Tons</div>
-                    <div className="text-sm text-gray-500">Disposal included</div>
+                    <div className="text-sm text-gray-500">$75/ton additional</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 bg-gray-50 rounded-xl">
@@ -348,10 +350,12 @@ function DumpsterSizePage({
               </div>
 
               <a
-                href={`tel:${BUSINESS.phoneRaw}`}
+                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="block w-full text-center bg-primary hover:bg-secondary text-white font-bold text-lg py-4 rounded-xl transition-all"
               >
-                Reserve Now – {BUSINESS.phone}
+                Book Online Now
               </a>
             </div>
           </div>
@@ -487,15 +491,17 @@ function DumpsterSizePage({
           <h2 className="text-3xl md:text-4xl font-black text-white mb-6">
             Ready to Rent a {size} Yard Dumpster?
           </h2>
-          <p className="text-white/80 text-xl mb-4">
+          <p className="text-white/80 text-xl mb-8">
             ${dumpster.basePrice} for {dumpster.rentalDays} days - Free delivery - Up to {dumpster.tonnageIncluded} tons included
           </p>
           <a
-            href={`tel:${BUSINESS.phoneRaw}`}
+            href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
           >
-            <Phone className="w-6 h-6" />
-            {BUSINESS.phone}
+            Book Online Now
+            <ArrowRight className="w-6 h-6" />
           </a>
         </div>
       </section>
