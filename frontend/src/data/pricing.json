@@ -5,15 +5,15 @@
       "name": "10 Yard Dumpster",
       "basePrice": 275,
       "rentalDays": 5,
-      "tonnageIncluded": 2,
+      "tonnageIncluded": 1.5,
       "additionalDayRate": 15,
-      "overweightRate": 65,
+      "overweightRate": 75,
       "dimensions": {
         "length": 12,
-        "width": 8,
-        "height": 3.5
+        "width": 7.5,
+        "height": 3.6
       },
-      "weightLimit": 4000,
+      "weightLimit": 3000,
       "truckLoadsEquivalent": 3,
       "description": "Perfect for small home cleanouts and minor renovation projects.",
       "ideal": [
@@ -28,15 +28,15 @@
       "name": "15 Yard Dumpster",
       "basePrice": 325,
       "rentalDays": 5,
-      "tonnageIncluded": 3,
+      "tonnageIncluded": 2,
       "additionalDayRate": 15,
-      "overweightRate": 65,
+      "overweightRate": 75,
       "dimensions": {
-        "length": 16,
-        "width": 8,
-        "height": 4
+        "length": 14,
+        "width": 7.5,
+        "height": 4.5
       },
-      "weightLimit": 6000,
+      "weightLimit": 4000,
       "truckLoadsEquivalent": 5,
       "description": "Great for roofing projects and medium-sized cleanouts.",
       "ideal": [
@@ -51,15 +51,15 @@
       "name": "20 Yard Dumpster",
       "basePrice": 375,
       "rentalDays": 5,
-      "tonnageIncluded": 4,
+      "tonnageIncluded": 2,
       "additionalDayRate": 15,
-      "overweightRate": 65,
+      "overweightRate": 75,
       "dimensions": {
-        "length": 22,
-        "width": 8,
-        "height": 4.5
+        "length": 14,
+        "width": 7.5,
+        "height": 5.8
       },
-      "weightLimit": 8000,
+      "weightLimit": 4000,
       "truckLoadsEquivalent": 7,
       "description": "Ideal for large renovation projects and construction jobs.",
       "ideal": [

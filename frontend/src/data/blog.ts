@@ -272,11 +272,11 @@ Dumpster sizes are measured in cubic yards, which represents the volume of debri
 
 ### 10-Yard Dumpster
 
-**Dimensions**: 12 feet long x 8 feet wide x 3.5 feet high
+**Dimensions**: 12 feet long x 7.5 feet wide x 3.6 feet high
 
 **Capacity**: 10 cubic yards (approximately 3 pickup truck loads)
 
-**Weight Limit**: Up to 4,000 pounds (2 tons)
+**Weight Limit**: Up to 3,000 pounds (1.5 tons)
 
 **Ideal Projects**:
 - Small bathroom remodels
@@ -289,11 +289,11 @@ The 10-yard dumpster is our most compact option, making it perfect for Jacksonvi
 
 ### 15-Yard Dumpster
 
-**Dimensions**: 16 feet long x 8 feet wide x 4 feet high
+**Dimensions**: 14 feet long x 7.5 feet wide x 4.5 feet high
 
 **Capacity**: 15 cubic yards (approximately 5 pickup truck loads)
 
-**Weight Limit**: Up to 6,000 pounds (3 tons)
+**Weight Limit**: Up to 4,000 pounds (2 tons)
 
 **Ideal Projects**:
 - Full roof replacements (up to 3,000 sq ft)
@@ -306,11 +306,11 @@ The 15-yard dumpster is our most popular size in Jacksonville. It provides signi
 
 ### 20-Yard Dumpster
 
-**Dimensions**: 22 feet long x 8 feet wide x 4.5 feet high
+**Dimensions**: 14 feet long x 7.5 feet wide x 5.8 feet high
 
 **Capacity**: 20 cubic yards (approximately 7 pickup truck loads)
 
-**Weight Limit**: Up to 8,000 pounds (4 tons)
+**Weight Limit**: Up to 4,000 pounds (2 tons)
 
 **Ideal Projects**:
 - Whole-house cleanouts
@@ -882,7 +882,7 @@ Many Jacksonville-area neighborhoods have HOAs with dumpster rules:
 
 ### Common HOA Requirements
 - Written approval before delivery
-- Maximum rental duration (often 7-14 days)
+- Maximum rental duration (typically 5 days)
 - Specific placement locations
 - Required screening or covers
 - Cleanup requirements

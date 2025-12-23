@@ -190,6 +190,11 @@ export default async function DynamicPage({
       }
     }
 
+    // Custom Demolition Services Page
+    if (slug === 'demolition-services-jacksonville') {
+      return <DemolitionServicesPage />
+    }
+
     // For other custom pages, render a basic template for now
     return (
       <>
@@ -252,9 +257,9 @@ function DumpsterSizePage({
   const dims = dumpster.dimensions
 
   const allSizes = [
-    { size: '10', price: pricing.dumpsters['10-yard'].basePrice, tons: 2, loads: 3 },
-    { size: '15', price: pricing.dumpsters['15-yard'].basePrice, tons: 3, loads: 5 },
-    { size: '20', price: pricing.dumpsters['20-yard'].basePrice, tons: 4, loads: 7 },
+    { size: '10', price: pricing.dumpsters['10-yard'].basePrice, tons: pricing.dumpsters['10-yard'].tonnageIncluded, loads: 3 },
+    { size: '15', price: pricing.dumpsters['15-yard'].basePrice, tons: pricing.dumpsters['15-yard'].tonnageIncluded, loads: 5 },
+    { size: '20', price: pricing.dumpsters['20-yard'].basePrice, tons: pricing.dumpsters['20-yard'].tonnageIncluded, loads: 7 },
   ]
 
   return (
@@ -875,6 +880,320 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
           }}
         />
       )}
+    </div>
+  )
+}
+
+// Demolition Services Page Component - 904 Dumpster offers demolition services
+function DemolitionServicesPage() {
+  const demolitionServices = [
+    {
+      title: 'Commercial Demolition',
+      description: 'We have the expertise and experience to demolish large projects of any size, including old schools, metal buildings, and large industrial and commercial buildings.',
+    },
+    {
+      title: 'Residential Demolition',
+      description: 'We can tear down part of a house or the entire structure. We offer shed removal, driveway removal, mobile home removal, and garage demolition.',
+    },
+    {
+      title: 'Swimming Pool Demolition',
+      description: 'We have the equipment, team, and skills to demolish and remove all parts of an old pool and fill the entire hole. Our pool removal services include concrete removal and recycling.',
+    },
+    {
+      title: 'Interior/Selective Demolition',
+      description: 'We oversee the removal of specific parts of office or house structures so they are ready for reconstruction, rehab, or redesign.',
+    },
+    {
+      title: 'Emergency Demolition',
+      description: 'We are prepared to assist with emergency demolition which may be required due to fire, flood, hurricanes, water damage, or more. We are the most responsive emergency contractor in Jacksonville.',
+    },
+    {
+      title: 'Site Clearing Services',
+      description: 'We have over a decade of experience in land clearing, excavation, and site prep projects for Jacksonville sites of different sizes for future development.',
+    },
+  ]
+
+  const industries = [
+    {
+      title: 'Retail & Medical',
+      description: 'Complete or partial demolition of retail, shopping centers, restaurants, entertainment, and medical spaces.',
+    },
+    {
+      title: 'Multi-Family Units',
+      description: 'Total demolition of one to four-story buildings, 500 to 500,000 square feet. Complete demolition and decommissioning of large commercial buildings.',
+    },
+    {
+      title: 'Industrial',
+      description: 'Interior and exterior demo of industrial and manufacturing buildings. We can work in occupied or vacant premises.',
+    },
+    {
+      title: 'Government',
+      description: 'Demolish everything from roadways to buildings, inside and outside, operational or condemned. We handle large facility decommissioning projects.',
+    },
+  ]
+
+  const whyChooseUs = [
+    {
+      title: 'Licensed & Insured',
+      description: 'Fully licensed and insured in the State of Florida',
+      icon: Shield,
+    },
+    {
+      title: 'Professional Equipment',
+      description: 'Access to all heavy-duty tools and equipment needed for your project',
+      icon: Truck,
+    },
+    {
+      title: 'Experienced Team',
+      description: 'With decades of experience in the construction industry, we have the expertise to complete your demolition project',
+      icon: CheckCircle2,
+    },
+    {
+      title: 'Local Service',
+      description: 'Serving Jacksonville and surrounding areas including Duval, Clay, St. Johns, and Nassau Counties',
+      icon: MapPin,
+    },
+  ]
+
+  const serviceAreas = [
+    'Jacksonville Beach',
+    'Atlantic Beach',
+    'Neptune Beach',
+    'Orange Park',
+    'Fleming Island',
+    'Middleburg',
+    'St. Augustine',
+    'Yulee',
+    'Fernandina Beach',
+    'Palatka',
+  ]
+
+  return (
+    <div className="min-h-screen">
+      {/* Hero Section */}
+      <section className="relative py-20 lg:py-28 bg-secondary overflow-hidden">
+        <div className="absolute inset-0 opacity-10">
+          <div className="absolute top-10 right-10 w-40 h-40 border border-white rounded-full" />
+          <div className="absolute bottom-10 left-10 w-60 h-60 border border-white rounded-full" />
+        </div>
+
+        <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="max-w-3xl">
+            <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
+              <Link href="/" className="hover:text-white">Home</Link>
+              <span>/</span>
+              <span className="text-white">Demolition Services</span>
+            </nav>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6">
+              Demolition Contractors{' '}
+              <span className="text-primary">Jacksonville, FL</span>
+            </h1>
+            <p className="text-xl text-white/70 mb-8">
+              When it comes to commercial and residential demolition, 904 Dumpster has the experience and expertise to do the job. Regardless of the size, whether small buildings or large industrial ones, we are the people for the job.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <a
+                href={`tel:${BUSINESS.phoneRaw}`}
+                className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
+              >
+                <Phone className="w-5 h-5" />
+                Call {BUSINESS.phone}
+              </a>
+              <Link
+                href="/contact-us"
+                className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
+              >
+                Get Free Quote
+                <ArrowRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Trust Badges */}
+      <section className="py-8 bg-primary">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center text-white">
+            <div className="flex items-center justify-center gap-2">
+              <Shield className="w-5 h-5" />
+              <span>Licensed & Insured</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <Truck className="w-5 h-5" />
+              <span>Professional Equipment</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <Clock className="w-5 h-5" />
+              <span>Fast Turnaround</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <MapPin className="w-5 h-5" />
+              <span>Local Jacksonville Team</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Demolition Services We Offer */}
+      <section className="py-20 lg:py-28 bg-white">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Our Services
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Demolition Services We Offer
+            </h2>
+            <p className="text-gray-600 text-lg max-w-3xl mx-auto">
+              We are a Florida-based industrial and residential demolition company, specializing in wrecking, deconstruction, decommissioning, and complete demolition services. We have the required expertise, experience, and knowledge, coupled with highly trained staff and equipment, to get your Jacksonville demolition project done correctly, safely, and without unnecessary incidents.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {demolitionServices.map((service, i) => (
+              <div
+                key={i}
+                className="bg-gray-50 rounded-2xl p-8 hover:bg-white hover:shadow-xl transition-all"
+              >
+                <h3 className="text-xl font-bold text-secondary mb-3">
+                  {service.title}
+                </h3>
+                <p className="text-gray-600">{service.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Why Choose Us */}
+      <section className="py-20 lg:py-28 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Why Choose Us
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Why Choose 904 Dumpster for Demolition?
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {whyChooseUs.map((item, i) => (
+              <div key={i} className="bg-white rounded-2xl p-6 shadow-sm">
+                <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-4">
+                  <item.icon className="w-7 h-7 text-primary" />
+                </div>
+                <h3 className="text-lg font-bold text-secondary mb-2">{item.title}</h3>
+                <p className="text-gray-600 text-sm">{item.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Industries We Serve */}
+      <section className="py-20 lg:py-28 bg-white">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Industries
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Providing Fast Demolition Results for Our Jacksonville Clients
+            </h2>
+            <p className="text-gray-600 text-lg max-w-3xl mx-auto">
+              We work across many different industries. We work for the private and public sectors including large commercial construction companies, city, state, and federal government agencies.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {industries.map((industry, i) => (
+              <div
+                key={i}
+                className="bg-gray-50 rounded-2xl p-6 hover:bg-white hover:shadow-lg transition-all"
+              >
+                <h3 className="text-lg font-bold text-secondary mb-3">{industry.title}</h3>
+                <p className="text-gray-600 text-sm">{industry.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Service Areas */}
+      <section className="py-20 lg:py-28 bg-secondary">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Service Areas
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-white mb-4">
+              Serving Jacksonville and Surrounding Areas
+            </h2>
+            <p className="text-white/70 text-lg max-w-3xl mx-auto">
+              We have been offering demolition services in the Jacksonville community for years, including Duval County, Clay County, St. Johns County, and Nassau County. As licensed and insured professionals, we can handle it all.
+            </p>
+          </div>
+
+          <div className="flex flex-wrap justify-center gap-4">
+            {serviceAreas.map((area, i) => (
+              <div
+                key={i}
+                className="flex items-center gap-2 bg-white/10 rounded-full px-6 py-3"
+              >
+                <MapPin className="w-4 h-4 text-primary" />
+                <span className="text-white">{area}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Section */}
+      <section className="py-20 lg:py-28 bg-primary">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">
+          <h2 className="text-3xl md:text-4xl font-black text-white mb-6">
+            Need Help? Call Us for a Quote
+          </h2>
+          <p className="text-white/80 text-xl mb-10">
+            Contact us today for a free demolition estimate. We handle projects of all sizes throughout Jacksonville and Northeast Florida.
+          </p>
+          <a
+            href={`tel:${BUSINESS.phoneRaw}`}
+            className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
+          >
+            <Phone className="w-6 h-6" />
+            {BUSINESS.phone}
+          </a>
+        </div>
+      </section>
+
+      {/* Schema Markup */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            generateServiceSchema(
+              'Demolition Services Jacksonville FL',
+              'Professional commercial and residential demolition services in Jacksonville, FL. We offer complete demolition, pool removal, interior demolition, site clearing, and emergency demolition services.',
+              true
+            )
+          ),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            generateBreadcrumbSchema([
+              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Services', url: 'https://www.904dumpster.com' },
+              { name: 'Demolition Services', url: 'https://www.904dumpster.com/demolition-services-jacksonville' },
+            ])
+          ),
+        }}
+      />
     </div>
   )
 }

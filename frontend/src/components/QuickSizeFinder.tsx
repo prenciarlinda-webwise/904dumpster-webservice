@@ -73,17 +73,17 @@ const PROJECT_TYPES = [
 const DUMPSTER_INFO: Record<string, { price: string; dimensions: string; capacity: string }> = {
   '10': {
     price: '$275',
-    dimensions: "12' L × 8' W × 3.5' H",
+    dimensions: "12' L × 7.5' W × 3.6' H",
     capacity: '3-4 pickup truck loads',
   },
   '15': {
     price: '$325',
-    dimensions: "16' L × 8' W × 4' H",
+    dimensions: "14' L × 7.5' W × 4.5' H",
     capacity: '5-6 pickup truck loads',
   },
   '20': {
     price: '$375',
-    dimensions: "22' L × 8' W × 4.5' H",
+    dimensions: "14' L × 7.5' W × 5.8' H",
     capacity: '7-8 pickup truck loads',
   },
 }

@@ -309,7 +309,7 @@ export default function PricingPage() {
                 <div>
                   <div className="font-bold text-secondary mb-1">Extended Rental</div>
                   <p className="text-gray-600">
-                    Need more than 5 days? Additional days are $10/day. Just let us know before
+                    Need more than 5 days? Additional days are $15/day. Just let us know before
                     your rental period ends.
                   </p>
                 </div>
