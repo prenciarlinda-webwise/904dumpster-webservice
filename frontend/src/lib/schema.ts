@@ -219,9 +219,7 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
       priceValidUntil: pricing.priceValidUntil,
       availability: 'https://schema.org/InStock',
       seller: {
-        '@type': 'LocalBusiness',
-        name: BUSINESS.name,
-        telephone: BUSINESS.phone,
+        '@id': 'https://www.904dumpster.com/#organization',
       },
       areaServed: generateServiceAreaSchema(),
     },

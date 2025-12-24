@@ -100,6 +100,7 @@ const localBusinessSchema = {
     'https://www.yelp.com/biz/904-dumpsters-jacksonville',
     'https://www.instagram.com/904dumpsters/',
     'https://www.tiktok.com/@904dumpsters',
+    'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
   ],
   address: {
     '@type': 'PostalAddress',
@@ -666,7 +667,7 @@ export default function HomePage() {
               */}
               <div className="bg-gray-100 rounded-3xl overflow-hidden h-[500px] lg:h-[600px]">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d441050.7825570982!2d-81.97979073!3d30.3321838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e5b716f1ceafeb%3A0xc4cd7d3896fcc7e2!2sJacksonville%2C%20FL!5e0!3m2!1sen!2sus!4v1702900000000!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882378.2701757269!2d-82.33537777880585!3d30.243061145835284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db642a87e4a74b%3A0x1adfa8130de0c999!2s904%20Dumpster%20-%20Dumpster%20Rental%20Jacksonville!5e0!3m2!1sen!2s!4v1766570595183!5m2!1sen!2s"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
