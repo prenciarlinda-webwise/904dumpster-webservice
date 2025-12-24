@@ -113,6 +113,12 @@ const nextConfig: NextConfig = {
       { source: '/904-dumpster-directories', destination: '/', permanent: true },
       { source: '/shop', destination: '/', permanent: true },
       { source: '/website-and-seo', destination: '/', permanent: true },
+
+      // --- 404 FIXES (Dec 2024) ---
+      { source: '/services', destination: '/', permanent: true },
+      { source: '/resources', destination: '/blog', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-property-owners', destination: '/residential-dumpster-rental', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-home-cleanouts', destination: '/residential-dumpster-rental', permanent: true },
     ]
   },
 }
