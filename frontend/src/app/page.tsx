@@ -22,6 +22,7 @@ import { BUSINESS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { QuickSizeFinder } from '@/components/QuickSizeFinder'
 import { GoogleReviews } from '@/components/GoogleReviews'
+import DeliveryMap from '@/components/DeliveryMap'
 
 // Service Areas for Geo Section
 const SERVICE_AREAS = {
@@ -36,7 +37,7 @@ const FAQ_DATA = [
   {
     question: 'How much does dumpster rental cost in Jacksonville?',
     answer:
-      'Dumpster rental prices in Jacksonville typically range from $275-$375 depending on the size. Our 10-yard dumpster starts at $275, 15-yard at $325, and 20-yard at $375. All prices include delivery, pickup, and disposal with no hidden fees.',
+      'Dumpster rental price in Jacksonville cost $359-759, but our prices start at $275. Our 10-yard dumpster starts at $275, 15-yard at $325, and 20-yard at $375. All prices include delivery, pickup, and disposal with no hidden fees.',
   },
   {
     question: 'How long can I keep the dumpster?',
@@ -240,7 +241,7 @@ export default function HomePage() {
           {/* Background */}
           <div className="absolute inset-0 z-0">
             <Image
-              src="/images/hero-dumpster-rental-jacksonville.jpg"
+              src="/images/main-hero-dumpster.jpeg"
               alt="Affordable Dumpster Rental Jacksonville FL - 904 Dumpster"
               fill
               className="object-cover"
@@ -803,7 +804,31 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 8: FINAL CTA
+            SECTION 8: DELIVERY MAP (Social Proof)
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-12">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Trusted By Your Neighbors
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Recent Deliveries Across Jacksonville
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                See where we&apos;ve recently delivered dumpsters. From the beaches to Orange Park,
+                we&apos;re proud to serve the entire 904 area.
+              </p>
+            </div>
+
+            {/* Delivery Map Component */}
+            <DeliveryMap height="500px" showStats={true} />
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 9: FINAL CTA
         ============================================ */}
         <section className="py-20 lg:py-28 bg-primary relative overflow-hidden">
           {/* Background Pattern */}

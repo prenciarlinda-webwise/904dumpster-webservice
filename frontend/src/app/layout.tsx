@@ -56,7 +56,7 @@ export const metadata: Metadata = {
       'Affordable dumpster rental in Jacksonville FL. 10, 15, & 20 yard roll-off containers. Same-day delivery available.',
     images: [
       {
-        url: '/images/og-image.jpg',
+        url: '/images/main-hero-dumpster.jpeg',
         width: 1200,
         height: 630,
         alt: '904 Dumpster - Dumpster Rental Jacksonville FL',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description:
       'Affordable dumpster rental in Jacksonville FL. Same-day delivery available.',
-    images: ['/images/og-image.jpg'],
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
   robots: {
     index: true,
@@ -111,6 +111,13 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/images/904-dumpsters-logo.png" type="image/png" />
         <link rel="apple-touch-icon" href="/images/904-dumpsters-logo.png" />
+        {/* Leaflet CSS for delivery map */}
+        <link
+          rel="stylesheet"
+          href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossOrigin=""
+        />
         {/* WebSite Schema - For sitelinks search box */}
         <script
           type="application/ld+json"

@@ -16,6 +16,8 @@ import { BUSINESS } from '@/lib/constants'
 import { ServicePageTemplate } from '@/components/ServicePageTemplate'
 import { SERVICES, getServiceBySlug, getAllServiceSlugs } from '@/data/services'
 import { LOCATIONS, getLocationBySlug, getAllLocationSlugs } from '@/data/locations'
+import DeliveryMap from '@/components/DeliveryMap'
+import { getLocationCountByArea } from '@/data/deliveryLocations'
 import {
   generateDumpsterProductSchema,
   generateServiceSchema,
@@ -804,6 +806,28 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                 </div>
               ))}
             </div>
+          </div>
+        </section>
+      )}
+
+      {/* Delivery Map - Show recent deliveries in this area */}
+      {getLocationCountByArea(location.name) > 0 && (
+        <section className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-12">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Recent Deliveries
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Recent Dumpster Deliveries in {location.name}
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                See where we&apos;ve recently delivered dumpsters in {location.name} and nearby areas.
+                We know this neighborhood!
+              </p>
+            </div>
+
+            <DeliveryMap filterArea={location.name} height="400px" showStats={false} />
           </div>
         </section>
       )}
