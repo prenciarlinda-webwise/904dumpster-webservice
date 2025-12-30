@@ -20,10 +20,12 @@
   "license": "ISC",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.18",
+    "@types/leaflet": "^1.9.21",
     "@types/node": "^25.0.3",
     "@types/react": "^19.2.7",
     "autoprefixer": "^10.4.23",
     "clsx": "^2.1.1",
+    "leaflet": "^1.9.4",
     "lucide-react": "^0.561.0",
     "next": "^16.0.10",
     "next-sitemap": "^4.2.3",
@@ -31,6 +33,7 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-google-recaptcha-v3": "^1.11.0",
+    "react-leaflet": "^5.0.0",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3"
   },
