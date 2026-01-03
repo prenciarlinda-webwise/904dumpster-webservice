@@ -256,6 +256,35 @@ export function ServicePageTemplate({
         </section>
       )}
 
+      {/* FAQs */}
+      {faqs && faqs.length > 0 && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Common Questions
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Frequently Asked Questions
+              </h2>
+            </div>
+
+            <div className="space-y-6">
+              {faqs.map((faq, i) => (
+                <div key={i} className="bg-gray-50 rounded-2xl p-8">
+                  <h3 className="text-xl font-bold text-secondary mb-4">
+                    {faq.question}
+                  </h3>
+                  <p className="text-gray-600 leading-relaxed">
+                    {faq.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Related Services */}
       {relatedServices && relatedServices.length > 0 && (
         <section className="py-20 lg:py-28 bg-white">

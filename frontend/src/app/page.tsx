@@ -32,32 +32,32 @@ const SERVICE_AREAS = {
   nassau: ['Fernandina Beach', 'Yulee', 'Callahan', 'Hilliard'],
 }
 
-// FAQ Data
+// FAQ Data - PAA optimized (40-50 words, direct first sentence)
 const FAQ_DATA = [
   {
     question: 'How much does dumpster rental cost in Jacksonville?',
     answer:
-      'Dumpster rental price in Jacksonville cost $359-759, but our prices start at $275. Our 10-yard dumpster starts at $275, 15-yard at $325, and 20-yard at $375. All prices include delivery, pickup, and disposal with no hidden fees.',
+      'Dumpster rental in Jacksonville costs $275-$375 at 904 Dumpster. Most competitors charge $350-$500. Our 10-yard is $275, 15-yard is $325, and 20-yard is $375. All prices include delivery, pickup, disposal, and 5-day rental.',
   },
   {
     question: 'How long can I keep the dumpster?',
     answer:
-      'Our standard rental period is 5 days, which is included in your quote. Need more time? Just give us a call and we can extend your rental at $15 per additional day.',
+      'Standard rental is 5 days, included in your price. Extensions cost $15 per additional day. Most home cleanouts finish within the 5-day period. Call us if you need more time.',
   },
   {
     question: 'What size dumpster do I need?',
     answer:
-      '10-yard dumpsters are perfect for small cleanouts and single-room renovations. 15-yard dumpsters work great for roofing projects and medium cleanouts. 20-yard dumpsters are ideal for large renovations, construction, and estate cleanouts.',
+      'A 10-yard fits garage cleanouts, 15-yard handles roofing projects and kitchen remodels, and 20-yard works for whole-house cleanouts and construction. When unsure, size up—you only pay for what you use.',
   },
   {
-    question: 'Do you offer same-day delivery?',
+    question: 'Do you offer same-day delivery in Jacksonville?',
     answer:
-      'Yes! We offer same-day dumpster delivery throughout Jacksonville and surrounding areas when you call before noon. Next-day delivery is always available.',
+      'Yes, same-day delivery is available when you book before noon. We serve Jacksonville, Orange Park, St. Augustine, Ponte Vedra, and all of Northeast Florida. Next-day delivery is always guaranteed.',
   },
   {
     question: 'What can I put in the dumpster?',
     answer:
-      'You can dispose of most household items, construction debris, furniture, appliances, yard waste, and roofing materials. We cannot accept hazardous materials, paint, batteries, tires, or electronics.',
+      'Most household items, construction debris, furniture, appliances, yard waste, and roofing materials are accepted. Prohibited items include hazardous waste, paint, batteries, tires, and electronics.',
   },
 ]
 
@@ -133,7 +133,7 @@ const localBusinessSchema = {
   aggregateRating: {
     '@type': 'AggregateRating',
     ratingValue: '5.0',
-    reviewCount: '143',
+    reviewCount: '148',
     bestRating: '5',
     worstRating: '1',
   },
@@ -247,7 +247,7 @@ export default function HomePage() {
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-gradient-to-br from-secondary/95 via-secondary/80 to-secondary/60" />
+            <div className="absolute inset-0 bg-gradient-to-br from-secondary/95 via-secondary/90 to-secondary/70" />
           </div>
 
           {/* Floating Decorations */}
@@ -267,7 +267,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <span className="text-white/90 text-sm font-medium">
-                    143 Five-Star Google Reviews
+                    148 Five-Star Google Reviews
                   </span>
                 </div>
 

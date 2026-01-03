@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Privacy Policy | 904 Dumpster',
   description:
     'Privacy policy for 904 Dumpster. Learn how we collect, use, and protect your personal information when you use our dumpster rental services.',
+  keywords: [],
   alternates: {
     canonical: 'https://www.904dumpster.com/privacy-policy',
   },

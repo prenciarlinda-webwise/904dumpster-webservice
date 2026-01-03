@@ -19,6 +19,7 @@ export const metadata: Metadata = {
   title: 'About Us',
   description:
     'Learn about 904 Dumpster, Jacksonville\'s local family-owned dumpster rental company serving Northeast Florida.',
+  keywords: [],
   alternates: {
     canonical: 'https://www.904dumpster.com/about',
   },

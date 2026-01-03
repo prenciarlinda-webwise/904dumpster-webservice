@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   title: 'Dumpster Rental Blog',
   description:
     'Dumpster rental tips, home improvement guides, and Jacksonville waste disposal information.',
+  keywords: [
+    'dumpster rental tips',
+    'waste disposal guides',
+    'home cleanout tips',
+    'jacksonville dumpster blog',
+  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/blog',
   },

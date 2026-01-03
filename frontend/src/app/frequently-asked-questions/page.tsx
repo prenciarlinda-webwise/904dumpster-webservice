@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   title: 'Dumpster Rental FAQ',
   description:
     'Frequently asked questions about dumpster rental in Jacksonville FL. Sizes, pricing, delivery, and more.',
+  keywords: [
+    'dumpster rental faq',
+    'dumpster rental questions',
+    'how to rent a dumpster jacksonville',
+    'dumpster rental answers',
+  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/frequently-asked-questions',
   },

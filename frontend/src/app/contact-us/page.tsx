@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'Contact Us',
   description:
     'Contact 904 Dumpster for a free dumpster rental quote in Jacksonville FL. Call (904) 240-5598. Same-day delivery available.',
+  keywords: [],
   alternates: {
     canonical: 'https://www.904dumpster.com/contact-us',
   },

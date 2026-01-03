@@ -35,6 +35,7 @@ export async function generateMetadata({
   return {
     title: post.metaTitle,
     description: post.metaDescription,
+    keywords: post.tags,
     authors: [{ name: post.author }],
     alternates: {
       canonical: `https://www.904dumpster.com/blog/${slug}`,

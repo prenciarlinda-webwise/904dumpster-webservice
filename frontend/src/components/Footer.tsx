@@ -38,7 +38,10 @@ const SITEMAP = {
       { label: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl' },
       { label: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl' },
       { label: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
+      { label: 'Fleming Island', href: '/dumpster-rental-fleming-island-fl' },
+      { label: 'Green Cove Springs', href: '/dumpster-rental-green-cove-springs-fl' },
       { label: 'Middleburg', href: '/dumpster-rental-middleburg-fl' },
+      { label: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl' },
     ],
   },
   resources: {

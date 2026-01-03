@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   title: 'Prohibited Items | What Cannot Go in a Dumpster',
   description:
     'Learn what items are not allowed in dumpsters. Hazardous materials, electronics, tires, and more require special disposal. Jacksonville dumpster rental guidelines.',
+  keywords: [
+    'prohibited items dumpster',
+    'what cannot go in a dumpster',
+    'dumpster restrictions',
+    'hazardous waste disposal jacksonville',
+  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/rules/prohibited-items-list',
   },
