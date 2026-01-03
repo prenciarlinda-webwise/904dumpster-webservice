@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Terms of Service | 904 Dumpster',
   description:
     'Terms of service for 904 Dumpster rental services. Review our rental agreement, policies, and conditions for dumpster rental in Jacksonville FL.',
+  keywords: [],
   alternates: {
     canonical: 'https://www.904dumpster.com/terms-of-service',
   },

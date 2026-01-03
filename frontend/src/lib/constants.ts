@@ -66,7 +66,10 @@ export const LOCATIONS_ST_JOHNS = [
 // Clay & Nassau
 export const LOCATIONS_CLAY_NASSAU = [
   { label: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
+  { label: 'Fleming Island', href: '/dumpster-rental-fleming-island-fl' },
+  { label: 'Green Cove Springs', href: '/dumpster-rental-green-cove-springs-fl' },
   { label: 'Middleburg', href: '/dumpster-rental-middleburg-fl' },
+  { label: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl' },
 ] as const
 
 // =============================================================================

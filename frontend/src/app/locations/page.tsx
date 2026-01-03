@@ -6,6 +6,12 @@ import { BUSINESS } from '@/lib/constants'
 export const metadata: Metadata = {
   title: 'Service Areas | Dumpster Rental Jacksonville & Northeast Florida',
   description: 'Professional dumpster rental serving Jacksonville, St. Augustine, Orange Park, Ponte Vedra Beach and all of Northeast Florida. Same-day delivery available.',
+  keywords: [
+    'dumpster rental service areas jacksonville',
+    'northeast florida dumpster rental',
+    'dumpster delivery locations',
+    'where we deliver dumpsters',
+  ],
   openGraph: {
     title: 'Service Areas | 904 Dumpster',
     description: 'Professional dumpster rental serving Jacksonville and all of Northeast Florida.',
@@ -45,9 +51,9 @@ const SERVICE_AREAS = {
     description: 'Orange Park and western communities',
     locations: [
       { name: 'Orange Park', href: '/dumpster-rental-orange-park-fl', description: 'Clay County hub' },
-      { name: 'Fleming Island', href: '/dumpster-rental-orange-park-fl', description: 'Fleming Island service' },
+      { name: 'Fleming Island', href: '/dumpster-rental-fleming-island-fl', description: 'Fleming Island service' },
       { name: 'Middleburg', href: '/dumpster-rental-middleburg-fl', description: 'Rural Clay County' },
-      { name: 'Green Cove Springs', href: '/dumpster-rental-orange-park-fl', description: 'County seat service' },
+      { name: 'Green Cove Springs', href: '/dumpster-rental-green-cove-springs-fl', description: 'County seat service' },
       { name: 'Oakleaf', href: '/dumpster-rental-orange-park-fl', description: 'Oakleaf Plantation area' },
     ],
   },
@@ -55,10 +61,10 @@ const SERVICE_AREAS = {
     name: 'Nassau County',
     description: 'Fernandina Beach and Yulee areas',
     locations: [
-      { name: 'Fernandina Beach', href: '/', description: 'Amelia Island service' },
-      { name: 'Yulee', href: '/', description: 'Nassau County service' },
-      { name: 'Callahan', href: '/', description: 'Western Nassau service' },
-      { name: 'Hilliard', href: '/', description: 'North Nassau service' },
+      { name: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl', description: 'Amelia Island service' },
+      { name: 'Yulee', href: '/dumpster-rental-fernandina-beach-fl', description: 'Nassau County service' },
+      { name: 'Callahan', href: '/dumpster-rental-fernandina-beach-fl', description: 'Western Nassau service' },
+      { name: 'Hilliard', href: '/dumpster-rental-fernandina-beach-fl', description: 'North Nassau service' },
     ],
   },
 }

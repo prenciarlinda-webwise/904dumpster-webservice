@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import Script from 'next/script'
 import {
   Phone,
@@ -14,7 +15,7 @@ import {
 } from 'lucide-react'
 import { BUSINESS } from '@/lib/constants'
 import { ServicePageTemplate } from '@/components/ServicePageTemplate'
-import { SERVICES, getServiceBySlug, getAllServiceSlugs } from '@/data/services'
+import { SERVICES, getServiceBySlug, getAllServiceSlugs, ServicePage } from '@/data/services'
 import { LOCATIONS, getLocationBySlug, getAllLocationSlugs } from '@/data/locations'
 import DeliveryMap from '@/components/DeliveryMap'
 import { getLocationCountByArea } from '@/data/deliveryLocations'
@@ -50,11 +51,12 @@ export async function generateMetadata({
   // Check if it's a service page
   const service = getServiceBySlug(slug)
   if (service) {
-    // Enhanced title format: "10 Yard Dumpster Rental Jacksonville FL | Dimensions & Pricing | 904 Dumpster"
+    // Enhanced title format: "10 Yard Dumpster Rental Jacksonville FL - Dimensions & Pricing"
+    // Note: "- 904 Dumpster" is added automatically by layout.tsx template
     const sizeMatch = slug.match(/^(\d+)-yard/)
     const enhancedTitle = sizeMatch
-      ? `${service.metaTitle} - Dimensions & Pricing - 904 Dumpster`
-      : `${service.metaTitle} - 904 Dumpster`
+      ? `${service.metaTitle}`
+      : service.metaTitle
 
     return {
       title: enhancedTitle,
@@ -93,7 +95,8 @@ export async function generateMetadata({
   // Check if it's a location page
   const location = getLocationBySlug(slug)
   if (location) {
-    const enhancedTitle = `${location.metaTitle} | Same-Day Delivery | 904 Dumpster`
+    // Note: "- 904 Dumpster" is added automatically by layout.tsx template
+    const enhancedTitle = `${location.metaTitle} - Same-Day Delivery`
 
     return {
       title: enhancedTitle,
@@ -153,6 +156,7 @@ export default async function DynamicPage({
             features={service.features}
             idealFor={service.idealFor}
             pricing={service.pricing}
+            faqs={service.faqs}
             relatedServices={service.relatedServices}
             showDumpsterSizes={service.showDumpsterSizes}
             ctaText={service.ctaText}
@@ -179,6 +183,15 @@ export default async function DynamicPage({
               ),
             }}
           />
+          {/* FAQ Schema */}
+          {service.faqs && service.faqs.length > 0 && (
+            <script
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify(generateFAQSchema(service.faqs)),
+              }}
+            />
+          )}
         </>
       )
     }
@@ -190,6 +203,11 @@ export default async function DynamicPage({
         const size = sizeMatch[1] as '10' | '15' | '20'
         return <DumpsterSizePage size={size} service={service} />
       }
+    }
+
+    // Custom Junk Removal Page
+    if (slug === 'junk-removal-jacksonville') {
+      return <JunkRemovalPage service={service} />
     }
 
     // Custom Demolition Services Page
@@ -206,6 +224,7 @@ export default async function DynamicPage({
           features={service.features}
           idealFor={service.idealFor}
           pricing={service.pricing}
+          faqs={service.faqs}
           relatedServices={service.relatedServices}
           showDumpsterSizes={service.showDumpsterSizes !== false}
           ctaText={service.ctaText}
@@ -232,6 +251,15 @@ export default async function DynamicPage({
             ),
           }}
         />
+        {/* FAQ Schema */}
+        {service.faqs && service.faqs.length > 0 && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(generateFAQSchema(service.faqs)),
+            }}
+          />
+        )}
       </>
     )
   }
@@ -487,6 +515,147 @@ function DumpsterSizePage({
         </div>
       </section>
 
+      {/* Delivery Requirements - Information Gain Content */}
+      <section className="py-20 lg:py-28 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Before You Book
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Delivery Requirements for {size} Yard Dumpster
+            </h2>
+            <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+              Real-world clearance guidelines for Jacksonville neighborhoods
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            <div className="bg-white rounded-2xl p-8 shadow-sm">
+              <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-4">
+                <svg className="w-7 h-7 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 10l7-7m0 0l7 7m-7-7v18" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold text-secondary mb-3">Overhead Clearance</h3>
+              <p className="text-gray-600">
+                Requires <strong>22 feet of vertical clearance</strong> for our roll-off trucks. Watch for low-hanging oak trees common in Jacksonville neighborhoods like Riverside and Avondale.
+              </p>
+            </div>
+
+            <div className="bg-white rounded-2xl p-8 shadow-sm">
+              <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-4">
+                <svg className="w-7 h-7 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold text-secondary mb-3">Approach Length</h3>
+              <p className="text-gray-600">
+                Needs <strong>50 feet of straight-line approach</strong> for our roll-off trucks to safely place the dumpster. Tight San Marco alleys? Call us, we&apos;ll find a solution.
+              </p>
+            </div>
+
+            <div className="bg-white rounded-2xl p-8 shadow-sm">
+              <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-4">
+                <Shield className="w-7 h-7 text-primary" />
+              </div>
+              <h3 className="text-xl font-bold text-secondary mb-3">Surface Protection</h3>
+              <p className="text-gray-600">
+                We provide <strong>driveway protection boards at no extra cost</strong> to prevent damage to your pavers, asphalt, or concrete. Standard on every delivery.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQs - Size Specific */}
+      {service.faqs && service.faqs.length > 0 && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Common Questions
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                {size} Yard Dumpster FAQs
+              </h2>
+            </div>
+
+            <div className="space-y-6">
+              {service.faqs.map((faq, i) => (
+                <div key={i} className="bg-gray-50 rounded-2xl p-8">
+                  <h3 className="text-xl font-bold text-secondary mb-4">
+                    {faq.question}
+                  </h3>
+                  {faq.image && (
+                    <div className="mb-6">
+                      <Image
+                        src={faq.image}
+                        alt={faq.question}
+                        width={600}
+                        height={400}
+                        className="rounded-xl w-full max-w-lg"
+                      />
+                    </div>
+                  )}
+                  <p className="text-gray-600 leading-relaxed">
+                    {faq.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Related Resources - Internal Linking */}
+      <section className="py-16 lg:py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <h2 className="text-2xl font-bold text-secondary mb-8 text-center">
+            Helpful Resources
+          </h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <Link href="/blog/how-to-choose-right-dumpster-size" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Dumpster Size Guide</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">Compare 10, 15, and 20 yard options</p>
+            </Link>
+            <Link href="/blog/what-cannot-go-in-dumpster" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Prohibited Items</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">What you can&apos;t put in a dumpster</p>
+            </Link>
+            <Link href="/blog/jacksonville-dumpster-permit-guide" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Permit Guide</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">Jacksonville permit requirements</p>
+            </Link>
+            <Link href="/dumpster-rental-pricing-jacksonville" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Pricing & Booking</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">View all sizes and book online</p>
+            </Link>
+          </div>
+
+          <div className="mt-8 pt-8 border-t border-gray-200">
+            <h3 className="text-lg font-bold text-secondary mb-4 text-center">Service Areas</h3>
+            <div className="flex flex-wrap justify-center gap-3">
+              <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-primary hover:text-secondary font-medium">Jacksonville Beach</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:text-secondary font-medium">Orange Park</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:text-secondary font-medium">St. Augustine</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:text-secondary font-medium">Ponte Vedra</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:text-secondary font-medium">Fleming Island</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-green-cove-springs-fl" className="text-primary hover:text-secondary font-medium">Green Cove Springs</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-atlantic-beach-fl" className="text-primary hover:text-secondary font-medium">Atlantic Beach</Link>
+              <span className="text-gray-300">•</span>
+              <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:text-secondary font-medium">Fernandina Beach</Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="py-20 lg:py-28 bg-primary">
         <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">
@@ -508,7 +677,7 @@ function DumpsterSizePage({
         </div>
       </section>
 
-      {/* Schema Markup - Product */}
+      {/* Schema Markup - Product (Enhanced with AggregateRating and isRelatedTo) */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -528,6 +697,15 @@ function DumpsterSizePage({
           ),
         }}
       />
+      {/* FAQ Schema */}
+      {service.faqs && service.faqs.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(generateFAQSchema(service.faqs)),
+          }}
+        />
+      )}
     </div>
   )
 }
@@ -832,7 +1010,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
         </section>
       )}
 
-      {/* Nearby Areas */}
+      {/* Nearby Areas - With Internal Links */}
       <section className="py-20 lg:py-28 bg-white">
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="text-center mb-16">
@@ -851,6 +1029,50 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                 <span className="text-gray-700">{area}</span>
               </div>
             ))}
+          </div>
+
+          {/* Other Location Pages */}
+          <div className="mt-12 pt-8 border-t border-gray-200">
+            <h3 className="text-lg font-bold text-secondary mb-6 text-center">All Service Areas</h3>
+            <div className="flex flex-wrap justify-center gap-x-6 gap-y-3">
+              <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-primary hover:text-secondary font-medium">Jacksonville Beach</Link>
+              <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:text-secondary font-medium">Orange Park</Link>
+              <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:text-secondary font-medium">St. Augustine</Link>
+              <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:text-secondary font-medium">Ponte Vedra</Link>
+              <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:text-secondary font-medium">Fleming Island</Link>
+              <Link href="/dumpster-rental-green-cove-springs-fl" className="text-primary hover:text-secondary font-medium">Green Cove Springs</Link>
+              <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:text-secondary font-medium">Middleburg</Link>
+              <Link href="/dumpster-rental-atlantic-beach-fl" className="text-primary hover:text-secondary font-medium">Atlantic Beach</Link>
+              <Link href="/dumpster-rental-neptune-beach-fl" className="text-primary hover:text-secondary font-medium">Neptune Beach</Link>
+              <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:text-secondary font-medium">Fernandina Beach</Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Helpful Resources - Internal Linking */}
+      <section className="py-16 lg:py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <h2 className="text-2xl font-bold text-secondary mb-8 text-center">
+            Helpful Resources
+          </h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <Link href="/blog/how-to-choose-right-dumpster-size" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Dumpster Size Guide</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">Compare 10, 15, and 20 yard options</p>
+            </Link>
+            <Link href="/blog/what-cannot-go-in-dumpster" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Prohibited Items</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">What you can&apos;t put in a dumpster</p>
+            </Link>
+            <Link href="/blog/jacksonville-dumpster-permit-guide" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Permit Guide</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">Jacksonville permit requirements</p>
+            </Link>
+            <Link href="/residential-dumpster-rental" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+              <h3 className="font-bold text-secondary group-hover:text-white mb-2">Residential Services</h3>
+              <p className="text-sm text-gray-600 group-hover:text-white/80">Home cleanouts & renovations</p>
+            </Link>
           </div>
         </div>
       </section>
@@ -914,23 +1136,268 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
   )
 }
 
+// Junk Removal Jacksonville Page Component
+function JunkRemovalPage({ service }: { service: ServicePage }) {
+  const junkServices = [
+    {
+      title: 'Furniture Removal',
+      description: 'Sofas, beds, tables, chairs, dressers - we haul away all types of furniture. No need to move it yourself, our crew handles everything.',
+    },
+    {
+      title: 'Appliance Removal',
+      description: 'Refrigerators, washers, dryers, stoves, dishwashers - we remove and properly dispose of all household appliances.',
+    },
+    {
+      title: 'Yard Waste Removal',
+      description: 'Branches, leaves, landscaping debris, old fencing - we clean up your yard and haul everything away.',
+    },
+    {
+      title: 'Estate Cleanouts',
+      description: 'Full estate and house cleanout services. We handle the entire process with care and respect during difficult times.',
+    },
+    {
+      title: 'Office & Commercial Junk',
+      description: 'Desks, cubicles, office furniture, and commercial equipment removal for businesses throughout Jacksonville.',
+    },
+    {
+      title: 'Construction Debris',
+      description: 'Leftover materials, old fixtures, drywall, flooring - we remove construction debris from your job site.',
+    },
+  ]
+
+  return (
+    <div className="min-h-screen">
+      {/* Hero Section */}
+      <section className="relative py-20 lg:py-28 bg-secondary overflow-hidden">
+        <div className="absolute inset-0 opacity-10">
+          <div className="absolute top-10 right-10 w-40 h-40 border border-white rounded-full" />
+          <div className="absolute bottom-10 left-10 w-60 h-60 border border-white rounded-full" />
+        </div>
+
+        <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="max-w-3xl">
+            <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
+              <Link href="/" className="hover:text-white">Home</Link>
+              <span>/</span>
+              <span className="text-white">Junk Removal</span>
+            </nav>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6">
+              Junk Removal{' '}
+              <span className="text-primary">Jacksonville, FL</span>
+            </h1>
+            <p className="text-xl text-white/70 mb-8">
+              Full-service junk removal in Jacksonville FL. We do all the heavy lifting - just point to what you want gone. Same-day junk pickup available throughout Duval County and Northeast Florida.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <a
+                href={`tel:${BUSINESS.phoneRaw}`}
+                className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
+              >
+                <Phone className="w-5 h-5" />
+                Call {BUSINESS.phone}
+              </a>
+              <Link
+                href="/contact-us"
+                className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
+              >
+                Get Free Quote
+                <ArrowRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Trust Badges */}
+      <section className="py-8 bg-primary">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center text-white">
+            <div className="flex items-center justify-center gap-2">
+              <Truck className="w-5 h-5" />
+              <span>Same-Day Pickup</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <CheckCircle2 className="w-5 h-5" />
+              <span>We Do The Lifting</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <Clock className="w-5 h-5" />
+              <span>Fast Turnaround</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <MapPin className="w-5 h-5" />
+              <span>Local Jacksonville Team</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* What We Remove */}
+      <section className="py-20 lg:py-28 bg-white">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              What We Remove
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Junk Hauling Services in Jacksonville
+            </h2>
+            <p className="text-gray-600 text-lg max-w-3xl mx-auto">
+              From furniture removal to estate cleanouts, we handle all types of junk removal in Jacksonville FL.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {junkServices.map((item, i) => (
+              <div
+                key={i}
+                className="bg-gray-50 rounded-2xl p-8 hover:bg-white hover:shadow-xl transition-all"
+              >
+                <h3 className="text-xl font-bold text-secondary mb-3">
+                  {item.title}
+                </h3>
+                <p className="text-gray-600">{item.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* How It Works */}
+      <section className="py-20 lg:py-28 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-16">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              How It Works
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Easy Junk Pickup in Jacksonville FL
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+            <div className="text-center">
+              <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-black">1</div>
+              <h3 className="text-lg font-bold text-secondary mb-2">Call or Book Online</h3>
+              <p className="text-gray-600">Schedule your junk removal. Same-day pickup available when you call before noon.</p>
+            </div>
+            <div className="text-center">
+              <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-black">2</div>
+              <h3 className="text-lg font-bold text-secondary mb-2">Point to Your Junk</h3>
+              <p className="text-gray-600">Just show us what needs to go. We do all the heavy lifting, loading, and cleanup.</p>
+            </div>
+            <div className="text-center">
+              <div className="w-16 h-16 bg-primary rounded-full flex items-center justify-center mx-auto mb-4 text-white text-2xl font-black">3</div>
+              <h3 className="text-lg font-bold text-secondary mb-2">We Haul It Away</h3>
+              <p className="text-gray-600">We remove everything and leave your space clean. Eco-friendly disposal included.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQs */}
+      {service.faqs && service.faqs.length > 0 && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Common Questions
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Junk Removal Jacksonville FL - FAQs
+              </h2>
+            </div>
+
+            <div className="space-y-6">
+              {service.faqs.map((faq, i) => (
+                <div key={i} className="bg-gray-50 rounded-2xl p-8">
+                  <h3 className="text-xl font-bold text-secondary mb-4">
+                    {faq.question}
+                  </h3>
+                  <p className="text-gray-600 leading-relaxed">
+                    {faq.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* CTA Section */}
+      <section className="py-20 lg:py-28 bg-primary">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">
+          <h2 className="text-3xl md:text-4xl font-black text-white mb-6">
+            Ready for Same-Day Junk Removal?
+          </h2>
+          <p className="text-white/80 text-xl mb-10">
+            Call now for junk removal in Jacksonville FL. We handle everything from furniture to full estate cleanouts.
+          </p>
+          <a
+            href={`tel:${BUSINESS.phoneRaw}`}
+            className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
+          >
+            <Phone className="w-6 h-6" />
+            {BUSINESS.phone}
+          </a>
+        </div>
+      </section>
+
+      {/* Schema Markup */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            generateServiceSchema(
+              'Junk Removal Jacksonville FL',
+              'Full-service junk removal in Jacksonville FL. Furniture removal, appliance disposal, estate cleanouts, and same-day junk pickup. We do all the heavy lifting.',
+              true
+            )
+          ),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            generateBreadcrumbSchema([
+              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Services', url: 'https://www.904dumpster.com' },
+              { name: 'Junk Removal Jacksonville', url: 'https://www.904dumpster.com/junk-removal-jacksonville' },
+            ])
+          ),
+        }}
+      />
+      {/* FAQ Schema */}
+      {service.faqs && service.faqs.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(generateFAQSchema(service.faqs)),
+          }}
+        />
+      )}
+    </div>
+  )
+}
+
 // Demolition Services Page Component - 904 Dumpster offers demolition services
 function DemolitionServicesPage() {
   const demolitionServices = [
     {
-      title: 'Commercial Demolition',
+      title: 'Commercial Demolition Services',
       description: 'We have the expertise and experience to demolish large projects of any size, including old schools, metal buildings, and large industrial and commercial buildings.',
     },
     {
-      title: 'Residential Demolition',
+      title: 'Residential Demolition Services',
       description: 'We can tear down part of a house or the entire structure. We offer shed removal, driveway removal, mobile home removal, and garage demolition.',
     },
     {
-      title: 'Swimming Pool Demolition',
+      title: 'Pool Demolition & Removal',
       description: 'We have the equipment, team, and skills to demolish and remove all parts of an old pool and fill the entire hole. Our pool removal services include concrete removal and recycling.',
     },
     {
-      title: 'Interior/Selective Demolition',
+      title: 'Interior Demolition Services',
       description: 'We oversee the removal of specific parts of office or house structures so they are ready for reconstruction, rehab, or redesign.',
     },
     {
@@ -1015,11 +1482,11 @@ function DemolitionServicesPage() {
               <span className="text-white">Demolition Services</span>
             </nav>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6">
-              Demolition Contractors{' '}
+              Demolition Services{' '}
               <span className="text-primary">Jacksonville, FL</span>
             </h1>
             <p className="text-xl text-white/70 mb-8">
-              When it comes to commercial and residential demolition, 904 Dumpster has the experience and expertise to do the job. Regardless of the size, whether small buildings or large industrial ones, we are the people for the job.
+              Professional demolition services in Jacksonville FL for commercial, residential, and industrial projects. Our licensed demolition contractors handle everything from interior demolition to complete structure removal.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
@@ -1070,13 +1537,13 @@ function DemolitionServicesPage() {
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="text-center mb-16">
             <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-              Our Services
+              Our Demolition Services
             </span>
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
-              Demolition Services We Offer
+              Commercial & Residential Demolition Services
             </h2>
             <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-              We are a Florida-based industrial and residential demolition company, specializing in wrecking, deconstruction, decommissioning, and complete demolition services. We have the required expertise, experience, and knowledge, coupled with highly trained staff and equipment, to get your Jacksonville demolition project done correctly, safely, and without unnecessary incidents.
+              We are a Florida-based demolition company specializing in commercial demolition services, residential demolition services, interior demolition, and site clearing. Our licensed demolition contractors have the expertise and equipment to complete your Jacksonville project safely and on schedule.
             </p>
           </div>
 
@@ -1104,7 +1571,7 @@ function DemolitionServicesPage() {
               Why Choose Us
             </span>
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
-              Why Choose 904 Dumpster for Demolition?
+              Licensed Demolition Contractors in Jacksonville FL
             </h2>
           </div>
 
@@ -1127,13 +1594,13 @@ function DemolitionServicesPage() {
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="text-center mb-16">
             <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-              Industries
+              Industries We Serve
             </span>
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
-              Providing Fast Demolition Results for Our Jacksonville Clients
+              Industrial Demolition Services for Jacksonville Businesses
             </h2>
             <p className="text-gray-600 text-lg max-w-3xl mx-auto">
-              We work across many different industries. We work for the private and public sectors including large commercial construction companies, city, state, and federal government agencies.
+              We provide demolition services for private and public sectors including large commercial construction companies, city, state, and federal government agencies throughout Jacksonville FL.
             </p>
           </div>
 
@@ -1159,10 +1626,10 @@ function DemolitionServicesPage() {
               Service Areas
             </span>
             <h2 className="text-3xl md:text-4xl font-black text-white mb-4">
-              Serving Jacksonville and Surrounding Areas
+              Demolition Services Near Me - Jacksonville FL Area
             </h2>
             <p className="text-white/70 text-lg max-w-3xl mx-auto">
-              We have been offering demolition services in the Jacksonville community for years, including Duval County, Clay County, St. Johns County, and Nassau County. As licensed and insured professionals, we can handle it all.
+              We provide demolition services throughout Duval County, Clay County, St. Johns County, and Nassau County. Looking for demolition services near you? We serve all of Northeast Florida.
             </p>
           </div>
 
