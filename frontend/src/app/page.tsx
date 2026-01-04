@@ -47,7 +47,7 @@ const FAQ_DATA = [
   {
     question: 'What size dumpster do I need?',
     answer:
-      'A 10-yard fits garage cleanouts, 15-yard handles roofing projects and kitchen remodels, and 20-yard works for whole-house cleanouts and construction. When unsure, size up—you only pay for what you use.',
+      'A 10-yard fits garage cleanouts, 15-yard handles roofing projects and kitchen remodels, and 20-yard works for whole-house cleanouts and construction. When unsure, size up, you only pay for what you use.',
   },
   {
     question: 'Do you offer same-day delivery in Jacksonville?',

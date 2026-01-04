@@ -4,7 +4,7 @@ import { Phone, MapPin, ArrowRight, CheckCircle2, Truck, Clock, Shield } from 'l
 import { BUSINESS } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Service Areas | Dumpster Rental Jacksonville & Northeast Florida',
+  title: 'Service Areas - Dumpster Rental Jacksonville & Northeast Florida',
   description: 'Professional dumpster rental serving Jacksonville, St. Augustine, Orange Park, Ponte Vedra Beach and all of Northeast Florida. Same-day delivery available.',
   keywords: [
     'dumpster rental service areas jacksonville',
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     'where we deliver dumpsters',
   ],
   openGraph: {
-    title: 'Service Areas | 904 Dumpster',
+    title: 'Service Areas - 904 Dumpster',
     description: 'Professional dumpster rental serving Jacksonville and all of Northeast Florida.',
     type: 'website',
   },

@@ -5,7 +5,7 @@ import { BUSINESS } from '@/lib/constants'
 import { generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Prohibited Items | What Cannot Go in a Dumpster',
+  title: 'Prohibited Items - What Cannot Go in a Dumpster',
   description:
     'Learn what items are not allowed in dumpsters. Hazardous materials, electronics, tires, and more require special disposal. Jacksonville dumpster rental guidelines.',
   keywords: [

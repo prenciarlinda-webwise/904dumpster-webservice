@@ -44,6 +44,193 @@ export const BLOG_CATEGORIES: BlogCategory[] = [
 ]
 
 export const BLOG_POSTS: BlogPost[] = [
+  // Local Guides Category - Paint Disposal
+  {
+    slug: 'how-to-dispose-of-paint-jacksonville',
+    title: 'How to Dispose of Paint in Jacksonville, FL: The Complete 2026 Guide',
+    metaTitle: 'How to Dispose of Paint in Jacksonville FL - Old Paint, Spray Cans & Thinner',
+    metaDescription: 'How to dispose of old paint in Jacksonville FL. Learn how to dispose of latex paint, spray paint cans, and paint thinner at local drop-off sites. Free disposal options.',
+    excerpt: 'To dispose of old paint in Jacksonville, FL, you must take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. Learn how to dispose of latex paint by drying it with kitty litter, how to dispose of spray paint cans, and how to dispose of paint thinner safely.',
+    category: 'local-guides',
+    author: '904 Dumpster Team',
+    publishedDate: '2026-01-04',
+    updatedDate: '2026-01-04',
+    readTime: '8 min read',
+    tags: ['how to dispose of paint', 'how to dispose of old paint', 'how to dispose of latex paint', 'how to dispose of spray paint', 'how to dispose of paint thinner', 'how to dispose of paint cans', 'paint disposal jacksonville'],
+    content: `
+## How to Dispose of Paint in Jacksonville: Quick Answer
+
+**How to dispose of old paint in Jacksonville, FL**: Take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. While wet paint is prohibited in curbside bins and 904 Dumpster rentals, you can dispose of dried latex paint in your regular trash once solidified with cat litter.
+
+**Find your nearest drop-off location**: Use the official [PaintCare Drop-Off Locator Tool](https://www.paintcare.org/drop-off-sites/) to find participating retailers and facilities near your Jacksonville zip code.
+
+## How to Dispose of Latex Paint (Water-Based)
+
+Learning **how to dispose of latex paint** is simple because it is not classified as hazardous waste. If the paint is dry, it can go in the trash.
+
+**The Lowe's Method**: If you have less than an inch of paint remaining, just leave the lid off and let it air dry completely.
+
+**The "904" Pro Tip**: For fuller cans, mix in kitty litter or a commercial paint hardener (available at the Lowe's on Philips Hwy or any hardware store). Once it reaches an "oatmeal" consistency and is fully solidified, it is safe for your regular trash can.
+
+**Drying Time Guidelines**:
+- Less than 1 inch: 2-3 days with lid off
+- 1-2 inches: Add hardener, 3-5 days
+- Half full or more: Pour into cardboard box with kitty litter, 5-7 days
+
+## How to Dispose of Paint Thinner and Oil-Based Paints
+
+Understanding **how to dispose of paint thinner** is critical because these materials are flammable and toxic. You cannot dry these out like latex. They must be taken to the city's specialized facility.
+
+**Materials requiring hazardous waste disposal**:
+- **Paint thinner and mineral spirits**
+- **Turpentine**
+- **Oil-based paints and stains**
+- **Varnishes and Shellacs**
+- **Wood stains and sealers**
+- **Polyurethane coatings**
+
+**Where to take paint thinner in Jacksonville**: The Household Hazardous Waste Facility at 2675 Commonwealth Ave accepts all paint thinners and solvents free of charge for Duval County residents.
+
+## How to Dispose of Spray Paint Cans
+
+Knowing **how to dispose of spray paint cans** correctly prevents safety hazards. The rules differ based on whether the can is empty or still contains product.
+
+### How to Dispose of Empty Spray Paint Cans
+
+**How to dispose of empty spray paint cans** is straightforward:
+- Ensure the can is completely empty (no hissing when you press the nozzle)
+- Empty aerosol cans can be recycled with metal recycling
+- Remove plastic caps and recycle separately
+- Place in your curbside recycling bin
+
+### Spray Paint Cans with Product Remaining
+
+If your spray paint can still has paint or pressure inside:
+- **Do NOT puncture the can** - explosion and fire hazard
+- Take to the HHW Facility at 2675 Commonwealth Ave
+- Hours: Tuesday – Saturday, 8:00 AM – 5:00 PM
+
+## How to Dispose of Paint Cans (Metal Containers)
+
+Learning **how to dispose of paint cans** properly depends on what is inside:
+
+**Empty latex paint cans**:
+- Let any residue dry completely (2-3 days with lid off)
+- Once fully dry, place in recycling or trash
+- Remove lid and place separately
+
+**Paint cans with dried latex paint**:
+- Can go in regular trash if paint is fully hardened
+- Leave lid off so sanitation workers can verify it is dry
+
+**Paint cans with wet paint or oil-based products**:
+- Must go to HHW Facility
+- Do not put in trash or recycling
+
+## Where to Take Old Paint in Duval County
+
+Unlike generic guides from other states, here is exactly where to go in Jacksonville to **dispose of old paint**:
+
+### The Main Hub: Household Hazardous Waste (HHW) Facility
+
+**Address**: 2675 Commonwealth Ave, Jacksonville, FL 32254
+
+**Hours**: Tuesday – Saturday, 8:00 AM – 5:00 PM
+
+**Requirements**: Duval County resident ID required. Commercial contractors not accepted.
+
+**What They Accept**:
+- All oil-based paints and stains
+- Wet latex paint (if you prefer not to dry it)
+- Paint thinners, mineral spirits, and solvents
+- Spray paint cans (full or partial)
+- Varnishes and shellacs
+
+### Mobile Collection Events
+
+If you live in Jacksonville Beach, Atlantic Beach, or Neptune Beach, the drive to Commonwealth Ave is long. The city hosts mobile collection events at Jarboe Park and Beach Blvd.
+
+Check the [City of Jacksonville Solid Waste Division website](https://www.coj.net/departments/neighborhoods/solid-waste) monthly for the 2026 schedule, as dates change based on storm seasons.
+
+### Retail Drop-offs: The PaintCare Program
+
+Jacksonville participates in the **PaintCare program**. Certain local retailers will take back your old paint for free, regardless of where you bought it.
+
+**Participating Stores** (limits apply, usually 5 gallons per visit):
+
+- **Sherwin-Williams (Mandarin)**: 10960 San Jose Blvd
+- **PPG Paints (Southside)**: 8234 Philips Hwy
+- **Sherwin-Williams (Jax Beach)**: 1316 3rd St S
+- **Sherwin-Williams (Orange Park)**: 1910 Park Ave
+- **Various Ace Hardware locations**
+
+**Use the official tool**: [PaintCare Drop-Off Site Locator](https://www.paintcare.org/drop-off-sites/) - Enter your zip code for the complete, up-to-date list.
+
+## What About the Rest of Your Renovation Debris?
+
+Now that you know how to dispose of paint, what about the ripped-out drywall, old cabinets, and saturated drop cloths from your renovation?
+
+The City of Jacksonville's curbside pickup is extremely limited for "Construction and Demolition" (C&D) waste. If you leave flooring or cabinets on the curb in Arlington or Northside, they will likely stay there with a non-compliance tag.
+
+For these projects, a [10-yard dumpster rental](/10-yard-dumpster-rental) is the most popular choice for Jacksonville homeowners. It fits in a standard driveway and handles all the non-hazardous debris that the HHW facility won't take.
+
+**Remember**: Wet paint is prohibited in all dumpster rentals. Make sure any paint residue on materials is fully dried before disposal.
+
+## Paint Disposal Cost Summary
+
+| Disposal Method | Cost | Best For |
+|-----------------|------|----------|
+| Dry latex in trash | Free | 1-2 cans |
+| HHW Facility | Free | Oil-based, paint thinner, spray cans |
+| PaintCare Retailers | Free | 1-5 gallons latex or oil |
+| Commercial Hauler | $50-200+ | Contractor quantities |
+
+## Frequently Asked Questions
+
+### How do I dispose of old paint from my garage cleanout?
+
+To **dispose of old paint** from a garage cleanout, first identify latex vs oil-based. Dry latex with kitty litter for trash disposal. Take oil-based paints to the HHW Facility at 2675 Commonwealth Ave.
+
+### Can I return paint to Sherwin-Williams in Jacksonville?
+
+Yes, if they are a PaintCare participant. They accept most latex and oil-based paints in original containers with readable labels. Call ahead to confirm current limits (typically 5 gallons per visit).
+
+### Is it illegal to put wet paint in a dumpster in Florida?
+
+Yes. Environmental regulations prohibit wet paint in landfills due to soil and groundwater contamination risks. Always dry latex paint with hardener or kitty litter, or take it to the HHW facility.
+
+### How do I dispose of spray paint that is not empty?
+
+**How to dispose of spray paint** that still contains product: Take it to the HHW Facility. Never puncture aerosol cans - they can explode and cause fires.
+
+### Can I pour old paint or paint thinner down the drain?
+
+**Never.** Neither latex paint nor paint thinner should go down drains. Paint clogs pipes, and paint thinner contaminates water treatment systems. Dry latex paint or take all materials to proper disposal.
+
+### What about primer, wood stain, or polyurethane?
+
+Most of these are oil-based and must go to the HHW facility. Check the can label - if it says "clean up with mineral spirits" or "flammable," it requires hazardous waste disposal.
+
+## Related Jacksonville Disposal Guides
+
+After your painting project, you may have other debris to handle:
+
+- [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster) - Complete prohibited items list
+- [Kitchen Renovation Debris Guide](/blog/kitchen-renovation-debris-disposal-guide) - Managing remodel waste
+- [Jacksonville Dumpster Permit Guide](/blog/jacksonville-dumpster-permit-guide) - When you need permits
+
+## Ready to Handle the Rest of Your Project Debris?
+
+Paint disposal is just one part of renovation cleanup. For everything else - drywall, cabinets, flooring, and construction debris - 904 Dumpster provides same-day delivery throughout Jacksonville.
+
+**Our Dumpster Options**:
+- [10-Yard Dumpster](/10-yard-dumpster-rental) - $275, perfect for single-room projects
+- [15-Yard Dumpster](/15-yard-dumpster-rental) - $325, our most popular for renovations
+- [20-Yard Dumpster](/20-yard-dumpster-rental) - $375, for major projects
+
+Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for fast delivery to your Jacksonville project site.
+    `,
+  },
   // Home Improvement Category
   {
     slug: 'complete-guide-home-cleanout-jacksonville',

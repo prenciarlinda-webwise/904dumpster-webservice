@@ -12,6 +12,13 @@ import {
 } from '@/data/blog'
 import { BUSINESS } from '@/lib/constants'
 import { generateBreadcrumbSchema } from '@/lib/schema'
+import BlogFAQ from '@/components/BlogFAQ'
+
+// Interface for parsed FAQ items
+interface FAQItem {
+  question: string
+  answer: string
+}
 
 // Generate static params for all blog posts
 export async function generateStaticParams() {
@@ -54,33 +61,225 @@ export async function generateMetadata({
 
 // Convert markdown-like content to HTML
 function formatContent(content: string): string {
-  return content
+  const lines = content.split('\n')
+  const result: string[] = []
+  let inTable = false
+  let tableRows: string[] = []
+
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i]
+
+    // Check if this is a table row (starts with |)
+    if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      // Skip separator rows (|---|---|)
+      if (line.includes('---')) {
+        continue
+      }
+
+      if (!inTable) {
+        inTable = true
+        tableRows = []
+      }
+      tableRows.push(line)
+      continue
+    } else if (inTable) {
+      // End of table, render it
+      result.push(renderTable(tableRows))
+      inTable = false
+      tableRows = []
+    }
+
+    // Headers
+    if (line.startsWith('## ')) {
+      line = line.slice(3)
+      line = processInlineFormatting(line)
+      result.push(`<h2 class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line}</h2>`)
+      continue
+    }
+    if (line.startsWith('### ')) {
+      line = line.slice(4)
+      line = processInlineFormatting(line)
+      result.push(`<h3 class="text-xl md:text-2xl font-bold text-secondary mt-8 mb-4">${line}</h3>`)
+      continue
+    }
+
+    // Process inline formatting (bold, links)
+    line = processInlineFormatting(line)
+
+    // List items
+    if (lines[i].startsWith('- ')) {
+      const listContent = line.replace(/^- /, '')
+      result.push(`<li class="flex items-start gap-3 mb-2"><span class="text-primary mt-1.5">•</span><span>${listContent}</span></li>`)
+      continue
+    }
+    if (lines[i].match(/^\d+\.\s/)) {
+      const num = lines[i].match(/^\d+/)?.[0]
+      const text = line.replace(/^\d+\.\s/, '')
+      result.push(`<li class="flex items-start gap-3 mb-2"><span class="text-primary font-semibold">${num}.</span><span>${text}</span></li>`)
+      continue
+    }
+
+    // Regular paragraphs
+    if (line.trim()) {
+      result.push(`<p class="text-gray-600 text-lg leading-relaxed mb-4">${line}</p>`)
+    }
+  }
+
+  // Handle table at end of content
+  if (inTable && tableRows.length > 0) {
+    result.push(renderTable(tableRows))
+  }
+
+  return result.join('\n')
+}
+
+// Process inline formatting: bold and links
+function processInlineFormatting(text: string): string {
+  // Links: [text](url)
+  text = text.replace(
+    /\[([^\]]+)\]\(([^)]+)\)/g,
+    '<a href="$2" class="text-primary hover:text-secondary underline font-medium transition-colors">$1</a>'
+  )
+  // Bold text
+  text = text.replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-secondary">$1</strong>')
+  return text
+}
+
+// Render markdown table to HTML
+function renderTable(rows: string[]): string {
+  if (rows.length === 0) return ''
+
+  const parseRow = (row: string): string[] => {
+    return row
+      .split('|')
+      .slice(1, -1) // Remove empty first and last elements
+      .map((cell) => cell.trim())
+  }
+
+  const headerCells = parseRow(rows[0])
+  const bodyRows = rows.slice(1)
+
+  let html = '<div class="overflow-x-auto my-8"><table class="w-full border-collapse bg-white rounded-xl overflow-hidden shadow-sm">'
+
+  // Header
+  html += '<thead class="bg-secondary text-white"><tr>'
+  headerCells.forEach((cell) => {
+    const formattedCell = processInlineFormatting(cell)
+    html += `<th class="text-left py-4 px-6 font-bold">${formattedCell}</th>`
+  })
+  html += '</tr></thead>'
+
+  // Body
+  html += '<tbody>'
+  bodyRows.forEach((row, index) => {
+    const cells = parseRow(row)
+    const bgClass = index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
+    html += `<tr class="${bgClass} border-b border-gray-200">`
+    cells.forEach((cell) => {
+      const formattedCell = processInlineFormatting(cell)
+      html += `<td class="py-4 px-6 text-gray-700">${formattedCell}</td>`
+    })
+    html += '</tr>'
+  })
+  html += '</tbody></table></div>'
+
+  return html
+}
+
+// Parse FAQs from content - looks for "## Frequently Asked Questions" section
+function parseFAQs(content: string): { mainContent: string; faqs: FAQItem[]; afterFaqContent: string } {
+  // Look for FAQ section header (case insensitive)
+  const faqHeaderRegex = /^## Frequently Asked Questions/im
+  const faqMatch = content.match(faqHeaderRegex)
+
+  if (!faqMatch || faqMatch.index === undefined) {
+    return { mainContent: content, faqs: [], afterFaqContent: '' }
+  }
+
+  // Split content at FAQ section
+  const mainContent = content.slice(0, faqMatch.index).trim()
+  const faqSection = content.slice(faqMatch.index + faqMatch[0].length).trim()
+
+  // Parse individual FAQs (### Question format)
+  const faqs: FAQItem[] = []
+  const lines = faqSection.split('\n')
+  let currentQuestion = ''
+  let currentAnswer: string[] = []
+  let afterFaqStartIndex = -1
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    if (line.startsWith('### ')) {
+      // Save previous FAQ if exists
+      if (currentQuestion && currentAnswer.length > 0) {
+        faqs.push({
+          question: currentQuestion,
+          answer: formatFAQAnswer(currentAnswer.join('\n')),
+        })
+      }
+      currentQuestion = line.slice(4).trim()
+      currentAnswer = []
+    } else if (line.startsWith('## ')) {
+      // New H2 section means end of FAQs - save the last FAQ and capture remaining content
+      if (currentQuestion && currentAnswer.length > 0) {
+        faqs.push({
+          question: currentQuestion,
+          answer: formatFAQAnswer(currentAnswer.join('\n')),
+        })
+      }
+      afterFaqStartIndex = i
+      break
+    } else if (currentQuestion) {
+      currentAnswer.push(line)
+    }
+  }
+
+  // Don't forget the last FAQ if no ## was found after
+  if (afterFaqStartIndex === -1 && currentQuestion && currentAnswer.length > 0) {
+    faqs.push({
+      question: currentQuestion,
+      answer: formatFAQAnswer(currentAnswer.join('\n')),
+    })
+  }
+
+  // Get content after FAQs (like "Related Guides" section)
+  const afterFaqContent = afterFaqStartIndex >= 0 ? lines.slice(afterFaqStartIndex).join('\n') : ''
+
+  return { mainContent, faqs, afterFaqContent }
+}
+
+// Format FAQ answer with inline formatting
+function formatFAQAnswer(answer: string): string {
+  return answer
     .split('\n')
     .map((line) => {
-      // Headers
-      if (line.startsWith('## ')) {
-        return `<h2 class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line.slice(3)}</h2>`
-      }
-      if (line.startsWith('### ')) {
-        return `<h3 class="text-xl md:text-2xl font-bold text-secondary mt-8 mb-4">${line.slice(4)}</h3>`
-      }
-      // Bold text
-      line = line.replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-secondary">$1</strong>')
-      // List items
+      if (!line.trim()) return ''
+      line = processInlineFormatting(line)
       if (line.startsWith('- ')) {
-        return `<li class="flex items-start gap-3 mb-2"><span class="text-primary mt-1.5">•</span><span>${line.slice(2)}</span></li>`
+        return `<li class="flex items-start gap-2 mb-1"><span class="text-primary">•</span><span>${line.slice(2)}</span></li>`
       }
-      if (line.match(/^\d+\.\s/)) {
-        const text = line.replace(/^\d+\.\s/, '')
-        return `<li class="flex items-start gap-3 mb-2"><span class="text-primary font-semibold">${line.match(/^\d+/)?.[0]}.</span><span>${text}</span></li>`
-      }
-      // Regular paragraphs
-      if (line.trim()) {
-        return `<p class="text-gray-600 text-lg leading-relaxed mb-4">${line}</p>`
-      }
-      return ''
+      return `<p class="mb-2">${line}</p>`
     })
-    .join('\n')
+    .filter(Boolean)
+    .join('')
+}
+
+// Generate FAQ Schema for SEO
+function generateFAQSchema(faqs: FAQItem[]) {
+  if (faqs.length === 0) return null
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer.replace(/<[^>]*>/g, ''), // Strip HTML for schema
+      },
+    })),
+  }
 }
 
 export default async function BlogPostPage({
@@ -98,15 +297,22 @@ export default async function BlogPostPage({
   const category = getCategoryBySlug(post.category)
   const recentPosts = getRecentPosts(3).filter((p) => p.slug !== post.slug)
 
+  // Parse FAQs from content
+  const { mainContent, faqs, afterFaqContent } = parseFAQs(post.content)
+
   // Generate Article schema
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.title,
     description: post.metaDescription,
+    image: post.featuredImage
+      ? `https://www.904dumpster.com${post.featuredImage}`
+      : 'https://www.904dumpster.com/images/904-dumpsters-logo.png',
     author: {
       '@type': 'Organization',
       name: post.author,
+      url: 'https://www.904dumpster.com',
     },
     publisher: {
       '@type': 'Organization',
@@ -122,7 +328,11 @@ export default async function BlogPostPage({
       '@type': 'WebPage',
       '@id': `https://www.904dumpster.com/blog/${post.slug}`,
     },
+    keywords: post.tags.join(', '),
   }
+
+  // Generate FAQ schema if FAQs exist
+  const faqSchema = generateFAQSchema(faqs)
 
   return (
     <div className="min-h-screen">
@@ -183,10 +393,22 @@ export default async function BlogPostPage({
           <div className="grid lg:grid-cols-3 gap-12">
             {/* Main Content */}
             <article className="lg:col-span-2">
+              {/* Main article content (without FAQs) */}
               <div
                 className="prose prose-lg max-w-none"
-                dangerouslySetInnerHTML={{ __html: formatContent(post.content) }}
+                dangerouslySetInnerHTML={{ __html: formatContent(mainContent) }}
               />
+
+              {/* FAQ Accordion Section */}
+              {faqs.length > 0 && <BlogFAQ faqs={faqs} />}
+
+              {/* Content after FAQs (Related Guides, CTA, etc.) */}
+              {afterFaqContent && (
+                <div
+                  className="prose prose-lg max-w-none"
+                  dangerouslySetInnerHTML={{ __html: formatContent(afterFaqContent) }}
+                />
+              )}
 
               {/* Tags */}
               <div className="mt-12 pt-8 border-t border-gray-200">
@@ -310,6 +532,15 @@ export default async function BlogPostPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
+
+      {/* Schema Markup - FAQ (for People Also Ask & AI Overviews) */}
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+
       {/* Schema Markup - Breadcrumb (critical for site hierarchy) */}
       <script
         type="application/ld+json"

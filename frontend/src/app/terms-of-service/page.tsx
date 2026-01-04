@@ -4,7 +4,7 @@ import { BUSINESS } from '@/lib/constants'
 import { generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | 904 Dumpster',
+  title: 'Terms of Service - 904 Dumpster',
   description:
     'Terms of service for 904 Dumpster rental services. Review our rental agreement, policies, and conditions for dumpster rental in Jacksonville FL.',
   keywords: [],

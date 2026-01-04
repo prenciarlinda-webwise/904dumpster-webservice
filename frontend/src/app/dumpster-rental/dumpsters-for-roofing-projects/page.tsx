@@ -14,7 +14,7 @@ import { BUSINESS, DUMPSTER_SIZES } from '@/lib/constants'
 import { generateServiceSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Dumpsters for Roofing Projects Jacksonville FL | 904 Dumpster',
+  title: 'Dumpsters for Roofing Projects Jacksonville FL - 904 Dumpster',
   description:
     'Rent a dumpster for your roofing project in Jacksonville FL. 15-yard dumpsters are perfect for shingle removal. Same-day delivery, transparent pricing.',
   keywords: [
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-roofing-projects',
   },
   openGraph: {
-    title: 'Dumpsters for Roofing Projects Jacksonville FL | 904 Dumpster',
+    title: 'Dumpsters for Roofing Projects Jacksonville FL - 904 Dumpster',
     description:
       'Rent a dumpster for your roofing project in Jacksonville FL. 15-yard dumpsters are perfect for shingle removal.',
     type: 'website',

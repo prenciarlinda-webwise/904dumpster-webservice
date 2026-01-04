@@ -4,7 +4,7 @@ import { BUSINESS } from '@/lib/constants'
 import { generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | 904 Dumpster',
+  title: 'Privacy Policy - 904 Dumpster',
   description:
     'Privacy policy for 904 Dumpster. Learn how we collect, use, and protect your personal information when you use our dumpster rental services.',
   keywords: [],
