@@ -601,7 +601,7 @@ export const LOCATIONS: Location[] = [
       'fernandina beach waste removal',
       'dumpster rental amelia island fl',
     ],
-    metaTitle: 'Dumpster Rental Fernandina Beach FL | Amelia Island Service',
+    metaTitle: 'Dumpster Rental Fernandina Beach FL - Amelia Island Service',
     metaDescription: 'Dumpster rental in Fernandina Beach & Amelia Island FL. 10, 15 & 20 yard roll-off containers with same-day delivery. Serving Nassau County residential and commercial projects.',
     heroTitle: 'Dumpster Rental in',
     heroSubtitle: 'Reliable roll-off dumpster service for Fernandina Beach and Amelia Island. From historic downtown renovations to beachfront cleanouts, we deliver fast and professional service throughout Nassau County.',

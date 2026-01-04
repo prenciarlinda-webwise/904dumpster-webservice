@@ -14,7 +14,7 @@ import { BUSINESS, DUMPSTER_SIZES } from '@/lib/constants'
 import { generateServiceSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Dumpsters for Construction Projects Jacksonville FL | 904 Dumpster',
+  title: 'Dumpsters for Construction Projects Jacksonville FL - 904 Dumpster',
   description:
     'Construction dumpster rental in Jacksonville FL. Heavy-duty roll-off containers for job sites, renovations, and new builds. Same-day delivery available.',
   keywords: [
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-construction-projects',
   },
   openGraph: {
-    title: 'Dumpsters for Construction Projects Jacksonville FL | 904 Dumpster',
+    title: 'Dumpsters for Construction Projects Jacksonville FL - 904 Dumpster',
     description:
       'Construction dumpster rental in Jacksonville FL. Heavy-duty roll-off containers for job sites.',
     type: 'website',

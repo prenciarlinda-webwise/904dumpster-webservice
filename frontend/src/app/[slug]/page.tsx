@@ -462,6 +462,470 @@ function DumpsterSizePage({
         </div>
       </section>
 
+      {/* 15-Yard Specific: Mental Model - Capacity Visualization (AI Overview Bait) */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Understanding the Volume
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                How Much Can a 15-Yard Dumpster Hold?
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                Most homeowners struggle to visualize &quot;cubic yards.&quot; Here&apos;s how to picture it for your Jacksonville project.
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+              <div className="bg-gray-50 rounded-2xl p-8 text-center">
+                <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <Truck className="w-8 h-8 text-primary" />
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-2">5-6 Pickup Trucks</h3>
+                <p className="text-gray-600">Imagine 5-6 standard pickup truck beds filled to the brim. That&apos;s the capacity of one 15-yard bin.</p>
+              </div>
+
+              <div className="bg-gray-50 rounded-2xl p-8 text-center">
+                <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <svg className="w-8 h-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-2">80-100 Contractor Bags</h3>
+                <p className="text-gray-600">Fits approximately 80-100 large (33-gallon) contractor trash bags.</p>
+              </div>
+
+              <div className="bg-gray-50 rounded-2xl p-8 text-center">
+                <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <svg className="w-8 h-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-2">25-30 Roofing Squares</h3>
+                <p className="text-gray-600">Handles 2,500-3,000 sq ft of asphalt shingles from a typical Jacksonville home roof.</p>
+              </div>
+
+              <div className="bg-gray-50 rounded-2xl p-8 text-center">
+                <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <svg className="w-8 h-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6zM16 13a1 1 0 011-1h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6z" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-2">1,500 Sq Ft Flooring</h3>
+                <p className="text-gray-600">Can hold debris from a 1,500 sq ft flooring tear-out including carpet and padding.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 15-Yard Specific: Roofing Standard Section */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-secondary">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="grid lg:grid-cols-2 gap-16 items-center">
+              <div>
+                <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                  The Roofing Industry Standard
+                </span>
+                <h2 className="text-3xl md:text-4xl font-black text-white mb-6">
+                  Why the 15-Yard Bin is the &quot;Roofing Standard&quot; in the 904
+                </h2>
+                <p className="text-white/80 text-lg mb-6">
+                  Jacksonville roofing contractors almost exclusively use 15-yard bins for residential tear-offs. Why? <strong className="text-white">Weight management.</strong>
+                </p>
+                <div className="space-y-4">
+                  <div className="flex items-start gap-4">
+                    <CheckCircle2 className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                    <div>
+                      <p className="text-white/80">
+                        <strong className="text-white">Shingles are heavy:</strong> One &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <CheckCircle2 className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                    <div>
+                      <p className="text-white/80">
+                        <strong className="text-white">Perfect capacity:</strong> A 15-yard dumpster can hold roughly 25-30 squares of shingles.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-4">
+                    <CheckCircle2 className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
+                    <div>
+                      <p className="text-white/80">
+                        <strong className="text-white">Built-in safeguard:</strong> Using a larger 20-yard bin for shingles often leads to over-filling and massive overweight fees at the landfill. The 15-yard acts as a natural safeguard, keeping your project on budget.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="bg-white/10 rounded-3xl p-8">
+                <h3 className="text-xl font-bold text-white mb-6">Weight Breakdown</h3>
+                <div className="space-y-4">
+                  <div className="flex justify-between items-center py-3 border-b border-white/20">
+                    <span className="text-white/80">Our $325 flat rate includes</span>
+                    <span className="text-white font-bold">2 tons (4,000 lbs)</span>
+                  </div>
+                  <div className="flex justify-between items-center py-3 border-b border-white/20">
+                    <span className="text-white/80">Average 2,500 sq ft roof generates</span>
+                    <span className="text-white font-bold">~2 tons of debris</span>
+                  </div>
+                  <div className="flex justify-between items-center py-3">
+                    <span className="text-white/80">Overage fee (if exceeded)</span>
+                    <span className="text-white font-bold">$75/ton</span>
+                  </div>
+                </div>
+                <p className="text-white/60 text-sm mt-6">
+                  If you&apos;re a roofer working in Mandarin or Southside, the 15-yard bin is your most cost-effective choice.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 15-Yard Specific: Top Project Use Cases */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Project Guides
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Top Project Use Cases for a 15-Yard Rental
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                If your project falls into one of these categories, the 15-yard is likely your best ROI.
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-3 gap-8">
+              <div className="bg-gray-50 rounded-2xl p-8">
+                <div className="w-14 h-14 bg-primary rounded-xl flex items-center justify-center mb-6">
+                  <svg className="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-4">Kitchen & Bathroom Remodels</h3>
+                <p className="text-gray-600 mb-4">
+                  When you rip out old cabinets, granite countertops, and cast-iron tubs, you need volume.
+                </p>
+                <p className="text-gray-600">
+                  The 4.5-foot walls of the 15-yard bin are <strong>low enough to toss heavy debris over the side without needing a ladder</strong>, but deep enough to contain bulky items like a dishwasher or vanity.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 rounded-2xl p-8">
+                <div className="w-14 h-14 bg-primary rounded-xl flex items-center justify-center mb-6">
+                  <svg className="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-4">Major Garage or Attic Purge</h3>
+                <p className="text-gray-600 mb-4">
+                  If you&apos;re clearing out a 2-car garage that hasn&apos;t been touched in a decade, a 10-yard bin is often too small.
+                </p>
+                <p className="text-gray-600">
+                  The 15-yard accommodates old bicycles, lawn furniture, broken workbenches, and those endless stacks of moving boxes.
+                </p>
+              </div>
+
+              <div className="bg-gray-50 rounded-2xl p-8">
+                <div className="w-14 h-14 bg-primary rounded-xl flex items-center justify-center mb-6">
+                  <svg className="w-7 h-7 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 5a1 1 0 011-1h14a1 1 0 011 1v2a1 1 0 01-1 1H5a1 1 0 01-1-1V5zM4 13a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H5a1 1 0 01-1-1v-6z" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-4">Deck & Fence Removal</h3>
+                <p className="text-gray-600 mb-4">
+                  Tearing down a 250-sq-ft wooden deck? The 15-yard handles the pressure-treated lumber and posts with ease.
+                </p>
+                <p className="text-gray-600">
+                  <strong>Note:</strong> In Jacksonville, the city&apos;s bulk pickup will often refuse pressure-treated wood due to chemical treatments. A dumpster is the only legal way to dispose of this material.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 15-Yard Specific: 904 Advantage - Local vs National Brokers */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Local vs. National
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                The 904 Advantage: Why Local Beats National Brokers
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                When you search for &quot;dumpster rental near me,&quot; you&apos;ll see national giants like Waste Management or Budget Dumpster. Here&apos;s why booking directly with a Jacksonville-owned company is the smart choice.
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-3 gap-8">
+              <div className="bg-white rounded-2xl p-8 shadow-lg">
+                <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-6">
+                  <DollarSign className="w-7 h-7 text-primary" />
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-4">No Hidden &quot;Environmental&quot; Fees</h3>
+                <p className="text-gray-600">
+                  National brokers often quote a low base price and add $50–$100 in &quot;fuel surcharges&quot; or &quot;admin fees&quot; at checkout. <strong>Our $325 price is the price.</strong>
+                </p>
+              </div>
+
+              <div className="bg-white rounded-2xl p-8 shadow-lg">
+                <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-6">
+                  <Shield className="w-7 h-7 text-primary" />
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-4">Driveway Protection Boards</h3>
+                <p className="text-gray-600">
+                  We know Florida asphalt and pavers. <strong>Every 15-yard delivery includes complimentary wood planks</strong> to ensure the steel rollers never touch your driveway directly.
+                </p>
+              </div>
+
+              <div className="bg-white rounded-2xl p-8 shadow-lg">
+                <div className="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center mb-6">
+                  <MapPin className="w-7 h-7 text-primary" />
+                </div>
+                <h3 className="text-xl font-bold text-secondary mb-4">Local Knowledge</h3>
+                <p className="text-gray-600">
+                  We know which neighborhoods require permits. If you&apos;re in Neptune Beach, we know the specific street-placement rules. <strong>A call center in Ohio doesn&apos;t.</strong>
+                </p>
+              </div>
+            </div>
+
+            {/* Google Reviews Link */}
+            <div className="mt-12 text-center">
+              <a
+                href="https://www.google.com/maps/place/904+Dumpster/@30.1924066,-81.6871206,17z/data=!4m8!3m7!1s0x88e5b08bcbd9e4d1:0xa5b1ef12a58f5e8d!8m2!3d30.1924066!4d-81.6845457!9m1!1b1!16s%2Fg%2F11vd8yc8jp"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-primary font-bold hover:text-secondary transition-colors"
+              >
+                <span>See our 143+ 5-Star Reviews on Google</span>
+                <ArrowRight className="w-5 h-5" />
+              </a>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 15-Yard Specific: Pricing Table */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Transparent Pricing
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                How Much Does a 15-Yard Dumpster Cost in Jacksonville?
+              </h2>
+              <p className="text-gray-600 text-lg">
+                Pricing in the Northeast Florida market fluctuates, but we maintain a competitive, transparent structure.
+              </p>
+            </div>
+
+            <div className="bg-gray-50 rounded-2xl overflow-hidden">
+              <table className="w-full">
+                <thead className="bg-secondary text-white">
+                  <tr>
+                    <th className="text-left py-4 px-6 font-bold">Item</th>
+                    <th className="text-left py-4 px-6 font-bold">904 Dumpster Price</th>
+                    <th className="text-left py-4 px-6 font-bold hidden sm:table-cell">Notes</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr className="border-b border-gray-200">
+                    <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
+                    <td className="py-4 px-6 font-bold text-primary text-xl">$325</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
+                  </tr>
+                  <tr className="border-b border-gray-200 bg-white">
+                    <td className="py-4 px-6 font-medium text-secondary">Weight Limit</td>
+                    <td className="py-4 px-6 font-bold text-secondary">2 Tons</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included in base price</td>
+                  </tr>
+                  <tr className="border-b border-gray-200">
+                    <td className="py-4 px-6 font-medium text-secondary">Rental Period</td>
+                    <td className="py-4 px-6 font-bold text-secondary">5 Days</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Extensions available for $15/day</td>
+                  </tr>
+                  <tr className="bg-white">
+                    <td className="py-4 px-6 font-medium text-secondary">Overage Fee</td>
+                    <td className="py-4 px-6 font-bold text-secondary">$75/Ton</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only applies if you exceed 2 tons</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 15-Yard Specific: Size Comparison Table (PAA Bait) */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-5xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Choose Your Size
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Is a 15-Yard Dumpster Right for You?
+              </h2>
+              <p className="text-gray-600 text-lg">
+                Use this table to find the best dumpster size for your project type.
+              </p>
+            </div>
+
+            <div className="bg-white rounded-2xl overflow-hidden shadow-lg">
+              <table className="w-full">
+                <thead className="bg-secondary text-white">
+                  <tr>
+                    <th className="text-left py-4 px-6 font-bold">Project Type</th>
+                    <th className="text-left py-4 px-6 font-bold">Recommended Size</th>
+                    <th className="text-left py-4 px-6 font-bold hidden md:table-cell">Why?</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr className="border-b border-gray-200">
+                    <td className="py-4 px-6 text-secondary">Small Garage Cleanout</td>
+                    <td className="py-4 px-6">
+                      <Link href="/10-yard-dumpster-rental" className="text-primary font-bold hover:underline">10 Yard</Link>
+                    </td>
+                    <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Fits in tight single-car driveways</td>
+                  </tr>
+                  <tr className="border-b border-gray-200 bg-primary/5">
+                    <td className="py-4 px-6 text-secondary font-medium">Kitchen Remodel</td>
+                    <td className="py-4 px-6">
+                      <span className="text-primary font-bold">15 Yard</span>
+                      <span className="ml-2 text-xs bg-primary text-white px-2 py-1 rounded">BEST FIT</span>
+                    </td>
+                    <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Handles bulky cabinets + appliances</td>
+                  </tr>
+                  <tr className="border-b border-gray-200 bg-primary/5">
+                    <td className="py-4 px-6 text-secondary font-medium">Full Roof Replacement</td>
+                    <td className="py-4 px-6">
+                      <span className="text-primary font-bold">15 Yard</span>
+                      <span className="ml-2 text-xs bg-primary text-white px-2 py-1 rounded">BEST FIT</span>
+                    </td>
+                    <td className="py-4 px-6 text-gray-600 hidden md:table-cell">The &quot;Goldilocks&quot; size for shingle weight</td>
+                  </tr>
+                  <tr className="border-b border-gray-200 bg-primary/5">
+                    <td className="py-4 px-6 text-secondary font-medium">Deck Removal (250+ sq ft)</td>
+                    <td className="py-4 px-6">
+                      <span className="text-primary font-bold">15 Yard</span>
+                      <span className="ml-2 text-xs bg-primary text-white px-2 py-1 rounded">BEST FIT</span>
+                    </td>
+                    <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Handles pressure-treated lumber legally</td>
+                  </tr>
+                  <tr className="border-b border-gray-200">
+                    <td className="py-4 px-6 text-secondary">Major Construction / Demo</td>
+                    <td className="py-4 px-6">
+                      <Link href="/20-yard-dumpster-rental" className="text-primary font-bold hover:underline">20 Yard</Link>
+                    </td>
+                    <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Best for heavy lumber and drywall stacks</td>
+                  </tr>
+                  <tr>
+                    <td className="py-4 px-6 text-secondary">Whole-House Estate Cleanout</td>
+                    <td className="py-4 px-6">
+                      <Link href="/20-yard-dumpster-rental" className="text-primary font-bold hover:underline">20 Yard</Link>
+                    </td>
+                    <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Maximum capacity for large jobs</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 15-Yard Specific: Prohibited Items */}
+      {size === '15' && (
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Important Regulations
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Prohibited Items: What You CANNOT Put in Your Dumpster
+              </h2>
+              <p className="text-gray-600 text-lg">
+                Per Duval County Solid Waste regulations and Trail Ridge Landfill rules, the following items are strictly prohibited.
+              </p>
+            </div>
+
+            <div className="grid sm:grid-cols-2 gap-6">
+              <div className="flex items-start gap-4 bg-red-50 rounded-xl p-6">
+                <div className="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <svg className="w-5 h-5 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="font-bold text-secondary mb-1">Wet Paint</h3>
+                  <p className="text-gray-600 text-sm">Cans must be dried out with sand or kitty litter. <Link href="/blog/how-to-dispose-of-paint-jacksonville" className="text-primary hover:underline">Check our Jacksonville Paint Disposal Guide</Link></p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-4 bg-red-50 rounded-xl p-6">
+                <div className="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <svg className="w-5 h-5 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="font-bold text-secondary mb-1">Tires</h3>
+                  <p className="text-gray-600 text-sm">These must be taken to specialized recycling centers.</p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-4 bg-red-50 rounded-xl p-6">
+                <div className="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <svg className="w-5 h-5 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="font-bold text-secondary mb-1">Batteries & Chemicals</h3>
+                  <p className="text-gray-600 text-sm">Lead-acid batteries and pool chemicals are fire hazards.</p>
+                </div>
+              </div>
+
+              <div className="flex items-start gap-4 bg-red-50 rounded-xl p-6">
+                <div className="w-10 h-10 bg-red-100 rounded-full flex items-center justify-center flex-shrink-0">
+                  <svg className="w-5 h-5 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </div>
+                <div>
+                  <h3 className="font-bold text-secondary mb-1">Appliances with Freon</h3>
+                  <p className="text-gray-600 text-sm">Refrigerators and AC units must have the Freon professionally drained before disposal.</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="mt-8 text-center">
+              <Link href="/rules/prohibited-items-list" className="inline-flex items-center gap-2 text-primary font-bold hover:text-secondary transition-colors">
+                <span>View Complete Prohibited Items List</span>
+                <ArrowRight className="w-5 h-5" />
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Compare Sizes */}
       <section className="py-20 lg:py-28 bg-white">
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
