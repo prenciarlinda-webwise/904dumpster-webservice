@@ -72,8 +72,6 @@ export function ServicePageTemplate({
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
               <Link href="/" className="hover:text-white">Home</Link>
               <span>/</span>
-              <Link href="/services" className="hover:text-white">Services</Link>
-              <span>/</span>
               <span className="text-white">{title}</span>
             </nav>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6">
@@ -314,6 +312,75 @@ export function ServicePageTemplate({
           </div>
         </section>
       )}
+
+      {/* Internal Links - Service Areas */}
+      <section className="py-16 bg-gray-50 border-t border-gray-100">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="grid md:grid-cols-2 gap-8">
+            {/* Pricing & Size Links */}
+            <div>
+              <h3 className="font-bold text-secondary mb-4">Pricing & Sizes</h3>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/dumpster-rental-pricing-jacksonville" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental pricing in Jacksonville
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    10-yard dumpster rental Jacksonville
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    15-yard dumpster rental Jacksonville
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    20-yard dumpster rental Jacksonville
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            {/* Popular Areas */}
+            <div>
+              <h3 className="font-bold text-secondary mb-4">Popular Service Areas</h3>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental in St. Augustine, FL
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental in Orange Park, FL
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-rental-ponte-vedra-beach-fl" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental in Ponte Vedra Beach, FL
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    View all service areas
+                  </Link>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* CTA Section */}
       <section className="py-20 lg:py-28 bg-primary">

@@ -367,10 +367,15 @@ export default async function BlogPostPage({
           </h1>
 
           <div className="flex flex-wrap items-center gap-6 text-white/70">
-            <span className="flex items-center gap-2">
+            <a
+              href="https://www.websiteandseoagency.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 hover:text-white transition-colors"
+            >
               <User className="w-4 h-4" />
               {post.author}
-            </span>
+            </a>
             <span className="flex items-center gap-2">
               <Calendar className="w-4 h-4" />
               {new Date(post.publishedDate).toLocaleDateString('en-US', {

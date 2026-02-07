@@ -279,6 +279,37 @@ const nextConfig: NextConfig = {
       { source: '/terms-and-conditions', destination: '/terms-of-service', permanent: true },
       { source: '/faq', destination: '/frequently-asked-questions', permanent: true },
       { source: '/how-dumpster-rental-works', destination: '/frequently-asked-questions', permanent: true },
+          { source: '/book-online', destination: 'https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9', permanent: true },
+  { source: '/locations/jacksonville-beach-fl', destination: '/dumpster-rental-jacksonville-beach-fl', permanent: true },
+  { source: '/locations/jacksonville-fl', destination: '/', permanent: true },
+  { source: '/locations/st-augustine-fl', destination: '/dumpster-rental-st-augustine-fl', permanent: true },
+  { source: '/locations/atlantic-beach-fl', destination: '/dumpster-rental-atlantic-beach-fl', permanent: true },
+  { source: '/locations/yulee-fl', destination: '/dumpster-rental-fernandina-beach-fl', permanent: true },
+  { source: '/services/10-yard-dumpster-rental-up-to-7-days', destination: '/10-yard-dumpster-rental', permanent: true },
+  { source: '/services/20-yard-dumpster-rental-up-to-7-days', destination: '/20-yard-dumpster-rental', permanent: true },
+  { source: '/services/15-yard-dumpster-rental-jacksonvile-fl', destination: '/15-yard-dumpster-rental', permanent: true },
+  { source: '/locations-dumpster-rental-jacksonville-fl-1', destination: '/locations', permanent: true },
+  { source: '/residential-dumpster-rental-jacksonville-fl', destination: '/residential-dumpster-rental', permanent: true },
+  { source: '/dumpster-rental-services', destination: '/', permanent: true },
+  { source: '/understanding-roll-off-dumpster-sizes-for-jacksonville-projects', destination: '/dumpster-size-guide', permanent: true },
+  { source: '/understanding-roll-off-dumpster-sizes-for-jacksonville-projects/', destination: '/dumpster-size-guide', permanent: true },
+  // WordPress author archives - redirect to about page
+  { source: '/author/:slug*', destination: '/about', permanent: true },
+
+  // ========================================================================
+  // LEGACY BLOG POST /feed VARIANTS & REMAINING 404s
+  // ========================================================================
+  { source: '/shop/feed', destination: '/', permanent: true },
+  { source: '/cheap-dumpster-rental-smart-ways-to-save-on-waste-disposal/feed', destination: '/dumpster-rental-pricing-jacksonville', permanent: true },
+  { source: '/construction-dumpster-rental-your-ultimate-guide-to-hassle-free-cleanup/feed', destination: '/construction-dumpster-rental', permanent: true },
+  { source: '/dumpster-rental-in-jacksonville-fl-what-you-need-to-know/feed', destination: '/', permanent: true },
+  { source: '/affordable-dumpster-rental-in-jacksonville-fl-everything-you-need-to-know/feed', destination: '/dumpster-rental-pricing-jacksonville', permanent: true },
+  { source: '/residential-dumpster-rentals-made-easy-a-complete-overview/feed', destination: '/residential-dumpster-rental', permanent: true },
+  { source: '/how-to-prepare-for-dumpster-delivery-jacksonville', destination: '/frequently-asked-questions', permanent: true },
+  { source: '/dumpster-rental-in-jacksonville-fl-guide', destination: '/', permanent: true },
+
+  // Block API endpoint (or redirect to 404)
+  { source: '/_api/:path*', destination: '/404', permanent: false },
     ]
   },
 }

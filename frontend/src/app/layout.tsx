@@ -83,12 +83,6 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  verification: {
-    // IMPORTANT: Add your Google Search Console verification code here
-    // Get this from GSC > Settings > Ownership verification > HTML tag
-    google: 'ADD_YOUR_GSC_VERIFICATION_CODE_HERE',
-    // yandex: 'your-yandex-verification-code',
-  },
   // FIXED: Use relative canonical so each page gets its correct URL
   // Before: hardcoded to homepage which prevented sub-pages from ranking
   alternates: {

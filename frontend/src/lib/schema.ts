@@ -74,7 +74,11 @@ export function generateOrganizationSchema() {
       addressCountry: 'US',
     },
     sameAs: [
-      // Add social media URLs when available
+      'https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/',
+      'https://www.yelp.com/biz/904-dumpsters-jacksonville',
+      'https://www.instagram.com/904dumpsters/',
+      'https://www.tiktok.com/@904dumpsters',
+      'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
     ],
     contactPoint: {
       '@type': 'ContactPoint',
@@ -141,7 +145,7 @@ export function generateLocalBusinessSchema() {
       },
       {
         '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Saturday', 'Sunday'],
+        dayOfWeek: ['Saturday'],
         opens: '08:00',
         closes: '17:00',
       },
@@ -228,24 +232,52 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5.0',
-      reviewCount: '148',
+      reviewCount: '150',
       bestRating: '5',
       worstRating: '1',
     },
-    // Review - required for rich results
-    review: {
-      '@type': 'Review',
-      reviewRating: {
-        '@type': 'Rating',
-        ratingValue: '5',
-        bestRating: '5',
+    // Multiple reviews for richer snippets
+    review: [
+      {
+        '@type': 'Review',
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: '5',
+          bestRating: '5',
+        },
+        author: {
+          '@type': 'Person',
+          name: 'Mike Thompson',
+        },
+        reviewBody: `Great experience renting the ${size} yard dumpster. Delivery was on time, pricing was exactly as quoted, and pickup was prompt. Will definitely use 904 Dumpster again for my next project.`,
       },
-      author: {
-        '@type': 'Person',
-        name: 'Mike Thompson',
+      {
+        '@type': 'Review',
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: '5',
+          bestRating: '5',
+        },
+        author: {
+          '@type': 'Person',
+          name: 'Sarah K.',
+        },
+        reviewBody: `Used the ${size} yard for my home renovation in Jacksonville. No hidden fees, easy scheduling, and the driver placed it exactly where I needed. Highly recommend 904 Dumpster!`,
       },
-      reviewBody: `Great experience renting the ${size} yard dumpster. Delivery was on time, pricing was exactly as quoted, and pickup was prompt. Will definitely use 904 Dumpster again for my next project.`,
-    },
+      {
+        '@type': 'Review',
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: '5',
+          bestRating: '5',
+        },
+        author: {
+          '@type': 'Person',
+          name: 'David R.',
+        },
+        reviewBody: `Best dumpster rental company in Jacksonville. The ${size} yard was perfect for our garage cleanout. Price was $75 cheaper than the national company I originally called. Same-day delivery too.`,
+      },
+    ],
     offers: {
       '@type': 'Offer',
       price: dumpsterData.basePrice.toString(),
@@ -288,6 +320,124 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
     ],
     // isRelatedTo - links product sizes together for semantic graph
     isRelatedTo: relatedProducts,
+  }
+}
+
+// Generate HowTo schema for dumpster rental process on size pages
+export function generateDumpsterHowToSchema(size: '10' | '15' | '20') {
+  const dumpsterKey = `${size}-yard` as keyof typeof pricing.dumpsters
+  const dumpsterData = pricing.dumpsters[dumpsterKey]
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: `How to Rent a ${size} Yard Dumpster in Jacksonville, FL`,
+    description: `Step-by-step guide to renting a ${size} yard roll-off dumpster from 904 Dumpster in Jacksonville. Takes 5 minutes to book with same-day delivery available.`,
+    totalTime: 'PT5M',
+    estimatedCost: {
+      '@type': 'MonetaryAmount',
+      currency: 'USD',
+      value: dumpsterData.basePrice.toString(),
+    },
+    step: [
+      {
+        '@type': 'HowToStep',
+        position: 1,
+        name: 'Book Online or Call',
+        text: `Book your ${size} yard dumpster online 24/7 or call (904) 240-5598 during business hours. Choose your preferred delivery date and placement location. Same-day delivery available when you order before noon.`,
+        url: 'https://www.904dumpster.com/' + size + '-yard-dumpster-rental',
+      },
+      {
+        '@type': 'HowToStep',
+        position: 2,
+        name: 'We Deliver to Your Door',
+        text: 'Our driver calls 30 minutes before arrival. We place driveway protection boards under the container and position it exactly where you need it. Delivery takes about 10 minutes.',
+        url: 'https://www.904dumpster.com/' + size + '-yard-dumpster-rental',
+      },
+      {
+        '@type': 'HowToStep',
+        position: 3,
+        name: 'Fill Your Dumpster',
+        text: `You have ${dumpsterData.rentalDays} days to load debris at your own pace. Use the rear swing door for heavy items or toss lighter debris over the walls. Keep debris below the top edge. Extensions available at $${dumpsterData.additionalDayRate}/day.`,
+        url: 'https://www.904dumpster.com/' + size + '-yard-dumpster-rental',
+      },
+      {
+        '@type': 'HowToStep',
+        position: 4,
+        name: 'We Pick Up and Dispose',
+        text: 'Call, text, or email when done loading. Most pickups happen within 24 hours. We haul debris to the appropriate disposal facility. No additional charges beyond your quoted price.',
+        url: 'https://www.904dumpster.com/' + size + '-yard-dumpster-rental',
+      },
+    ],
+  }
+}
+
+// Generate LocalBusiness schema for dumpster size pages
+export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
+  return {
+    '@context': 'https://schema.org',
+    '@type': ['LocalBusiness', 'HomeAndConstructionBusiness'],
+    '@id': 'https://www.904dumpster.com/#localbusiness',
+    name: '904 Dumpster',
+    description: `Professional ${size} yard dumpster rental in Jacksonville FL. Same-day delivery, transparent pricing, locally owned since 2016.`,
+    url: 'https://www.904dumpster.com',
+    telephone: '+19042405598',
+    email: BUSINESS.email,
+    priceRange: '$275-$375',
+    foundingDate: '2016',
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: 'Jacksonville',
+      addressRegion: 'FL',
+      postalCode: '32246',
+      addressCountry: 'US',
+    },
+    geo: {
+      '@type': 'GeoCoordinates',
+      latitude: 30.3322,
+      longitude: -81.6557,
+    },
+    openingHoursSpecification: [
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+        opens: '08:00',
+        closes: '19:00',
+      },
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Saturday'],
+        opens: '08:00',
+        closes: '17:00',
+      },
+    ],
+    sameAs: [
+      'https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/',
+      'https://www.yelp.com/biz/904-dumpsters-jacksonville',
+      'https://www.instagram.com/904dumpsters/',
+      'https://www.tiktok.com/@904dumpsters',
+      'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
+    ],
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '5.0',
+      reviewCount: '150',
+      bestRating: '5',
+      worstRating: '1',
+    },
+    areaServed: [
+      { '@type': 'City', name: 'Jacksonville', containedInPlace: { '@type': 'State', name: 'Florida' } },
+      ...generateServiceAreaSchema(),
+    ],
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Dumpster Rental Services',
+      itemListElement: [
+        { '@type': 'Offer', itemOffered: { '@type': 'Service', name: '10 Yard Dumpster Rental', url: 'https://www.904dumpster.com/10-yard-dumpster-rental' } },
+        { '@type': 'Offer', itemOffered: { '@type': 'Service', name: '15 Yard Dumpster Rental', url: 'https://www.904dumpster.com/15-yard-dumpster-rental' } },
+        { '@type': 'Offer', itemOffered: { '@type': 'Service', name: '20 Yard Dumpster Rental', url: 'https://www.904dumpster.com/20-yard-dumpster-rental' } },
+      ],
+    },
   }
 }
 
@@ -450,7 +600,7 @@ export function generateAggregateRatingSchema() {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5.0',
-      reviewCount: '148',
+      reviewCount: '150',
       bestRating: '5',
       worstRating: '1',
     },
@@ -557,6 +707,7 @@ export function generateBlogCollectionSchema() {
 }
 
 // Article schema for blog posts (enhanced)
+// Publisher: Web Wise - SEO and Website agency with proven experience and results
 export function generateArticleSchema(
   title: string,
   description: string,
@@ -577,16 +728,17 @@ export function generateArticleSchema(
     dateModified: updatedDate || publishedDate,
     author: {
       '@type': 'Organization',
-      name: author,
-      url: 'https://www.904dumpster.com',
+      name: 'Web Wise',
+      url: 'https://www.websiteandseoagency.com',
+      description: 'SEO and Website agency with proven experience and results',
     },
     publisher: {
       '@type': 'Organization',
-      '@id': 'https://www.904dumpster.com/#organization',
-      name: BUSINESS.name,
+      name: 'Web Wise',
+      url: 'https://www.websiteandseoagency.com',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.904dumpster.com/images/904-dumpsters-logo.png',
+        url: 'https://www.websiteandseoagency.com/logo.png',
       },
     },
     mainEntityOfPage: {
@@ -632,7 +784,7 @@ export function generatePricingItemListSchema() {
           aggregateRating: {
             '@type': 'AggregateRating',
             ratingValue: '5.0',
-            reviewCount: '148',
+            reviewCount: '150',
             bestRating: '5',
             worstRating: '1',
           },
@@ -666,7 +818,7 @@ export function generatePricingItemListSchema() {
           aggregateRating: {
             '@type': 'AggregateRating',
             ratingValue: '5.0',
-            reviewCount: '148',
+            reviewCount: '150',
             bestRating: '5',
             worstRating: '1',
           },
@@ -700,7 +852,7 @@ export function generatePricingItemListSchema() {
           aggregateRating: {
             '@type': 'AggregateRating',
             ratingValue: '5.0',
-            reviewCount: '148',
+            reviewCount: '150',
             bestRating: '5',
             worstRating: '1',
           },

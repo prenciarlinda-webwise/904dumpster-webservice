@@ -52,8 +52,7 @@ export default function ContactPage() {
               Contact <span className="text-primary">904 Dumpster</span>
             </h1>
             <p className="text-xl text-white/70 mb-8">
-              Ready to rent a dumpster? Have questions about our service? We are here to help.
-              Get in touch today for a free quote.
+              Ready to rent a dumpster? Book online instantly or give us a call. Same-day delivery available when you book before noon.
             </p>
           </div>
         </div>
@@ -89,141 +88,83 @@ export default function ContactPage() {
       <section className="py-20 lg:py-28 bg-white">
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="grid lg:grid-cols-2 gap-16">
-            {/* Contact Form */}
+            {/* Book Online Section */}
             <div>
               <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                Get a Free Quote
+                Ready to Book?
               </span>
               <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
-                Request Your Dumpster
+                Schedule Your Dumpster Online
               </h2>
               <p className="text-gray-600 mb-8">
-                Fill out the form below and we will get back to you within 1 hour during business
-                hours. Need it faster? Call us directly at{' '}
-                <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">
-                  {BUSINESS.phone}
-                </a>
-                .
+                Book your dumpster rental instantly through our online scheduling system. Choose your size, select your delivery date, and you are all set. Same-day delivery available when you book before noon.
               </p>
 
-              <form className="space-y-6" action="/api/contact" method="POST">
-                <div className="grid sm:grid-cols-2 gap-6">
-                  <div>
-                    <label htmlFor="name" className="block text-sm font-semibold text-secondary mb-2">
-                      Your Name *
-                    </label>
-                    <input
-                      type="text"
-                      id="name"
-                      name="name"
-                      required
-                      className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                      placeholder="John Smith"
-                    />
-                  </div>
-                  <div>
-                    <label htmlFor="phone" className="block text-sm font-semibold text-secondary mb-2">
-                      Phone Number *
-                    </label>
-                    <input
-                      type="tel"
-                      id="phone"
-                      name="phone"
-                      required
-                      className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                      placeholder="(904) 555-1234"
-                    />
-                  </div>
-                </div>
-
-                <div>
-                  <label htmlFor="email" className="block text-sm font-semibold text-secondary mb-2">
-                    Email Address *
-                  </label>
-                  <input
-                    type="email"
-                    id="email"
-                    name="email"
-                    required
-                    className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                    placeholder="john@example.com"
-                  />
-                </div>
-
-                <div className="grid sm:grid-cols-2 gap-6">
-                  <div>
-                    <label htmlFor="address" className="block text-sm font-semibold text-secondary mb-2">
-                      Delivery Address *
-                    </label>
-                    <input
-                      type="text"
-                      id="address"
-                      name="address"
-                      required
-                      className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all"
-                      placeholder="123 Main St, Jacksonville, FL"
-                    />
-                  </div>
-                  <div>
-                    <label htmlFor="size" className="block text-sm font-semibold text-secondary mb-2">
-                      Dumpster Size
-                    </label>
-                    <select
-                      id="size"
-                      name="size"
-                      className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all bg-white"
-                    >
-                      <option value="">Not sure yet</option>
-                      <option value="10">10 Yard Dumpster</option>
-                      <option value="15">15 Yard Dumpster</option>
-                      <option value="20">20 Yard Dumpster</option>
-                    </select>
-                  </div>
-                </div>
-
-                <div>
-                  <label htmlFor="project" className="block text-sm font-semibold text-secondary mb-2">
-                    Project Type
-                  </label>
-                  <select
-                    id="project"
-                    name="project"
-                    className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all bg-white"
-                  >
-                    <option value="">Select project type</option>
-                    <option value="home-cleanout">Home Cleanout</option>
-                    <option value="renovation">Renovation/Remodel</option>
-                    <option value="roofing">Roofing Project</option>
-                    <option value="construction">Construction</option>
-                    <option value="demolition">Demolition</option>
-                    <option value="yard-waste">Yard Waste/Landscaping</option>
-                    <option value="estate-cleanout">Estate Cleanout</option>
-                    <option value="commercial">Commercial Project</option>
-                    <option value="other">Other</option>
-                  </select>
-                </div>
-
-                <div>
-                  <label htmlFor="message" className="block text-sm font-semibold text-secondary mb-2">
-                    Additional Details
-                  </label>
-                  <textarea
-                    id="message"
-                    name="message"
-                    rows={4}
-                    className="w-full px-4 py-3 rounded-xl border border-gray-200 focus:border-primary focus:ring-2 focus:ring-primary/20 outline-none transition-all resize-none"
-                    placeholder="Tell us about your project, preferred delivery date, or any questions..."
-                  />
-                </div>
-
-                <button
-                  type="submit"
-                  className="w-full bg-primary hover:bg-secondary text-white font-bold text-lg py-4 rounded-xl transition-all duration-300 flex items-center justify-center gap-2"
+              {/* Booking CTA Card */}
+              <div className="bg-gradient-to-br from-primary to-primary/80 rounded-3xl p-8 text-white mb-8">
+                <h3 className="text-2xl font-bold mb-4">Book Online Now</h3>
+                <p className="text-white/80 mb-6">
+                  Select your dumpster size and schedule delivery in minutes. No phone calls needed.
+                </p>
+                <a
+                  href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-3 bg-white hover:bg-gray-100 text-primary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300 w-full"
                 >
-                  Get My Free Quote
+                  Book Your Dumpster Now
                   <ArrowRight className="w-5 h-5" />
-                </button>
-              </form>
+                </a>
+              </div>
+
+              {/* Size Options */}
+              <div className="bg-gray-50 rounded-2xl p-6">
+                <h3 className="font-bold text-secondary mb-4">Available Dumpster Sizes</h3>
+                <div className="space-y-3">
+                  <Link
+                    href="/10-yard-dumpster-rental"
+                    className="flex items-center justify-between p-4 bg-white rounded-xl hover:shadow-md transition-all group"
+                  >
+                    <div>
+                      <span className="font-bold text-secondary">10 Yard Dumpster</span>
+                      <span className="text-gray-500 text-sm block">Perfect for small cleanouts</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-primary font-bold">$275</span>
+                      <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
+                    </div>
+                  </Link>
+                  <Link
+                    href="/15-yard-dumpster-rental"
+                    className="flex items-center justify-between p-4 bg-white rounded-xl hover:shadow-md transition-all group"
+                  >
+                    <div>
+                      <span className="font-bold text-secondary">15 Yard Dumpster</span>
+                      <span className="text-gray-500 text-sm block">Great for roofing & remodels</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-primary font-bold">$325</span>
+                      <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
+                    </div>
+                  </Link>
+                  <Link
+                    href="/20-yard-dumpster-rental"
+                    className="flex items-center justify-between p-4 bg-white rounded-xl hover:shadow-md transition-all group"
+                  >
+                    <div>
+                      <span className="font-bold text-secondary">20 Yard Dumpster</span>
+                      <span className="text-gray-500 text-sm block">Ideal for large renovations</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span className="text-primary font-bold">$375</span>
+                      <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
+                    </div>
+                  </Link>
+                </div>
+                <p className="text-gray-500 text-sm mt-4 text-center">
+                  Not sure which size? <Link href="/dumpster-size-guide" className="text-primary font-semibold hover:underline">View our size guide</Link>
+                </p>
+              </div>
             </div>
 
             {/* Contact Info */}

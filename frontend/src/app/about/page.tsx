@@ -11,15 +11,17 @@ import {
   Award,
   Heart,
   MapPin,
+  Calendar,
+  Star,
 } from 'lucide-react'
 import { BUSINESS } from '@/lib/constants'
-import { generateAboutPageSchema, generateBreadcrumbSchema } from '@/lib/schema'
+import { generateAboutPageSchema, generateBreadcrumbSchema, generateOrganizationSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
   title: 'About Us',
   description:
-    'Learn about 904 Dumpster, Jacksonville\'s local family-owned dumpster rental company serving Northeast Florida.',
-  keywords: [],
+    'Learn about 904 Dumpster, Jacksonville\'s locally owned dumpster rental company serving Northeast Florida since 2016. Fully insured, 2,000+ deliveries completed.',
+  keywords: ['904 Dumpster about', 'Jacksonville dumpster company', 'local dumpster rental Jacksonville'],
   alternates: {
     canonical: 'https://www.904dumpster.com/about',
   },
@@ -31,6 +33,7 @@ export default function AboutPage() {
     { name: 'Home', url: 'https://www.904dumpster.com' },
     { name: 'About Us', url: 'https://www.904dumpster.com/about' },
   ])
+  const organizationSchema = generateOrganizationSchema()
 
   return (
     <>
@@ -41,6 +44,10 @@ export default function AboutPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
       />
       <div className="min-h-screen">
         {/* Hero Section */}
@@ -63,9 +70,24 @@ export default function AboutPage() {
               About <span className="text-primary">904 Dumpster</span>
             </h1>
             <p className="text-xl text-white/70 mb-8">
-              Your local, trusted dumpster rental company serving Jacksonville and Northeast
-              Florida. We are committed to making waste disposal simple, affordable, and stress-free.
+              Jacksonville&apos;s locally owned and operated dumpster rental company. Serving Northeast
+              Florida since 2016 — not a broker, just your neighbors.
             </p>
+            {/* Trust Badges */}
+            <div className="flex flex-wrap items-center gap-4">
+              <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2">
+                <Calendar className="w-4 h-4 text-primary" />
+                <span className="text-white/90 text-sm">Since 2016</span>
+              </div>
+              <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2">
+                <Shield className="w-4 h-4 text-primary" />
+                <span className="text-white/90 text-sm">Fully Insured</span>
+              </div>
+              <div className="flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2">
+                <Star className="w-4 h-4 text-primary" />
+                <span className="text-white/90 text-sm">5.0 Google Rating</span>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -83,26 +105,32 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-4 text-gray-600 text-lg">
                 <p>
-                  904 Dumpster was founded with a simple mission: provide Jacksonville homeowners
-                  and contractors with reliable, affordable dumpster rental service backed by
+                  <strong>904 Dumpster was founded in 2016</strong> with a simple mission: provide Jacksonville
+                  homeowners and contractors with reliable, affordable dumpster rental service backed by
                   genuine customer care.
                 </p>
                 <p>
-                  We noticed that many dumpster rental companies treated customers as transactions
-                  rather than neighbors. Hidden fees, unreliable delivery times, and poor
-                  communication were the norm. We knew there had to be a better way.
+                  We noticed that many dumpster rental companies in the Jacksonville area were actually
+                  <strong> national brokers or call centers</strong> — they&apos;d take your money, then dispatch
+                  whoever was available. Hidden fees, unreliable delivery times, and poor communication
+                  were the norm. We knew there had to be a better way.
                 </p>
                 <p>
-                  Today, 904 Dumpster serves thousands of customers across Northeast Florida,
-                  from Jacksonville Beach to St. Augustine, Orange Park to Ponte Vedra. Our
-                  commitment remains the same: transparent pricing, reliable service, and treating
+                  <strong>904 Dumpster is different.</strong> We&apos;re locally owned and operated right here
+                  in Jacksonville. When you call us, you talk to someone who knows the 904 area code.
+                  When we deliver your dumpster, it&apos;s our truck and our team.
+                </p>
+                <p>
+                  Today, with <strong>over 2,000 dumpster deliveries completed</strong>, we proudly serve
+                  homeowners and contractors across <strong>Duval, St. Johns, Clay, and Nassau counties</strong>.
+                  Our commitment remains the same: transparent pricing, reliable service, and treating
                   every customer like a neighbor.
                 </p>
               </div>
             </div>
 
             <div className="bg-gray-50 rounded-3xl p-8">
-              <h3 className="text-2xl font-bold text-secondary mb-8">Why We Are Different</h3>
+              <h3 className="text-2xl font-bold text-secondary mb-8">Why We&apos;re Different</h3>
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
@@ -111,13 +139,24 @@ export default function AboutPage() {
                   <div>
                     <div className="font-bold text-secondary mb-1">Locally Owned & Operated</div>
                     <p className="text-gray-600">
-                      We live and work in Jacksonville. This is our community too.
+                      We live and work in Jacksonville — not a broker or national call center.
                     </p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
                     <Shield className="w-6 h-6 text-primary" />
+                  </div>
+                  <div>
+                    <div className="font-bold text-secondary mb-1">Fully Insured</div>
+                    <p className="text-gray-600">
+                      Complete liability coverage for your peace of mind and property protection.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                    <Award className="w-6 h-6 text-primary" />
                   </div>
                   <div>
                     <div className="font-bold text-secondary mb-1">No Hidden Fees Ever</div>
@@ -131,9 +170,9 @@ export default function AboutPage() {
                     <Clock className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <div className="font-bold text-secondary mb-1">Reliable Scheduling</div>
+                    <div className="font-bold text-secondary mb-1">Same-Day Delivery</div>
                     <p className="text-gray-600">
-                      We show up when we say we will. Your time matters.
+                      Book before noon and get your dumpster the same day.
                     </p>
                   </div>
                 </div>
@@ -144,7 +183,7 @@ export default function AboutPage() {
                   <div>
                     <div className="font-bold text-secondary mb-1">Real People, Real Service</div>
                     <p className="text-gray-600">
-                      Call us and talk to a real person who can help.
+                      Call us and talk to a real person who can help — no automated systems.
                     </p>
                   </div>
                 </div>
@@ -159,20 +198,20 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center text-white">
             <div>
-              <div className="text-4xl md:text-5xl font-black mb-2">5000+</div>
-              <div className="text-white/70">Happy Customers</div>
+              <div className="text-4xl md:text-5xl font-black mb-2">2016</div>
+              <div className="text-white/70">Founded</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black mb-2">100%</div>
-              <div className="text-white/70">Satisfaction Rate</div>
+              <div className="text-4xl md:text-5xl font-black mb-2">2,000+</div>
+              <div className="text-white/70">Deliveries Completed</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black mb-2">Same-Day</div>
-              <div className="text-white/70">Delivery Available</div>
+              <div className="text-4xl md:text-5xl font-black mb-2">5.0</div>
+              <div className="text-white/70">Google Rating</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black mb-2">7 Days</div>
-              <div className="text-white/70">A Week Service</div>
+              <div className="text-4xl md:text-5xl font-black mb-2">4</div>
+              <div className="text-white/70">Counties Served</div>
             </div>
           </div>
         </div>
@@ -197,7 +236,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-bold text-secondary mb-4">Integrity</h3>
               <p className="text-gray-600">
-                We do what we say we will do. Honest pricing, reliable service, and straightforward
+                We do what we say we&apos;ll do. Honest pricing, reliable service, and straightforward
                 communication are the foundations of our business.
               </p>
             </div>
@@ -219,8 +258,8 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-bold text-secondary mb-4">Community</h3>
               <p className="text-gray-600">
-                Jacksonville is our home. We are committed to serving our neighbors and
-                contributing to the community that has supported us.
+                Jacksonville is our home. We&apos;re committed to serving our neighbors and
+                contributing to the community that has supported us since 2016.
               </p>
             </div>
           </div>
@@ -239,9 +278,9 @@ export default function AboutPage() {
                 Serving All of Northeast Florida
               </h2>
               <p className="text-gray-600 text-lg mb-8">
-                From the beaches to the suburbs, we provide dumpster rental service throughout
-                Jacksonville and surrounding communities. Our local knowledge means efficient
-                delivery and pickup, no matter where your project is located.
+                904 Dumpster provides dumpster rental service throughout <strong>Duval, St. Johns,
+                Clay, and Nassau counties</strong>. Our local knowledge means efficient delivery and
+                pickup, no matter where your project is located in Northeast Florida.
               </p>
               <ul className="space-y-3">
                 {[
@@ -251,6 +290,7 @@ export default function AboutPage() {
                   'St. Augustine & St. Johns County',
                   'Orange Park, Middleburg & Clay County',
                   'Fleming Island & Green Cove Springs',
+                  'Fernandina Beach & Nassau County',
                 ].map((area, i) => (
                   <li key={i} className="flex items-center gap-3">
                     <CheckCircle2 className="w-5 h-5 text-primary flex-shrink-0" />

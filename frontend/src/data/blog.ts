@@ -52,15 +52,15 @@ export const BLOG_POSTS: BlogPost[] = [
     metaDescription: 'How to dispose of old paint in Jacksonville FL. Learn how to dispose of latex paint, spray paint cans, and paint thinner at local drop-off sites. Free disposal options.',
     excerpt: 'To dispose of old paint in Jacksonville, FL, you must take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. Learn how to dispose of latex paint by drying it with kitty litter, how to dispose of spray paint cans, and how to dispose of paint thinner safely.',
     category: 'local-guides',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2026-01-04',
     updatedDate: '2026-01-04',
     readTime: '8 min read',
     tags: ['how to dispose of paint', 'how to dispose of old paint', 'how to dispose of latex paint', 'how to dispose of spray paint', 'how to dispose of paint thinner', 'how to dispose of paint cans', 'paint disposal jacksonville'],
     content: `
-## How to Dispose of Paint in Jacksonville: Quick Answer
+## How to Dispose of Paint in Jacksonville
 
-**How to dispose of old paint in Jacksonville, FL**: Take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. While wet paint is prohibited in curbside bins and 904 Dumpster rentals, you can dispose of dried latex paint in your regular trash once solidified with cat litter.
+Take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. While wet paint is prohibited in curbside bins and 904 Dumpster rentals, you can dispose of dried latex paint in your regular trash once solidified with cat litter.
 
 **Find your nearest drop-off location**: Use the official [PaintCare Drop-Off Locator Tool](https://www.paintcare.org/drop-off-sites/) to find participating retailers and facilities near your Jacksonville zip code.
 
@@ -239,16 +239,18 @@ Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhs
     metaDescription: 'Learn how to plan and execute a successful home cleanout in Jacksonville. Tips for decluttering, what to donate, and how to choose the right dumpster size.',
     excerpt: 'Whether you are downsizing, preparing to sell, or simply decluttering, a home cleanout can feel overwhelming. This comprehensive guide walks you through every step of the process.',
     category: 'home-improvement',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-15',
     readTime: '8 min read',
     tags: ['home cleanout guide', 'decluttering tips', 'estate cleanout', 'whole house cleanout'],
     content: `
-## Planning Your Home Cleanout
+## How to Do a Home Cleanout in Jacksonville
 
-A successful home cleanout starts with a solid plan. Whether you are tackling a single room or an entire house, having a strategy saves time, money, and stress. Jacksonville homeowners frequently undertake cleanout projects for various reasons: downsizing to a smaller home, preparing a property for sale, clearing out an estate, or simply reclaiming space from years of accumulated belongings.
+A home cleanout in Jacksonville typically takes 2-5 days and costs between $275 and $375 for debris disposal when you rent a dumpster from 904 Dumpster. Sort items into keep, donate, sell, and dispose categories, then rent a roll-off container sized to your project. Most single-room cleanouts fit in a [10-yard dumpster](/10-yard-dumpster-rental) ($275), while whole-house and estate cleanouts require a [20-yard dumpster](/20-yard-dumpster-rental) ($375).
 
-### Step 1: Assess the Scope
+After completing over 2,000 dumpster deliveries for Jacksonville cleanout projects since 2016, we have seen what works and what wastes time. This guide shares the system that gets results.
+
+## Step 1: Assess the Scope
 
 Before ordering a dumpster or gathering supplies, walk through every room and assess what needs to go. Make notes about:
 
@@ -259,7 +261,7 @@ Before ordering a dumpster or gathering supplies, walk through every room and as
 
 This assessment helps you estimate the right dumpster size and plan your timeline.
 
-### Step 2: Sort and Categorize
+## Step 2: Sort and Categorize
 
 Create four categories for everything in your home:
 
@@ -268,15 +270,15 @@ Create four categories for everything in your home:
 3. **Sell**: Valuable items worth the effort of selling
 4. **Dispose**: Broken, worn out, or unusable items
 
-Jacksonville has numerous donation centers including Goodwill, Salvation Army, and local charities that accept furniture, clothing, and household goods in good condition.
+Jacksonville has numerous donation centers including Goodwill, Salvation Army, and Habitat for Humanity ReStore that accept furniture, clothing, and household goods in good condition.
 
-### Step 3: Choose the Right Dumpster Size
+## Step 3: Choose the Right Dumpster Size
 
-For most whole-home cleanouts in Jacksonville, we recommend:
-
-- **[10-yard dumpster](/10-yard-dumpster-rental)**: Single room or small apartment cleanout - starting at $275
-- **[15-yard dumpster](/15-yard-dumpster-rental)**: Multiple rooms or small house cleanout - our most popular size at $325
-- **[20-yard dumpster](/20-yard-dumpster-rental)**: Whole house cleanout or large estate cleanout - $375 for maximum capacity
+| Project Scope | Recommended Size | Price | Capacity |
+|---------------|-----------------|-------|----------|
+| Single room or small apartment | [10-Yard Dumpster](/10-yard-dumpster-rental) | $275 | 3 pickup truck loads |
+| Multiple rooms or small house | [15-Yard Dumpster](/15-yard-dumpster-rental) | $325 | 5 pickup truck loads |
+| Whole house or estate cleanout | [20-Yard Dumpster](/20-yard-dumpster-rental) | $375 | 7 pickup truck loads |
 
 Not sure which size fits your project? Check out our complete [dumpster size comparison guide](/blog/how-to-choose-right-dumpster-size) for detailed dimensions and project examples.
 
@@ -311,14 +313,14 @@ Attics, crawl spaces, under beds, and the backs of closets often harbor forgotte
 
 Some items require special disposal in Jacksonville. See our complete guide on [prohibited dumpster items](/blog/what-cannot-go-in-dumpster) for details:
 
-- Hazardous materials (paint, chemicals, oil)
+- Hazardous materials ([paint](/blog/how-to-dispose-of-paint-jacksonville), chemicals, oil)
 - Electronics (take to e-waste recycling)
 - Appliances with refrigerants (special handling required)
 - Tires (recycling facilities available)
 
 ### Timing Your Cleanout
 
-Jacksonville weather plays a role in planning your cleanout. Avoid scheduling during peak hurricane season (August-October) when storms could delay your project. Spring and fall offer the most comfortable working conditions.
+Jacksonville weather plays a role in planning your cleanout. Avoid scheduling during peak [hurricane season](/blog/hurricane-debris-cleanup-jacksonville) (August-October) when storms could delay your project. Spring and fall offer the most comfortable working conditions.
 
 ## When to Call the Professionals
 
@@ -329,11 +331,33 @@ While many homeowners successfully complete cleanouts themselves, some situation
 - **Time-sensitive sales** that need quick turnaround
 - **Physical limitations** that prevent heavy lifting
 
-904 Dumpster can recommend trusted cleanout services in Jacksonville if you need additional help beyond dumpster rental.
+For projects where you need hands-on help, our [junk removal service](/junk-removal-jacksonville) handles all the heavy lifting for you. We also offer full [demolition services](/demolition-services-jacksonville) if structural removal is part of your cleanout.
+
+## Frequently Asked Questions
+
+### How much does a home cleanout cost in Jacksonville?
+
+A home cleanout in Jacksonville costs between $275 and $375 for dumpster rental with 904 Dumpster, depending on the size container you need. A single-room cleanout fits in a $275 [10-yard dumpster](/10-yard-dumpster-rental), while a whole-house cleanout typically requires a $375 [20-yard dumpster](/20-yard-dumpster-rental). All prices include delivery, pickup, a 5-day rental, and disposal.
+
+### How long does a whole-house cleanout take?
+
+Most whole-house cleanouts in Jacksonville take 3-5 days when working with a team of 2-3 people. With 904 Dumpster, your 5-day rental gives you plenty of time, and extensions are available at $15/day if needed. Based on our experience, the sorting phase takes the longest.
+
+### What should I do with items I want to donate?
+
+In Jacksonville, Goodwill, Salvation Army, and Habitat for Humanity ReStore all accept furniture, clothing, and household goods. Salvation Army offers free pickup for large items. Sort donation items before your dumpster arrives so you only pay to dispose of what cannot be donated.
+
+### Do I need a permit for a dumpster during a cleanout?
+
+No permit is needed if the dumpster is placed on your private property (driveway or yard). If street placement is required, you will need a right-of-way permit from the City of Jacksonville. See our full [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for details.
 
 ## Ready to Start Your Cleanout?
 
-A dumpster on-site makes any cleanout project more efficient. No trips to the dump, no overloaded vehicles, and no waiting for trash day. Call 904 Dumpster at (904) 240-5598 to schedule your delivery and make your Jacksonville home cleanout a success.
+A dumpster on-site makes any cleanout project more efficient. No trips to the dump, no overloaded vehicles, and no waiting for trash day.
+
+We deliver throughout Jacksonville and Northeast Florida, including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl).
+
+Call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for same-day delivery.
     `,
   },
   {
@@ -343,16 +367,18 @@ A dumpster on-site makes any cleanout project more efficient. No trips to the du
     metaDescription: 'Planning a kitchen renovation in Jacksonville? Learn what debris to expect, which dumpster size you need, and how to properly dispose of cabinets, countertops, and appliances.',
     excerpt: 'Kitchen renovations generate more debris than most homeowners expect. From cabinets and countertops to flooring and appliances, here is everything you need to know about managing kitchen renovation waste.',
     category: 'home-improvement',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-10',
     readTime: '6 min read',
     tags: ['kitchen renovation debris', 'cabinet disposal', 'countertop removal', 'kitchen remodel waste'],
     content: `
-## Understanding Kitchen Renovation Debris
+## Kitchen Renovation Debris
 
-Kitchen renovations are among the most popular home improvement projects in Jacksonville, and for good reason. An updated kitchen increases home value and improves daily life. However, the demolition and construction process generates significant debris that requires proper planning and disposal.
+A standard kitchen renovation in Jacksonville generates 1,500-3,000 pounds of debris, including cabinets, countertops, flooring, drywall, and old appliances. A [15-yard dumpster](/15-yard-dumpster-rental) ($325 flat rate) handles most full kitchen gut renovations, while minor updates fit in a [10-yard dumpster](/10-yard-dumpster-rental) ($275). Have your dumpster delivered the day before demolition begins so you can load debris as you work.
 
-### Common Types of Kitchen Debris
+At 904 Dumpster, we have delivered dumpsters for hundreds of Jacksonville kitchen remodels since 2016. This guide covers what debris to expect, which items need special disposal, and how to keep your project on schedule.
+
+## Common Types of Kitchen Debris
 
 A typical kitchen renovation produces several categories of waste:
 
@@ -383,15 +409,15 @@ A typical kitchen renovation produces several categories of waste:
 - Insulation behind walls
 - Electrical and plumbing components
 
-## Choosing the Right Dumpster Size
+## Which Dumpster Size for a Kitchen Remodel?
 
-For kitchen renovations, we typically recommend:
+| Kitchen Project | Recommended Size | Price | Why |
+|----------------|-----------------|-------|-----|
+| Cabinet refacing or countertop swap | [10-Yard](/10-yard-dumpster-rental) | $275 | Minimal debris, light materials |
+| Full gut renovation (standard kitchen) | [15-Yard](/15-yard-dumpster-rental) | $325 | Handles cabinets + countertops + flooring + drywall |
+| Large kitchen or multi-room remodel | [20-Yard](/20-yard-dumpster-rental) | $375 | Maximum capacity for structural changes |
 
-**[10-Yard Dumpster](/10-yard-dumpster-rental)** - Minor updates like cabinet refacing, new countertops only, or small kitchens with minimal demolition. Starting at $275.
-
-**[15-Yard Dumpster](/15-yard-dumpster-rental)** - Standard kitchen gut renovations. This is our most popular size for kitchen remodels in Duval County. It handles cabinets, countertops, flooring, and some drywall for most kitchens. Just $325 flat rate.
-
-**[20-Yard Dumpster](/20-yard-dumpster-rental)** - Large kitchens, whole-floor renovations that include the kitchen, or projects involving structural changes. $375 for maximum capacity.
+Not sure which fits? See our [dumpster size comparison guide](/blog/how-to-choose-right-dumpster-size) for detailed dimensions and pickup-truck-load equivalents.
 
 ## Special Disposal Considerations
 
@@ -403,7 +429,7 @@ Refrigerators, freezers, and air conditioning units contain refrigerants that re
 - **Appliance recyclers**: Many will pick up for free or small fee
 - **Scrap metal dealers**: Often pay for old appliances
 
-We can accept appliances in our dumpsters if refrigerants have been properly removed and certified by a technician.
+We can accept appliances in our dumpsters if refrigerants have been properly removed and certified by a technician. See our full [prohibited items guide](/blog/what-cannot-go-in-dumpster) for details.
 
 ### Countertops
 
@@ -413,9 +439,15 @@ Different countertop materials have different disposal requirements:
 - **Granite/Quartz**: Heavy but disposable in dumpster (watch weight limits)
 - **Solid surface (Corian)**: Can be recycled by some facilities
 
+For granite and stone countertop disposal, our [concrete disposal dumpster](/concrete-disposal-dumpster) is rated for heavy materials.
+
 ### Cabinets
 
 Cabinets in good condition can often be donated to organizations like Habitat for Humanity ReStore. This reduces your disposal costs and helps others.
+
+### Paint and Chemicals
+
+Leftover paint, stain, and solvents from your kitchen remodel cannot go in a dumpster. See our [paint disposal guide for Jacksonville](/blog/how-to-dispose-of-paint-jacksonville) for free drop-off options.
 
 ## Timeline for Debris Management
 
@@ -430,18 +462,36 @@ Reserve space for final cleanup debris, damaged materials discovered during inst
 
 ## Cost-Saving Tips
 
-1. **Schedule efficiently**: Rent the dumpster for the minimum days needed to avoid extra fees
+1. **Schedule efficiently**: Our 5-day rental covers most kitchen remodels. Extensions are $15/day if needed
 2. **Donate first**: Remove donatable items before demolition day
 3. **Break down materials**: Flatten boxes and break down cabinets to maximize space
 4. **Load strategically**: Place heavy items on the bottom and fill gaps with smaller debris
 
+## Frequently Asked Questions
+
+### What size dumpster do I need for a kitchen remodel?
+
+A [15-yard dumpster](/15-yard-dumpster-rental) handles most standard kitchen gut renovations in Jacksonville. It fits cabinets, countertops, flooring, and drywall from a typical kitchen. For minor updates like a countertop swap, a [10-yard dumpster](/10-yard-dumpster-rental) is sufficient. Large kitchens or multi-room remodels may need a [20-yard dumpster](/20-yard-dumpster-rental).
+
+### Can I put old kitchen appliances in a dumpster?
+
+Most kitchen appliances (dishwashers, stoves, microwaves) can go in a dumpster. Refrigerators and freezers require Freon removal by a certified technician before disposal. Once the refrigerant is removed and certified, the unit can go in the dumpster.
+
+### How much does kitchen renovation debris disposal cost?
+
+Kitchen renovation debris disposal in Jacksonville costs $275-$375 with 904 Dumpster, depending on the container size. This flat rate includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons. There are no hidden fees, fuel surcharges, or broker markups.
+
+### Do I need a permit for a dumpster during a kitchen remodel?
+
+No permit is needed if the dumpster is placed on your driveway or private property. If your driveway cannot accommodate a dumpster and street placement is required, see our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide).
+
 ## Ready for Your Kitchen Renovation?
 
-Having a dumpster on-site from day one makes your kitchen renovation smoother and keeps the project on schedule. Most Jacksonville kitchen remodels work best with our [15-yard dumpster](/15-yard-dumpster-rental) - it fits in standard driveways and handles the full project.
+Having a dumpster on-site from day one makes your kitchen renovation smoother and keeps the project on schedule.
 
-Before you start loading, review our guide on [what items cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) to avoid disposal issues.
+We deliver throughout Jacksonville and Northeast Florida, including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl).
 
-Call 904 Dumpster at (904) 240-5598 for same-day delivery throughout [Jacksonville](/dumpster-rental-jacksonville-beach-fl) and Northeast Florida, including [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl).
+Call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for same-day delivery.
     `,
   },
   // Dumpster Rental Tips Category
@@ -452,24 +502,38 @@ Call 904 Dumpster at (904) 240-5598 for same-day delivery throughout [Jacksonvil
     metaDescription: 'Not sure what size dumpster you need? Our complete guide compares 10, 15, and 20 yard dumpsters with real project examples to help you choose correctly.',
     excerpt: 'Choosing the wrong dumpster size can cost you time and money. Learn how to accurately estimate your debris volume and select the perfect dumpster for any project.',
     category: 'dumpster-rental-tips',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-12',
     readTime: '7 min read',
     tags: ['dumpster size', 'how to choose', 'dumpster rental guide', '10 yard', '15 yard', '20 yard'],
     content: `
-## Understanding Dumpster Sizes
+## How to Choose the Right Dumpster Size
 
-Dumpster sizes are measured in cubic yards, which represents the volume of debris the container can hold. While this measurement is standard across the industry, visualizing what it means for your project can be challenging.
+For most residential projects in Jacksonville, a [15-yard dumpster](/15-yard-dumpster-rental) ($325) is the right choice. It holds 5 pickup truck loads and handles kitchen remodels, roofing tear-offs, and multi-room cleanouts. Choose a [10-yard dumpster](/10-yard-dumpster-rental) ($275) for single-room projects or a [20-yard dumpster](/20-yard-dumpster-rental) ($375) for whole-house cleanouts and construction jobs. When in doubt, size up, since ordering a second dumpster costs more than the $50 difference between sizes.
 
-### [10-Yard Dumpster](/10-yard-dumpster-rental)
+After 2,000+ deliveries across Jacksonville since 2016, we have seen every type of project. Here is how to choose correctly the first time.
+
+## Dumpster Size Comparison Table
+
+| Specification | [10-Yard](/10-yard-dumpster-rental) | [15-Yard](/15-yard-dumpster-rental) | [20-Yard](/20-yard-dumpster-rental) |
+|--------------|------|------|------|
+| Price | $275 | $325 | $375 |
+| Dimensions | 12' x 7.5' x 3.6' | 14' x 7.5' x 4.5' | 14' x 7.5' x 5.8' |
+| Capacity | 10 cubic yards | 15 cubic yards | 20 cubic yards |
+| Truck Loads | 3 pickup loads | 5 pickup loads | 7 pickup loads |
+| Weight Limit | 1.5 tons (3,000 lbs) | 2 tons (4,000 lbs) | 2 tons (4,000 lbs) |
+| Rental Period | 5 days | 5 days | 5 days |
+| Best For | Small cleanouts, garage | Roofing, remodels | Whole-house, construction |
+
+All prices include delivery, pickup, rental period, and disposal. No hidden fees.
+
+## [10-Yard Dumpster](/10-yard-dumpster-rental) - $275
 
 **Dimensions**: 12 feet long x 7.5 feet wide x 3.6 feet high
 
 **Capacity**: 10 cubic yards (approximately 3 pickup truck loads)
 
 **Weight Limit**: Up to 3,000 pounds (1.5 tons)
-
-**Price**: $275 flat rate with 5-day rental
 
 **Ideal Projects**:
 - Small bathroom remodels
@@ -478,9 +542,9 @@ Dumpster sizes are measured in cubic yards, which represents the volume of debri
 - Small landscaping projects
 - Minor roofing repairs (up to 1,500 sq ft)
 
-The [10-yard dumpster](/10-yard-dumpster-rental) is our most compact option, making it perfect for [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) homes with smaller driveways. Its lower height makes loading easier without needing to lift items over your head.
+The [10-yard dumpster](/10-yard-dumpster-rental) is our most compact option, making it perfect for [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) homes with smaller driveways. At only 3.6 feet tall, it is easy to load without lifting items over your head.
 
-### [15-Yard Dumpster](/15-yard-dumpster-rental)
+## [15-Yard Dumpster](/15-yard-dumpster-rental) - $325
 
 **Dimensions**: 14 feet long x 7.5 feet wide x 4.5 feet high
 
@@ -488,12 +552,10 @@ The [10-yard dumpster](/10-yard-dumpster-rental) is our most compact option, mak
 
 **Weight Limit**: Up to 4,000 pounds (2 tons)
 
-**Price**: $325 flat rate - our most popular size
-
 **Ideal Projects**:
 - Full roof replacements (up to 3,000 sq ft)
-- Kitchen or bathroom gut renovations
-- Medium home cleanouts (2-3 bedrooms)
+- [Kitchen](/blog/kitchen-renovation-debris-disposal-guide) or bathroom gut renovations
+- Medium [home cleanouts](/blog/complete-guide-home-cleanout-jacksonville) (2-3 bedrooms)
 - Deck removal
 - Flooring replacement projects
 
@@ -566,11 +628,31 @@ Make sure the dumpster you choose will fit in your delivery location:
 - Check for overhead obstructions (tree branches, power lines)
 - Ensure the delivery truck can access your property
 
+## Frequently Asked Questions
+
+### What size dumpster do I need for a home cleanout?
+
+For a single room, use a [10-yard dumpster](/10-yard-dumpster-rental) ($275). For 2-3 rooms, the [15-yard dumpster](/15-yard-dumpster-rental) ($325) is the best fit. For a whole-house or [estate cleanout](/blog/complete-guide-home-cleanout-jacksonville), choose the [20-yard dumpster](/20-yard-dumpster-rental) ($375).
+
+### What size dumpster do I need for a roofing project?
+
+A [15-yard dumpster](/15-yard-dumpster-rental) handles most residential [roofing projects](/blog/roofing-project-waste-management) up to 2,500 sq ft. Roofing shingles are heavy, so the 2-ton weight limit is more important than the cubic yard capacity. For roofs over 2,500 sq ft or multi-layer tear-offs, use a [20-yard dumpster](/20-yard-dumpster-rental) or ask about swap-outs.
+
+### What is the difference between a 15 and 20 yard dumpster?
+
+The 15-yard and 20-yard dumpsters share the same 14' x 7.5' footprint. The 20-yard has taller walls (5.8' vs. 4.5'), giving it 33% more capacity for only $50 more. Both include a 2-ton weight limit. If you are debating between the two, the 20-yard is the safer choice.
+
+### Can I put heavy materials like concrete in a dumpster?
+
+Yes, but be careful with weight limits. Concrete weighs approximately 150 lbs per cubic foot and can exceed weight limits quickly. For [concrete-only loads](/concrete-disposal-dumpster), call us at (904) 240-5598 for heavy debris pricing.
+
 ## When to Call Us
 
-Still not sure which size you need? Call 904 Dumpster at (904) 240-5598. Describe your project and we will recommend the right size based on our experience with similar Jacksonville-area projects. We would rather help you choose correctly than have you pay for the wrong size.
+Still not sure which size you need? Call 904 Dumpster at (904) 240-5598. We will recommend the right size based on 10 years of experience with Jacksonville projects. We would rather help you choose correctly than have you pay for the wrong size.
 
 Before loading your dumpster, review our guide on [prohibited items](/blog/what-cannot-go-in-dumpster) to ensure smooth disposal. And if you are unsure about [permit requirements](/blog/jacksonville-dumpster-permit-guide), we can help with that too.
+
+We deliver same-day throughout Jacksonville and Northeast Florida, including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl). [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call (904) 240-5598.
     `,
   },
   {
@@ -580,21 +662,16 @@ Before loading your dumpster, review our guide on [prohibited items](/blog/what-
     metaDescription: 'Before loading your dumpster, know what items are prohibited. Learn about hazardous materials, electronics, and other items that require special disposal in Jacksonville.',
     excerpt: 'Knowing what you cannot put in a dumpster is just as important as knowing what you can. This guide covers prohibited items and how to properly dispose of them in Jacksonville.',
     category: 'dumpster-rental-tips',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-08',
     readTime: '5 min read',
     tags: ['prohibited items', 'hazardous waste', 'disposal rules', 'jacksonville disposal'],
     content: `
-## Why Some Items Are Prohibited
+## What Cannot Go in a Dumpster
 
-Landfills have strict regulations about what they can accept. Prohibited items fall into several categories:
+The items prohibited in a dumpster are hazardous materials (paint, chemicals, motor oil), batteries, propane tanks, tires, electronics, appliances with refrigerants, and medical waste. These items are banned because they pose environmental, safety, or regulatory risks at the landfill. Most prohibited items can be disposed of for free at the Duval County Household Hazardous Waste Facility at 2675 Commonwealth Ave.
 
-- **Environmental hazards**: Items that could contaminate soil or groundwater
-- **Safety risks**: Materials that could injure workers or cause fires
-- **Regulatory requirements**: Items requiring special handling by law
-- **Recycling mandates**: Materials that must be recycled rather than landfilled
-
-Understanding these restrictions helps protect the environment, keeps workers safe, and ensures your dumpster rental goes smoothly.
+At 904 Dumpster, we include a [prohibited items checklist](/rules/prohibited-items-list) with every delivery. After 2,000+ rentals in Jacksonville since 2016, here is the complete guide to what you can and cannot throw in a roll-off dumpster.
 
 ## Hazardous Materials
 
@@ -708,9 +785,46 @@ When we deliver your dumpster contents to the landfill, the facility inspects th
 
 To avoid these issues, keep prohibited items separate and use appropriate disposal methods.
 
+## Quick Reference: What Can and Cannot Go in a Dumpster
+
+| Allowed | Prohibited |
+|---------|-----------|
+| Furniture, mattresses | Wet paint, chemicals, solvents |
+| Construction debris (drywall, lumber) | Motor oil, automotive fluids |
+| Carpet and padding | Batteries (car, lithium) |
+| Yard waste (branches, sod) | Propane tanks, aerosol cans with contents |
+| Roofing shingles | Tires |
+| Cabinets, countertops, fixtures | Electronics (TVs, computers) |
+| Windows, doors, trim | Refrigerators with Freon |
+| General household junk | Medical waste, syringes |
+
+For [paint disposal](/blog/how-to-dispose-of-paint-jacksonville), see our dedicated Jacksonville guide with free drop-off locations.
+
+## Frequently Asked Questions
+
+### Can I put a mattress in a dumpster?
+
+Yes, mattresses are accepted in all 904 Dumpster roll-off containers. Place them on their side to save space. A standard mattress and box spring take up approximately 1-2 cubic yards of space in your dumpster.
+
+### Can I put concrete or brick in a dumpster?
+
+Yes, but be mindful of weight limits. Concrete weighs approximately 150 lbs per cubic foot. A [10-yard dumpster](/10-yard-dumpster-rental) loaded with concrete can quickly exceed the 1.5-ton weight limit. For concrete-only loads, we offer a [concrete disposal dumpster](/concrete-disposal-dumpster) with appropriate weight allowances.
+
+### What happens if prohibited items are found in my dumpster?
+
+When we deliver your dumpster contents to the landfill, the facility inspects the load. If prohibited items are discovered, the load may be rejected and additional fees may apply. To avoid this, keep prohibited items separate and use the Duval County HHW Facility at 2675 Commonwealth Ave.
+
+### Can I put paint cans in a dumpster?
+
+Empty, dry paint cans are allowed. Cans with wet paint, whether latex or oil-based, are prohibited. Dry latex paint by adding kitty litter, then dispose in your regular trash. See our full [paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville) for details.
+
+### Where do I take prohibited items in Jacksonville?
+
+The Duval County Household Hazardous Waste Facility at 2675 Commonwealth Ave accepts paint, chemicals, batteries, propane tanks, and other hazardous materials for free (Duval County residents, Tuesday-Saturday, 8 AM-5 PM). Electronics can go to Best Buy or Office Depot for free recycling.
+
 ## Have Questions About Specific Items?
 
-Not sure if something can go in your dumpster? Call us at (904) 240-5598 before loading it. We are happy to clarify what is allowed and suggest alternatives for prohibited items.
+Not sure if something can go in your dumpster? Call us at (904) 240-5598 before loading it. We deliver throughout [Jacksonville](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all of Northeast Florida. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call for same-day delivery.
     `,
   },
   // Construction Waste Category
@@ -721,14 +835,16 @@ Not sure if something can go in your dumpster? Call us at (904) 240-5598 before 
     metaDescription: 'Roofing projects generate heavy debris that requires proper planning. Learn how to estimate shingle weight, choose the right dumpster, and keep your project on schedule.',
     excerpt: 'Roofing debris is one of the heaviest materials contractors and homeowners deal with. Proper waste management keeps your project safe and on schedule.',
     category: 'construction-waste',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-05',
     readTime: '6 min read',
     tags: ['roofing', 'shingle disposal', 'contractor tips', 'construction debris'],
     content: `
-## Understanding Roofing Debris Weight
+## Roofing Project Waste Management
 
-Roofing materials are deceptively heavy. A dumpster can reach its weight limit long before it appears full, making proper planning essential for roofing projects.
+A [15-yard dumpster](/15-yard-dumpster-rental) ($325) is the best dumpster for most residential roofing projects in Jacksonville. It handles roofs up to 2,500 sq ft with a single layer of shingles. For larger roofs or multi-layer tear-offs, use a [20-yard dumpster](/20-yard-dumpster-rental) ($375) or schedule a swap-out. The critical factor for roofing dumpsters is weight, not volume, since asphalt shingles weigh 200-300 pounds per 100 square feet of coverage.
+
+904 Dumpster has been the go-to dumpster provider for Jacksonville roofing contractors since 2016. Here is how to plan your debris management based on real project data from our local deliveries.
 
 ### Shingle Weight Calculations
 
@@ -836,16 +952,38 @@ Some homeowners prefer to rent their own dumpster. This can save money but makes
 3. How will my property be protected?
 4. What happens to the old roofing materials?
 
+## Roofing Dumpster Weight Estimator
+
+| Roof Size | Shingle Weight (1 layer) | Recommended Dumpster | Price |
+|-----------|------------------------|---------------------|-------|
+| Up to 1,500 sq ft | 3,000-4,500 lbs | [15-Yard](/15-yard-dumpster-rental) | $325 |
+| 1,500-2,500 sq ft | 4,000-7,500 lbs | [15-Yard](/15-yard-dumpster-rental) or [20-Yard](/20-yard-dumpster-rental) | $325-$375 |
+| 2,500-3,500 sq ft | 5,000-10,500 lbs | [20-Yard](/20-yard-dumpster-rental) + swap-out | $375+ |
+| Multi-layer (any size) | 2x-3x above weights | Multiple containers | Call for pricing |
+
+## Frequently Asked Questions
+
+### What size dumpster do I need for a roofing project?
+
+A [15-yard dumpster](/15-yard-dumpster-rental) handles most single-layer residential roof replacements up to 2,500 sq ft in Jacksonville. The 2-ton weight limit is the key constraint for roofing, not volume. For roofs over 2,500 sq ft or multi-layer tear-offs, a [20-yard dumpster](/20-yard-dumpster-rental) or scheduled swap-out is recommended.
+
+### How heavy are roofing shingles?
+
+Standard asphalt shingles weigh 200-300 pounds per "square" (100 square feet of roof coverage). A 2,000 sq ft roof produces approximately 4,000-6,000 lbs of shingle debris, plus underlayment, flashing, and damaged decking. Our 15-yard dumpster includes a 2-ton (4,000 lb) weight limit, with overages at $75/ton.
+
+### Should the contractor or homeowner provide the dumpster?
+
+Either works. Many Jacksonville roofers include dumpster rental in their quote. If you rent your own dumpster, you maintain control over timing and can often save $50-$100 compared to the contractor's markup. Ask your roofer if debris removal is included and whether there are weight overage fees.
+
+### Can I put old roofing materials in a dumpster?
+
+Yes, asphalt shingles, underlayment, flashing, drip edge, ridge vents, and damaged plywood decking all go in the dumpster. The only [prohibited items](/blog/what-cannot-go-in-dumpster) from roofing projects are spray foam insulation cans with remaining product and any hazardous materials like asbestos (pre-1980 homes should be tested).
+
 ## Scheduling Your Roofing Dumpster
 
-For roofing projects in Jacksonville and Northeast Florida, call 904 Dumpster at (904) 240-5598. We offer:
+For roofing projects in Jacksonville and Northeast Florida, call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9). We offer same-day delivery, flexible rental periods, and weight limit guidance based on your specific roof.
 
-- Same-day delivery for urgent projects
-- Flexible rental periods
-- Weight limit guidance based on your specific roof
-- Convenient scheduling for pickup when the job is done
-
-We serve all of Duval County including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), plus [Orange Park](/dumpster-rental-orange-park-fl) in Clay County and [Fleming Island](/dumpster-rental-fleming-island-fl).
+We serve all of Duval County including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), plus [Orange Park](/dumpster-rental-orange-park-fl) in Clay County, [Fleming Island](/dumpster-rental-fleming-island-fl), and [St. Augustine](/dumpster-rental-st-augustine-fl).
 
 Before your project, review our guide on [what items cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) and check if you need a [dumpster permit in Jacksonville](/blog/jacksonville-dumpster-permit-guide).
     `,
@@ -857,11 +995,17 @@ Before your project, review our guide on [what items cannot go in a dumpster](/b
     metaDescription: 'Managing demolition debris requires proper planning and compliance. Learn about Jacksonville permits, debris separation, and choosing the right dumpster for demo projects.',
     excerpt: 'Demolition projects create unique waste management challenges. From concrete and drywall to metal and wood, understanding how to handle different materials keeps your project compliant and cost-effective.',
     category: 'construction-waste',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-02',
     readTime: '7 min read',
     tags: ['demolition', 'debris disposal', 'construction waste', 'jacksonville permits'],
     content: `
+## Demolition Debris Disposal
+
+Demolition debris in Jacksonville requires a [15-yard](/15-yard-dumpster-rental) ($325) or [20-yard dumpster](/20-yard-dumpster-rental) ($375), depending on the project scope. Interior demo (gutting rooms, removing walls) typically fits in a 15-yard, while exterior demo (decks, sheds, structural teardown) needs a 20-yard or multiple containers. Heavy materials like concrete and brick must be separated from general debris to manage weight limits. Jacksonville requires a demolition permit for any structure over 120 square feet.
+
+904 Dumpster has supported [demolition projects](/demolition-services-jacksonville) across Northeast Florida since 2016, from single-room gut jobs to full structure teardowns. Here is how to handle debris disposal properly.
+
 ## Types of Demolition Debris
 
 Demolition projects generate a diverse mix of materials, each with different disposal requirements:
@@ -972,18 +1116,42 @@ Demolition sites must prevent sediment runoff:
 - Cover soil piles during rain
 - Sweep streets to prevent debris entering storm drains
 
+## Demolition Dumpster Size Guide
+
+| Demo Project | Recommended Size | Price | Notes |
+|-------------|-----------------|-------|-------|
+| Single room gut | [15-Yard](/15-yard-dumpster-rental) | $325 | Drywall, cabinets, flooring |
+| Multi-room gut | [20-Yard](/20-yard-dumpster-rental) | $375 | More volume for lumber stacks |
+| Deck removal (250+ sq ft) | [15-Yard](/15-yard-dumpster-rental) | $325 | Pressure-treated wood accepted |
+| Shed or outbuilding | [20-Yard](/20-yard-dumpster-rental) | $375 | Handles structural lumber |
+| Full structure demo | Multiple [20-Yard](/20-yard-dumpster-rental) | $375 each | Schedule swap-outs |
+| Concrete/masonry only | [Concrete Dumpster](/concrete-disposal-dumpster) | Call | Heavy debris pricing |
+
+## Frequently Asked Questions
+
+### What size dumpster do I need for a demolition project?
+
+For interior [demolition](/demolition-services-jacksonville) (gutting one room), a [15-yard dumpster](/15-yard-dumpster-rental) ($325) is typically sufficient. For exterior demolition (decks, sheds, multiple rooms), a [20-yard dumpster](/20-yard-dumpster-rental) ($375) provides the volume needed for bulky structural debris. Full structure demolitions require multiple containers with scheduled swap-outs.
+
+### Do I need a permit for demolition in Jacksonville?
+
+Yes, Jacksonville/Duval County requires a demolition permit for any structure over 120 square feet or work affecting load-bearing walls or utilities. Contact the City of Jacksonville Building Inspection Division for applications. See our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for more details.
+
+### Can I put concrete and brick in a regular dumpster?
+
+Yes, but concrete and brick are extremely heavy (approximately 150 lbs per cubic foot). Keep heavy materials separate from general debris when possible, and be mindful of weight limits. For concrete-only loads like driveway or patio demolition, our [concrete disposal dumpster](/concrete-disposal-dumpster) offers appropriate weight allowances.
+
+### Does 904 Dumpster offer full demolition services?
+
+Yes, our [demolition services](/demolition-services-jacksonville) team handles commercial, residential, and interior demolition throughout Jacksonville. We manage the entire process, from permits to debris hauling. Call (904) 240-5598 for a free demolition estimate.
+
 ## Working with 904 Dumpster on Demolition Projects
 
-We support demolition projects throughout Jacksonville with:
-
-- **Flexible dumpster scheduling**: Swap-outs when containers fill
-- **Heavy debris options**: Containers rated for concrete and masonry
-- **[Demolition services](/demolition-services-jacksonville)**: Full-service demolition available
-- **Permit guidance**: Help navigating [local permit requirements](/blog/jacksonville-dumpster-permit-guide)
+We support demolition projects throughout Jacksonville with flexible scheduling, heavy debris containers, full [demolition services](/demolition-services-jacksonville), and [permit guidance](/blog/jacksonville-dumpster-permit-guide).
 
 We serve all of Northeast Florida including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl).
 
-Call (904) 240-5598 to discuss your demolition project and get a customized waste management plan.
+Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) to discuss your demolition project.
     `,
   },
   // Local Guides Category
@@ -994,14 +1162,16 @@ Call (904) 240-5598 to discuss your demolition project and get a customized wast
     metaDescription: 'Wondering if you need a permit for your dumpster rental in Jacksonville? This guide covers Duval County requirements, HOA rules, and how to get permits when needed.',
     excerpt: 'Understanding Jacksonville dumpster permit requirements prevents delays and fines. Learn when permits are required, how to obtain them, and how to work with your HOA.',
     category: 'local-guides',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2025-01-01',
     readTime: '5 min read',
     tags: ['permits', 'jacksonville', 'regulations', 'dumpster placement'],
     content: `
-## When Permits Are Required in Jacksonville
+## Do You Need a Dumpster Permit in Jacksonville
 
-The general rule for Jacksonville/Duval County dumpster permits is straightforward:
+No, you do not need a permit for a dumpster in Jacksonville if it is placed on your private property (driveway or yard) for 30 days or less and does not obstruct sidewalks or rights-of-way. A permit is required only if the dumpster must be placed on a public street or right-of-way. Contact the City of Jacksonville Public Works Department at (904) 255-8200 for right-of-way permits.
+
+At 904 Dumpster, we place dumpsters on driveways 99% of the time, no permit needed. After 2,000+ deliveries across Jacksonville since 2016, our drivers know the placement rules for every neighborhood, from the HOA communities in Ponte Vedra to the narrow streets in Riverside. Here is the complete guide by area.
 
 ### No Permit Needed
 - Dumpster placed on your private property (driveway, yard)
@@ -1109,21 +1279,46 @@ Many Jacksonville-area neighborhoods have HOAs with dumpster rules:
 - Review HOA governing documents for your rights
 - Consider placing dumpster at the curb just before pickup
 
+## Dumpster Permit Requirements by Area
+
+| Location | Driveway Placement | Street Placement | Notes |
+|----------|-------------------|-----------------|-------|
+| Jacksonville (Duval County) | No permit needed | Permit required | Contact Public Works (904) 255-8200 |
+| Jacksonville Beach | No permit needed | Permit required | Call (904) 247-6100 |
+| Neptune Beach | No permit needed | Very limited, call first | Narrow streets, driveway preferred |
+| Atlantic Beach | No permit needed | Permit required | Historic district has extra rules |
+| Ponte Vedra / Nocatee | No permit needed | HOA approval likely | Allow extra time for community approval |
+| St. Augustine | No permit needed | Permit required | Historic district has strict rules |
+| Orange Park / Clay County | No permit needed | Rarely restricted | More relaxed requirements |
+
+## Frequently Asked Questions
+
+### Do I need a permit to put a dumpster in my driveway in Jacksonville?
+
+No. In Jacksonville/Duval County, you do not need a permit to place a dumpster on your private property (driveway, yard, or parking area) for 30 days or less. This applies to all dumpster sizes we offer, including [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) containers.
+
+### How much does a dumpster permit cost in Jacksonville?
+
+Right-of-way permit fees vary by duration and location. Contact the City of Jacksonville Public Works Department at (904) 255-8200 for current fees. Standard processing takes 3-5 business days. Most customers avoid permit costs entirely by placing the dumpster on their driveway.
+
+### Will my HOA allow a dumpster?
+
+Most Jacksonville-area HOAs allow temporary dumpster placement for renovation and cleanout projects, but you typically need written approval first. Request permission in writing, provide your project timeline, and commit to prompt removal. Our 5-day standard rental keeps the dumpster on-site for the minimum time needed.
+
+### Can 904 Dumpster place the container on the street?
+
+Yes, we can place dumpsters on public streets with the proper permit. If street placement is needed, we recommend applying for the right-of-way permit before scheduling your delivery. Our drivers know the placement rules for every Jacksonville neighborhood and will position the dumpster to comply with local requirements.
+
 ## 904 Dumpster Helps with Permit Questions
 
-Unsure about permit requirements for your location? Call us at (904) 240-5598. We deliver dumpsters throughout Jacksonville and can share our experience with:
-
-- Which areas typically require permits
-- HOA guidelines we have encountered
-- Alternative placement options
-- Timing strategies to minimize permit needs
+Unsure about permit requirements for your location? Call us at (904) 240-5598. After 10 years of delivering dumpsters across Northeast Florida, we know which areas require permits and can recommend the best placement for your project.
 
 We serve homeowners and contractors across Northeast Florida:
 - **Duval County**: [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl)
-- **Clay County**: [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
+- **Clay County**: [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), [Middleburg](/dumpster-rental-middleburg-fl)
 - **St. Johns County**: [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl)
 
-Ready to rent? Check out our [dumpster sizes and pricing](/blog/how-to-choose-right-dumpster-size) or call for same-day delivery. We want your project to go smoothly from delivery to pickup, and that starts with understanding local requirements.
+Check out our [dumpster sizes and pricing](/blog/how-to-choose-right-dumpster-size) or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for same-day delivery.
     `,
   },
   {
@@ -1133,11 +1328,17 @@ Ready to rent? Check out our [dumpster sizes and pricing](/blog/how-to-choose-ri
     metaDescription: 'After a hurricane hits Jacksonville, proper debris cleanup is essential. Learn about city programs, dumpster options, and how to safely clear storm damage from your property.',
     excerpt: 'Jacksonville sits in a hurricane-prone region. When storms strike, knowing how to properly handle debris cleanup helps you recover faster and avoid problems with improper disposal.',
     category: 'local-guides',
-    author: '904 Dumpster Team',
+    author: 'Web Wise Team',
     publishedDate: '2024-12-28',
     readTime: '6 min read',
     tags: ['hurricane debris cleanup', 'storm damage disposal', 'florida hurricane recovery', 'disaster debris removal'],
     content: `
+## Hurricane Debris Cleanup in Jacksonville
+
+After a hurricane in Jacksonville, separate debris into four categories (vegetative, construction, household, hazardous) and place them curbside for city collection, or rent a [20-yard dumpster](/20-yard-dumpster-rental) ($375) for immediate private cleanup. The City of Jacksonville activates curbside debris collection after major storms, but pickup can take weeks depending on severity. For faster cleanup, a dumpster rental lets you work at your own pace without waiting for city trucks.
+
+As a locally owned company that stays in Jacksonville through every storm, 904 Dumpster has supported hurricane recovery across Northeast Florida since 2016. We prioritize post-storm deliveries and extend rental periods for disaster situations. Here is what you need to know.
+
 ## Preparing Before the Storm
 
 Smart Jacksonville homeowners think about debris management before hurricanes arrive:
@@ -1283,10 +1484,33 @@ Contact us before hurricane season to:
 
 We serve all of Northeast Florida including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and surrounding areas.
 
+## Frequently Asked Questions
+
+### How do I dispose of hurricane debris in Jacksonville?
+
+Separate debris by type (vegetative, construction, household, hazardous) and place at the curb for city collection, or rent a dumpster for immediate private cleanup. The City of Jacksonville activates curbside programs after major storms. A [20-yard dumpster](/20-yard-dumpster-rental) ($375) handles most residential hurricane cleanup and lets you work at your own pace.
+
+### Does insurance cover dumpster rental for hurricane cleanup?
+
+Most homeowner insurance policies include debris removal coverage as part of the claim. Keep all receipts for dumpster rental, hauling, and cleanup services. Contact your adjuster before renting to confirm coverage and get approval. Ask specifically about dumpster rental reimbursement.
+
+### How soon can I get a dumpster after a hurricane?
+
+904 Dumpster delivers as soon as roads are passable, typically within 24-48 hours of an all-clear. Contact us early, before or during the storm, to reserve a container and get priority delivery. As a local company, we stay in Jacksonville through every storm, while national brokers often pause service for days or weeks.
+
+### What hurricane debris cannot go in a dumpster?
+
+Hazardous materials from storm damage, including fuel containers, propane tanks, pool chemicals, pesticides, and refrigerators with spoiled food, require special handling. Take these items to the Duval County HHW Facility at 2675 Commonwealth Ave. See our full [prohibited items guide](/blog/what-cannot-go-in-dumpster) for details.
+
+### Do I need a permit for a dumpster after a hurricane?
+
+During declared disaster periods, Jacksonville typically relaxes dumpster permit requirements. Standard rules apply outside of disaster declarations: no permit needed for driveway placement, permit required for street placement. See our [permit guide](/blog/jacksonville-dumpster-permit-guide) for complete details.
+
 **Related Resources:**
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
 - [Jacksonville Dumpster Permit Guide](/blog/jacksonville-dumpster-permit-guide)
+- [Complete Home Cleanout Guide](/blog/complete-guide-home-cleanout-jacksonville)
     `,
   },
 ]

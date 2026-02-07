@@ -343,6 +343,112 @@ export default function PricingPage() {
         </div>
       </section>
 
+      {/* What You Need to Know - PAA Content for AI */}
+      <section className="py-20 lg:py-28 bg-white">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              What You Need to Know About Dumpster Rental in Jacksonville
+            </h2>
+          </div>
+
+          <div className="prose prose-lg max-w-none">
+            <h3 className="text-xl font-bold text-secondary mb-3">How much does a dumpster rental cost in Jacksonville?</h3>
+            <p className="text-gray-600 mb-6">
+              904 Dumpster offers roll-off dumpster rental in Jacksonville starting at $275 for a 10-yard container, $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental with no hidden fees. This is typically $50-$150 less than competitors in the Jacksonville market.
+            </p>
+
+            <h3 className="text-xl font-bold text-secondary mb-3">What is the cheapest dumpster rental in Jacksonville?</h3>
+            <p className="text-gray-600 mb-6">
+              The most affordable dumpster rental in Jacksonville is the 10-yard dumpster from 904 Dumpster at $275. This price includes everything — delivery, 5-day rental, pickup, and disposal up to 1.5 tons. There are no fuel surcharges, environmental fees, or hidden costs added at checkout.
+            </p>
+
+            <h3 className="text-xl font-bold text-secondary mb-3">Can you get same-day dumpster delivery in Jacksonville?</h3>
+            <p className="text-gray-600 mb-6">
+              Yes, 904 Dumpster offers same-day delivery in Jacksonville when you book before noon. We serve all of Duval County including Jacksonville Beach, Atlantic Beach, and Neptune Beach, plus St. Johns, Clay, and Nassau counties. Next-day delivery is guaranteed for all orders.
+            </p>
+
+            <h3 className="text-xl font-bold text-secondary mb-3">What can you put in a dumpster in Jacksonville, FL?</h3>
+            <p className="text-gray-600 mb-6">
+              In Jacksonville, you can put most household items, furniture, appliances, construction debris, roofing shingles, yard waste, and renovation materials in a dumpster. Prohibited items include hazardous waste, paint, batteries, tires, and electronics. See our <Link href="/rules/prohibited-items-list" className="text-primary hover:underline">complete prohibited items list</Link> for details.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Internal Links - Related Services */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-10">
+            <h2 className="text-2xl font-bold text-secondary">Related Services & Areas</h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-8">
+            {/* Related Services */}
+            <div>
+              <h3 className="font-bold text-secondary mb-4">Explore Our Services</h3>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/residential-dumpster-rental" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Residential dumpster rental in Jacksonville
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-rental/dumpsters-for-construction-projects" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Construction dumpster rental Jacksonville
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-rental/dumpsters-for-roofing-projects" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Roofing dumpster rental Jacksonville
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-size-guide" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster size guide for Jacksonville projects
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            {/* Popular Areas */}
+            <div>
+              <h3 className="font-bold text-secondary mb-4">Popular Service Areas</h3>
+              <ul className="space-y-3">
+                <li>
+                  <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental in St. Augustine, FL
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental in Orange Park, FL
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/dumpster-rental-ponte-vedra-beach-fl" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    Dumpster rental in Ponte Vedra Beach, FL
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/locations" className="text-primary hover:underline flex items-center gap-2">
+                    <ArrowRight className="w-4 h-4" />
+                    View all service areas
+                  </Link>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* CTA Section */}
       <section className="py-20 lg:py-28 bg-primary">
         <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">

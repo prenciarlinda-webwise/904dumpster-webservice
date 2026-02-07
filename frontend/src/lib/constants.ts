@@ -1,8 +1,8 @@
 // Business Information
 // IMPORTANT: Name must match Google Business Profile exactly for Local Pack ranking
 export const BUSINESS = {
-  name: '904 Dumpster - Dumpster Rental Jacksonville',
-  nameShort: '904 Dumpster', // For image alts and compact displays
+  name: '904 Dumpster',
+  nameShort: '904 Dumpster',
   phone: '(904) 240-5598',
   phoneRaw: '9042405598',
   email: 'info@904dumpster.com',
@@ -91,7 +91,7 @@ export const NAV_LINKS = [
   { label: 'Home', href: '/' },
   { label: 'Services', href: '/services', hasMegaMenu: true },
   { label: 'Locations', href: '/locations', hasMegaMenu: true },
-  { label: 'Resources', href: '/resources', hasDropdown: true },
+  { label: 'Resources', href: '/blog', hasDropdown: true },
   { label: 'Contact Us', href: '/contact-us' },
 ] as const
 

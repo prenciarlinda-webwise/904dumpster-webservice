@@ -4,63 +4,77 @@ import { useState, useEffect, useRef } from 'react'
 import { Star, ChevronLeft, ChevronRight, Quote } from 'lucide-react'
 import { BUSINESS } from '@/lib/constants'
 
-// Actual Google Reviews - 5.0 rating with 148 reviews
+// Actual Google Reviews - 5.0 rating with 150 reviews
 const GOOGLE_REVIEWS = [
+  {
+    name: 'Neemy Michel',
+    rating: 5,
+    date: '2 weeks ago',
+    text: 'Very professional and on time. Great customer service. I will definitely use 904 Dumpster again.',
+    avatar: 'NM',
+  },
+  {
+    name: 'Sarah Phillips',
+    rating: 5,
+    date: '3 weeks ago',
+    text: 'Fast and efficient service. Excellent price will use again highly recommended',
+    avatar: 'SP',
+  },
+  {
+    name: 'e bixi',
+    rating: 5,
+    date: '1 month ago',
+    text: 'I use 904 dumpsters for two of my projects, they delivered on time both drop off and pick up. Best on market.',
+    avatar: 'EB',
+  },
+  {
+    name: 'Paul Yarger',
+    rating: 5,
+    date: '1 month ago',
+    text: '904 Dumpster was by far the best dumpster service I\'ve used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good! They were there when promised at drop off and pick up. I will be using them again for sure!',
+    avatar: 'PY',
+  },
+  {
+    name: 'Dorian Allmeta',
+    rating: 5,
+    date: '1 month ago',
+    text: 'Fast and reliable. Best in Jacksonville area',
+    avatar: 'DA',
+  },
+  {
+    name: 'Dalton Guinn',
+    rating: 5,
+    date: '1 month ago',
+    text: 'Excellent service, super nice company, shows up every-time when expected which is really needed when managing a project or renovation',
+    avatar: 'DG',
+  },
+  {
+    name: 'Kevin',
+    rating: 5,
+    date: '1 month ago',
+    text: 'Very quick service and Dionis was very communicative and very helpful. Would definitely recommend and order again',
+    avatar: 'K',
+  },
   {
     name: 'Juan Esteban',
     rating: 5,
-    date: '2 weeks ago',
-    text: 'Excellent service! The dumpster was delivered on time and picked up exactly when promised. The driver was professional and placed it perfectly in my driveway. Would definitely use again!',
+    date: '1 month ago',
+    text: 'Great job by 904 Dumpster- they delivered & picked up 2 dumpsters. All went smooth with ordering & payment via the app.',
     avatar: 'JE',
-  },
-  {
-    name: 'Jorgis Hakrami',
-    rating: 5,
-    date: '3 weeks ago',
-    text: 'Best dumpster rental experience in Jacksonville. Fair pricing, no hidden fees, and the customer service was outstanding. They answered all my questions and made the whole process easy.',
-    avatar: 'JH',
   },
   {
     name: 'Redi Tufa',
     rating: 5,
-    date: '1 month ago',
-    text: 'Used them for my home renovation project. Great communication from start to finish. The 15-yard dumpster was perfect for my needs. Highly recommend 904 Dumpster!',
+    date: '2 months ago',
+    text: 'Great, reliable dumpster service! Always on time with delivery and pickup, fair pricing, and excellent communication. Makes every project run smoother. Highly recommend!',
     avatar: 'RT',
   },
   {
-    name: 'Mike Thompson',
-    rating: 5,
-    date: '1 month ago',
-    text: 'Fast delivery, fair pricing, and the driver was super helpful placing the dumpster exactly where I needed it. Will use again for my next project!',
-    avatar: 'MT',
-  },
-  {
-    name: 'Sarah Kelly',
+    name: 'Velibor Ivanic',
     rating: 5,
     date: '2 months ago',
-    text: 'Used them for my kitchen renovation. No hidden fees, easy scheduling. The whole process was seamless. Highly recommend 904 Dumpster!',
-    avatar: 'SK',
-  },
-  {
-    name: 'David Martinez',
-    rating: 5,
-    date: '2 months ago',
-    text: 'As a contractor, I need reliable dumpster service. 904 Dumpster delivers every time. Same-day delivery when I need it, competitive pricing, and great customer service.',
-    avatar: 'DM',
-  },
-  {
-    name: 'Jennifer Williams',
-    rating: 5,
-    date: '3 months ago',
-    text: 'Cleaned out my parents\' estate and these guys made it so much easier. They extended my rental when I needed more time at no extra hassle. True professionals!',
-    avatar: 'JW',
-  },
-  {
-    name: 'Chris Rodriguez',
-    rating: 5,
-    date: '3 months ago',
-    text: 'Finally, a local dumpster company that actually answers the phone! No automated systems, just real people who care about their customers. Five stars all the way.',
-    avatar: 'CR',
+    text: 'Great company to work with. Professional, on time, and best price in Jax',
+    avatar: 'VI',
   },
 ]
 
@@ -146,7 +160,7 @@ export function GoogleReviews() {
             </div>
             <span className="text-3xl font-black text-secondary">5.0</span>
             <span className="text-gray-500">|</span>
-            <span className="text-gray-600 font-medium">148 Reviews</span>
+            <span className="text-gray-600 font-medium">150+ Reviews</span>
           </div>
 
           <p className="text-gray-500 text-sm">
@@ -247,7 +261,7 @@ export function GoogleReviews() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
           >
-            Read All 148 Reviews on Google
+            Read All 150+ Reviews on Google
             <ChevronRight className="w-4 h-4" />
           </a>
         </div>
