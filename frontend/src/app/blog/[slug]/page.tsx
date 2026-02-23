@@ -1,10 +1,9 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import { ArrowLeft, ArrowRight, Calendar, Clock, Tag, User, Phone } from 'lucide-react'
 import {
-  BLOG_POSTS,
-  BLOG_CATEGORIES,
   getBlogPostBySlug,
   getAllBlogSlugs,
   getCategoryBySlug,
@@ -345,11 +344,11 @@ export default async function BlogPostPage({
 
         <div className="relative max-w-4xl mx-auto px-4 lg:px-6">
           <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-            <Link href="/" className="hover:text-white">
+            <Link href="/" className="hover:text-white" title="904 Dumpster Home">
               Home
             </Link>
             <span>/</span>
-            <Link href="/blog" className="hover:text-white">
+            <Link href="/blog" className="hover:text-white" title="Dumpster Rental Blog">
               Blog
             </Link>
             <span>/</span>
@@ -372,6 +371,7 @@ export default async function BlogPostPage({
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-white transition-colors"
+              title={post.author}
             >
               <User className="w-4 h-4" />
               {post.author}
@@ -398,6 +398,18 @@ export default async function BlogPostPage({
           <div className="grid lg:grid-cols-3 gap-12">
             {/* Main Content */}
             <article className="lg:col-span-2">
+              {/* Featured Image */}
+              {post.featuredImage && (
+                <div className="relative h-64 lg:h-80 rounded-2xl overflow-hidden mb-10">
+                  <Image
+                    src={post.featuredImage}
+                    alt={post.title}
+                    title={post.title}
+                    fill
+                    className="object-cover"
+                  />
+                </div>
+              )}
               {/* Main article content (without FAQs) */}
               <div
                 className="prose prose-lg max-w-none"
@@ -438,6 +450,7 @@ export default async function BlogPostPage({
                 <Link
                   href="/blog"
                   className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
+                  title="Back to Blog"
                 >
                   <ArrowLeft className="w-4 h-4" />
                   Back to Blog
@@ -456,6 +469,7 @@ export default async function BlogPostPage({
                 <a
                   href={`tel:${BUSINESS.phoneRaw}`}
                   className="flex items-center justify-center gap-2 bg-white text-primary font-bold py-3 px-6 rounded-xl hover:bg-secondary hover:text-white transition-all"
+                  title="Call 904 Dumpster"
                 >
                   <Phone className="w-5 h-5" />
                   {BUSINESS.phone}
@@ -472,6 +486,7 @@ export default async function BlogPostPage({
                         key={recentPost.slug}
                         href={`/blog/${recentPost.slug}`}
                         className="block group"
+                        title={recentPost.title}
                       >
                         <h4 className="font-semibold text-secondary group-hover:text-primary transition-colors mb-2">
                           {recentPost.title}
@@ -483,21 +498,16 @@ export default async function BlogPostPage({
                 </div>
               )}
 
-              {/* Categories */}
-              <div className="bg-gray-50 rounded-2xl p-6 mt-8">
-                <h3 className="text-xl font-bold text-secondary mb-6">Categories</h3>
-                <div className="space-y-3">
-                  {BLOG_CATEGORIES.map((cat) => (
-                    <Link
-                      key={cat.slug}
-                      href={`/blog#${cat.slug}`}
-                      className="flex items-center justify-between text-gray-700 hover:text-primary transition-colors"
-                    >
-                      <span>{cat.name}</span>
-                      <ArrowRight className="w-4 h-4" />
-                    </Link>
-                  ))}
-                </div>
+              {/* Back to Blog */}
+              <div className="mt-8">
+                <Link
+                  href="/blog"
+                  className="flex items-center justify-center gap-2 bg-gray-50 hover:bg-gray-100 text-secondary font-semibold py-3 px-6 rounded-2xl transition-all"
+                  title="View All Blog Articles"
+                >
+                  View All Articles
+                  <ArrowRight className="w-4 h-4" />
+                </Link>
               </div>
             </aside>
           </div>
@@ -517,6 +527,7 @@ export default async function BlogPostPage({
             <a
               href={`tel:${BUSINESS.phoneRaw}`}
               className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-secondary text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
+              title="Call 904 Dumpster"
             >
               <Phone className="w-5 h-5" />
               Call {BUSINESS.phone}
@@ -524,6 +535,7 @@ export default async function BlogPostPage({
             <Link
               href="/contact-us"
               className="inline-flex items-center justify-center gap-2 bg-secondary hover:bg-primary text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
+              title="Contact 904 Dumpster for a Free Quote"
             >
               Get a Free Quote
               <ArrowRight className="w-5 h-5" />

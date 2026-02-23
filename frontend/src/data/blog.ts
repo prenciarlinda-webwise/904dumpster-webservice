@@ -44,6 +44,117 @@ export const BLOG_CATEGORIES: BlogCategory[] = [
 ]
 
 export const BLOG_POSTS: BlogPost[] = [
+  // Local Guides Category - Clay County Franchise Hauler
+  {
+    slug: '904-dumpster-clay-county-licensed-franchise-hauler',
+    title: '904 Dumpster Named Licensed Franchise Hauler by Clay County, FL',
+    metaTitle: '904 Dumpster - Clay County Licensed Franchise Hauler - Orange Park FL',
+    metaDescription: '904 Dumpster is a Clay County licensed franchise hauler for roll-off dumpster rental in Orange Park, Fleming Island, Middleburg, and Green Cove Springs FL. View our listing on claycountygov.com.',
+    excerpt: '904 Dumpster is officially listed as a licensed franchise hauler on the Clay County, FL government website. This means residents in Orange Park, Fleming Island, Middleburg, and Green Cove Springs can rent roll-off dumpsters from a county-approved local provider.',
+    category: 'local-guides',
+    author: '904 Dumpster',
+    publishedDate: '2026-02-23',
+    readTime: '5 min read',
+    featuredImage: '/images/dumpster-rental-middleburg-fl.jpg',
+    tags: ['clay county dumpster rental', 'orange park dumpster rental', 'clay county franchise hauler', 'fleming island dumpster rental', 'middleburg dumpster rental', 'green cove springs dumpster rental', '904 dumpster clay county'],
+    content: `
+## 904 Dumpster Is a Clay County Licensed Franchise Hauler
+
+904 Dumpster is officially recognized as a licensed franchise hauler by Clay County, Florida. Our company appears on the [Clay County government franchise haulers page](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers), confirming that we meet all county requirements for roll-off dumpster rental and waste hauling services in unincorporated Clay County.
+
+This designation means that Clay County residents and contractors can rent dumpsters from 904 Dumpster with full confidence that we operate under county oversight, carry required insurance, and follow all local waste disposal regulations.
+
+## What Is a Clay County Franchise Hauler?
+
+A franchise hauler is a waste collection company that has been approved and licensed by Clay County to provide roll-off container and dumpster rental services within the county. The Clay County Board of County Commissioners maintains a list of approved haulers to protect residents from unlicensed operators who may not carry proper insurance or follow disposal regulations.
+
+To become a franchise hauler, a company must:
+
+- Hold a valid Clay County business license
+- Carry general liability and vehicle insurance
+- Follow all Clay County solid waste ordinances
+- Use approved disposal facilities
+- Maintain proper equipment and safety standards
+
+## What This Means for Clay County Residents
+
+If you live in Orange Park, Fleming Island, Middleburg, Green Cove Springs, Oakleaf, or anywhere in unincorporated Clay County, you can rent a roll-off dumpster from 904 Dumpster knowing that:
+
+**We are county-approved.** Clay County has verified our business credentials, insurance, and operations. You can confirm this by visiting the official [franchise haulers list on claycountygov.com](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers).
+
+**We handle disposal properly.** As a licensed hauler, we follow all Clay County regulations for waste transport and disposal. Your debris goes to approved facilities, not illegal dump sites.
+
+**We carry full insurance.** Our general liability and commercial vehicle insurance meet or exceed Clay County requirements. Your property is protected during delivery and pickup.
+
+**We are locally owned.** Unlike national brokers that subcontract to unknown operators, 904 Dumpster owns our trucks, employs local drivers, and has served Northeast Florida since 2016.
+
+## Dumpster Rental Sizes Available in Clay County
+
+We deliver three roll-off dumpster sizes throughout Clay County:
+
+**10-Yard Dumpster ($275)** - 12ft x 7.5ft x 3.6ft. Holds 1.5 tons. Best for garage cleanouts, single-room renovations, and small landscaping projects. Fits easily in Clay County driveways and cul-de-sacs.
+
+**15-Yard Dumpster ($325)** - 14ft x 7.5ft x 4.5ft. Holds 2 tons. Ideal for roofing tear-offs, kitchen remodels, and medium estate cleanouts. Our most popular size for Fleming Island and Oakleaf homeowners.
+
+**20-Yard Dumpster ($375)** - 14ft x 7.5ft x 5.8ft. Holds 2 tons. Built for whole-house renovations, construction debris, and large property cleanouts. Frequently rented by contractors working in new developments around Middleburg and Green Cove Springs.
+
+All prices include delivery, pickup, disposal, and a 5-day rental period. No hidden fees.
+
+## Clay County Service Areas
+
+We deliver dumpsters to every community in Clay County, including:
+
+- **Orange Park** - Residential cleanouts and renovation projects
+- **Fleming Island** - HOA-friendly dumpster placement for home remodels
+- **Middleburg** - Land clearing and new construction debris removal
+- **Green Cove Springs** - Estate cleanouts and commercial projects
+- **Oakleaf** - Garage and whole-house cleanouts in the planned community
+- **Lakeside** - Renovation and landscaping debris removal
+- **Keystone Heights** - Rural property cleanouts and construction waste
+
+Same-day delivery is available in most Clay County areas when you book before noon. We know the neighborhoods, the driveways, and the HOA rules, because we are your neighbors.
+
+## How to Rent a Dumpster in Clay County
+
+Renting a dumpster from 904 Dumpster in Clay County takes less than five minutes:
+
+1. **Choose your size** - 10, 15, or 20-yard based on your project
+2. **Book online or call** - [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call (904) 240-5598
+3. **We deliver** - Same-day or next-day to your Clay County address
+4. **Fill your dumpster** - You have 5 days (extensions available at $15/day)
+5. **We pick up** - Call or text when done, pickup within 24 hours
+
+## Why Choose a Licensed Franchise Hauler?
+
+Hiring an unlicensed waste hauler in Clay County puts you at risk. Unlicensed operators may illegally dump your debris, leaving you liable for cleanup costs and county fines. They may lack insurance, meaning any property damage during delivery or pickup comes out of your pocket.
+
+When you rent from a Clay County licensed franchise hauler like 904 Dumpster, you get county-verified credentials, proper insurance, and legal disposal at approved facilities. It is the safest and smartest choice for any Clay County homeowner or contractor.
+
+## Frequently Asked Questions
+
+### Is 904 Dumpster a licensed hauler in Clay County?
+
+Yes. 904 Dumpster is listed as an approved franchise hauler on the official Clay County government website at claycountygov.com. This means we meet all county requirements for insurance, licensing, and waste disposal.
+
+### Do I need a permit for a dumpster in Clay County?
+
+No permit is needed if the dumpster is placed on your private property, such as your driveway or yard. If placement on a public road or right-of-way is required, contact Clay County Public Works at (904) 284-6374 for permit requirements.
+
+### How much does a dumpster rental cost in Clay County?
+
+Dumpster rental in Clay County costs $275 to $375 at 904 Dumpster, depending on size. The 10-yard is $275, the 15-yard is $325, and the 20-yard is $375. All prices include delivery, pickup, disposal, and a 5-day rental.
+
+### Does 904 Dumpster deliver to Orange Park and Fleming Island?
+
+Yes. We deliver to all of Clay County including Orange Park, Fleming Island, Middleburg, Green Cove Springs, Oakleaf, Lakeside, and Keystone Heights. Same-day delivery is available when you book before noon.
+
+## Related Articles
+
+- [Jacksonville Dumpster Permit Guide](/blog/jacksonville-dumpster-permit-guide)
+- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [Complete Home Cleanout Guide](/blog/complete-guide-home-cleanout-jacksonville)
+    `,
+  },
   // Local Guides Category - Paint Disposal
   {
     slug: 'how-to-dispose-of-paint-jacksonville',
@@ -56,6 +167,7 @@ export const BLOG_POSTS: BlogPost[] = [
     publishedDate: '2026-01-04',
     updatedDate: '2026-01-04',
     readTime: '8 min read',
+    featuredImage: '/images/what-can-go-in-a-dumpster-jacksonville.png',
     tags: ['how to dispose of paint', 'how to dispose of old paint', 'how to dispose of latex paint', 'how to dispose of spray paint', 'how to dispose of paint thinner', 'how to dispose of paint cans', 'paint disposal jacksonville'],
     content: `
 ## How to Dispose of Paint in Jacksonville
@@ -242,6 +354,7 @@ Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhs
     author: 'Web Wise Team',
     publishedDate: '2025-01-15',
     readTime: '8 min read',
+    featuredImage: '/images/residential-cleanup-dumpster.jpg',
     tags: ['home cleanout guide', 'decluttering tips', 'estate cleanout', 'whole house cleanout'],
     content: `
 ## How to Do a Home Cleanout in Jacksonville
@@ -370,6 +483,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com
     author: 'Web Wise Team',
     publishedDate: '2025-01-10',
     readTime: '6 min read',
+    featuredImage: '/images/renovation-dumpster-rental.png',
     tags: ['kitchen renovation debris', 'cabinet disposal', 'countertop removal', 'kitchen remodel waste'],
     content: `
 ## Kitchen Renovation Debris
@@ -505,6 +619,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com
     author: 'Web Wise Team',
     publishedDate: '2025-01-12',
     readTime: '7 min read',
+    featuredImage: '/images/what-size-dumpster-jacksonville.png',
     tags: ['dumpster size', 'how to choose', 'dumpster rental guide', '10 yard', '15 yard', '20 yard'],
     content: `
 ## How to Choose the Right Dumpster Size
@@ -665,6 +780,7 @@ We deliver same-day throughout Jacksonville and Northeast Florida, including [Ja
     author: 'Web Wise Team',
     publishedDate: '2025-01-08',
     readTime: '5 min read',
+    featuredImage: '/images/dumpster-rental-near-me.jpg',
     tags: ['prohibited items', 'hazardous waste', 'disposal rules', 'jacksonville disposal'],
     content: `
 ## What Cannot Go in a Dumpster
@@ -838,6 +954,7 @@ Not sure if something can go in your dumpster? Call us at (904) 240-5598 before 
     author: 'Web Wise Team',
     publishedDate: '2025-01-05',
     readTime: '6 min read',
+    featuredImage: '/images/dumpster-rental.jpg',
     tags: ['roofing', 'shingle disposal', 'contractor tips', 'construction debris'],
     content: `
 ## Roofing Project Waste Management
@@ -998,6 +1115,7 @@ Before your project, review our guide on [what items cannot go in a dumpster](/b
     author: 'Web Wise Team',
     publishedDate: '2025-01-02',
     readTime: '7 min read',
+    featuredImage: '/images/commercial-dumpster-jacksonville.jpg',
     tags: ['demolition', 'debris disposal', 'construction waste', 'jacksonville permits'],
     content: `
 ## Demolition Debris Disposal
@@ -1165,6 +1283,7 @@ Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhs
     author: 'Web Wise Team',
     publishedDate: '2025-01-01',
     readTime: '5 min read',
+    featuredImage: '/images/dumpster-for-rent-jacksonville-florida.jpg',
     tags: ['permits', 'jacksonville', 'regulations', 'dumpster placement'],
     content: `
 ## Do You Need a Dumpster Permit in Jacksonville
@@ -1331,6 +1450,7 @@ Check out our [dumpster sizes and pricing](/blog/how-to-choose-right-dumpster-si
     author: 'Web Wise Team',
     publishedDate: '2024-12-28',
     readTime: '6 min read',
+    featuredImage: '/images/storm-cleanup-dumpster-jacksonville.png',
     tags: ['hurricane debris cleanup', 'storm damage disposal', 'florida hurricane recovery', 'disaster debris removal'],
     content: `
 ## Hurricane Debris Cleanup in Jacksonville

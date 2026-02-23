@@ -89,6 +89,7 @@ export default function Footer() {
               href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
               target="_blank"
               rel="noopener noreferrer"
+              title="Book a Dumpster Rental Online"
               className="group bg-primary hover:bg-white text-white hover:text-secondary font-bold px-8 py-4 rounded-xl flex items-center gap-3 shadow-lg shadow-primary/25 hover:shadow-white/20 transition-all duration-300"
             >
               Book Online Now
@@ -103,10 +104,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8">
           {/* Company Info */}
           <div className="lg:col-span-4">
-            <Link href="/" className="inline-block mb-6">
+            <Link href="/" title="904 Dumpster Home" className="inline-block mb-6">
               <Image
                 src="/images/904-dumpsters-logo.png"
                 alt="904 Dumpster - Dumpster Rental Jacksonville"
+                title="904 Dumpster - Dumpster Rental Jacksonville FL"
                 width={180}
                 height={50}
                 className="h-12 w-auto"
@@ -121,6 +123,7 @@ export default function Footer() {
             <div className="space-y-4">
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
                 className="group flex items-center gap-4 text-white/80 hover:text-white transition-colors"
               >
                 <div className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center group-hover:bg-primary transition-colors">
@@ -133,6 +136,7 @@ export default function Footer() {
               </a>
               <a
                 href={`mailto:${BUSINESS.email}`}
+                title="Email 904 Dumpster"
                 className="group flex items-center gap-4 text-white/80 hover:text-white transition-colors"
               >
                 <div className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center group-hover:bg-primary transition-colors">
@@ -179,6 +183,7 @@ export default function Footer() {
                       <li key={link.href}>
                         <Link
                           href={link.href}
+                          title={link.label}
                           className="text-sm text-white/70 hover:text-primary transition-colors"
                         >
                           {link.label}
@@ -205,6 +210,7 @@ export default function Footer() {
                 <Link
                   key={link.href}
                   href={link.href}
+                  title={link.label}
                   className="text-white/40 text-sm hover:text-primary transition-colors"
                 >
                   {link.label}
@@ -219,6 +225,7 @@ export default function Footer() {
                 href="https://www.websiteandseoagency.com/"
                 target="_blank"
                 rel="noopener noreferrer"
+                title="WebWise - Website And SEO Agency"
                 className="text-white/50 hover:text-primary transition-colors"
               >
                 WebWise - Website And SEO Agency

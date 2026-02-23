@@ -51,6 +51,7 @@ export default function Header() {
         href={`tel:${BUSINESS.phoneRaw}`}
         className="lg:hidden fixed bottom-6 right-6 z-50 bg-primary text-white p-4 rounded-full shadow-2xl shadow-primary/30 hover:scale-110 transition-transform duration-300"
         aria-label="Call us"
+        title="Call 904 Dumpster"
       >
         <Phone className="w-6 h-6" />
       </a>
@@ -87,10 +88,11 @@ export default function Header() {
         <nav className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="flex items-center justify-between h-16 lg:h-20">
             {/* Logo */}
-            <Link href="/" className="flex-shrink-0">
+            <Link href="/" className="flex-shrink-0" title="904 Dumpster Home - Dumpster Rental Jacksonville FL">
               <Image
                 src="/images/904-dumpsters-logo.png"
                 alt="904 Dumpster - Dumpster Rental Jacksonville"
+                title="904 Dumpster - Dumpster Rental Jacksonville FL"
                 width={180}
                 height={50}
                 className="h-10 lg:h-12 w-auto"
@@ -109,6 +111,7 @@ export default function Header() {
                 >
                   <Link
                     href={link.href}
+                    title={link.label}
                     className={`flex items-center gap-1.5 px-4 py-2.5 font-medium transition-all duration-300 rounded-full ${
                       useTransparentHeader
                         ? 'text-white/90 hover:text-white hover:bg-white/10'
@@ -147,6 +150,7 @@ export default function Header() {
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
+                                    title={item.label}
                                     className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
                                   >
                                     <div className="flex-1">
@@ -175,6 +179,7 @@ export default function Header() {
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
+                                    title={item.label}
                                     className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
                                   >
                                     <div className="flex-1">
@@ -203,6 +208,7 @@ export default function Header() {
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
+                                    title={item.label}
                                     className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
                                   >
                                     <div className="flex-1">
@@ -244,6 +250,7 @@ export default function Header() {
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
+                                    title={'Dumpster Rental ' + item.label}
                                     className="group/item flex items-center gap-2 p-2.5 rounded-lg hover:bg-gray-50 transition-colors"
                                   >
                                     <span className="font-medium text-gray-600 group-hover/item:text-primary transition-colors">
@@ -268,6 +275,7 @@ export default function Header() {
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
+                                    title={'Dumpster Rental ' + item.label}
                                     className="group/item flex items-center gap-2 p-2.5 rounded-lg hover:bg-gray-50 transition-colors"
                                   >
                                     <span className="font-medium text-gray-600 group-hover/item:text-primary transition-colors">
@@ -292,6 +300,7 @@ export default function Header() {
                                 <li key={item.href}>
                                   <Link
                                     href={item.href}
+                                    title={'Dumpster Rental ' + item.label}
                                     className="group/item flex items-center gap-2 p-2.5 rounded-lg hover:bg-gray-50 transition-colors"
                                   >
                                     <span className="font-medium text-gray-600 group-hover/item:text-primary transition-colors">
@@ -306,6 +315,7 @@ export default function Header() {
                         <div className="bg-gray-50 p-4 border-t border-gray-100">
                           <Link
                             href="/locations"
+                            title="View All Dumpster Rental Service Areas"
                             className="flex items-center justify-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
                           >
                             View All Service Areas
@@ -325,6 +335,7 @@ export default function Header() {
                             <Link
                               key={item.href}
                               href={item.href}
+                              title={item.label}
                               className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
                             >
                               <div className="p-2 bg-primary/10 rounded-lg group-hover/item:bg-primary/20 transition-colors">
@@ -348,6 +359,7 @@ export default function Header() {
               {/* Desktop CTA */}
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
                 className="ml-6 bg-primary hover:bg-primary/90 text-white font-bold px-6 py-3 rounded-full flex items-center gap-2 shadow-lg shadow-primary/25 hover:shadow-xl hover:shadow-primary/30 hover:scale-105 transition-all duration-300"
               >
                 <Phone className="w-4 h-4" />
@@ -394,6 +406,7 @@ export default function Header() {
             <Image
               src="/images/904-dumpsters-logo.png"
               alt="904 Dumpster - Dumpster Rental Jacksonville"
+              title="904 Dumpster - Dumpster Rental Jacksonville FL"
               width={140}
               height={40}
               className="h-8 w-auto"
@@ -442,6 +455,7 @@ export default function Header() {
                               <Link
                                 key={item.href}
                                 href={item.href}
+                                title={item.label}
                                 className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
@@ -457,6 +471,7 @@ export default function Header() {
                               <Link
                                 key={item.href}
                                 href={item.href}
+                                title={item.label}
                                 className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
@@ -472,6 +487,7 @@ export default function Header() {
                               <Link
                                 key={item.href}
                                 href={item.href}
+                                title={item.label}
                                 className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
@@ -499,6 +515,7 @@ export default function Header() {
                               <Link
                                 key={item.href}
                                 href={item.href}
+                                title={'Dumpster Rental ' + item.label}
                                 className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
@@ -514,6 +531,7 @@ export default function Header() {
                               <Link
                                 key={item.href}
                                 href={item.href}
+                                title={'Dumpster Rental ' + item.label}
                                 className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
@@ -529,6 +547,7 @@ export default function Header() {
                               <Link
                                 key={item.href}
                                 href={item.href}
+                                title={'Dumpster Rental ' + item.label}
                                 className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
@@ -552,6 +571,7 @@ export default function Header() {
                             <Link
                               key={item.href}
                               href={item.href}
+                              title={item.label}
                               className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
                               onClick={toggleMobileMenu}
                             >
@@ -564,6 +584,7 @@ export default function Header() {
                   ) : (
                     <Link
                       href={link.href}
+                      title={link.label}
                       className="block p-4 rounded-xl text-secondary font-semibold hover:bg-gray-50 transition-colors"
                       onClick={toggleMobileMenu}
                     >
@@ -578,6 +599,7 @@ export default function Header() {
             <div className="p-6 border-t border-gray-100 mt-4">
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
                 className="flex items-center justify-center gap-3 w-full bg-primary hover:bg-primary/90 text-white font-bold px-6 py-4 rounded-2xl shadow-lg shadow-primary/25 transition-all"
               >
                 <Phone className="w-5 h-5" />

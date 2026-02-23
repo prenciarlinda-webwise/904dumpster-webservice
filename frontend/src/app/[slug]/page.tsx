@@ -307,7 +307,7 @@ function DumpsterSizePage({
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-                <Link href="/" className="hover:text-white">Home</Link>
+                <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
                 <span>/</span>
                 <span className="text-white">{size} Yard Dumpster</span>
               </nav>
@@ -321,6 +321,7 @@ function DumpsterSizePage({
                   href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
                   target="_blank"
                   rel="noopener noreferrer"
+                  title="Book a Dumpster Rental Online"
                   className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
                 >
                   Book Online Now
@@ -328,11 +329,22 @@ function DumpsterSizePage({
                 </a>
                 <Link
                   href="/dumpster-size-guide"
+                  title="Dumpster Size Guide"
                   className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
                 >
                   Size Guide
                   <ArrowRight className="w-5 h-5" />
                 </Link>
+              </div>
+              <div className="mt-8 rounded-2xl overflow-hidden hidden lg:block">
+                <Image
+                  src={`/images/${size}-yard-dumpster.jpg`}
+                  alt={`${size} Yard Dumpster Rental Jacksonville FL`}
+                  title={`${size} Yard Dumpster Rental Jacksonville FL`}
+                  width={600}
+                  height={400}
+                  className="w-full h-auto rounded-2xl"
+                />
               </div>
             </div>
 
@@ -385,6 +397,7 @@ function DumpsterSizePage({
                 href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
                 target="_blank"
                 rel="noopener noreferrer"
+                title="Book a Dumpster Rental Online"
                 className="block w-full text-center bg-primary hover:bg-secondary text-white font-bold text-lg py-4 rounded-xl transition-all"
               >
                 Book Online Now
@@ -514,7 +527,7 @@ function DumpsterSizePage({
             </div>
 
             <p className="text-gray-600 leading-relaxed">
-              The rear swing door opens fully, allowing you to walk heavy items like furniture and appliances directly into the container instead of lifting them over the sides. This is especially useful for estate cleanouts and moving projects. When closed, the door latches securely to prevent debris from spilling during transport. For size comparison, the 10 yard is about 2 feet shorter and nearly a foot lower than our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline">15 yard dumpster</Link>, making it a better fit for driveways with limited clearance.
+              The rear swing door opens fully, allowing you to walk heavy items like furniture and appliances directly into the container instead of lifting them over the sides. This is especially useful for estate cleanouts and moving projects. When closed, the door latches securely to prevent debris from spilling during transport. For size comparison, the 10 yard is about 2 feet shorter and nearly a foot lower than our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link>, making it a better fit for driveways with limited clearance.
             </p>
           </div>
         </section>
@@ -587,7 +600,7 @@ function DumpsterSizePage({
               <strong className="text-secondary">Dumpster rental vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 10 yard dumpster holds 3 pickup truck loads, meaning you would spend $150-$225 in dump fees alone,not counting gas, vehicle wear, and 4-6 hours of driving and unloading. At $275 all-in with delivery to your driveway, renting a dumpster is the smarter choice for most Jacksonville homeowners.
             </p>
             <div className="mt-6">
-              <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all">
+              <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all" title="Dumpster Rental Pricing Jacksonville">
                 View Full Pricing for All Sizes <ArrowRight className="w-5 h-5" />
               </Link>
             </div>
@@ -639,7 +652,7 @@ function DumpsterSizePage({
                   <li className="flex items-start gap-2"><svg className="w-4 h-4 text-red-600 flex-shrink-0 mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg> Medical waste</li>
                 </ul>
                 <div className="mt-4 pt-4 border-t border-red-200">
-                  <Link href="/rules/prohibited-items-list" className="text-primary font-semibold hover:underline inline-flex items-center gap-1">
+                  <Link href="/rules/prohibited-items-list" className="text-primary font-semibold hover:underline inline-flex items-center gap-1" title="Prohibited Items List">
                     View complete prohibited items list <ArrowRight className="w-4 h-4" />
                   </Link>
                 </div>
@@ -648,7 +661,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro Tip:</strong> After delivering thousands of 10 yard dumpsters across Jacksonville, we find that most garage cleanouts fill about 60-70% of the container. If you think your project is borderline between a 10 and 15 yard, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a>,we can help you choose the right size and avoid paying for capacity you don&apos;t need. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline">junk removal service</Link> where we do all the heavy lifting.
+                <strong className="text-secondary">Pro Tip:</strong> After delivering thousands of 10 yard dumpsters across Jacksonville, we find that most garage cleanouts fill about 60-70% of the container. If you think your project is borderline between a 10 and 15 yard, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>,we can help you choose the right size and avoid paying for capacity you don&apos;t need. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link> where we do all the heavy lifting.
               </p>
             </div>
           </div>
@@ -675,14 +688,14 @@ function DumpsterSizePage({
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-xl font-bold text-secondary mb-4">Garage &amp; Attic Cleanouts</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  The 10 yard dumpster is the most popular choice for Jacksonville homeowners cleaning out a single-car or two-car garage. A typical garage cleanout produces enough debris to fill 60-70% of the container, leaving room for unexpected items you find along the way. Old bicycles, broken lawn equipment, holiday decorations, and stacks of boxes all fit with room to spare. The low 3.6-foot walls make it easy to toss items over the side without a ramp. For large 3-car garages packed floor to ceiling, consider our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline">15 yard dumpster</Link> instead.
+                  The 10 yard dumpster is the most popular choice for Jacksonville homeowners cleaning out a single-car or two-car garage. A typical garage cleanout produces enough debris to fill 60-70% of the container, leaving room for unexpected items you find along the way. Old bicycles, broken lawn equipment, holiday decorations, and stacks of boxes all fit with room to spare. The low 3.6-foot walls make it easy to toss items over the side without a ramp. For large 3-car garages packed floor to ceiling, consider our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link> instead.
                 </p>
               </div>
 
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-xl font-bold text-secondary mb-4">Small Bathroom or Kitchen Remodel</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Renovating a single bathroom or a small galley kitchen generates more debris than most homeowners expect,old tile, drywall, vanities, countertops, and fixtures add up quickly. The 10 yard dumpster handles a single-room remodel comfortably. Use the rear swing door to walk in heavy items like cast-iron tubs or granite countertop sections. If your remodel spans multiple rooms or includes heavy materials like full-slab granite, step up to a <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline">15 yard</Link> for additional capacity.
+                  Renovating a single bathroom or a small galley kitchen generates more debris than most homeowners expect,old tile, drywall, vanities, countertops, and fixtures add up quickly. The 10 yard dumpster handles a single-room remodel comfortably. Use the rear swing door to walk in heavy items like cast-iron tubs or granite countertop sections. If your remodel spans multiple rooms or includes heavy materials like full-slab granite, step up to a <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard</Link> for additional capacity.
                 </p>
               </div>
 
@@ -696,7 +709,7 @@ function DumpsterSizePage({
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-xl font-bold text-secondary mb-4">Estate Cleanouts &amp; Moving</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  When cleaning out 1-2 rooms of an estate or preparing a home for sale, the 10 yard dumpster provides enough capacity without overwhelming the driveway. It is particularly popular with <Link href="/residential-dumpster-rental" className="text-primary hover:underline">residential customers</Link> in Mandarin and San Marco who need to clear furniture, clothing, and household items from a few rooms. For whole-house estate cleanouts, our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline">20 yard dumpster</Link> is a better value.
+                  When cleaning out 1-2 rooms of an estate or preparing a home for sale, the 10 yard dumpster provides enough capacity without overwhelming the driveway. It is particularly popular with <Link href="/residential-dumpster-rental" className="text-primary hover:underline" title="Residential Dumpster Rental">residential customers</Link> in Mandarin and San Marco who need to clear furniture, clothing, and household items from a few rooms. For whole-house estate cleanouts, our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> is a better value.
                 </p>
               </div>
             </div>
@@ -723,7 +736,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">Book Online or Call</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Book online 24/7</a> through our booking system or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">(904) 240-5598</a> during business hours. Tell us your preferred delivery date and placement location (driveway, yard, or street). Same-day delivery is available when you order before noon.
+                    <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline" title="Book a Dumpster Rental Online">Book online 24/7</a> through our booking system or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">(904) 240-5598</a> during business hours. Tell us your preferred delivery date and placement location (driveway, yard, or street). Same-day delivery is available when you order before noon.
                   </p>
                 </div>
               </div>
@@ -776,10 +789,10 @@ function DumpsterSizePage({
               When to Choose a 10 Yard vs. 15 Yard Dumpster
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              The 10 yard dumpster is the right choice when your project is limited to a single room, one area of the home, or a moderate amount of debris. It is the most cost-effective option for garage cleanouts, single bathroom remodels, and small landscaping projects. If your project involves more than one room, heavy materials like roofing shingles or concrete, or a significant volume of bulky furniture, our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline">15 yard dumpster</Link> at $325 offers 50% more capacity for only $50 more.
+              The 10 yard dumpster is the right choice when your project is limited to a single room, one area of the home, or a moderate amount of debris. It is the most cost-effective option for garage cleanouts, single bathroom remodels, and small landscaping projects. If your project involves more than one room, heavy materials like roofing shingles or concrete, or a significant volume of bulky furniture, our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link> at $325 offers 50% more capacity for only $50 more.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              <strong className="text-secondary">Our rule of thumb after 2,000+ deliveries:</strong> If you&apos;re unsure between two sizes, it is almost always better to size up. Ordering a second dumpster because you ran out of space costs more than the $50 difference between sizes. When in doubt, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a> and describe your project,our team can recommend the right size based on years of experience with Jacksonville homes.
+              <strong className="text-secondary">Our rule of thumb after 2,000+ deliveries:</strong> If you&apos;re unsure between two sizes, it is almost always better to size up. Ordering a second dumpster because you ran out of space costs more than the $50 difference between sizes. When in doubt, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> and describe your project,our team can recommend the right size based on years of experience with Jacksonville homes.
             </p>
           </div>
         </section>
@@ -796,7 +809,7 @@ function DumpsterSizePage({
               A 20 yard dumpster is the largest standard roll-off container available for residential rental in Jacksonville, FL. It holds 20 cubic yards of debris,equivalent to approximately 7 pickup truck loads or 120-140 large contractor trash bags. This is the size contractors reach for on construction jobs, whole-house cleanouts, and major renovation projects where smaller containers would need to be swapped mid-project.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              To visualize 20 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 5.8 feet high,roughly the length of a mid-size sedan with walls just under 6 feet tall. Despite being our largest size, the 20 yard dumpster shares the same footprint as our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline">15 yard dumpster</Link>,the extra capacity comes from the taller sidewalls, not a wider or longer frame. This means it fits in the same driveway space while holding 33% more debris.
+              To visualize 20 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 5.8 feet high,roughly the length of a mid-size sedan with walls just under 6 feet tall. Despite being our largest size, the 20 yard dumpster shares the same footprint as our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link>,the extra capacity comes from the taller sidewalls, not a wider or longer frame. This means it fits in the same driveway space while holding 33% more debris.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
               At 904 Dumpster, we rent 20 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$375</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). At just $18.75 per cubic yard, the 20 yard offers the best value per cubic yard of any size we carry. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
@@ -868,7 +881,7 @@ function DumpsterSizePage({
               In most Jacksonville neighborhoods,yes. The 20 yard dumpster requires the same 14-foot length and 7.5-foot width as the 15 yard, so if a 15 yard fits in your driveway, a 20 yard will too. The only additional consideration is overhead clearance: the 5.8-foot wall height means the container itself clears most garage doors, but our roll-off truck needs approximately <strong className="text-secondary">22 feet of vertical clearance</strong> for safe delivery and pickup.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              <strong className="text-secondary">Jacksonville-specific tip:</strong> Watch for low-hanging oak branches, especially in established neighborhoods like Riverside, Avondale, and San Marco. If you&apos;re unsure about clearance, send us a photo of your driveway and we&apos;ll confirm fit before scheduling delivery. For homes without driveways or with tight access, we can often place the container on the street with a City of Jacksonville right-of-way permit,call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a> and we&apos;ll handle the details.
+              <strong className="text-secondary">Jacksonville-specific tip:</strong> Watch for low-hanging oak branches, especially in established neighborhoods like Riverside, Avondale, and San Marco. If you&apos;re unsure about clearance, send us a photo of your driveway and we&apos;ll confirm fit before scheduling delivery. For homes without driveways or with tight access, we can often place the container on the street with a City of Jacksonville right-of-way permit,call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> and we&apos;ll handle the details.
             </p>
           </div>
         </section>
@@ -944,7 +957,7 @@ function DumpsterSizePage({
               <strong className="text-secondary">20 yard dumpster vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 20 yard dumpster holds 7 pickup truck loads, meaning you would spend $350-$525 in dump fees alone,not counting gas, vehicle wear, and 10-14 hours of driving and unloading. At $375 all-in with delivery to your driveway, renting a 20 yard dumpster saves the average Jacksonville homeowner $200+ and an entire weekend of work.
             </p>
             <div className="mt-6">
-              <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all">
+              <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all" title="Dumpster Rental Pricing Jacksonville">
                 View Full Pricing for All Sizes <ArrowRight className="w-5 h-5" />
               </Link>
             </div>
@@ -1039,7 +1052,7 @@ function DumpsterSizePage({
                   </li>
                 </ul>
                 <div className="mt-4 pt-4 border-t border-red-200">
-                  <Link href="/rules/prohibited-items-list" className="text-primary font-semibold hover:underline">
+                  <Link href="/rules/prohibited-items-list" className="text-primary font-semibold hover:underline" title="Prohibited Items List">
                     View complete prohibited items list →
                   </Link>
                 </div>
@@ -1048,7 +1061,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro tip for heavy loads:</strong> The 20 yard dumpster has a 2-ton (4,000 lb) weight limit. Construction debris like drywall and lumber is relatively light by volume,you can typically fill the entire container without exceeding the weight limit. However, if you are disposing of concrete, brick, stone, or dirt, these materials weigh significantly more per cubic yard. For heavy debris projects, consider our <Link href="/concrete-disposal-dumpster" className="text-primary hover:underline">concrete disposal dumpster</Link> or call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a> to discuss the best approach.
+                <strong className="text-secondary">Pro tip for heavy loads:</strong> The 20 yard dumpster has a 2-ton (4,000 lb) weight limit. Construction debris like drywall and lumber is relatively light by volume,you can typically fill the entire container without exceeding the weight limit. However, if you are disposing of concrete, brick, stone, or dirt, these materials weigh significantly more per cubic yard. For heavy debris projects, consider our <Link href="/concrete-disposal-dumpster" className="text-primary hover:underline" title="Concrete Disposal Dumpster">concrete disposal dumpster</Link> or call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss the best approach.
               </p>
             </div>
           </div>
@@ -1095,7 +1108,7 @@ function DumpsterSizePage({
                 </div>
                 <h3 className="text-xl font-bold text-secondary mb-4">Major Renovations &amp; Remodels</h3>
                 <p className="text-gray-600 mb-4">
-                  Multi-room renovations, kitchen-and-bath combos, or full-floor remodels produce a mix of drywall, lumber, old cabinets, flooring, and fixtures that quickly overwhelm a <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline">15 yard dumpster</Link>. The 20 yard gives contractors room to work through an entire phase without stopping to schedule a swap.
+                  Multi-room renovations, kitchen-and-bath combos, or full-floor remodels produce a mix of drywall, lumber, old cabinets, flooring, and fixtures that quickly overwhelm a <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link>. The 20 yard gives contractors room to work through an entire phase without stopping to schedule a swap.
                 </p>
                 <p className="text-gray-600">
                   <strong className="text-secondary">Contractor tip:</strong> Keep the dumpster close to your work area. Our drivers can place the 20 yard in your driveway, on the street (with permit), or even on a job site pad. Let us know your preferred placement when you book.
@@ -1113,7 +1126,7 @@ function DumpsterSizePage({
                   Tearing down a large deck, removing a shed, demolishing interior walls, or gutting a garage generates heavy, bulky debris that smaller dumpsters cannot handle efficiently. The 20 yard&apos;s 5.8-foot walls accommodate long lumber, plywood sheets, and stacked drywall without overflowing.
                 </p>
                 <p className="text-gray-600">
-                  For full structural demolition projects in Jacksonville, our <Link href="/demolition-services-jacksonville" className="text-primary hover:underline">demolition services</Link> team can handle the teardown and haul-away,or you can rent the dumpster and manage the demo yourself.
+                  For full structural demolition projects in Jacksonville, our <Link href="/demolition-services-jacksonville" className="text-primary hover:underline" title="Demolition Services Jacksonville">demolition services</Link> team can handle the teardown and haul-away,or you can rent the dumpster and manage the demo yourself.
                 </p>
               </div>
 
@@ -1200,7 +1213,7 @@ function DumpsterSizePage({
             </div>
 
             <p className="text-gray-600 leading-relaxed">
-              Still not sure which size is right? Call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a>,describe your project and we&apos;ll recommend the best size based on 10 years of experience delivering dumpsters to Jacksonville homes and job sites. You can also visit our <Link href="/dumpster-size-guide" className="text-primary hover:underline">dumpster size guide</Link> for a side-by-side comparison of all three sizes.
+              Still not sure which size is right? Call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>,describe your project and we&apos;ll recommend the best size based on 10 years of experience delivering dumpsters to Jacksonville homes and job sites. You can also visit our <Link href="/dumpster-size-guide" className="text-primary hover:underline" title="Dumpster Size Guide">dumpster size guide</Link> for a side-by-side comparison of all three sizes.
             </p>
           </div>
         </section>
@@ -1225,7 +1238,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">Book Online or Call</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Reserve your 20 yard dumpster through our <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold hover:underline">online booking system</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a>. Tell us your delivery address, preferred drop-off date, and what type of debris you&apos;ll be loading. We&apos;ll confirm your reservation immediately.
+                    Reserve your 20 yard dumpster through our <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold hover:underline" title="Book a Dumpster Rental Online">online booking system</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>. Tell us your delivery address, preferred drop-off date, and what type of debris you&apos;ll be loading. We&apos;ll confirm your reservation immediately.
                   </p>
                 </div>
               </div>
@@ -1352,7 +1365,7 @@ function DumpsterSizePage({
               A 15 yard dumpster is a mid-size roll-off container that holds 15 cubic yards of debris,equivalent to approximately 5-6 pickup truck loads or 80-100 large contractor trash bags. It is the most popular dumpster size for residential projects in Jacksonville, FL, striking the ideal balance between capacity and driveway footprint for roofing jobs, kitchen remodels, and multi-room cleanouts.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              To visualize 15 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 4.5 feet high,roughly the same footprint as a large SUV. The 15 yard sits between our <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline">10 yard dumpster</Link> ($275) and our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline">20 yard dumpster</Link> ($375), offering 50% more capacity than the 10 yard for only $50 more.
+              To visualize 15 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 4.5 feet high,roughly the same footprint as a large SUV. The 15 yard sits between our <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline" title="10 Yard Dumpster Rental">10 yard dumpster</Link> ($275) and our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> ($375), offering 50% more capacity than the 10 yard for only $50 more.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
               At 904 Dumpster, we rent 15 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$325</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). As a locally owned company serving the 904 area since 2016, we are not a broker or national call center,we own our trucks, employ local drivers, and include driveway protection boards on every delivery at no extra cost.
@@ -1418,7 +1431,7 @@ function DumpsterSizePage({
             </div>
 
             <p className="text-gray-600 leading-relaxed">
-              Compared to the <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline">10 yard dumpster</Link>, the 15 yard is 2 feet longer and nearly a foot taller, providing 50% more volume. Compared to the <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline">20 yard dumpster</Link>, it is the same length but 1.3 feet shorter, making it easier to fit in driveways with overhead obstructions like oak tree branches,a common consideration in Riverside, Avondale, and San Marco neighborhoods.
+              Compared to the <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline" title="10 Yard Dumpster Rental">10 yard dumpster</Link>, the 15 yard is 2 feet longer and nearly a foot taller, providing 50% more volume. Compared to the <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link>, it is the same length but 1.3 feet shorter, making it easier to fit in driveways with overhead obstructions like oak tree branches,a common consideration in Riverside, Avondale, and San Marco neighborhoods.
             </p>
           </div>
         </section>
@@ -1468,7 +1481,7 @@ function DumpsterSizePage({
                   <li className="flex items-start gap-2"><svg className="w-4 h-4 text-red-600 flex-shrink-0 mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg> Medical waste</li>
                 </ul>
                 <div className="mt-4 pt-4 border-t border-red-200">
-                  <Link href="/rules/prohibited-items-list" className="text-primary font-semibold hover:underline inline-flex items-center gap-1">
+                  <Link href="/rules/prohibited-items-list" className="text-primary font-semibold hover:underline inline-flex items-center gap-1" title="Prohibited Items List">
                     View complete prohibited items list <ArrowRight className="w-4 h-4" />
                   </Link>
                 </div>
@@ -1477,7 +1490,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro Tip:</strong> For roofing projects, shingles are deceptively heavy,one &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs. A 15 yard dumpster holds 25-30 squares within the 2-ton weight limit. If you have architectural shingles or a roof larger than 3,000 sq ft, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">{BUSINESS.phone}</a> to discuss whether you&apos;ll need a weight limit adjustment. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline">junk removal service</Link>.
+                <strong className="text-secondary">Pro Tip:</strong> For roofing projects, shingles are deceptively heavy,one &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs. A 15 yard dumpster holds 25-30 squares within the 2-ton weight limit. If you have architectural shingles or a roof larger than 3,000 sq ft, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss whether you&apos;ll need a weight limit adjustment. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link>.
               </p>
             </div>
           </div>
@@ -1503,7 +1516,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">Book Online or Call</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Book online 24/7</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold">(904) 240-5598</a> during business hours. Let us know your preferred delivery date and where to place the dumpster. For roofing jobs, contractors often request street placement,we can advise on permit requirements for your Jacksonville neighborhood.
+                    <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline" title="Book a Dumpster Rental Online">Book online 24/7</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">(904) 240-5598</a> during business hours. Let us know your preferred delivery date and where to place the dumpster. For roofing jobs, contractors often request street placement,we can advise on permit requirements for your Jacksonville neighborhood.
                   </p>
                 </div>
               </div>
@@ -1795,6 +1808,7 @@ function DumpsterSizePage({
                 href="https://www.google.com/maps/place/904+Dumpster/@30.1924066,-81.6871206,17z/data=!4m8!3m7!1s0x88e5b08bcbd9e4d1:0xa5b1ef12a58f5e8d!8m2!3d30.1924066!4d-81.6845457!9m1!1b1!16s%2Fg%2F11vd8yc8jp"
                 target="_blank"
                 rel="noopener noreferrer"
+                title="904 Dumpster Google Reviews"
                 className="inline-flex items-center gap-2 text-primary font-bold hover:text-secondary transition-colors"
               >
                 <span>See our 143+ 5-Star Reviews on Google</span>
@@ -1887,7 +1901,7 @@ function DumpsterSizePage({
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 text-secondary">Small Garage Cleanout</td>
                     <td className="py-4 px-6">
-                      <Link href="/10-yard-dumpster-rental" className="text-primary font-bold hover:underline">10 Yard</Link>
+                      <Link href="/10-yard-dumpster-rental" className="text-primary font-bold hover:underline" title="10 Yard Dumpster Rental">10 Yard</Link>
                     </td>
                     <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Fits in tight single-car driveways</td>
                   </tr>
@@ -1918,14 +1932,14 @@ function DumpsterSizePage({
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 text-secondary">Major Construction / Demo</td>
                     <td className="py-4 px-6">
-                      <Link href="/20-yard-dumpster-rental" className="text-primary font-bold hover:underline">20 Yard</Link>
+                      <Link href="/20-yard-dumpster-rental" className="text-primary font-bold hover:underline" title="20 Yard Dumpster Rental">20 Yard</Link>
                     </td>
                     <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Best for heavy lumber and drywall stacks</td>
                   </tr>
                   <tr>
                     <td className="py-4 px-6 text-secondary">Whole-House Estate Cleanout</td>
                     <td className="py-4 px-6">
-                      <Link href="/20-yard-dumpster-rental" className="text-primary font-bold hover:underline">20 Yard</Link>
+                      <Link href="/20-yard-dumpster-rental" className="text-primary font-bold hover:underline" title="20 Yard Dumpster Rental">20 Yard</Link>
                     </td>
                     <td className="py-4 px-6 text-gray-600 hidden md:table-cell">Maximum capacity for large jobs</td>
                   </tr>
@@ -2121,6 +2135,7 @@ function DumpsterSizePage({
                   <Link
                     href={`/${dumpsterSize.size}-yard-dumpster-rental`}
                     className="inline-flex items-center gap-2 text-primary font-semibold mt-4"
+                    title={`${dumpsterSize.size} Yard Dumpster Rental`}
                   >
                     View details <ArrowRight className="w-4 h-4" />
                   </Link>
@@ -2208,6 +2223,7 @@ function DumpsterSizePage({
                       <Image
                         src={faq.image}
                         alt={faq.question}
+                        title={faq.question}
                         width={600}
                         height={400}
                         className="rounded-xl w-full max-w-lg"
@@ -2231,35 +2247,35 @@ function DumpsterSizePage({
             Helpful Resources
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <Link href="/residential-dumpster-rental" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/residential-dumpster-rental" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Residential Dumpster Rental">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Residential Dumpster Rental</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Dumpsters for homeowners &amp; DIY projects</p>
             </Link>
-            <Link href="/blog/how-to-choose-right-dumpster-size" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/blog/how-to-choose-right-dumpster-size" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Dumpster Size Guide">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Dumpster Size Guide</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Compare 10, 15, and 20 yard options</p>
             </Link>
-            <Link href="/rules/prohibited-items-list" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/rules/prohibited-items-list" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Prohibited Items List">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Prohibited Items</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">What you can&apos;t put in a dumpster</p>
             </Link>
-            <Link href="/dumpster-rental-pricing-jacksonville" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/dumpster-rental-pricing-jacksonville" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Dumpster Rental Pricing Jacksonville">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Pricing &amp; Booking</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">View all sizes and book online</p>
             </Link>
-            <Link href="/junk-removal-jacksonville" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/junk-removal-jacksonville" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Junk Removal Jacksonville">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Junk Removal</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">We do the heavy lifting for you</p>
             </Link>
-            <Link href="/blog/jacksonville-dumpster-permit-guide" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/blog/jacksonville-dumpster-permit-guide" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Jacksonville Dumpster Permit Guide">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Permit Guide</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Jacksonville permit requirements</p>
             </Link>
-            <Link href="/frequently-asked-questions" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/frequently-asked-questions" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Frequently Asked Questions">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">All FAQs</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Answers to common questions</p>
             </Link>
-            <Link href="/concrete-disposal-dumpster" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all">
+            <Link href="/concrete-disposal-dumpster" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Concrete Disposal Dumpster">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Concrete Disposal</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Heavy debris &amp; concrete removal</p>
             </Link>
@@ -2271,25 +2287,25 @@ function DumpsterSizePage({
               We deliver {size} yard dumpsters throughout the greater Jacksonville metro area, including these cities and communities in Duval, St. Johns, Clay, and Nassau counties.
             </p>
             <div className="flex flex-wrap justify-center gap-3">
-              <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-primary hover:text-secondary font-medium">Jacksonville Beach</Link>
+              <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Jacksonville Beach">Jacksonville Beach</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:text-secondary font-medium">Orange Park</Link>
+              <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Orange Park">Orange Park</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:text-secondary font-medium">St. Augustine</Link>
+              <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in St. Augustine">St. Augustine</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:text-secondary font-medium">Ponte Vedra</Link>
+              <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Ponte Vedra">Ponte Vedra</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:text-secondary font-medium">Fleming Island</Link>
+              <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Fleming Island">Fleming Island</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-green-cove-springs-fl" className="text-primary hover:text-secondary font-medium">Green Cove Springs</Link>
+              <Link href="/dumpster-rental-green-cove-springs-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Green Cove Springs">Green Cove Springs</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-atlantic-beach-fl" className="text-primary hover:text-secondary font-medium">Atlantic Beach</Link>
+              <Link href="/dumpster-rental-atlantic-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Atlantic Beach">Atlantic Beach</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-neptune-beach-fl" className="text-primary hover:text-secondary font-medium">Neptune Beach</Link>
+              <Link href="/dumpster-rental-neptune-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Neptune Beach">Neptune Beach</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:text-secondary font-medium">Fernandina Beach</Link>
+              <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Fernandina Beach">Fernandina Beach</Link>
               <span className="text-gray-300">•</span>
-              <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:text-secondary font-medium">Middleburg</Link>
+              <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Middleburg">Middleburg</Link>
             </div>
           </div>
         </div>
@@ -2308,6 +2324,7 @@ function DumpsterSizePage({
             href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
             target="_blank"
             rel="noopener noreferrer"
+            title="Book a Dumpster Rental Online"
             className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
           >
             Book Online Now
@@ -2386,7 +2403,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white">Home</Link>
+              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
               <span>/</span>
               <span className="text-white">{location.name}</span>
             </nav>
@@ -2398,6 +2415,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
             <div className="flex flex-col sm:flex-row gap-4">
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
                 className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
               >
                 <Phone className="w-5 h-5" />
@@ -2405,11 +2423,22 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
               </a>
               <Link
                 href="/contact-us"
+                title="Contact 904 Dumpster"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
                 Get Free Quote
                 <ArrowRight className="w-5 h-5" />
               </Link>
+            </div>
+            <div className="mt-8 rounded-2xl overflow-hidden">
+              <Image
+                src="/images/dumpster-rental-jacksonville-florida.jpg"
+                alt={`Dumpster Rental in ${location.name}, FL - 904 Dumpster`}
+                title={`Dumpster Rental ${location.name} FL`}
+                width={800}
+                height={400}
+                className="w-full h-48 lg:h-64 object-cover rounded-2xl"
+              />
             </div>
           </div>
         </div>
@@ -2478,7 +2507,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                     <Phone className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                     <div>
                       <div className="font-semibold text-secondary">Local Phone</div>
-                      <a href={`tel:${location.phone.replace(/\D/g, '')}`} className="text-primary hover:underline">
+                      <a href={`tel:${location.phone.replace(/\D/g, '')}`} className="text-primary hover:underline" title="Call 904 Dumpster">
                         {location.phone}
                       </a>
                     </div>
@@ -2520,6 +2549,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
               <Link
                 key={dumpster.size}
                 href={`/${dumpster.slug}`}
+                title={`${dumpster.size} Yard Dumpster Rental`}
                 className="group bg-white rounded-2xl p-8 shadow-lg shadow-black/5 hover:shadow-xl hover:-translate-y-1 transition-all"
               >
                 <div className="text-4xl font-black text-primary mb-2">
@@ -2540,11 +2570,11 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
           <div className="mt-12 text-center">
             <p className="text-gray-600 mb-4">
               Not sure which size? Check our{' '}
-              <Link href="/dumpster-size-guide" className="text-primary font-semibold hover:underline">
+              <Link href="/dumpster-size-guide" className="text-primary font-semibold hover:underline" title="Dumpster Size Guide">
                 complete dumpster size guide
               </Link>{' '}
               or view our{' '}
-              <Link href="/dumpster-rental-pricing-jacksonville" className="text-primary font-semibold hover:underline">
+              <Link href="/dumpster-rental-pricing-jacksonville" className="text-primary font-semibold hover:underline" title="Dumpster Rental Pricing Jacksonville">
                 transparent pricing page
               </Link>.
             </p>
@@ -2688,16 +2718,16 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
           <div className="mt-12 pt-8 border-t border-gray-200">
             <h3 className="text-lg font-bold text-secondary mb-6 text-center">All Service Areas</h3>
             <div className="flex flex-wrap justify-center gap-x-6 gap-y-3">
-              <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-primary hover:text-secondary font-medium">Jacksonville Beach</Link>
-              <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:text-secondary font-medium">Orange Park</Link>
-              <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:text-secondary font-medium">St. Augustine</Link>
-              <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:text-secondary font-medium">Ponte Vedra</Link>
-              <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:text-secondary font-medium">Fleming Island</Link>
-              <Link href="/dumpster-rental-green-cove-springs-fl" className="text-primary hover:text-secondary font-medium">Green Cove Springs</Link>
-              <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:text-secondary font-medium">Middleburg</Link>
-              <Link href="/dumpster-rental-atlantic-beach-fl" className="text-primary hover:text-secondary font-medium">Atlantic Beach</Link>
-              <Link href="/dumpster-rental-neptune-beach-fl" className="text-primary hover:text-secondary font-medium">Neptune Beach</Link>
-              <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:text-secondary font-medium">Fernandina Beach</Link>
+              <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Jacksonville Beach">Jacksonville Beach</Link>
+              <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Orange Park">Orange Park</Link>
+              <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in St. Augustine">St. Augustine</Link>
+              <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Ponte Vedra">Ponte Vedra</Link>
+              <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Fleming Island">Fleming Island</Link>
+              <Link href="/dumpster-rental-green-cove-springs-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Green Cove Springs">Green Cove Springs</Link>
+              <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Middleburg">Middleburg</Link>
+              <Link href="/dumpster-rental-atlantic-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Atlantic Beach">Atlantic Beach</Link>
+              <Link href="/dumpster-rental-neptune-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Neptune Beach">Neptune Beach</Link>
+              <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:text-secondary font-medium" title="Dumpster Rental in Fernandina Beach">Fernandina Beach</Link>
             </div>
           </div>
         </div>
@@ -2710,19 +2740,19 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
             Helpful Resources
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <Link href="/blog/how-to-choose-right-dumpster-size" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+            <Link href="/blog/how-to-choose-right-dumpster-size" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all" title="Dumpster Size Guide">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Dumpster Size Guide</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Compare 10, 15, and 20 yard options</p>
             </Link>
-            <Link href="/blog/what-cannot-go-in-dumpster" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+            <Link href="/blog/what-cannot-go-in-dumpster" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all" title="Prohibited Items List">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Prohibited Items</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">What you can&apos;t put in a dumpster</p>
             </Link>
-            <Link href="/blog/jacksonville-dumpster-permit-guide" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+            <Link href="/blog/jacksonville-dumpster-permit-guide" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all" title="Jacksonville Dumpster Permit Guide">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Permit Guide</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Jacksonville permit requirements</p>
             </Link>
-            <Link href="/residential-dumpster-rental" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all">
+            <Link href="/residential-dumpster-rental" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all" title="Residential Dumpster Rental">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Residential Services</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Home cleanouts & renovations</p>
             </Link>
@@ -2741,6 +2771,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
           </p>
           <a
             href={`tel:${BUSINESS.phoneRaw}`}
+            title="Call 904 Dumpster"
             className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
           >
             <Phone className="w-6 h-6" />
@@ -2830,7 +2861,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white">Home</Link>
+              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
               <span>/</span>
               <span className="text-white">Junk Removal</span>
             </nav>
@@ -2844,6 +2875,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
             <div className="flex flex-col sm:flex-row gap-4">
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
                 className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
               >
                 <Phone className="w-5 h-5" />
@@ -2851,6 +2883,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
               </a>
               <Link
                 href="/contact-us"
+                title="Contact 904 Dumpster"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
                 Get Free Quote
@@ -2988,6 +3021,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
           </p>
           <a
             href={`tel:${BUSINESS.phoneRaw}`}
+            title="Call 904 Dumpster"
             className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
           >
             <Phone className="w-6 h-6" />
@@ -3130,7 +3164,7 @@ function DemolitionServicesPage() {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white">Home</Link>
+              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
               <span>/</span>
               <span className="text-white">Demolition Services</span>
             </nav>
@@ -3144,6 +3178,7 @@ function DemolitionServicesPage() {
             <div className="flex flex-col sm:flex-row gap-4">
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
                 className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
               >
                 <Phone className="w-5 h-5" />
@@ -3151,6 +3186,7 @@ function DemolitionServicesPage() {
               </a>
               <Link
                 href="/contact-us"
+                title="Contact 904 Dumpster"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
                 Get Free Quote
@@ -3311,6 +3347,7 @@ function DemolitionServicesPage() {
           </p>
           <a
             href={`tel:${BUSINESS.phoneRaw}`}
+            title="Call 904 Dumpster"
             className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
           >
             <Phone className="w-6 h-6" />
