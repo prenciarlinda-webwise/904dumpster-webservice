@@ -351,9 +351,10 @@ const serviceSchema = {
       {
         '@type': 'Offer',
         itemOffered: {
-          '@type': 'Product',
+          '@type': 'Service',
           name: '10 Yard Dumpster Rental',
           description: '12ft x 7.5ft x 3.6ft roll-off container. Holds 1.5 tons. Ideal for garage cleanouts and small renovations.',
+          url: 'https://www.904dumpster.com/10-yard-dumpster-rental',
         },
         price: '275',
         priceCurrency: 'USD',
@@ -362,9 +363,10 @@ const serviceSchema = {
       {
         '@type': 'Offer',
         itemOffered: {
-          '@type': 'Product',
+          '@type': 'Service',
           name: '15 Yard Dumpster Rental',
           description: '14ft x 7.5ft x 4.5ft roll-off container. Holds 2 tons. Perfect for roofing and kitchen remodels.',
+          url: 'https://www.904dumpster.com/15-yard-dumpster-rental',
         },
         price: '325',
         priceCurrency: 'USD',
@@ -373,9 +375,10 @@ const serviceSchema = {
       {
         '@type': 'Offer',
         itemOffered: {
-          '@type': 'Product',
+          '@type': 'Service',
           name: '20 Yard Dumpster Rental',
           description: '14ft x 7.5ft x 5.8ft roll-off container. Holds 2 tons. Best for large renovations and construction.',
+          url: 'https://www.904dumpster.com/20-yard-dumpster-rental',
         },
         price: '375',
         priceCurrency: 'USD',
