@@ -68,6 +68,7 @@ export function generateOrganizationSchema() {
     email: BUSINESS.email,
     address: {
       '@type': 'PostalAddress',
+      streetAddress: '2798 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -118,7 +119,7 @@ export function generateLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    '@id': 'https://www.904dumpster.com/#organization',
+    '@id': 'https://www.904dumpster.com/#localbusiness',
     name: BUSINESS.name,
     description: 'Professional dumpster rental and waste management services in Jacksonville, FL. Same-day delivery available for residential and commercial projects.',
     url: 'https://www.904dumpster.com',
@@ -126,6 +127,7 @@ export function generateLocalBusinessSchema() {
     email: BUSINESS.email,
     address: {
       '@type': 'PostalAddress',
+      streetAddress: '2798 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -232,7 +234,7 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5.0',
-      reviewCount: '150',
+      reviewCount: '153',
       bestRating: '5',
       worstRating: '1',
     },
@@ -387,6 +389,7 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
     foundingDate: '2016',
     address: {
       '@type': 'PostalAddress',
+      streetAddress: '2798 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -421,7 +424,7 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5.0',
-      reviewCount: '150',
+      reviewCount: '153',
       bestRating: '5',
       worstRating: '1',
     },
@@ -510,6 +513,7 @@ export function generateLocationServiceSchema(
       telephone: BUSINESS.phone,
       address: {
         '@type': 'PostalAddress',
+        streetAddress: '2798 Anniston Rd',
         addressLocality: 'Jacksonville',
         addressRegion: 'FL',
         postalCode: '32246',
@@ -592,6 +596,7 @@ export function generateAggregateRatingSchema() {
     image: 'https://www.904dumpster.com/images/og-image.jpg',
     address: {
       '@type': 'PostalAddress',
+      streetAddress: '2798 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -600,7 +605,7 @@ export function generateAggregateRatingSchema() {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5.0',
-      reviewCount: '150',
+      reviewCount: '153',
       bestRating: '5',
       worstRating: '1',
     },
@@ -784,7 +789,7 @@ export function generatePricingItemListSchema() {
           aggregateRating: {
             '@type': 'AggregateRating',
             ratingValue: '5.0',
-            reviewCount: '150',
+            reviewCount: '153',
             bestRating: '5',
             worstRating: '1',
           },
@@ -818,7 +823,7 @@ export function generatePricingItemListSchema() {
           aggregateRating: {
             '@type': 'AggregateRating',
             ratingValue: '5.0',
-            reviewCount: '150',
+            reviewCount: '153',
             bestRating: '5',
             worstRating: '1',
           },
@@ -852,7 +857,7 @@ export function generatePricingItemListSchema() {
           aggregateRating: {
             '@type': 'AggregateRating',
             ratingValue: '5.0',
-            reviewCount: '150',
+            reviewCount: '153',
             bestRating: '5',
             worstRating: '1',
           },

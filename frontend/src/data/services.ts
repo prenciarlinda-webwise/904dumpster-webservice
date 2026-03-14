@@ -61,7 +61,7 @@ export const SERVICES: ServicePage[] = [
       'smallest dumpster rental',
       '10 yard container',
     ],
-    description: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 1.5 tons of disposal, making it the most affordable roll-off option for small cleanouts and garage projects. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 150+ five-star Google reviews.',
+    description: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 1.5 tons of disposal, making it the most affordable roll-off option for small cleanouts and garage projects. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 153 five-star Google reviews.',
     features: [
       'Compact 12\' x 7.5\' x 3.6\' dimensions',
       'Fits in most residential driveways',
@@ -95,6 +95,7 @@ export const SERVICES: ServicePage[] = [
       {
         question: 'How much does a 10 yard dumpster cost in Jacksonville?',
         answer: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 1.5 tons (3,000 lbs). Most Jacksonville competitors charge $350-$400 for the same size, making 904 Dumpster $75-$125 cheaper on average. There are no hidden fuel surcharges, environmental fees, or admin charges.',
+        image: '/images/10-yard-dumpster-rental-promo.jpg',
       },
       {
         question: 'What is the smallest dumpster you can rent?',
@@ -127,6 +128,7 @@ export const SERVICES: ServicePage[] = [
       {
         question: 'Do I need a permit for a dumpster in Jacksonville, FL?',
         answer: 'No permit is needed if the dumpster is placed on your private property, such as your driveway or yard. If placement on a public street or right-of-way is necessary, you will need a Right-of-Way permit from the City of Jacksonville Development Services Department. At 904 Dumpster, we place on driveways 99% of the time. Our drivers know which Jacksonville neighborhoods like Riverside and Springfield have tight driveways and can advise on the best placement.',
+        image: '/images/dumpster-rental-home-cleanout-jacksonville.jpg',
       },
     ],
     customPage: true,
@@ -155,7 +157,7 @@ export const SERVICES: ServicePage[] = [
       '15 yard dumpster weight limit',
       'how much does a 15 yard dumpster cost',
     ],
-    description: 'A 15 yard dumpster rental in Jacksonville, FL costs $325 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, making it the most popular size for roofing jobs and mid-size renovations. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 150+ five-star Google reviews.',
+    description: 'A 15 yard dumpster rental in Jacksonville, FL costs $325 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, making it the most popular size for roofing jobs and mid-size renovations. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 153 five-star Google reviews.',
     features: [
       'Compact 14\' x 7.5\' x 4.5\' dimensions - fits standard driveways',
       '$325 flat rate - no hidden fees or broker markups',
@@ -193,6 +195,7 @@ export const SERVICES: ServicePage[] = [
       {
         question: 'How many roofing squares fit in a 15 yard dumpster?',
         answer: 'A 15 yard dumpster can safely hold 25-30 squares of standard asphalt shingles (2,500-3,000 sq ft of roof). Most Jacksonville homes (avg. 2,500 sq ft) generate about 2 tons of roofing debris, which fits perfectly within our included weight limit. If you have heavy architectural shingles, we recommend staying under 30 squares to avoid exceeding the weight limit.',
+        image: '/images/dumpster-rental-roofing-jacksonville.jpg',
       },
       {
         question: 'Will a 15 yard dumpster damage my driveway?',
@@ -261,7 +264,7 @@ export const SERVICES: ServicePage[] = [
       'dimensions of a 20 yard dumpster',
       'dumpster rental jacksonville fl',
     ],
-    description: 'A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, the best value per cubic yard for whole-house cleanouts and construction jobs. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 150+ five-star Google reviews.',
+    description: 'A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, the best value per cubic yard for whole-house cleanouts and construction jobs. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 153 five-star Google reviews.',
     features: [
       '14\' x 7.5\' x 5.8\' dimensions,largest residential size',
       '$375 flat rate,no hidden fees or broker markups',
@@ -303,6 +306,7 @@ export const SERVICES: ServicePage[] = [
       {
         question: 'Will a 20 yard dumpster fit in my driveway?',
         answer: 'A 20 yard dumpster from 904 Dumpster is 14 feet long and 7.5 feet wide,the same footprint as our 15-yard container. It fits in most standard two-car driveways in Jacksonville. The main consideration is the 5.8-foot height, which requires at least 14 feet of overhead clearance for our roll-off truck to safely place it. Watch for low-hanging oak branches common in neighborhoods like Riverside and Avondale.',
+        image: '/images/20-yard-dumpster-driveway-delivery.jpg',
       },
       {
         question: 'What can you put in a 20 yard dumpster?',

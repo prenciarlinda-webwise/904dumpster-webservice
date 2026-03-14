@@ -29,7 +29,7 @@ import DeliveryMap from '@/components/DeliveryMap'
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
   title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
-  description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. 5.0★ rated, 150+ Google reviews. Call (904) 240-5598.',
+  description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. 5.0★ rated, 153 Google reviews. Call (904) 240-5598.',
   openGraph: {
     title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
     description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery. Locally owned since 2016.',
@@ -118,6 +118,16 @@ const FAQ_DATA = [
     answer:
       'No permit is needed if the dumpster is placed on your private property (driveway, yard). If placement is on a public street or right-of-way, you\'ll need a Right of Way Permit from Jacksonville\'s Development Services Department. 904 Dumpster places on driveways 99% of the time.',
   },
+  {
+    question: 'What is the cheapest way to get rid of junk in Jacksonville?',
+    answer:
+      'For small amounts of junk (a few items), hiring 904 Dumpster\'s junk removal service is the most affordable option — we do all the heavy lifting. For larger cleanouts, renting a 10-yard dumpster at $275 and loading it yourself is the cheapest approach. Self-hauling to Trail Ridge Landfill costs $50-75 per load plus your time, so a dumpster rental saves money after just 2-3 loads.',
+  },
+  {
+    question: 'What is a roll-off dumpster?',
+    answer:
+      'A roll-off dumpster is an open-top container delivered on a roll-off truck. The truck tilts the bed and "rolls off" the container onto your driveway or job site. Roll-off dumpsters are the standard for residential and commercial waste removal projects. 904 Dumpster provides 10, 15, and 20-yard roll-off containers throughout Jacksonville and Northeast Florida.',
+  },
 ]
 
 // JSON-LD Schemas
@@ -205,6 +215,7 @@ const localBusinessSchema = {
   ],
   address: {
     '@type': 'PostalAddress',
+    streetAddress: '2798 Anniston Rd',
     addressLocality: 'Jacksonville',
     addressRegion: 'FL',
     postalCode: '32246',
@@ -233,9 +244,9 @@ const localBusinessSchema = {
   aggregateRating: {
     '@type': 'AggregateRating',
     ratingValue: '5.0',
-    reviewCount: '150',
+    reviewCount: '153',
     bestRating: '5',
-    worstRating: '5',
+    worstRating: '1',
   },
   review: [
     {
@@ -271,8 +282,10 @@ const localBusinessSchema = {
     '@type': 'Place',
     address: {
       '@type': 'PostalAddress',
+      streetAddress: '2798 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
+      postalCode: '32246',
       addressCountry: 'US',
     },
   },
@@ -448,7 +461,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <span className="text-white/90 text-sm font-medium">
-                    150+ Five-Star Google Reviews
+                    153 Five-Star Google Reviews
                   </span>
                 </div>
 
@@ -464,7 +477,7 @@ export default function HomePage() {
                 {/* Sub-headline - Keyword in first sentence + AI-citable facts */}
                 <p className="text-xl md:text-2xl text-white/80 mb-8 leading-relaxed">
                   Dumpster rental Jacksonville FL starting at $275 with free delivery, pickup, and disposal included.
-                  Locally owned since 2016. 5.0-star rated with 150+ Google reviews.
+                  Locally owned since 2016. 5.0-star rated with 153 Google reviews.
                   10, 15 &amp; 20-yard roll-off containers for homeowners and contractors.
                 </p>
 
@@ -542,7 +555,7 @@ export default function HomePage() {
               $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, disposal,
               and a 5-day rental period with no hidden fees. 904 Dumpster serves Duval, St. Johns, Clay,
               and Nassau counties with same-day delivery available when customers book before noon.
-              The company maintains a 5.0-star rating across 150+ Google reviews and is fully insured.
+              The company maintains a 5.0-star rating across 153 Google reviews and is fully insured.
               904 Dumpster owns its trucks and employs local drivers, unlike national brokers or call centers.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
@@ -583,8 +596,8 @@ export default function HomePage() {
               </p>
 
               <p className="mb-4">
-                Many national brokers advertise lower base rates but add fuel surcharges ($25-50), environmental fees ($15-30), and per-ton disposal charges that can double your final bill.
-                Our flat-rate pricing eliminates these surprises. For example, our 15-yard dumpster at $325 includes 2 tons of disposal, that&apos;s enough for most kitchen remodels and roofing projects.
+                Looking for cheap dumpster rental in Jacksonville? Many national brokers advertise lower base rates but add fuel surcharges ($25-50), environmental fees ($15-30), and per-ton disposal charges that can double your final bill.
+                Our affordable dumpster rental pricing eliminates these surprises. For example, our 15-yard dumpster at $325 includes 2 tons of disposal, that&apos;s enough for most kitchen remodels and roofing projects.
                 Competitors often charge $250 base plus $65/ton disposal, meaning the same project could cost $380+ with hidden fees.
               </p>
 
@@ -637,7 +650,7 @@ export default function HomePage() {
                 Choose Your Dumpster Size
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                All prices include delivery, pickup, disposal, and a 5-day rental period.
+                Need a small dumpster rental for a garage cleanout or a large container for construction? All prices include delivery, pickup, disposal, and a 5-day rental period.
                 No hidden fees, ever.
               </p>
             </div>
@@ -803,15 +816,15 @@ export default function HomePage() {
                 How Dumpster Rental Works in Jacksonville
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Renting a dumpster from 904 Dumpster is straightforward. Here&apos;s exactly what to expect from start to finish.
+                Renting a roll-off dumpster from 904 Dumpster is straightforward. Here&apos;s exactly what to expect with your roll-off dumpster rental in Jacksonville from start to finish.
               </p>
             </div>
 
             <div className="mb-12 rounded-2xl overflow-hidden">
               <Image
-                src="/images/dumpster-rental-jacksonville-fl.jpg"
-                alt="Dumpster rental delivery in Jacksonville FL - 904 Dumpster on residential driveway"
-                title="Dumpster Rental Jacksonville FL - How It Works"
+                src="/images/dumpster-rental-residential-jacksonville.jpg"
+                alt="Residential dumpster rental delivery in Jacksonville FL - 904 Dumpster in side yard"
+                title="Residential Dumpster Rental Jacksonville FL - How It Works"
                 width={1200}
                 height={600}
                 className="w-full h-64 lg:h-80 object-cover"
@@ -871,8 +884,9 @@ export default function HomePage() {
 
               <div className="space-y-6 text-gray-600 leading-relaxed">
                 <p>
-                  <strong className="text-secondary">Choosing the right size</strong> is the first step in your dumpster rental.
-                  Our 10-yard dumpster works well for single-room cleanouts, garage purges, and small landscaping projects.
+                  <strong className="text-secondary">Choosing the right size</strong> is the first step in your roll-off dumpster rental.
+                  Whether you need a garbage dumpster rental for a cleanout or a trash dumpster rental for a renovation project,
+                  our 10-yard dumpster works well for single-room cleanouts, garage purges, and small landscaping projects —
                   it holds roughly 3 pickup truck loads of debris. The 15-yard is our most versatile size,
                   handling kitchen remodels, roofing tear-offs (up to 20 squares of shingles), and medium estate cleanouts.
                   For whole-house renovations, construction projects, or large cleanouts, the 20-yard provides maximum capacity
@@ -1022,7 +1036,7 @@ export default function HomePage() {
                   Serving Jacksonville & Surrounding 904 Areas
                 </h2>
                 <p className="text-gray-600 text-lg mb-8">
-                  We proudly deliver dumpsters throughout Duval, St. Johns, Clay, and Nassau counties.
+                  For local dumpster rental in Jacksonville and surrounding areas, we proudly deliver throughout Duval, St. Johns, Clay, and Nassau counties.
                   Same-day delivery available in most areas when you call before noon.
                 </p>
 
@@ -1177,7 +1191,7 @@ export default function HomePage() {
                 The Local Difference
               </h2>
               <p className="text-white/60 text-lg max-w-2xl mx-auto">
-                We&apos;re not a broker or a national call center. We&apos;re your neighbors,
+                As a locally owned dumpster rental company in Jacksonville, we&apos;re not a broker or a national call center. We&apos;re your neighbors,
                 and we take pride in serving the Jacksonville community.
               </p>
             </div>
@@ -1262,6 +1276,55 @@ export default function HomePage() {
                 <ArrowRight className="w-6 h-6" />
               </a>
               <p className="text-white/40 mt-4">Fast booking • Instant confirmation • Same-day delivery</p>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            SECTION 6B: LICENSED & INSURED (E-E-A-T)
+        ============================================ */}
+        <section className="py-20 lg:py-28 bg-white">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-16">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Verified Credentials
+              </span>
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Licensed, Insured &amp; Trusted
+              </h2>
+              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+                When you compare dumpster rental companies in Jacksonville, credentials matter.
+                904 Dumpster is fully verified and government-listed.
+              </p>
+            </div>
+
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="bg-gray-50 rounded-2xl p-8">
+                <Award className="w-10 h-10 text-primary mb-4" />
+                <h3 className="text-lg font-bold text-secondary mb-2">Clay County Licensed Franchise Hauler</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  904 Dumpster is listed as an approved franchise hauler on the{' '}
+                  <a href="https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers" target="_blank" rel="nofollow noopener noreferrer" title="Clay County Licensed Franchise Haulers" className="text-primary hover:underline">Clay County government website</a>.
+                  This means we meet all county requirements for insurance, licensing, and legal waste disposal.
+                </p>
+              </div>
+              <div className="bg-gray-50 rounded-2xl p-8">
+                <Shield className="w-10 h-10 text-primary mb-4" />
+                <h3 className="text-lg font-bold text-secondary mb-2">Fully Insured</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  904 Dumpster carries general liability and commercial auto coverage for every delivery.
+                  Your property is protected from the moment our truck arrives until your dumpster is picked up.
+                </p>
+              </div>
+              <div className="bg-gray-50 rounded-2xl p-8">
+                <Calendar className="w-10 h-10 text-primary mb-4" />
+                <h3 className="text-lg font-bold text-secondary mb-2">Serving Jacksonville Since 2016</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  With 10 years of local experience and over 2,000 dumpster deliveries completed across Northeast Florida,
+                  904 Dumpster is one of Jacksonville&apos;s most experienced independent roll-off providers.
+                  We maintain a 5.0-star Google rating with 153 verified reviews.
+                </p>
+              </div>
             </div>
           </div>
         </section>
