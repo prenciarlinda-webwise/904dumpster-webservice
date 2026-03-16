@@ -8,6 +8,7 @@ import {
   getAllBlogSlugs,
   getCategoryBySlug,
   getRecentPosts,
+  getRelatedPosts,
 } from '@/data/blog'
 import { BUSINESS } from '@/lib/constants'
 import { generateBreadcrumbSchema } from '@/lib/schema'
@@ -116,6 +117,77 @@ function formatContent(content: string): string {
       const text = line.replace(/^\d+\.\s/, '')
       result.push(`<li class="flex items-start gap-3 mb-2"><span class="text-primary font-semibold">${num}.</span><span>${text}</span></li>`)
       continue
+    }
+
+    // Review blockquotes: > REVIEW: "Quote" - Name, Google Review
+    if (lines[i].trim().startsWith('> REVIEW:')) {
+      const reviewMatch = lines[i].trim().match(/^> REVIEW:\s*"([^"]+)"\s*-\s*(.+)$/)
+      if (reviewMatch) {
+        const quote = processInlineFormatting(reviewMatch[1])
+        const attribution = reviewMatch[2].trim()
+        result.push(`<blockquote class="my-8 border-l-4 border-primary bg-primary/5 rounded-r-xl p-6">
+          <div class="flex gap-1 mb-3">${'<svg class="w-5 h-5 text-primary" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>'.repeat(5)}</div>
+          <p class="text-gray-700 text-lg italic mb-3">"${quote}"</p>
+          <cite class="text-sm font-semibold text-secondary not-italic">— ${attribution}</cite>
+        </blockquote>`)
+        continue
+      }
+    }
+
+    // Video embeds: > VIDEO: URL "Caption text"
+    if (lines[i].trim().startsWith('> VIDEO:')) {
+      const videoMatch = lines[i].trim().match(/^> VIDEO:\s*(https?:\/\/\S+)\s*"([^"]*)"$/)
+      if (videoMatch) {
+        const url = videoMatch[1]
+        const caption = videoMatch[2]
+        let embedHtml = ''
+
+        if (url.includes('tiktok.com')) {
+          // TikTok embed
+          const videoId = url.match(/video\/(\d+)/)?.[1] || ''
+          embedHtml = `<div class="my-8 flex justify-center">
+            <div class="w-full max-w-[400px]">
+              <blockquote class="tiktok-embed" cite="${url}" data-video-id="${videoId}" style="max-width:400px;min-width:325px;">
+                <section></section>
+              </blockquote>
+              <script async src="https://www.tiktok.com/embed.js"></script>
+              ${caption ? `<p class="text-sm text-gray-500 text-center mt-3 italic">${processInlineFormatting(caption)}</p>` : ''}
+            </div>
+          </div>`
+        } else if (url.includes('youtube.com/shorts') || url.includes('youtu.be')) {
+          // YouTube Shorts / YouTube embed
+          let videoId = ''
+          if (url.includes('shorts/')) {
+            videoId = url.split('shorts/')[1]?.split(/[?&]/)[0] || ''
+          } else if (url.includes('youtu.be/')) {
+            videoId = url.split('youtu.be/')[1]?.split(/[?&]/)[0] || ''
+          } else if (url.includes('v=')) {
+            videoId = url.split('v=')[1]?.split(/[?&]/)[0] || ''
+          }
+          embedHtml = `<div class="my-8 flex justify-center">
+            <div class="w-full max-w-[400px]">
+              <div class="relative w-full" style="padding-bottom:177.78%;">
+                <iframe src="https://www.youtube.com/embed/${videoId}" class="absolute inset-0 w-full h-full rounded-xl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              ${caption ? `<p class="text-sm text-gray-500 text-center mt-3 italic">${processInlineFormatting(caption)}</p>` : ''}
+            </div>
+          </div>`
+        } else if (url.includes('instagram.com')) {
+          // Instagram Reel embed
+          embedHtml = `<div class="my-8 flex justify-center">
+            <div class="w-full max-w-[400px]">
+              <blockquote class="instagram-media" data-instgrm-permalink="${url}" style="max-width:400px;min-width:326px;width:100%;"></blockquote>
+              <script async src="https://www.instagram.com/embed.js"></script>
+              ${caption ? `<p class="text-sm text-gray-500 text-center mt-3 italic">${processInlineFormatting(caption)}</p>` : ''}
+            </div>
+          </div>`
+        }
+
+        if (embedHtml) {
+          result.push(embedHtml)
+          continue
+        }
+      }
     }
 
     // Regular paragraphs
@@ -295,6 +367,7 @@ export default async function BlogPostPage({
 
   const category = getCategoryBySlug(post.category)
   const recentPosts = getRecentPosts(3).filter((p) => p.slug !== post.slug)
+  const relatedPosts = getRelatedPosts(post, 3)
 
   // Parse FAQs from content
   const { mainContent, faqs, afterFaqContent } = parseFAQs(post.content)
@@ -444,6 +517,30 @@ export default async function BlogPostPage({
                   ))}
                 </div>
               </div>
+
+              {/* Related Posts */}
+              {relatedPosts.length > 0 && (
+                <div className="mt-12 pt-8 border-t border-gray-200">
+                  <h3 className="text-2xl font-black text-secondary mb-6">
+                    Related Articles
+                  </h3>
+                  <div className="grid sm:grid-cols-3 gap-4">
+                    {relatedPosts.map((related) => (
+                      <Link
+                        key={related.slug}
+                        href={`/blog/${related.slug}`}
+                        className="group block bg-gray-50 rounded-xl p-4 hover:bg-primary/5 transition-colors"
+                        title={related.title}
+                      >
+                        <h4 className="font-semibold text-secondary group-hover:text-primary transition-colors mb-2 line-clamp-2">
+                          {related.title}
+                        </h4>
+                        <p className="text-sm text-gray-500 line-clamp-2">{related.excerpt}</p>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
 
               {/* Back to Blog */}
               <div className="mt-8">

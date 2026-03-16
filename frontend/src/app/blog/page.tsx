@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import Image from 'next/image'
 import { ArrowRight, Calendar, Clock, Tag } from 'lucide-react'
-import { BLOG_POSTS } from '@/data/blog'
+import { getPublishedPosts } from '@/data/blog'
 import { generateBlogCollectionSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
@@ -20,9 +20,9 @@ export const metadata: Metadata = {
   },
 }
 
-// Sort all posts by date, newest first
+// Sort all published posts by date, newest first
 function getAllPostsSorted() {
-  return [...BLOG_POSTS].sort(
+  return getPublishedPosts().sort(
     (a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime()
   )
 }

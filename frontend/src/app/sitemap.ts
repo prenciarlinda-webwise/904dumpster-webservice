@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 import { getAllServiceSlugs } from '@/data/services'
 import { getAllLocationSlugs } from '@/data/locations'
-import { BLOG_POSTS } from '@/data/blog'
+import { getPublishedPosts } from '@/data/blog'
 
 const BASE_URL = 'https://www.904dumpster.com'
 
@@ -104,8 +104,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  // Blog posts with actual published/updated dates
-  const blogPages: MetadataRoute.Sitemap = BLOG_POSTS.map((post) => ({
+  // Blog posts with actual published/updated dates (only published ones)
+  const blogPages: MetadataRoute.Sitemap = getPublishedPosts().map((post) => ({
     url: `${BASE_URL}/blog/${post.slug}`,
     lastModified: new Date(post.updatedDate || post.publishedDate),
     changeFrequency: 'monthly' as const,

@@ -1,49 +1,6 @@
-export interface BlogCategory {
-  slug: string
-  name: string
-  description: string
-}
+import { BlogPost } from './types'
 
-export interface BlogPost {
-  slug: string
-  title: string
-  metaTitle: string
-  metaDescription: string
-  excerpt: string
-  category: string
-  author: string
-  publishedDate: string
-  updatedDate?: string
-  readTime: string
-  featuredImage?: string
-  content: string
-  tags: string[]
-}
-
-export const BLOG_CATEGORIES: BlogCategory[] = [
-  {
-    slug: 'home-improvement',
-    name: 'Home Improvement',
-    description: 'Tips and guides for home renovation and cleanout projects',
-  },
-  {
-    slug: 'dumpster-rental-tips',
-    name: 'Dumpster Rental Tips',
-    description: 'Expert advice on choosing and using roll-off dumpsters',
-  },
-  {
-    slug: 'construction-waste',
-    name: 'Construction Waste',
-    description: 'Managing debris from construction and demolition projects',
-  },
-  {
-    slug: 'local-guides',
-    name: 'Local Guides',
-    description: 'Jacksonville area guides for waste disposal and permits',
-  },
-]
-
-export const BLOG_POSTS: BlogPost[] = [
+export const EXISTING_POSTS: BlogPost[] = [
   // Local Guides Category - Clay County Franchise Hauler
   {
     slug: '904-dumpster-clay-county-licensed-franchise-hauler',
@@ -154,6 +111,7 @@ Yes. We deliver to all of Clay County including Orange Park, Fleming Island, Mid
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
 - [Complete Home Cleanout Guide](/blog/complete-guide-home-cleanout-jacksonville)
     `,
+    status: 'published' as const,
   },
   // Local Guides Category - Paint Disposal
   {
@@ -342,6 +300,7 @@ Paint disposal is just one part of renovation cleanup. For everything else - dry
 
 Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for fast delivery to your Jacksonville project site.
     `,
+    status: 'published' as const,
   },
   // Home Improvement Category
   {
@@ -472,6 +431,7 @@ We deliver throughout Jacksonville and Northeast Florida, including [Jacksonvill
 
 Call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for same-day delivery.
     `,
+    status: 'published' as const,
   },
   {
     slug: 'kitchen-renovation-debris-disposal-guide',
@@ -607,6 +567,7 @@ We deliver throughout Jacksonville and Northeast Florida, including [Jacksonvill
 
 Call 904 Dumpster at (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for same-day delivery.
     `,
+    status: 'published' as const,
   },
   // Dumpster Rental Tips Category
   {
@@ -769,6 +730,7 @@ Before loading your dumpster, review our guide on [prohibited items](/blog/what-
 
 We deliver same-day throughout Jacksonville and Northeast Florida, including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl). [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call (904) 240-5598.
     `,
+    status: 'published' as const,
   },
   {
     slug: 'what-cannot-go-in-dumpster',
@@ -942,6 +904,7 @@ The Duval County Household Hazardous Waste Facility at 2675 Commonwealth Ave acc
 
 Not sure if something can go in your dumpster? Call us at (904) 240-5598 before loading it. We deliver throughout [Jacksonville](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all of Northeast Florida. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call for same-day delivery.
     `,
+    status: 'published' as const,
   },
   // Construction Waste Category
   {
@@ -1104,6 +1067,7 @@ We serve all of Duval County including [Jacksonville Beach](/dumpster-rental-jac
 
 Before your project, review our guide on [what items cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) and check if you need a [dumpster permit in Jacksonville](/blog/jacksonville-dumpster-permit-guide).
     `,
+    status: 'published' as const,
   },
   {
     slug: 'demolition-debris-disposal-best-practices',
@@ -1271,6 +1235,7 @@ We serve all of Northeast Florida including [Jacksonville Beach](/dumpster-renta
 
 Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) to discuss your demolition project.
     `,
+    status: 'published' as const,
   },
   // Local Guides Category
   {
@@ -1439,6 +1404,7 @@ We serve homeowners and contractors across Northeast Florida:
 
 Check out our [dumpster sizes and pricing](/blog/how-to-choose-right-dumpster-size) or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for same-day delivery.
     `,
+    status: 'published' as const,
   },
   {
     slug: 'hurricane-debris-cleanup-jacksonville',
@@ -1632,28 +1598,6 @@ During declared disaster periods, Jacksonville typically relaxes dumpster permit
 - [Jacksonville Dumpster Permit Guide](/blog/jacksonville-dumpster-permit-guide)
 - [Complete Home Cleanout Guide](/blog/complete-guide-home-cleanout-jacksonville)
     `,
+    status: 'published' as const,
   },
 ]
-
-// Helper functions
-export function getBlogPostBySlug(slug: string): BlogPost | undefined {
-  return BLOG_POSTS.find((post) => post.slug === slug)
-}
-
-export function getAllBlogSlugs(): string[] {
-  return BLOG_POSTS.map((post) => post.slug)
-}
-
-export function getBlogPostsByCategory(categorySlug: string): BlogPost[] {
-  return BLOG_POSTS.filter((post) => post.category === categorySlug)
-}
-
-export function getCategoryBySlug(slug: string): BlogCategory | undefined {
-  return BLOG_CATEGORIES.find((cat) => cat.slug === slug)
-}
-
-export function getRecentPosts(count: number = 5): BlogPost[] {
-  return [...BLOG_POSTS]
-    .sort((a, b) => new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime())
-    .slice(0, count)
-}
