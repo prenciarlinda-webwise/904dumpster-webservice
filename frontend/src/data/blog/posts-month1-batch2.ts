@@ -11,7 +11,7 @@ export const MONTH1_POSTS_BATCH2: BlogPost[] = [
     author: '904 Dumpster',
     publishedDate: '2026-03-07',
     readTime: '12 min read',
-    featuredImage: '/images/dumpster-rental-home-cleanout-jacksonville.jpg',
+    featuredImage: '/images/small-dumpster.jpg',
     tags: ['garage cleanout jacksonville', 'garage clean out dumpster', 'garage declutter', 'home cleanout', 'junk removal jacksonville', '10 yard dumpster', 'home cleanouts', 'bulk junk removal', 'how to declutter your home'],
     status: 'published' as const,
     content: `
@@ -406,7 +406,7 @@ Each dumpster size includes a specific weight allowance, which is 1.5 tons for t
     author: '904 Dumpster',
     publishedDate: '2026-03-11',
     readTime: '13 min read',
-    featuredImage: '/images/residential-cleanup-dumpster.jpg',
+    featuredImage: '/images/10-yard-dumpster-rental-promo.jpg',
     tags: ['yard waste disposal jacksonville', 'landscaping debris dumpster', 'yard waste northeast florida', 'tree removal debris', 'landscaping dumpster rental', 'palm frond disposal', 'tree debris removal', 'yard waste dumpster rental', 'landscape debris removal'],
     status: 'published' as const,
     content: `
@@ -635,7 +635,7 @@ Late fall through early spring, from November through March, is the ideal window
     author: '904 Dumpster',
     publishedDate: '2026-03-13',
     readTime: '13 min read',
-    featuredImage: '/images/commercial-dumpster-jacksonville.jpg',
+    featuredImage: '/images/dumpster-rental-residential-jacksonville.jpg',
     tags: ['contractor dumpster rental jacksonville', 'construction dumpster', 'construction waste disposal', 'contractor waste management', 'jobsite dumpster', 'jacksonville construction', 'construction debris container rental', 'how to rent a dumpster', 'demolition dumpster rental'],
     status: 'published' as const,
     content: `
@@ -866,7 +866,7 @@ Street placement is possible in some Jacksonville locations, depending on local 
     author: '904 Dumpster',
     publishedDate: '2026-03-15',
     readTime: '11 min read',
-    featuredImage: '/images/residential-cleanup-dumpster.jpg',
+    featuredImage: '/images/10-yard-dumpster.jpg',
     tags: ['dumpster rental cost atlantic beach', 'beach dumpster rental', 'atlantic beach dumpster', 'atlantic beach fl', 'beach home renovation', 'coastal dumpster rental', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
     status: 'published' as const,
     content: `

@@ -601,7 +601,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     author: '904 Dumpster',
     publishedDate: '2026-03-03',
     readTime: '8 min read',
-    featuredImage: '/images/dumpster-rental-middleburg-fl.jpg',
+    featuredImage: '/images/10-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['dumpster rental cost orange park', 'clay county dumpster cost', 'orange park dumpster rental', 'roll-off dumpster orange park', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
     status: 'published' as const,
     relatedSlugs: ['904-dumpster-clay-county-licensed-franchise-hauler', 'how-to-choose-right-dumpster-size'],

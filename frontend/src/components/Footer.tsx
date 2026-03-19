@@ -44,6 +44,15 @@ const SITEMAP = {
       { label: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl' },
     ],
   },
+  projectTypes: {
+    title: 'Dumpsters By Project',
+    links: [
+      { label: 'Construction Projects', href: '/dumpster-rental/dumpsters-for-construction-projects' },
+      { label: 'Roofing Projects', href: '/dumpster-rental/dumpsters-for-roofing-projects' },
+      { label: 'Moving Projects', href: '/dumpster-rental/dumpsters-for-moving-projects' },
+      { label: 'Landscaping Projects', href: '/dumpster-rental/dumpsters-for-landscaping-projects' },
+    ],
+  },
   resources: {
     title: 'Resources',
     links: [
@@ -172,7 +181,7 @@ export default function Footer() {
 
           {/* Sitemap Grid */}
           <div className="lg:col-span-8">
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
               {Object.values(SITEMAP).map((section) => (
                 <div key={section.title}>
                   <h3 className="text-sm font-bold uppercase tracking-wider text-white/40 mb-4">

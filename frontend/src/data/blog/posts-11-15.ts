@@ -174,7 +174,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
     author: '904 Dumpster',
     publishedDate: '2026-03-19',
     readTime: '8 min read',
-    featuredImage: '/images/what-can-go-in-a-dumpster-jacksonville.png',
+    featuredImage: '/images/15-yard-dumpster.jpg',
     tags: ['construction recycling jacksonville', 'recyclable demolition materials', 'recycling guide jacksonville', 'construction waste recycling', 'how to dispose of grease', 'tree debris removal'],
     status: 'scheduled' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'yard-waste-landscaping-debris-disposal-northeast-florida'],

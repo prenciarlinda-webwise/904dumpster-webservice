@@ -242,20 +242,22 @@ export default function BlogPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:9042405598"
+                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
+                title="Book a Dumpster Rental Online"
+              >
+                Book Online Now
+                <ArrowRight className="w-5 h-5" />
+              </a>
+              <a
+                href="tel:9042405598"
+                className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-xl px-10 py-5 rounded-2xl transition-all"
                 title="Call 904 Dumpster"
               >
                 Call (904) 240-5598
               </a>
-              <Link
-                href="/contact-us"
-                className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-xl px-10 py-5 rounded-2xl transition-all"
-                title="Contact 904 Dumpster for a Free Quote"
-              >
-                Get a Free Quote
-                <ArrowRight className="w-5 h-5" />
-              </Link>
             </div>
           </div>
         </section>

@@ -63,6 +63,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: `${BASE_URL}/dumpster-rental/dumpsters-for-moving-projects`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: `${BASE_URL}/dumpster-rental/dumpsters-for-landscaping-projects`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
       url: `${BASE_URL}/rules/prohibited-items-list`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
