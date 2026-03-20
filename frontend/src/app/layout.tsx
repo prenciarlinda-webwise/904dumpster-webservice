@@ -9,6 +9,7 @@ import {
   generateOrganizationSchema,
   generateSiteNavigationSchema,
 } from '@/lib/schema'
+import GTMTracking from '@/components/GTMTracking'
 
 const roboto = Roboto({
   subsets: ['latin'],
@@ -149,6 +150,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           />
         </noscript>
         {/* End Google Tag Manager (noscript) */}
+        <GTMTracking />
         <Header />
         <main>{children}</main>
         <Footer />
