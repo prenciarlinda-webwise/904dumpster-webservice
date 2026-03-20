@@ -10,11 +10,11 @@ export const POSTS_36_TO_45: BlogPost[] = [
     excerpt: 'Not sure what size dumpster you need? Learn how to estimate your debris volume in cubic yards, understand dumpster weight limits, and choose the right roll-off container for your project in Jacksonville.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
-    publishedDate: '2026-04-01',
+    publishedDate: '2026-04-27',
     readTime: '9 min read',
-    featuredImage: '/images/dumpster-rental-prices.png',
+    featuredImage: '/images/20-yard-dumpster.jpg',
     tags: ['dumpster calculator', 'dumpster weight calculator', 'debris calculator', 'dumpster yard calculator', 'calculate dumpster size', 'cubic yards in feet', 'how much is a cubic yard of trash', 'demolition debris calculator'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-rental-for-homeowners-first-time-guide'],
     content: `
 ## Dumpster Rental Calculator: How to Estimate Your Debris Volume
@@ -154,11 +154,11 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     excerpt: 'Converting a garage into living space generates significant waste from demolition, framing, insulation, and finishing. This guide covers the waste planning side of garage conversions in Jacksonville.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-02',
+    publishedDate: '2026-04-29',
     readTime: '10 min read',
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['garage conversion waste', 'garage conversion permit jacksonville', 'how much does it cost to convert a garage', 'garage conversion without permit', 'will converting a garage add value', 'permit to convert garage to living space', 'garage renovation debris', 'garage conversion jacksonville'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Garage Conversion Guide: What Waste to Expect During Renovation
@@ -313,11 +313,11 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
     excerpt: 'Kitchen renovations produce more waste than most homeowners expect. From cabinets and countertops to flooring and appliances, this guide helps you prepare for the debris side of your Jacksonville kitchen remodel.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-03',
+    publishedDate: '2026-05-01',
     readTime: '10 min read',
     featuredImage: '/images/jacksonville-dumpster-rental.jpg',
     tags: ['kitchen renovation waste', 'kitchen remodel debris', 'kitchen renovation blog', 'kitchen remodel 101', 'how much to remove ceramic tile', 'laminate floor removal', 'renovation blog', 'home renovation blog', 'home improvement blogs'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-rental-calculator-estimate-debris-volume', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Prepare for Kitchen Renovation: Debris and Waste Guide
@@ -457,11 +457,11 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
     excerpt: 'Basement renovations in Northeast Florida often start with water damage cleanup and end with a transformed living space. This guide covers the waste management side of every phase, from leak remediation to finishing.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-04',
+    publishedDate: '2026-05-03',
     readTime: '10 min read',
     featuredImage: '/images/20-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['basement renovation waste', 'fix leaking basement wall', 'leak in foundation wall', 'how to turn a basement into an apartment', 'why does my basement smell musty', 'basement efficiency apartment', 'cost to turn basement into apartment', 'check foundation of house'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['kitchen-renovation-waste-preparation-guide', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Basement Renovation Waste Guide: From Leaks to Living Space
@@ -605,11 +605,11 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
     excerpt: 'Deck removal and replacement produces heavy, bulky waste that does not fit in curbside bins. This guide covers waste planning for deck demolition projects in Jacksonville and Northeast Florida.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-04-05',
+    publishedDate: '2026-05-05',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-now.jpg',
     tags: ['deck removal waste', 'cost to demo deck', 'cost to remove deck boards', 'cost to demolish a deck', 'wood deck removal', 'wood deck maintenance', 'do i need a permit to remove a deck', 'deck demolition jacksonville'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
 ## Deck Removal and Replacement: Waste Planning Guide
@@ -749,11 +749,11 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
     excerpt: 'Attics and basements are where the clutter hides. When it is time to finally clean them out, knowing how to dispose of large furniture, old cabinets, and bulky items makes the project manageable.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-06',
+    publishedDate: '2026-05-07',
     readTime: '9 min read',
-    featuredImage: '/images/dumpster-bag-rental.png',
+    featuredImage: '/images/10-yard-dumpster-rental-near-me.jpg',
     tags: ['how to dispose of large items', 'where to dispose large furniture', 'how to get furniture picked up for trash', 'how to dispose of old cabinets', 'where to take old furniture for disposal', 'where to put old furniture', 'attic cleanout', 'basement cleanout jacksonville'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
 ## Attic and Basement Cleanout: Decluttering and Disposal Guide
@@ -888,11 +888,11 @@ Hazardous materials including paint, chemicals, batteries, propane tanks, and mo
     excerpt: 'Old paint cans piling up in your garage? This local guide explains exactly where to dispose of latex and oil-based paint in Jacksonville and Duval County, including which types can go in a dumpster.',
     category: 'sustainability',
     author: '904 Dumpster',
-    publishedDate: '2026-04-07',
+    publishedDate: '2026-05-09',
     readTime: '8 min read',
     featuredImage: '/images/cheap-dumpster-rental-near-me.jpg',
     tags: ['where can i dispose of old paint', 'can you throw paint cans in a dumpster', 'paint disposal jacksonville', 'hazardous materials dumpster', 'latex paint disposal', 'oil based paint disposal', 'paint recycling jacksonville', 'household hazardous waste jacksonville'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Where to Dispose of Old Paint in Jacksonville FL
@@ -1258,11 +1258,11 @@ Great question. Read our blog post on [where does trash go after you throw it aw
     excerpt: 'Jacksonville summers demand preparation. From cleaning out HVAC areas to tackling outdoor projects, this guide covers summer maintenance tasks that generate waste and how to manage debris efficiently.',
     category: 'seasonal-cleanup',
     author: '904 Dumpster',
-    publishedDate: '2026-04-10',
+    publishedDate: '2026-05-11',
     readTime: '9 min read',
-    featuredImage: '/images/dumpsters-near.jpg',
+    featuredImage: '/images/dumpsters-rent-florida.jpg',
     tags: ['summer maintenance tips', 'summer house tips', 'summer home maintenance jacksonville', 'seasonal cleanup jacksonville', 'how to keep upstairs cool', 'jacksonville summer preparation', 'home maintenance checklist', 'summer decluttering tips'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Summer Home Maintenance Tips for Jacksonville Homeowners

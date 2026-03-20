@@ -173,11 +173,11 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
     excerpt: 'Understanding dumpster weight limits prevents overage charges and keeps your project on budget. This guide covers weight capacities for every dumpster size and tips for estimating the weight of common materials.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
-    publishedDate: '2026-03-02',
+    publishedDate: '2026-04-01',
     readTime: '8 min read',
     featuredImage: '/images/dumpster-jacksonville.jpg',
     tags: ['dumpster weight limit', 'dumpster weight calculator', 'how much does a dumpster weigh', 'dumpster tonnage', '20 yard dumpster weight limit', '30 yard dumpster weight limit', 'dumpster weight capacity', 'roll off dumpster weight'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'how-to-choose-right-dumpster-size', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `
 ## How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide
@@ -465,11 +465,11 @@ Standard weight allowances cover most household and construction debris. Extreme
     excerpt: 'Not every dumpster placement requires a permit, but putting one on a public street or right-of-way in Jacksonville does. This guide explains when you need a permit, how to get one, and rules to follow.',
     category: 'local-guides',
     author: '904 Dumpster',
-    publishedDate: '2026-03-04',
+    publishedDate: '2026-04-03',
     readTime: '7 min read',
     featuredImage: '/images/prepare-for-dumpster-jacksonville.jpg',
     tags: ['dumpster permit', 'dumpster permit jacksonville', 'do you need a permit for a dumpster', 'dumpster on street rules', 'dumpster regulations', 'permit for dumpster', 'dumpster rules', 'can you park a dumpster on the street'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'dumpster-sizes-explained-complete-guide', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## Do You Need a Dumpster Permit? Permit Guide for Jacksonville FL
@@ -790,11 +790,11 @@ No. Standard curbside trash cans in Jacksonville are only for household waste th
     excerpt: 'Concrete, bricks, and cinder blocks are some of the heaviest materials to dispose of. This guide covers disposal methods, recycling options, cost estimates, and the right dumpster size for heavy debris projects.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-03-06',
+    publishedDate: '2026-04-05',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-jacksonville-fl.jpg',
     tags: ['concrete disposal', 'how to dispose of concrete', 'brick disposal', 'cinder block disposal', 'concrete recycling', 'heavy debris removal', 'concrete dumpster rental', 'concrete junk removal', 'rock removal cost', 'concrete demo cost'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-weight-limits-tonnage-guide', 'recycling-guide-jacksonville-construction-projects', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Dispose of Concrete, Bricks, and Heavy Debris
@@ -951,11 +951,11 @@ Rock removal cost per cubic yard typically ranges from $50 to $150 depending on 
     excerpt: 'Jacksonville may not get harsh winters, but fall is the perfect time to tackle home maintenance and yard cleanup before the holidays. This checklist helps homeowners prepare their property and manage seasonal waste.',
     category: 'seasonal-cleanup',
     author: '904 Dumpster',
-    publishedDate: '2026-03-07',
+    publishedDate: '2026-04-07',
     readTime: '8 min read',
     featuredImage: '/images/dumpster-rental-jacksonville.jpg',
     tags: ['fall home maintenance', 'fall home checklist', 'fall house maintenance', 'homeowner tips jacksonville', 'seasonal home maintenance', 'home improvement project plan', 'yearly deck maintenance', 'fall cleanup tips'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
 ## Fall Home Maintenance Checklist for Jacksonville Homeowners
@@ -1113,11 +1113,11 @@ If your yard cleanup generates more than your weekly yard waste collection can h
     excerpt: 'Estate cleanouts range from $500 to $10,000 or more depending on how much you do yourself. This guide breaks down costs, timelines, and what to expect so you can plan your budget and schedule.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-03-08',
+    publishedDate: '2026-04-09',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-jacksonville-florida.jpg',
     tags: ['estate cleanout cost', 'estate cleanout service', 'deceased estate house clearance', 'whole house junk removal', 'estate cleanout timeline', 'home deconstruction', 'gutted house cleanup', 'estate cleanout pricing'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide', 'garage-cleanout-guide-jacksonville'],
     content: `
 ## Estate Cleanout Cost and Timeline: What to Expect
@@ -1459,11 +1459,11 @@ Yes. Donate usable items, recycle properly, separate materials during projects, 
     excerpt: 'Knowing what can and cannot go in a dumpster prevents extra fees, load rejection, and potential fines. This complete guide covers accepted items, prohibited materials, and disposal alternatives for everything in between.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
-    publishedDate: '2026-03-10',
+    publishedDate: '2026-04-11',
     readTime: '10 min read',
     featuredImage: '/images/dumpster-on-site-jacksonville.png',
     tags: ['what can go in a dumpster', 'what cannot go in a dumpster', 'dumpster rules', 'can you throw paint in a dumpster', 'can you put glass in a dumpster', 'hazardous materials dumpster', 'mattress in dumpster', 'items that cannot be recycled', 'dumpster prohibited items'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'dumpster-sizes-explained-complete-guide', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## What Can and Cannot Go in a Dumpster: Complete Rules Guide

@@ -14,7 +14,7 @@ export const POSTS_11_TO_15: BlogPost[] = [
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-home-cleanout-jacksonville.jpg',
     tags: ['estate cleanout jacksonville', 'estate cleanout dumpster', 'property cleanout guide', 'jacksonville estate cleanup', 'estate cleanout', 'home cleanouts', 'bulk junk removal', 'estate cleanout service'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['complete-guide-home-cleanout-jacksonville', 'garage-cleanout-guide-jacksonville'],
     content: `
 ## How to Handle an Estate Cleanout in Jacksonville
@@ -176,7 +176,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
     readTime: '8 min read',
     featuredImage: '/images/15-yard-dumpster.jpg',
     tags: ['construction recycling jacksonville', 'recyclable demolition materials', 'recycling guide jacksonville', 'construction waste recycling', 'how to dispose of grease', 'tree debris removal'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'yard-waste-landscaping-debris-disposal-northeast-florida'],
     content: `
 ## What You Can Actually Recycle from Your Jacksonville Project
@@ -351,7 +351,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     readTime: '7 min read',
     featuredImage: '/images/roll-off-dumpster-rental-jacksonville-fl.jpg',
     tags: ['dumpster rental cost fernandina beach', 'nassau county dumpster', 'amelia island dumpster rental', 'fernandina beach renovation', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['dumpster-rental-cost-atlantic-beach-fl', 'dumpster-rental-cost-st-augustine-fl'],
     content: `
 ## Dumpster Rental Pricing on Amelia Island and Fernandina Beach
@@ -526,7 +526,7 @@ No permit is needed if the dumpster is placed on your private property such as a
     readTime: '10 min read',
     featuredImage: '/images/20-yard-dumpster-driveway-delivery.jpg',
     tags: ['shed demolition jacksonville', 'deck removal dumpster', 'fence demolition diy', 'structure teardown guide', 'demolition dumpster rental', 'deck demolition', 'deck removal'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', '20-yard-dumpster-guide'],
     content: `
 ## How to Tear Down a Shed, Deck, or Fence Yourself
@@ -730,7 +730,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
     author: '904 Dumpster',
     publishedDate: '2026-03-25',
     readTime: '8 min read',
-    featuredImage: '/images/15-yard-dumpster-rental.jpg',
+    featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['15 yard dumpster capacity', 'what fits in 15 yard dumpster', 'mid-size dumpster rental', '15 yard dumpster projects', '15 yard dumpster dimensions', 'how big is a 15 yard dumpster', '15 yard dumpster rental cost', 'dumpster rental 15 yard', '15 yard roll off dumpster'],
     status: 'scheduled' as const,
     relatedSlugs: ['what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size', '20-yard-dumpster-guide'],

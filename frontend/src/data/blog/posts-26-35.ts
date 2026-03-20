@@ -170,11 +170,11 @@ A roll off dumpster is an open-top container delivered on a flatbed truck for te
     excerpt: 'A roof replacement generates a massive amount of waste. Learn how to prepare your property, what size dumpster you need for a roof tear off, and how to plan for shingle disposal.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-03-17',
+    publishedDate: '2026-04-13',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-roofing-jacksonville.jpg',
     tags: ['dumpster for roofing materials', 'roof dumpster rental', 'what size dumpster for roof tear off', 'dumpster size for roof tear off', 'shingle dumpster', 'shingle dumpster calculator', 'roofing waste disposal', 'roof replacement preparation'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Prepare for a Roof Replacement: Waste Planning Guide
@@ -308,11 +308,11 @@ Yes, as long as the additional items are acceptable dumpster materials. However,
     excerpt: 'Everything you need to know about yard waste disposal in Jacksonville including curbside pickup rules, disposal options for landscaping debris, and when a yard waste dumpster rental makes sense.',
     category: 'sustainability',
     author: '904 Dumpster',
-    publishedDate: '2026-03-18',
+    publishedDate: '2026-04-15',
     readTime: '10 min read',
     featuredImage: '/images/dumpsters-rent-florida.jpg',
     tags: ['yard waste disposal', 'where to dispose of yard waste', 'yard waste dumpster rental', 'lawn waste disposal', 'landscape waste disposal', 'yard clippings disposal', 'yard debris pickup', 'yard waste cleanup', 'landscape dumpster rental', 'garden waste skip', 'how to get rid of dirt from yard', 'yard waste in dumpster'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'what-cannot-go-in-dumpster'],
     content: `
 ## Yard Waste and Landscaping Debris Disposal Guide
@@ -461,11 +461,11 @@ Yes, the City of Jacksonville activates storm debris pickup after major weather 
     excerpt: 'Planning to remove a concrete driveway or slab? This guide covers cost expectations, planning steps, and how to handle the heavy debris disposal for your Jacksonville project.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-03-19',
+    publishedDate: '2026-04-17',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-service-jacksonville-fl.jpg',
     tags: ['cost to remove concrete driveway', 'cost to remove concrete slab', 'asphalt driveway removal cost', 'cost to remove asphalt driveway', 'how much to remove concrete driveway', 'how much does it cost to remove concrete driveway', 'concrete sidewalk replacement', 'concrete disposal dumpster'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Concrete Driveway Removal: Cost, Planning, and Disposal
@@ -740,11 +740,11 @@ Recycled tires are processed into several products including crumb rubber for pl
     excerpt: 'Old computers, TVs, phones, and other electronics cannot go in regular trash or dumpsters. Learn where to dispose of e-waste responsibly in Jacksonville and what items require special recycling.',
     category: 'sustainability',
     author: '904 Dumpster',
-    publishedDate: '2026-03-21',
+    publishedDate: '2026-04-19',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-near.jpg',
     tags: ['where do you throw away electronics', 'e-waste disposal jacksonville', 'e waste recycling', 'things not to recycle', 'items that cannot be recycled', 'electronic waste disposal', 'computer recycling jacksonville', 'tv disposal jacksonville'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Dispose of Electronics and E-Waste Responsibly
@@ -1033,11 +1033,11 @@ Hazardous materials like paint, solvents, chemical adhesives, asbestos-containin
     excerpt: 'A complete planning guide for demolition debris including how to estimate waste volume, choose the right dumpster size, and handle disposal for gut rehabs, interior demos, and full structure removals.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-03-24',
+    publishedDate: '2026-04-21',
     readTime: '10 min read',
     featuredImage: '/images/jacksonville-dumpsters.jpg',
     tags: ['demolition dumpster', 'demolition debris calculator', 'demolition dumpster calculator', 'demo bin', 'home deconstruction', 'gut house', 'gutted house', 'full gut rehab', 'studs out remodel', 'gutted building', 'gutted home'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Demolition Debris: How to Plan for Demo Project Waste
@@ -1172,11 +1172,11 @@ Demolition is the rapid mechanical teardown of a structure or space. Deconstruct
     excerpt: 'Planning a dog-friendly backyard makeover involves removing old landscaping, fencing, and hardscape before installing pet-safe features. Here is how to plan for the waste and debris your project will generate.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-03-26',
+    publishedDate: '2026-04-23',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-near-me-jacksonville.jpg',
     tags: ['dog friendly backyards', 'dog friendly back yard', 'best yard for dogs', 'xeriscaping cost', 'xeriscape yard', 'xeriscaping ideas', 'xeriscape backyard', 'yard privacy ideas', 'driveway with border', 'backyard makeover waste'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['yard-waste-disposal-guide-what-goes-where', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Dog-Friendly Backyard Makeover: Waste Planning Guide
@@ -1307,11 +1307,11 @@ Yes. We deliver throughout Northeast Florida including [Jacksonville Beach](/dum
     excerpt: 'Aging in place renovations and accessibility remodeling projects generate significant construction waste. Plan your dumpster rental and debris disposal for bathroom modifications, in-law suites, and home accessibility upgrades.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-03-28',
+    publishedDate: '2026-04-25',
     readTime: '10 min read',
     featuredImage: '/images/rent-a-dumpster-jacksonville-fl.jpg',
     tags: ['aging in place renovations', 'aging in place remodeler', 'aging-in-place remodeling', 'handicap renovations', 'disability remodeling', 'bathroom remodel for cheap', 'in law suite', 'mother in law suite', 'building an in law suite', 'in law studio', 'in laws quarters'],
-    status: 'published' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Aging in Place Home Renovations: Accessibility Remodeling Waste Guide

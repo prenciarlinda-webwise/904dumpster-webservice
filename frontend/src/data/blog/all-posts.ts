@@ -7,6 +7,7 @@ import { POSTS_16_TO_25 } from './posts-16-25'
 import { POSTS_26_TO_35 } from './posts-26-35'
 import { POSTS_36_TO_45 } from './posts-36-45'
 import { POSTS_46_TO_55 } from './posts-46-55'
+import { EDUCATIONAL_POSTS } from './posts-educational'
 
 export const BLOG_POSTS: BlogPost[] = [
   ...EXISTING_POSTS,
@@ -17,4 +18,5 @@ export const BLOG_POSTS: BlogPost[] = [
   ...POSTS_26_TO_35,
   ...POSTS_36_TO_45,
   ...POSTS_46_TO_55,
+  ...EDUCATIONAL_POSTS,
 ]
