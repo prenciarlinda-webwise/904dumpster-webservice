@@ -79,7 +79,7 @@ export const SERVICES: ServicePage[] = [
       'dimensions of a 10 yard roll off dumpster',
       '10 cu yd dumpster dimensions',
     ],
-    description: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 1.5 tons of disposal, making it the most affordable roll-off option for small cleanouts and garage projects. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 153 five-star Google reviews.',
+    description: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 1.5 tons of disposal, making it the most affordable roll-off option for small cleanouts and garage projects. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
     features: [
       'Compact 12\' x 7.5\' x 3.6\' dimensions',
       'Fits in most residential driveways',
@@ -190,7 +190,7 @@ export const SERVICES: ServicePage[] = [
       '15 cubic yard',
       '15 cubic yards',
     ],
-    description: 'A 15 yard dumpster rental in Jacksonville, FL costs $325 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, making it the most popular size for roofing jobs and mid-size renovations. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 153 five-star Google reviews.',
+    description: 'A 15 yard dumpster rental in Jacksonville, FL costs $325 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, making it the most popular size for roofing jobs and mid-size renovations. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
     features: [
       'Compact 14\' x 7.5\' x 4.5\' dimensions - fits standard driveways',
       '$325 flat rate - no hidden fees or broker markups',
@@ -309,7 +309,7 @@ export const SERVICES: ServicePage[] = [
       '20 yard dumpster weight',
       '20 yard dumpster vs 30 yard dumpster',
     ],
-    description: 'A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, the best value per cubic yard for whole-house cleanouts and construction jobs. Locally owned and serving Jacksonville and Northeast Florida since 2016 with 153 five-star Google reviews.',
+    description: 'A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, the best value per cubic yard for whole-house cleanouts and construction jobs. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
     features: [
       '14\' x 7.5\' x 5.8\' dimensions,largest residential size',
       '$375 flat rate,no hidden fees or broker markups',

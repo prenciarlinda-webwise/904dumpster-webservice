@@ -20,7 +20,7 @@ import {
   Zap,
   Calendar,
 } from 'lucide-react'
-import { BUSINESS } from '@/lib/constants'
+import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { QuickSizeFinder } from '@/components/QuickSizeFinder'
 import { GoogleReviews } from '@/components/GoogleReviews'
@@ -29,7 +29,7 @@ import DeliveryMap from '@/components/DeliveryMap'
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
   title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
-  description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. 5.0★ rated, 153 Google reviews. Call (904) 240-5598.',
+  description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. Call (904) 240-5598.',
   openGraph: {
     title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
     description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery. Locally owned since 2016.',
@@ -243,25 +243,11 @@ const localBusinessSchema = {
   priceRange: '$$',
   aggregateRating: {
     '@type': 'AggregateRating',
-    ratingValue: '5.0',
-    reviewCount: '153',
-    bestRating: '5',
-    worstRating: '1',
+    ratingValue: REVIEWS.rating,
+    reviewCount: REVIEWS.count,
+    bestRating: REVIEWS.bestRating,
+    worstRating: REVIEWS.worstRating,
   },
-  review: [
-    {
-      '@type': 'Review',
-      author: { '@type': 'Person', name: 'Mike T.' },
-      reviewRating: { '@type': 'Rating', ratingValue: '5' },
-      reviewBody: 'Fast delivery, fair pricing, and the driver was super helpful placing the dumpster exactly where I needed it. Will use again!',
-    },
-    {
-      '@type': 'Review',
-      author: { '@type': 'Person', name: 'Sarah K.' },
-      reviewRating: { '@type': 'Rating', ratingValue: '5' },
-      reviewBody: 'Used them for my kitchen renovation. No hidden fees, easy scheduling. Highly recommend 904 Dumpster!',
-    },
-  ],
   // Local expertise signals for Google's Helpful Content update
   knowsAbout: [
     'Jacksonville dumpster rental',
@@ -461,7 +447,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <span className="text-white/90 text-sm font-medium">
-                    153 Five-Star Google Reviews
+                    {REVIEWS.count} Five-Star Google Reviews
                   </span>
                 </div>
 
@@ -477,7 +463,7 @@ export default function HomePage() {
                 {/* Sub-headline - Keyword in first sentence + AI-citable facts */}
                 <p className="text-xl md:text-2xl text-white/80 mb-8 leading-relaxed">
                   Dumpster rental Jacksonville FL starting at $275 with free delivery, pickup, and disposal included.
-                  Locally owned since 2016. 5.0-star rated with 153 Google reviews.
+                  Locally owned since 2016. 5.0-star rated with {REVIEWS.count} Google reviews.
                   10, 15 &amp; 20-yard roll-off containers for homeowners and contractors.
                 </p>
 
@@ -555,7 +541,7 @@ export default function HomePage() {
               $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, disposal,
               and a 5-day rental period with no hidden fees. 904 Dumpster serves Duval, St. Johns, Clay,
               and Nassau counties with same-day delivery available when customers book before noon.
-              The company maintains a 5.0-star rating across 153 Google reviews and is fully insured.
+              The company maintains a 5.0-star rating across {REVIEWS.count} Google reviews and is fully insured.
               904 Dumpster owns its trucks and employs local drivers, unlike national brokers or call centers.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
@@ -1322,7 +1308,7 @@ export default function HomePage() {
                 <p className="text-gray-600 text-sm leading-relaxed">
                   With 10 years of local experience and over 2,000 dumpster deliveries completed across Northeast Florida,
                   904 Dumpster is one of Jacksonville&apos;s most experienced independent roll-off providers.
-                  We maintain a 5.0-star Google rating with 153 verified reviews.
+                  We maintain a 5.0-star Google rating with {REVIEWS.count} verified reviews.
                 </p>
               </div>
             </div>

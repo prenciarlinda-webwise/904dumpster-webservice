@@ -1,4 +1,4 @@
-import { BUSINESS } from './constants'
+import { BUSINESS, REVIEWS } from './constants'
 import { LOCATIONS } from '@/data/locations'
 import pricing from '@/data/pricing.json'
 
@@ -230,56 +230,13 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
       '@type': 'Brand',
       name: BUSINESS.name,
     },
-    // AggregateRating - pulls "Gold Stars" into search results
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: '5.0',
-      reviewCount: '153',
-      bestRating: '5',
-      worstRating: '1',
+      ratingValue: REVIEWS.rating,
+      reviewCount: REVIEWS.count,
+      bestRating: REVIEWS.bestRating,
+      worstRating: REVIEWS.worstRating,
     },
-    // Multiple reviews for richer snippets
-    review: [
-      {
-        '@type': 'Review',
-        reviewRating: {
-          '@type': 'Rating',
-          ratingValue: '5',
-          bestRating: '5',
-        },
-        author: {
-          '@type': 'Person',
-          name: 'Mike Thompson',
-        },
-        reviewBody: `Great experience renting the ${size} yard dumpster. Delivery was on time, pricing was exactly as quoted, and pickup was prompt. Will definitely use 904 Dumpster again for my next project.`,
-      },
-      {
-        '@type': 'Review',
-        reviewRating: {
-          '@type': 'Rating',
-          ratingValue: '5',
-          bestRating: '5',
-        },
-        author: {
-          '@type': 'Person',
-          name: 'Sarah K.',
-        },
-        reviewBody: `Used the ${size} yard for my home renovation in Jacksonville. No hidden fees, easy scheduling, and the driver placed it exactly where I needed. Highly recommend 904 Dumpster!`,
-      },
-      {
-        '@type': 'Review',
-        reviewRating: {
-          '@type': 'Rating',
-          ratingValue: '5',
-          bestRating: '5',
-        },
-        author: {
-          '@type': 'Person',
-          name: 'David R.',
-        },
-        reviewBody: `Best dumpster rental company in Jacksonville. The ${size} yard was perfect for our garage cleanout. Price was $75 cheaper than the national company I originally called. Same-day delivery too.`,
-      },
-    ],
     offers: {
       '@type': 'Offer',
       price: dumpsterData.basePrice.toString(),
@@ -423,10 +380,10 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
     ],
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: '5.0',
-      reviewCount: '153',
-      bestRating: '5',
-      worstRating: '1',
+      ratingValue: REVIEWS.rating,
+      reviewCount: REVIEWS.count,
+      bestRating: REVIEWS.bestRating,
+      worstRating: REVIEWS.worstRating,
     },
     areaServed: [
       { '@type': 'City', name: 'Jacksonville', containedInPlace: { '@type': 'State', name: 'Florida' } },
@@ -604,10 +561,10 @@ export function generateAggregateRatingSchema() {
     },
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: '5.0',
-      reviewCount: '153',
-      bestRating: '5',
-      worstRating: '1',
+      ratingValue: REVIEWS.rating,
+      reviewCount: REVIEWS.count,
+      bestRating: REVIEWS.bestRating,
+      worstRating: REVIEWS.worstRating,
     },
   }
 }
@@ -711,8 +668,7 @@ export function generateBlogCollectionSchema() {
   }
 }
 
-// Article schema for blog posts (enhanced)
-// Publisher: Web Wise - SEO and Website agency with proven experience and results
+// Article schema for blog posts
 export function generateArticleSchema(
   title: string,
   description: string,
@@ -733,17 +689,18 @@ export function generateArticleSchema(
     dateModified: updatedDate || publishedDate,
     author: {
       '@type': 'Organization',
-      name: 'Web Wise',
-      url: 'https://www.websiteandseoagency.com',
-      description: 'SEO and Website agency with proven experience and results',
+      '@id': 'https://www.904dumpster.com/#organization',
+      name: BUSINESS.name,
+      url: 'https://www.904dumpster.com',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Web Wise',
-      url: 'https://www.websiteandseoagency.com',
+      '@id': 'https://www.904dumpster.com/#organization',
+      name: BUSINESS.name,
+      url: 'https://www.904dumpster.com',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.websiteandseoagency.com/logo.png',
+        url: 'https://www.904dumpster.com/images/904-dumpsters-logo.png',
       },
     },
     mainEntityOfPage: {
@@ -760,12 +717,6 @@ export function generateArticleSchema(
 
 // ItemList schema for pricing page
 export function generatePricingItemListSchema() {
-  const reviewers = [
-    { name: 'Sarah Mitchell', review: 'Perfect size for my garage cleanout. On-time delivery and great price!' },
-    { name: 'James Rodriguez', review: 'Used the 15 yard for our roof replacement. Exactly what we needed.' },
-    { name: 'David Chen', review: 'Handled our entire home renovation debris. Excellent service!' },
-  ]
-
   return {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -788,16 +739,10 @@ export function generatePricingItemListSchema() {
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: '5.0',
-            reviewCount: '153',
-            bestRating: '5',
-            worstRating: '1',
-          },
-          review: {
-            '@type': 'Review',
-            reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
-            author: { '@type': 'Person', name: reviewers[0].name },
-            reviewBody: reviewers[0].review,
+            ratingValue: REVIEWS.rating,
+            reviewCount: REVIEWS.count,
+            bestRating: REVIEWS.bestRating,
+            worstRating: REVIEWS.worstRating,
           },
           offers: {
             '@type': 'Offer',
@@ -822,16 +767,10 @@ export function generatePricingItemListSchema() {
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: '5.0',
-            reviewCount: '153',
-            bestRating: '5',
-            worstRating: '1',
-          },
-          review: {
-            '@type': 'Review',
-            reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
-            author: { '@type': 'Person', name: reviewers[1].name },
-            reviewBody: reviewers[1].review,
+            ratingValue: REVIEWS.rating,
+            reviewCount: REVIEWS.count,
+            bestRating: REVIEWS.bestRating,
+            worstRating: REVIEWS.worstRating,
           },
           offers: {
             '@type': 'Offer',
@@ -856,16 +795,10 @@ export function generatePricingItemListSchema() {
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: '5.0',
-            reviewCount: '153',
-            bestRating: '5',
-            worstRating: '1',
-          },
-          review: {
-            '@type': 'Review',
-            reviewRating: { '@type': 'Rating', ratingValue: '5', bestRating: '5' },
-            author: { '@type': 'Person', name: reviewers[2].name },
-            reviewBody: reviewers[2].review,
+            ratingValue: REVIEWS.rating,
+            reviewCount: REVIEWS.count,
+            bestRating: REVIEWS.bestRating,
+            worstRating: REVIEWS.worstRating,
           },
           offers: {
             '@type': 'Offer',

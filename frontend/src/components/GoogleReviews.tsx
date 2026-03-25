@@ -2,9 +2,9 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { Star, ChevronLeft, ChevronRight, Quote } from 'lucide-react'
-import { BUSINESS } from '@/lib/constants'
+import { BUSINESS, REVIEWS } from '@/lib/constants'
 
-// Actual Google Reviews - 5.0 rating with 153 reviews
+// Actual Google Reviews
 const GOOGLE_REVIEWS = [
   {
     name: 'Neemy Michel',
@@ -160,7 +160,7 @@ export function GoogleReviews() {
             </div>
             <span className="text-3xl font-black text-secondary">5.0</span>
             <span className="text-gray-500">|</span>
-            <span className="text-gray-600 font-medium">153 Reviews</span>
+            <span className="text-gray-600 font-medium">{REVIEWS.count} Reviews</span>
           </div>
 
           <p className="text-gray-500 text-sm">
@@ -261,7 +261,7 @@ export function GoogleReviews() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
           >
-            Read All 153 Reviews on Google
+            Read All {REVIEWS.count} Reviews on Google
             <ChevronRight className="w-4 h-4" />
           </a>
         </div>

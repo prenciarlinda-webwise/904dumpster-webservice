@@ -13,7 +13,7 @@ import {
   Shield,
   DollarSign,
 } from 'lucide-react'
-import { BUSINESS } from '@/lib/constants'
+import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { ServicePageTemplate } from '@/components/ServicePageTemplate'
 import { SERVICES, getServiceBySlug, getAllServiceSlugs, ServicePage } from '@/data/services'
 import { LOCATIONS, getLocationBySlug, getAllLocationSlugs } from '@/data/locations'
@@ -1322,7 +1322,7 @@ function DumpsterSizePage({
                     </div>
                     <div>
                       <div className="text-white font-bold text-lg">2,000+ Deliveries Completed</div>
-                      <div className="text-white/60">5.0★ rating across 153 Google reviews</div>
+                      <div className="text-white/60">5.0★ rating across {REVIEWS.count} Google reviews</div>
                     </div>
                   </div>
                 </div>
@@ -2000,7 +2000,7 @@ function DumpsterSizePage({
                     </div>
                     <div>
                       <div className="text-white font-bold text-lg">2,000+ Deliveries Completed</div>
-                      <div className="text-white/60">5.0★ rating across 153 Google reviews</div>
+                      <div className="text-white/60">5.0★ rating across {REVIEWS.count} Google reviews</div>
                     </div>
                   </div>
                 </div>
@@ -2071,7 +2071,7 @@ function DumpsterSizePage({
                     </div>
                     <div>
                       <div className="text-white font-bold text-lg">2,000+ Deliveries Completed</div>
-                      <div className="text-white/60">5.0★ rating across 153 Google reviews</div>
+                      <div className="text-white/60">5.0★ rating across {REVIEWS.count} Google reviews</div>
                     </div>
                   </div>
                 </div>

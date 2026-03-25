@@ -14,6 +14,14 @@ export const BUSINESS = {
   },
 } as const
 
+// Google Reviews - update this when review count changes
+export const REVIEWS = {
+  rating: '5.0',
+  count: '153',
+  bestRating: '5',
+  worstRating: '1',
+} as const
+
 // =============================================================================
 // SERVICES MEGA MENU STRUCTURE
 // =============================================================================
