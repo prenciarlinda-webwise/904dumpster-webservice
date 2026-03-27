@@ -76,7 +76,7 @@ export const LOCATIONS: Location[] = [
       'New construction in Nocatee and World Golf Village',
       'Commercial renovations on St. George Street',
     ],
-    localInfo: 'St. Augustine residents should note that dumpster placement in the historic district may require permits from the City of St. Augustine. Our team is familiar with local regulations and can help guide you through the process. For properties on Anastasia Island or near the beach, we recommend our 10-yard dumpster for tight driveways and limited access areas.',
+    localInfo: 'St. Augustine residents should note that dumpster placement in the historic district may require permits from the City of St. Augustine. Our team is familiar with local regulations and can help guide you through the process. For properties on Anastasia Island or near the beach, our 15-yard dumpster is the most compact option available and works well for tight driveways and limited access areas.',
     faqs: [
       {
         question: 'Do I need a permit for a dumpster in St. Augustine?',
@@ -393,7 +393,7 @@ export const LOCATIONS: Location[] = [
       },
       {
         question: 'What size dumpster for a luxury home renovation?',
-        answer: 'For comprehensive Ponte Vedra luxury home renovations, our 20-yard dumpster is typically the best choice. It handles large volumes of construction debris while keeping your project on schedule. For smaller projects like a single bathroom or kitchen, our 10 or 15-yard options work well.',
+        answer: 'For comprehensive Ponte Vedra luxury home renovations, our 20-yard dumpster is typically the best choice. It handles large volumes of construction debris while keeping your project on schedule. For smaller projects like a single bathroom or kitchen, our 15-yard option works well.',
       },
     ],
   },
@@ -564,7 +564,7 @@ export const LOCATIONS: Location[] = [
       'Landscaping and yard debris removal',
       'Commercial property cleanouts',
     ],
-    localInfo: 'Green Cove Springs has a charming historic downtown with narrower streets that work well with our 10-yard dumpster. For properties outside of town or larger projects, our 15 and 20-yard dumpsters provide ample capacity. Clay County typically does not require permits for dumpsters placed on private property. If you\'re renovating a historic property in the downtown area, our team can help coordinate delivery times to minimize disruption.',
+    localInfo: 'Green Cove Springs has a charming historic downtown with narrower streets. Our 15-yard dumpster is the most compact option and works well for tighter spaces. For properties outside of town or larger projects, our 20-yard dumpster provides ample capacity. Clay County typically does not require permits for dumpsters placed on private property. If you\'re renovating a historic property in the downtown area, our team can help coordinate delivery times to minimize disruption.',
     faqs: [
       {
         question: 'Do you deliver to rural areas around Green Cove Springs?',
@@ -572,7 +572,7 @@ export const LOCATIONS: Location[] = [
       },
       {
         question: 'What size dumpster is best for historic home projects?',
-        answer: 'For renovation projects in Green Cove Springs\' historic downtown area, our 10-yard dumpster is often ideal due to tighter driveways and street access. For larger historic home renovations or properties with more space, our 15-yard dumpster provides excellent capacity.',
+        answer: 'For renovation projects in Green Cove Springs\' historic downtown area, our 15-yard dumpster is the best choice — compact enough for tighter driveways while providing excellent capacity. For larger historic home renovations or properties with more space, our 20-yard dumpster handles the job.',
       },
       {
         question: 'How quickly can you deliver to Green Cove Springs?',
@@ -626,7 +626,7 @@ export const LOCATIONS: Location[] = [
       'Commercial renovations on Centre Street',
       'Roofing projects for coastal properties',
     ],
-    localInfo: 'Fernandina Beach has a distinctive historic district with Victorian-era homes that may require special consideration for dumpster placement. Our 10-yard dumpster is popular for these properties due to compact driveways and narrow streets. For beach properties and newer developments on Amelia Island, our 15 and 20-yard dumpsters provide excellent capacity for larger renovation projects. Nassau County generally does not require permits for dumpsters on private property, but street placement in the historic downtown area may require city approval. Our team can advise on the best approach for your specific location.',
+    localInfo: 'Fernandina Beach has a distinctive historic district with Victorian-era homes that may require special consideration for dumpster placement. Our 15-yard dumpster is the most compact option and works well for properties with tighter driveways and narrow streets. For beach properties and newer developments on Amelia Island, our 20-yard dumpster provides excellent capacity for larger renovation projects. Nassau County generally does not require permits for dumpsters on private property, but street placement in the historic downtown area may require city approval. Our team can advise on the best approach for your specific location.',
     faqs: [
       {
         question: 'Do you deliver to all of Amelia Island?',
@@ -634,7 +634,7 @@ export const LOCATIONS: Location[] = [
       },
       {
         question: 'What size dumpster works best for historic home projects?',
-        answer: 'For renovation projects in Fernandina Beach\'s historic district, our 10-yard dumpster is often the best choice due to narrower driveways and limited space typical of Victorian-era properties. For larger historic home renovations or properties with more room, our 15-yard dumpster offers excellent capacity.',
+        answer: 'For renovation projects in Fernandina Beach\'s historic district, our 15-yard dumpster is the best choice — compact enough for narrower driveways while providing excellent capacity for renovation debris. For larger historic home renovations or properties with more room, our 20-yard dumpster handles the job.',
       },
       {
         question: 'How quickly can you deliver to Fernandina Beach?',

@@ -223,7 +223,7 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the average cost of a 15 yard dumpster in Jacksonville?',
-        answer: 'In the Jacksonville market, prices range from $349 to $450. 904 Dumpster offers a flat rate of $349 with no hidden broker fees. Our price includes delivery, 5-day rental, pickup, and disposal up to 2 tons (4,000 lbs). Overage fee is $75/ton only if you exceed the weight limit.',
+        answer: 'In the Jacksonville market, prices range from $349 to $450. 904 Dumpster offers a flat rate of $349 with no hidden broker fees. Our price includes delivery, 5-day rental, pickup, and disposal up to 1.5 tons (3,000 lbs). Overage fee is $75/ton only if you exceed the weight limit.',
       },
       {
         question: 'How many roofing squares fit in a 15 yard dumpster?',
@@ -248,7 +248,7 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the weight limit for a 15 yard dumpster?',
-        answer: 'The weight limit for a 15 yard dumpster at 904 Dumpster is 4,000 pounds (2 tons), included in the $349 flat rate. This is sufficient for most renovation projects, roofing tear-offs, and medium-sized cleanouts. If you exceed 2 tons, an overage fee of $75 per additional ton applies. For heavy materials like concrete, brick, or dirt, call us for heavy debris pricing guidance.',
+        answer: 'The weight limit for a 15 yard dumpster at 904 Dumpster is 3,000 pounds (1.5 tons), included in the $349 flat rate. This is sufficient for most renovation projects, roofing tear-offs, and medium-sized cleanouts. If you exceed 1.5 tons, an overage fee of $75 per additional ton applies. For heavy materials like concrete, brick, or dirt, call us for heavy debris pricing guidance.',
       },
       {
         question: 'How long can I keep a 15 yard dumpster?',
@@ -346,7 +346,7 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the difference between a 15 and 20 yard dumpster?',
-        answer: 'The 15 yard dumpster (14\'×7.5\'×4.5\') holds 5-6 pickup truck loads and costs $349. The 20 yard dumpster (14\'×7.5\'×5.8\') holds 7 pickup truck loads and costs $399. Both have the same footprint and 2-ton weight limit, but the 20 yard is 1.3 feet taller, giving you 33% more volume for only $50 more. Choose the 15-yard for single-room projects and roofing; choose the 20-yard for multi-room renovations, whole-house cleanouts, and construction.',
+        answer: 'The 15 yard dumpster (14\'×7.5\'×4.5\') holds 5-6 pickup truck loads and costs $349 with a 1.5-ton weight limit. The 20 yard dumpster (14\'×7.5\'×5.8\') holds 7 pickup truck loads and costs $399 with a 2-ton weight limit. Both have the same footprint, but the 20 yard is 1.3 feet taller, giving you 33% more volume and more tonnage for only $50 more. Choose the 15-yard for single-room projects and roofing; choose the 20-yard for multi-room renovations, whole-house cleanouts, and construction.',
       },
       {
         question: 'Will a 20 yard dumpster fit in my driveway?',

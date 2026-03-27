@@ -468,7 +468,7 @@ function DumpsterSizePage({
               To visualize 10 cubic yards, imagine a space roughly 12 feet long, 7.5 feet wide, and 3.6 feet high,about the footprint of a compact SUV. The container sits low to the ground, making it easy to toss items over the sides or walk debris in through the rear swing door. Its compact profile means it fits in most standard driveways without blocking sidewalks or streets.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              At 904 Dumpster, we rent 10 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$299</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 1.5 tons. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
+              At 904 Dumpster, we rent 10 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$299</strong>, which includes delivery, pickup, a 3-day rental period, and disposal of up to 1 ton. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
             </p>
           </div>
         </section>
@@ -541,7 +541,7 @@ function DumpsterSizePage({
               10 Yard Dumpster Cost in Jacksonville
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 10 yard dumpster rental in Jacksonville, FL costs $299 at 904 Dumpster, which includes delivery, a 5-day rental period, pickup, and disposal of up to 1.5 tons. Most competitors in the Jacksonville area charge between $350 and $400 for the same size container, making 904 Dumpster $75-$125 cheaper on average with no hidden fees.
+              A 10 yard dumpster rental in Jacksonville, FL costs $299 at 904 Dumpster, which includes delivery, a 3-day rental period, pickup, and disposal of up to 1 ton. Most competitors in the Jacksonville area charge between $350 and $400 for the same size container, making 904 Dumpster $75-$125 cheaper on average with no hidden fees.
             </p>
 
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg mb-8">
@@ -1368,7 +1368,7 @@ function DumpsterSizePage({
               To visualize 15 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 4.5 feet high,roughly the same footprint as a large SUV. The 15 yard sits between our <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline" title="10 Yard Dumpster Rental">10 yard dumpster</Link> ($299) and our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> ($399), offering 50% more capacity than the 10 yard for only $50 more.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              At 904 Dumpster, we rent 15 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$349</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). As a locally owned company serving the 904 area since 2016, we are not a broker or national call center,we own our trucks, employ local drivers, and include driveway protection boards on every delivery at no extra cost.
+              At 904 Dumpster, we rent 15 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$349</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 1.5 tons (3,000 lbs). As a locally owned company serving the 904 area since 2016, we are not a broker or national call center, we own our trucks, employ local drivers, and include driveway protection boards on every delivery at no extra cost.
             </p>
           </div>
         </section>
@@ -1552,7 +1552,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">We Pick Up &amp; Dispose</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    When you&apos;re finished, call, text, or email. Most pickups happen within 24 hours. We haul your debris to Trail Ridge Landfill or the appropriate disposal facility. No additional charges beyond your quoted $349 price,unless you exceeded the 2-ton weight limit, in which case we charge $75/ton overage.
+                    When you&apos;re finished, call, text, or email. Most pickups happen within 24 hours. We haul your debris to Trail Ridge Landfill or the appropriate disposal facility. No additional charges beyond your quoted ${dumpster.basePrice} price, unless you exceeded the {dumpster.tonnageIncluded}-ton weight limit, in which case we charge ${defaultPricing.extraTonRate}/ton overage.
                   </p>
                 </div>
               </div>
@@ -1667,8 +1667,8 @@ function DumpsterSizePage({
                 <h3 className="text-xl font-bold text-white mb-6">Weight Breakdown</h3>
                 <div className="space-y-4">
                   <div className="flex justify-between items-center py-3 border-b border-white/20">
-                    <span className="text-white/80">Our $349 flat rate includes</span>
-                    <span className="text-white font-bold">2 tons (4,000 lbs)</span>
+                    <span className="text-white/80">Our ${dumpster.basePrice} flat rate includes</span>
+                    <span className="text-white font-bold">{dumpster.tonnageIncluded} tons ({dumpster.weightLimit.toLocaleString()} lbs)</span>
                   </div>
                   <div className="flex justify-between items-center py-3 border-b border-white/20">
                     <span className="text-white/80">Average 2,500 sq ft roof generates</span>
@@ -1676,7 +1676,7 @@ function DumpsterSizePage({
                   </div>
                   <div className="flex justify-between items-center py-3">
                     <span className="text-white/80">Overage fee (if exceeded)</span>
-                    <span className="text-white font-bold">$75/ton</span>
+                    <span className="text-white font-bold">${defaultPricing.extraTonRate}/ton</span>
                   </div>
                 </div>
                 <p className="text-white/60 text-sm mt-6">
@@ -2382,11 +2382,19 @@ function DumpsterSizePage({
 
 // Location Page Component
 function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
-  const dumpsterSizes = [
-    { size: '10', price: defaultPricing.dumpsters['10-yard'].basePrice, slug: '10-yard-dumpster-rental' },
-    { size: '15', price: defaultPricing.dumpsters['15-yard'].basePrice, slug: '15-yard-dumpster-rental' },
-    { size: '20', price: defaultPricing.dumpsters['20-yard'].basePrice, slug: '20-yard-dumpster-rental' },
-  ]
+  const countyKey = getCountyKey(location.county, location.city)
+  const countyPricing = getCountyPricing(countyKey)
+  const availableSizes = Object.keys(countyPricing.dumpsters) as Array<keyof typeof countyPricing.dumpsters>
+
+  const dumpsterSizes = availableSizes.map((sizeKey) => {
+    const d = countyPricing.dumpsters[sizeKey]
+    return {
+      size: d.size,
+      price: d.basePrice,
+      slug: `${d.size}-yard-dumpster-rental`,
+      days: d.rentalDays,
+    }
+  })
 
   // Check if location has extended content
   const hasExtendedContent = location.aboutCity && location.whyChooseUs && location.commonProjects
@@ -2558,7 +2566,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                 <div className="text-3xl font-black text-secondary mb-4">
                   ${dumpster.price}
                 </div>
-                <p className="text-gray-500 mb-4">5-day rental included</p>
+                <p className="text-gray-500 mb-4">{dumpster.days}-day rental included</p>
                 <span className="inline-flex items-center gap-1 text-primary font-semibold group-hover:gap-2 transition-all">
                   {dumpster.size} Yard Dumpster Details <ArrowRight className="w-4 h-4" />
                 </span>

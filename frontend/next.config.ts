@@ -279,7 +279,7 @@ const nextConfig: NextConfig = {
       { source: '/terms-and-conditions', destination: '/terms-of-service', permanent: true },
       { source: '/faq', destination: '/frequently-asked-questions', permanent: true },
       { source: '/how-dumpster-rental-works', destination: '/frequently-asked-questions', permanent: true },
-          { source: '/book-online', destination: 'https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9', permanent: true },
+          { source: '/book-online', destination: 'https://app.icans.ai/customer-portal/904dumpster/book/', permanent: true },
   { source: '/locations/jacksonville-beach-fl', destination: '/dumpster-rental-jacksonville-beach-fl', permanent: true },
   { source: '/locations/jacksonville-fl', destination: '/', permanent: true },
   { source: '/locations/st-augustine-fl', destination: '/dumpster-rental-st-augustine-fl', permanent: true },
