@@ -95,7 +95,7 @@ export default function Footer() {
               </p>
             </div>
             <a
-              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
               target="_blank"
               rel="noopener noreferrer"
               title="Book a Dumpster Rental Online"

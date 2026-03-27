@@ -126,12 +126,12 @@ const faqs = [
       {
         question: 'How much does it cost to rent a dumpster?',
         answer:
-          'Our pricing starts at $275 for a 10-yard dumpster, $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, and a 5-day rental. Additional days are $15/day. There are no hidden fees.',
+          'Our pricing starts at $299 for a 10-yard dumpster, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, and a 5-day rental. Additional days are $15/day. There are no hidden fees.',
       },
       {
         question: 'How much does a dumpster rental cost?',
         answer:
-          'Dumpster rental costs in Jacksonville range from $275 to $375 depending on size. Our 10-yard dumpster is $275, the 15-yard is $325, and the 20-yard is $375. Every rental includes delivery, a 5-day rental period, pickup, and disposal up to the weight limit. Extensions are available at just $15 per additional day. There are no hidden fees, fuel surcharges, or environmental charges.',
+          'Dumpster rental costs in Jacksonville range from $299 to $399 depending on size. Our 10-yard dumpster is $299, the 15-yard is $349, and the 20-yard is $399. Every rental includes delivery, a 5-day rental period, pickup, and disposal up to the weight limit. Extensions are available at just $15 per additional day. There are no hidden fees, fuel surcharges, or environmental charges.',
       },
       {
         question: 'What is included in the rental price?',
@@ -375,7 +375,7 @@ export default function FAQPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"

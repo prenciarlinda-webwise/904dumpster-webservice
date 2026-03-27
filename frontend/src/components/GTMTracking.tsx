@@ -43,7 +43,7 @@ export default function GTMTracking() {
       }
 
       // Booking / checkout link clicks
-      if (href.includes('checkout.wayste.com')) {
+      if (href.includes('app.icans.ai')) {
         window.dataLayer.push({
           event: 'booking_click',
           click_location: pathname,

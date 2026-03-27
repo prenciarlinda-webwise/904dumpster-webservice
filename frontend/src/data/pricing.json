@@ -1,75 +1,265 @@
 {
-  "dumpsters": {
-    "10-yard": {
-      "size": "10",
-      "name": "10 Yard Dumpster",
-      "basePrice": 275,
-      "rentalDays": 5,
-      "tonnageIncluded": 1.5,
-      "additionalDayRate": 15,
-      "overweightRate": 75,
-      "dimensions": {
-        "length": 12,
-        "width": 7.5,
-        "height": 3.6
-      },
-      "weightLimit": 3000,
-      "truckLoadsEquivalent": 3,
-      "description": "Perfect for small home cleanouts and minor renovation projects.",
-      "ideal": [
-        "Small home cleanouts",
-        "Garage cleanouts",
-        "Minor renovation projects",
-        "Small landscaping projects"
-      ]
+  "counties": {
+    "duval": {
+      "name": "Duval County",
+      "extraTonRate": 75,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "10-yard": {
+          "size": "10",
+          "name": "10 Yard Dumpster",
+          "basePrice": 299,
+          "twoWeekPrice": 349,
+          "rentalDays": 3,
+          "tonnageIncluded": 1,
+          "dimensions": { "length": 12, "width": 7.5, "height": 3.6 },
+          "weightLimit": 2000,
+          "truckLoadsEquivalent": 3,
+          "description": "Perfect for small home cleanouts and minor renovation projects.",
+          "ideal": ["Small home cleanouts", "Garage cleanouts", "Minor renovation projects", "Small landscaping projects"]
+        },
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 349,
+          "twoWeekPrice": 399,
+          "monthPrice": 499,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 399,
+          "twoWeekPrice": 449,
+          "monthPrice": 549,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
     },
-    "15-yard": {
-      "size": "15",
-      "name": "15 Yard Dumpster",
-      "basePrice": 325,
-      "rentalDays": 5,
-      "tonnageIncluded": 2,
-      "additionalDayRate": 15,
-      "overweightRate": 75,
-      "dimensions": {
-        "length": 14,
-        "width": 7.5,
-        "height": 4.5
-      },
-      "weightLimit": 4000,
-      "truckLoadsEquivalent": 5,
-      "description": "Great for roofing projects and medium-sized cleanouts.",
-      "ideal": [
-        "Roofing projects",
-        "Medium cleanouts",
-        "Kitchen/bathroom remodels",
-        "Deck removal"
-      ]
+    "clay": {
+      "name": "Clay County",
+      "extraTonRate": 100,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 409,
+          "twoWeekPrice": 459,
+          "monthPrice": 559,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 459,
+          "twoWeekPrice": 509,
+          "monthPrice": 609,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
     },
-    "20-yard": {
-      "size": "20",
-      "name": "20 Yard Dumpster",
-      "basePrice": 375,
-      "rentalDays": 5,
-      "tonnageIncluded": 2,
-      "additionalDayRate": 15,
-      "overweightRate": 75,
-      "dimensions": {
-        "length": 14,
-        "width": 7.5,
-        "height": 5.8
-      },
-      "weightLimit": 4000,
-      "truckLoadsEquivalent": 7,
-      "description": "Ideal for large renovation projects and construction jobs.",
-      "ideal": [
-        "Large renovation projects",
-        "Construction jobs",
-        "Estate cleanouts",
-        "Commercial projects"
-      ]
+    "st-johns": {
+      "name": "St. Johns County",
+      "extraTonRate": 100,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 409,
+          "twoWeekPrice": 459,
+          "monthPrice": 559,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 459,
+          "twoWeekPrice": 509,
+          "monthPrice": 609,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
+    },
+    "nassau": {
+      "name": "Nassau County",
+      "extraTonRate": 100,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 409,
+          "twoWeekPrice": 459,
+          "monthPrice": 559,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 459,
+          "twoWeekPrice": 509,
+          "monthPrice": 609,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
+    },
+    "st-augustine": {
+      "name": "St. Augustine",
+      "extraTonRate": 100,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 449,
+          "twoWeekPrice": 499,
+          "monthPrice": 599,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 499,
+          "twoWeekPrice": 549,
+          "monthPrice": 649,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
+    },
+    "macclenny": {
+      "name": "Macclenny",
+      "extraTonRate": 100,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 379,
+          "twoWeekPrice": 429,
+          "monthPrice": 529,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 429,
+          "twoWeekPrice": 479,
+          "monthPrice": 579,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
+    },
+    "starke": {
+      "name": "Starke",
+      "extraTonRate": 100,
+      "extraDayRate": 15,
+      "dumpsters": {
+        "15-yard": {
+          "size": "15",
+          "name": "15 Yard Dumpster",
+          "basePrice": 449,
+          "twoWeekPrice": 499,
+          "monthPrice": 599,
+          "rentalDays": 5,
+          "tonnageIncluded": 1.5,
+          "dimensions": { "length": 14, "width": 7.5, "height": 4.5 },
+          "weightLimit": 3000,
+          "truckLoadsEquivalent": 5,
+          "description": "Great for roofing projects and medium-sized cleanouts.",
+          "ideal": ["Roofing projects", "Medium cleanouts", "Kitchen/bathroom remodels", "Deck removal"]
+        },
+        "20-yard": {
+          "size": "20",
+          "name": "20 Yard Dumpster",
+          "basePrice": 499,
+          "twoWeekPrice": 549,
+          "monthPrice": 649,
+          "rentalDays": 5,
+          "tonnageIncluded": 2,
+          "dimensions": { "length": 14, "width": 7.5, "height": 5.8 },
+          "weightLimit": 4000,
+          "truckLoadsEquivalent": 7,
+          "description": "Ideal for large renovation projects and construction jobs.",
+          "ideal": ["Large renovation projects", "Construction jobs", "Estate cleanouts", "Commercial projects"]
+        }
+      }
     }
   },
+  "defaultCounty": "duval",
   "junkRemoval": {
     "quarterTruck": 150,
     "halfTruck": 275,

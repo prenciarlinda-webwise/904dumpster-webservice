@@ -21,7 +21,7 @@ export const EDUCATIONAL_POSTS: BlogPost[] = [
 
 When you rent a dumpster and fill it with debris from a renovation, cleanout, or construction project, you probably do not think much about what happens after the truck hauls it away. But between your driveway and the landfill, there is usually an important stop: the transfer station. Understanding how transfer stations work gives you a clearer picture of the waste management process and helps explain why proper sorting and disposal matter.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Exactly Is a Transfer Station?
 
@@ -142,7 +142,7 @@ To learn more about where your trash ends up and why it matters, read our post o
 
 ## Book Your Dumpster Rental Today
 
-Whether you are cleaning out a garage, renovating a kitchen, or managing a construction site, 904 Dumpster makes waste disposal simple with flat-rate pricing and reliable service across Jacksonville and Northeast Florida. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. Every rental includes delivery, pickup, disposal, and a generous rental period with no hidden fees.
+Whether you are cleaning out a garage, renovating a kitchen, or managing a construction site, 904 Dumpster makes waste disposal simple with flat-rate pricing and reliable service across Jacksonville and Northeast Florida. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Every rental includes delivery, pickup, disposal, and a generous rental period with no hidden fees.
 
 ## Frequently Asked Questions
 
@@ -164,7 +164,7 @@ Yes. Clean loads of specific materials like concrete, metal, or yard waste are o
 
 ### Why does 904 Dumpster care about transfer station processes?
 
-As a locally owned company, we work with Jacksonville's waste infrastructure every day. Understanding how transfer stations and disposal facilities operate helps us provide accurate pricing, clear guidelines on what goes in your dumpster, and responsible disposal of the waste we collect. Our flat-rate pricing at $275, $325, and $375 for [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters includes disposal fees, so you never have to worry about surprise charges from the transfer station.
+As a locally owned company, we work with Jacksonville's waste infrastructure every day. Understanding how transfer stations and disposal facilities operate helps us provide accurate pricing, clear guidelines on what goes in your dumpster, and responsible disposal of the waste we collect. Our flat-rate pricing at $299, $349, and $399 for [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters includes disposal fees, so you never have to worry about surprise charges from the transfer station.
 `,
   },
   // Post 2: What Is Waste Diversion?
@@ -187,7 +187,7 @@ As a locally owned company, we work with Jacksonville's waste infrastructure eve
 
 Every renovation, cleanout, and construction project generates waste. But not all of that waste needs to end up in a landfill. Waste diversion is the practice of redirecting materials away from disposal in landfills or incinerators and toward more productive uses like recycling, composting, donation, and reuse. Whether you are a homeowner tackling a garage cleanout or a contractor managing a job site, understanding waste diversion can save you money, reduce your environmental impact, and help Jacksonville move toward its sustainability goals.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Defining Waste Diversion
 
@@ -322,7 +322,7 @@ Even if you are not required to track diversion, knowing your rate can help you 
 
 ## Book Your Dumpster Rental Today
 
-Ready to start your project? 904 Dumpster provides reliable, flat-rate dumpster rental across Jacksonville and Northeast Florida. Whether your project generates a small amount of debris or requires careful waste management planning, we can help. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for current rates.
+Ready to start your project? 904 Dumpster provides reliable, flat-rate dumpster rental across Jacksonville and Northeast Florida. Whether your project generates a small amount of debris or requires careful waste management planning, we can help. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for current rates.
 
 ## Frequently Asked Questions
 
@@ -367,7 +367,7 @@ Duval County and the surrounding area have multiple recycling and processing fac
 
 When you rent a dumpster, one of the most important things to understand is what type of waste you are dealing with. Different waste types have different disposal requirements, weight considerations, and pricing implications. Mixing the wrong materials can result in additional charges, rejected loads, or even environmental violations. This guide breaks down the main categories of waste you will encounter during residential and commercial projects, which dumpster size works best for each, and how 904 Dumpster handles different waste streams in Jacksonville.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## The Five Main Categories of Waste
 
@@ -510,13 +510,13 @@ Taking a few minutes to sort your waste before and during loading can save you m
 
 When our truck picks up your filled dumpster, the load is transported to an authorized disposal facility appropriate for the waste type. General mixed debris goes to the nearest transfer station, where it is weighed, inspected, and processed. Clean loads of recyclable materials like concrete or metal may be directed to specialized recycling facilities.
 
-Our flat-rate pricing at $275, $325, and $375 for [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters includes standard disposal. We keep things simple so you do not have to worry about where different materials end up. Just follow our loading guidelines, avoid prohibited items, and we handle the rest.
+Our flat-rate pricing at $299, $349, and $399 for [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters includes standard disposal. We keep things simple so you do not have to worry about where different materials end up. Just follow our loading guidelines, avoid prohibited items, and we handle the rest.
 
 To learn more about the disposal process, read our guide on [where does trash go after you throw it away](/blog/where-does-trash-go-after-you-throw-it-away).
 
 ## Book Your Dumpster Rental Today
 
-No matter what type of waste your project generates, 904 Dumpster has the right container and the local expertise to handle it. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. Check our [dumpster rental pricing page](/dumpster-rental-pricing-jacksonville) for current rates and availability.
+No matter what type of waste your project generates, 904 Dumpster has the right container and the local expertise to handle it. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Check our [dumpster rental pricing page](/dumpster-rental-pricing-jacksonville) for current rates and availability.
 
 ## Frequently Asked Questions
 
@@ -561,7 +561,7 @@ If you are uncertain about the volume or type of waste your project will generat
 
 Illegal dumping is a persistent problem in Jacksonville and across Northeast Florida. From mattresses tossed on the side of rural roads to construction debris piled in vacant lots, illegally dumped waste degrades neighborhoods, harms the environment, threatens public health, and costs taxpayers real money. Understanding the scope of the problem, its consequences, and the available solutions, including affordable dumpster rental, is an important step toward cleaner, healthier communities.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Is Illegal Dumping?
 
@@ -622,7 +622,7 @@ The items most frequently found at illegal dump sites in Jacksonville include:
 - **Household junk**: Mixed bags of household items, often from cleanouts or evictions.
 - **Electronics**: TVs, computers, and monitors that require special recycling.
 
-Many of these items can be legally and affordably disposed of through a dumpster rental. Our [10-yard dumpster](/10-yard-dumpster-rental) at $275 is often enough for a furniture cleanout, while a [15-yard](/15-yard-dumpster-rental) or [20-yard dumpster](/20-yard-dumpster-rental) handles larger renovation or cleanout projects.
+Many of these items can be legally and affordably disposed of through a dumpster rental. Our [10-yard dumpster](/10-yard-dumpster-rental) at $299 is often enough for a furniture cleanout, while a [15-yard](/15-yard-dumpster-rental) or [20-yard dumpster](/20-yard-dumpster-rental) handles larger renovation or cleanout projects.
 
 ## Florida Penalties for Illegal Dumping
 
@@ -635,7 +635,7 @@ Florida takes illegal dumping seriously, and the penalties reflect that. Under F
 
 Additionally, the City of Jacksonville has its own code enforcement provisions that allow fines and liens against properties where dumping occurs. Repeat offenders face escalating consequences.
 
-The irony is that the cost of legal disposal is almost always far less than the potential penalties for illegal dumping. A dumpster rental starting at $275 is a fraction of what a single illegal dumping conviction can cost in fines, legal fees, and court-ordered cleanup.
+The irony is that the cost of legal disposal is almost always far less than the potential penalties for illegal dumping. A dumpster rental starting at $299 is a fraction of what a single illegal dumping conviction can cost in fines, legal fees, and court-ordered cleanup.
 
 ## How to Report Illegal Dumping in Jacksonville
 
@@ -656,7 +656,7 @@ One of the most effective ways to combat illegal dumping is making legal disposa
 - **Lack of awareness**: Not knowing what legal options exist
 - **Inconvenience**: Not wanting to make multiple trips to a disposal facility
 
-Affordable, convenient dumpster rental directly addresses all three of these factors. When a homeowner can rent a [10-yard dumpster](/10-yard-dumpster-rental) for $275 and have it delivered to their driveway, there is no reason to load up a truck and dump debris in a vacant lot. When a contractor can get a [20-yard dumpster](/20-yard-dumpster-rental) to a job site for $375 with everything included, the financial incentive to cut corners disappears.
+Affordable, convenient dumpster rental directly addresses all three of these factors. When a homeowner can rent a [10-yard dumpster](/10-yard-dumpster-rental) for $299 and have it delivered to their driveway, there is no reason to load up a truck and dump debris in a vacant lot. When a contractor can get a [20-yard dumpster](/20-yard-dumpster-rental) to a job site for $399 with everything included, the financial incentive to cut corners disappears.
 
 At 904 Dumpster, our flat-rate pricing includes delivery, pickup, disposal, and a generous rental period. There are no hidden fees, no surprise charges, and no reason to look for shortcuts. Check our [pricing page](/dumpster-rental-pricing-jacksonville) for full details.
 
@@ -675,7 +675,7 @@ For more information about Jacksonville permitting and local regulations related
 
 ## Book Your Dumpster Rental and Dispose of Waste the Right Way
 
-Do not let the temptation to cut corners put you at risk of fines, criminal charges, or harming your community. 904 Dumpster makes legal waste disposal easy and affordable for every project. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. We deliver fast across Jacksonville and Northeast Florida.
+Do not let the temptation to cut corners put you at risk of fines, criminal charges, or harming your community. 904 Dumpster makes legal waste disposal easy and affordable for every project. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. We deliver fast across Jacksonville and Northeast Florida.
 
 ## Frequently Asked Questions
 
@@ -689,7 +689,7 @@ Yes. In Jacksonville, property owners can be held responsible for waste on their
 
 ### How much does it cost to legally dispose of common illegally dumped items?
 
-Legal disposal is far more affordable than most people assume. A dumpster rental from 904 Dumpster starts at $275 for a [10-yard container](/10-yard-dumpster-rental), which is enough to handle furniture, appliances, yard waste, and general junk from most cleanout projects. Compare that to potential fines of $1,000 to $5,000 and possible criminal charges for illegal dumping.
+Legal disposal is far more affordable than most people assume. A dumpster rental from 904 Dumpster starts at $299 for a [10-yard container](/10-yard-dumpster-rental), which is enough to handle furniture, appliances, yard waste, and general junk from most cleanout projects. Compare that to potential fines of $1,000 to $5,000 and possible criminal charges for illegal dumping.
 
 ### Why is construction debris so commonly dumped illegally?
 
@@ -720,7 +720,7 @@ Report dumping when you see it through 630-CITY or the MyJax app. Participate in
 
 Construction and demolition waste is one of the largest waste streams in the United States, generating hundreds of millions of tons annually. The good news is that the vast majority of C&D materials are recyclable. Concrete, metals, wood, asphalt, drywall, and many other common construction materials all have established recycling markets. For Jacksonville contractors, builders, and homeowners, understanding C&D recycling is both an environmental responsibility and a practical business decision that can reduce disposal costs and meet growing regulatory requirements.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Is C&D Waste?
 
@@ -881,13 +881,13 @@ For more contractor-specific guidance, check out our [construction dumpster rent
 We work with contractors and homeowners across Jacksonville on construction and demolition projects of all sizes. Our [construction dumpster rental](/construction-dumpster-rental) service includes:
 
 - **Flexible sizing**: [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters to match your project scope
-- **Flat-rate pricing**: $275, $325, and $375 with delivery, pickup, and disposal included
+- **Flat-rate pricing**: $299, $349, and $399 with delivery, pickup, and disposal included
 - **Fast turnaround**: Same-day or next-day delivery across Jacksonville and Northeast Florida
 - **Knowledgeable service**: We can advise on dumpster sizing, loading best practices, and waste type considerations
 
 ## Book Your Construction Dumpster Today
 
-Whether you are managing a small renovation or a large demolition project, 904 Dumpster delivers reliable, affordable service. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for current rates.
+Whether you are managing a small renovation or a large demolition project, 904 Dumpster delivers reliable, affordable service. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for current rates.
 
 ## Frequently Asked Questions
 
@@ -932,7 +932,7 @@ Yes. For larger projects that generate significant volumes of specific materials
 
 Renting a dumpster should be straightforward, but pricing in the waste industry can be surprisingly complicated. Different companies use different pricing models, and what looks like a great deal upfront can turn into an expensive surprise when the final bill arrives. Understanding how dumpster rental pricing works, what each model includes, and what to watch out for puts you in control and helps you choose the best value for your project.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We use flat-rate, all-inclusive pricing because we believe our customers deserve to know exactly what they will pay before they book. Our prices are $275 for a [10-yard dumpster](/10-yard-dumpster-rental), $325 for a [15-yard dumpster](/15-yard-dumpster-rental), and $375 for a [20-yard dumpster](/20-yard-dumpster-rental).
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We use flat-rate, all-inclusive pricing because we believe our customers deserve to know exactly what they will pay before they book. Our prices are $299 for a [10-yard dumpster](/10-yard-dumpster-rental), $349 for a [15-yard dumpster](/15-yard-dumpster-rental), and $399 for a [20-yard dumpster](/20-yard-dumpster-rental).
 
 ## The Three Main Pricing Models
 
@@ -959,7 +959,7 @@ Flat-rate pricing means you pay one price that covers everything: delivery, the 
 - May cost slightly more than the absolute minimum on a variable plan if your load is very light
 - Weight allowance may not cover extremely heavy loads (like a full container of concrete)
 
-This is the model 904 Dumpster uses. Our flat-rate prices of $275, $325, and $375 include everything for the vast majority of projects. Visit our [dumpster rental pricing page](/dumpster-rental-pricing-jacksonville) for full details.
+This is the model 904 Dumpster uses. Our flat-rate prices of $299, $349, and $399 include everything for the vast majority of projects. Visit our [dumpster rental pricing page](/dumpster-rental-pricing-jacksonville) for full details.
 
 ### 2. Variable (Base + Add-On) Pricing
 
@@ -1037,7 +1037,7 @@ When shopping for a dumpster rental in Jacksonville, use this checklist to make 
 
 ### Compare Total Cost, Not Base Price
 
-The company advertising a $199 dumpster rental may end up costing you $400 or more after add-on fees, while a company quoting $325 flat-rate may include everything with no surprises. Always calculate the total expected cost based on your project specifics.
+The company advertising a $199 dumpster rental may end up costing you $400 or more after add-on fees, while a company quoting $349 flat-rate may include everything with no surprises. Always calculate the total expected cost based on your project specifics.
 
 ### Example Comparison
 
@@ -1045,13 +1045,13 @@ Here is a realistic comparison for a kitchen renovation generating approximately
 
 | Cost Component | Company A (Variable) | Company B (Weight-Based) | 904 Dumpster (Flat-Rate) |
 |---|---|---|---|
-| Base/delivery price | $199 | $289 | $325 |
+| Base/delivery price | $199 | $289 | $349 |
 | Disposal fee | $85/ton x 3 = $255 | Included (2 tons) | Included |
 | Weight overage | N/A | 1 ton x $65 = $65 | Included |
 | Fuel surcharge | $45 | $35 | Included |
 | Environmental fee | $25 | $20 | Included |
 | Extended rental (3 extra days) | $15/day x 3 = $45 | $12/day x 3 = $36 | Included |
-| **Total** | **$569** | **$445** | **$325** |
+| **Total** | **$569** | **$445** | **$349** |
 
 This example illustrates why the lowest advertised price is rarely the lowest actual cost. Our flat-rate pricing eliminates the guesswork entirely.
 
@@ -1069,9 +1069,9 @@ Our pricing structure:
 
 | Dumpster Size | Flat-Rate Price | Best For |
 |---|---|---|
-| [10-Yard Dumpster](/10-yard-dumpster-rental) | $275 | Small cleanouts, single-room projects, yard work |
-| [15-Yard Dumpster](/15-yard-dumpster-rental) | $325 | Kitchen/bathroom renovations, garage cleanouts, moderate projects |
-| [20-Yard Dumpster](/20-yard-dumpster-rental) | $375 | Large renovations, roofing, construction, whole-house cleanouts |
+| [10-Yard Dumpster](/10-yard-dumpster-rental) | $299 | Small cleanouts, single-room projects, yard work |
+| [15-Yard Dumpster](/15-yard-dumpster-rental) | $349 | Kitchen/bathroom renovations, garage cleanouts, moderate projects |
+| [20-Yard Dumpster](/20-yard-dumpster-rental) | $399 | Large renovations, roofing, construction, whole-house cleanouts |
 
 For a comprehensive breakdown of what each size handles and how to choose, read our [complete dumpster size guide](/blog/dumpster-sizes-explained-complete-guide).
 
@@ -1102,7 +1102,7 @@ For an in-depth comparison of dumpster rental versus other disposal options, see
 
 ## Book Your Dumpster at a Fair, Transparent Price
 
-904 Dumpster believes in straightforward pricing with no surprises. What you see is what you pay. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598** for same-day or next-day delivery across Jacksonville and Northeast Florida. For detailed pricing information, visit our [pricing page](/dumpster-rental-pricing-jacksonville).
+904 Dumpster believes in straightforward pricing with no surprises. What you see is what you pay. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598** for same-day or next-day delivery across Jacksonville and Northeast Florida. For detailed pricing information, visit our [pricing page](/dumpster-rental-pricing-jacksonville).
 
 ## Frequently Asked Questions
 
@@ -1116,7 +1116,7 @@ Weight allowances vary by company and dumpster size. Common ranges are 1 to 2 to
 
 ### Is it cheaper to haul waste myself or rent a dumpster?
 
-For most projects, a dumpster rental is more cost-effective and convenient than self-hauling. Consider the costs of truck rental, fuel, your time, multiple trips to the landfill, and landfill tipping fees (which are charged per ton). A dumpster rental starting at $275 covers everything in one transaction. Our [cost comparison guide](/blog/dumpster-rental-cost-complete-pricing-guide) breaks this down in detail.
+For most projects, a dumpster rental is more cost-effective and convenient than self-hauling. Consider the costs of truck rental, fuel, your time, multiple trips to the landfill, and landfill tipping fees (which are charged per ton). A dumpster rental starting at $299 covers everything in one transaction. Our [cost comparison guide](/blog/dumpster-rental-cost-complete-pricing-guide) breaks this down in detail.
 
 ### Can I negotiate dumpster rental prices?
 

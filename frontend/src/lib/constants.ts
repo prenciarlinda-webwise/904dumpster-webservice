@@ -12,6 +12,7 @@ export const BUSINESS = {
     weekend: 'Sat 8AM-5PM',
     sunday: 'Closed',
   },
+  bookingUrl: 'https://app.icans.ai/customer-portal/904dumpster/book/',
 } as const
 
 // Google Reviews - update this when review count changes

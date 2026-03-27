@@ -37,9 +37,9 @@ function getContextualInterlinks(post: BlogPost, allPosts: BlogPost[]): { set1: 
 
   // Pool of service cards
   const serviceCards: InterlinkCard[] = [
-    { title: '10 Yard Dumpster', description: 'From $275 — Small cleanouts, garage projects', href: '/10-yard-dumpster-rental', label: 'Dumpster Size' },
-    { title: '15 Yard Dumpster', description: 'From $325 — Renovations, roofing, remodels', href: '/15-yard-dumpster-rental', label: 'Dumpster Size' },
-    { title: '20 Yard Dumpster', description: 'From $375 — Large renovations, construction', href: '/20-yard-dumpster-rental', label: 'Most Popular' },
+    { title: '10 Yard Dumpster', description: 'From $299 — Small cleanouts, garage projects', href: '/10-yard-dumpster-rental', label: 'Dumpster Size' },
+    { title: '15 Yard Dumpster', description: 'From $349 — Renovations, roofing, remodels', href: '/15-yard-dumpster-rental', label: 'Dumpster Size' },
+    { title: '20 Yard Dumpster', description: 'From $399 — Large renovations, construction', href: '/20-yard-dumpster-rental', label: 'Most Popular' },
     { title: 'Junk Removal', description: 'We load it for you — Full-service hauling', href: '/junk-removal-jacksonville', label: 'Service' },
     { title: 'Construction Dumpster', description: 'Job site waste — Contractors welcome', href: '/construction-dumpster-rental', label: 'Service' },
     { title: 'Concrete Disposal', description: 'Heavy materials — Brick, block, asphalt', href: '/concrete-disposal-dumpster', label: 'Service' },
@@ -727,10 +727,10 @@ export default async function BlogPostPage({
                 <div className="bg-primary rounded-2xl p-6 text-white">
                   <h3 className="text-xl font-bold text-white mb-3">Book Online Now</h3>
                   <p className="text-white/80 text-sm mb-4">
-                    Dumpster rentals from $275. Junk removal also available. Same-day delivery.
+                    Dumpster rentals from $299. Junk removal also available. Same-day delivery.
                   </p>
                   <a
-                    href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                    href="https://app.icans.ai/customer-portal/904dumpster/book/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2 bg-white text-primary font-bold py-3 px-6 rounded-xl hover:bg-secondary hover:text-white transition-all w-full mb-3"
@@ -759,7 +759,7 @@ export default async function BlogPostPage({
                       title="10 Yard Dumpster Rental"
                     >
                       <div className="font-bold text-secondary group-hover:text-primary transition-colors">10 Yard Dumpster</div>
-                      <div className="text-sm text-gray-500">Starting at $275 &bull; Small cleanouts</div>
+                      <div className="text-sm text-gray-500">Starting at $299 &bull; Small cleanouts</div>
                     </Link>
                     <Link
                       href="/15-yard-dumpster-rental"
@@ -767,7 +767,7 @@ export default async function BlogPostPage({
                       title="15 Yard Dumpster Rental"
                     >
                       <div className="font-bold text-secondary group-hover:text-primary transition-colors">15 Yard Dumpster</div>
-                      <div className="text-sm text-gray-500">Starting at $325 &bull; Mid-size projects</div>
+                      <div className="text-sm text-gray-500">Starting at $349 &bull; Mid-size projects</div>
                     </Link>
                     <Link
                       href="/20-yard-dumpster-rental"
@@ -775,7 +775,7 @@ export default async function BlogPostPage({
                       title="20 Yard Dumpster Rental"
                     >
                       <div className="font-bold text-secondary group-hover:text-primary transition-colors">20 Yard Dumpster</div>
-                      <div className="text-sm text-gray-500">Starting at $375 &bull; Large renovations</div>
+                      <div className="text-sm text-gray-500">Starting at $399 &bull; Large renovations</div>
                     </Link>
                     <Link
                       href="/junk-removal-jacksonville"

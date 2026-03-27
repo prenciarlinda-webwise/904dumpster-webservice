@@ -148,7 +148,7 @@ Florida weather adds a unique challenge to garage cleanouts. The garage itself c
 
 The total cost of a garage cleanout in Jacksonville depends on how you approach it. Here is a typical breakdown for a DIY cleanout with dumpster rental:
 
-- **10-yard dumpster rental:** $275 (includes delivery, pickup, and disposal)
+- **10-yard dumpster rental:** $299 (includes delivery, pickup, and disposal)
 - **Cleaning supplies:** $20-50
 - **Storage bins and shelving:** $100-300 (optional, for reorganizing)
 - **Donation pickup:** Free from most Jacksonville charities
@@ -160,7 +160,7 @@ Compare that to hiring a full-service [junk removal company](/junk-removal-jacks
 
 ### How much does it cost to rent a dumpster for a garage cleanout in Jacksonville?
 
-A 10-yard dumpster from 904 Dumpster costs $275 and includes delivery, pickup, disposal fees, and a 5-day rental period. This is enough for most standard garage cleanouts. If your garage is extremely full or you are cleaning out additional areas, a 15-yard dumpster at $325 provides extra capacity. There are no hidden fees or surprise charges.
+A 10-yard dumpster from 904 Dumpster costs $299 and includes delivery, pickup, disposal fees, and a 5-day rental period. This is enough for most standard garage cleanouts. If your garage is extremely full or you are cleaning out additional areas, a 15-yard dumpster at $349 provides extra capacity. There are no hidden fees or surprise charges.
 
 ### Can I put old furniture in a dumpster?
 
@@ -190,7 +190,7 @@ Late fall through early spring, roughly November through March, offers the most 
     slug: 'dumpster-rental-cost-ponte-vedra-fl',
     title: 'How Much Does a Dumpster Cost in Ponte Vedra FL',
     metaTitle: 'Dumpster Rental Cost Ponte Vedra FL | 2026 Pricing Guide',
-    metaDescription: 'Dumpster rental prices in Ponte Vedra FL start at $275. Flat-rate pricing for Ponte Vedra Beach, Nocatee, and TPC Sawgrass areas. No hidden fees. Call (904) 240-5598.',
+    metaDescription: 'Dumpster rental prices in Ponte Vedra FL start at $299. Flat-rate pricing for Ponte Vedra Beach, Nocatee, and TPC Sawgrass areas. No hidden fees. Call (904) 240-5598.',
     excerpt: 'Complete pricing guide for dumpster rentals in Ponte Vedra FL, covering Ponte Vedra Beach, Nocatee, and St. Johns County with flat-rate pricing and no hidden fees.',
     category: 'cost-savings',
     author: '904 Dumpster',
@@ -202,7 +202,7 @@ Late fall through early spring, roughly November through March, offers the most 
     content: `
 ## Dumpster Rental Pricing in Ponte Vedra FL
 
-If you need a [dumpster rental](/dumpster-rental-ponte-vedra-fl) in Ponte Vedra FL, costs range from $275 to $375 depending on the container size, with flat-rate pricing that includes delivery, pickup, disposal, and a 5-day rental period. 904 Dumpster provides straightforward pricing with no hidden fees for Ponte Vedra residents throughout zip codes 32081 and 32082, whether you are renovating a home near Ponte Vedra Beach, clearing out a property in Nocatee, or managing a construction project in the TPC Sawgrass area.
+If you need a [dumpster rental](/dumpster-rental-ponte-vedra-fl) in Ponte Vedra FL, costs range from $299 to $399 depending on the container size, with flat-rate pricing that includes delivery, pickup, disposal, and a 5-day rental period. 904 Dumpster provides straightforward pricing with no hidden fees for Ponte Vedra residents throughout zip codes 32081 and 32082, whether you are renovating a home near Ponte Vedra Beach, clearing out a property in Nocatee, or managing a construction project in the TPC Sawgrass area.
 
 Ponte Vedra is one of the most desirable communities in Northeast Florida, and homeowners here frequently need dumpster rentals for renovation projects, estate cleanouts, landscaping overhauls, and new construction debris. Understanding dumpster rental costs upfront helps you budget accurately and avoid the surprise charges that plague customers who rent from national brokers or companies that advertise low base prices but tack on fees for fuel, disposal, environmental charges, and overage penalties.
 
@@ -212,15 +212,15 @@ This guide covers everything Ponte Vedra residents need to know about dumpster r
 
 Here are the current flat-rate prices for dumpster rentals in Ponte Vedra FL from 904 Dumpster:
 
-### 10-Yard Dumpster - $275
+### 10-Yard Dumpster - $299
 
 Our [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds up to 1.5 tons of material. This is the ideal size for small to medium projects like single-room renovations, garage cleanouts, deck removals, and small landscaping jobs. The compact footprint fits easily in Ponte Vedra driveways, including the narrower driveways found in some Nocatee neighborhoods.
 
-### 15-Yard Dumpster - $325
+### 15-Yard Dumpster - $349
 
 The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 4.5 feet tall and holds up to 2 tons. This is our most popular size for Ponte Vedra homeowners tackling kitchen remodels, bathroom renovations, roofing projects, and multi-room cleanouts. It provides a solid step up in capacity without requiring significantly more driveway space.
 
-### 20-Yard Dumpster - $375
+### 20-Yard Dumpster - $399
 
 Our largest container, the [20-yard dumpster](/20-yard-dumpster-rental), measures 14 feet long by 7.5 feet wide by 5.8 feet tall and holds up to 2 tons. This size handles whole-house renovations, major construction projects, estate cleanouts, and large-scale demolition debris. Contractors working on new builds and major remodels throughout Ponte Vedra frequently use this size.
 
@@ -332,14 +332,14 @@ Even with straightforward pricing, there are ways to get the most value from you
 
 | Project Type | Recommended Size | Price |
 |---|---|---|
-| Garage cleanout | 10-yard | $275 |
-| Single bathroom remodel | 10-yard | $275 |
-| Kitchen renovation | 15-yard | $325 |
-| Roofing tear-off (up to 30 squares) | 15-yard | $325 |
-| Whole-house cleanout | 20-yard | $375 |
-| Major renovation | 20-yard | $375 |
-| New construction debris | 15 or 20-yard | $325-$375 |
-| Landscaping overhaul | 10 or 15-yard | $275-$325 |
+| Garage cleanout | 10-yard | $299 |
+| Single bathroom remodel | 10-yard | $299 |
+| Kitchen renovation | 15-yard | $349 |
+| Roofing tear-off (up to 30 squares) | 15-yard | $349 |
+| Whole-house cleanout | 20-yard | $399 |
+| Major renovation | 20-yard | $399 |
+| New construction debris | 15 or 20-yard | $349-$399 |
+| Landscaping overhaul | 10 or 15-yard | $299-$349 |
 
 Still unsure which size fits your project? Our [guide to choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) covers dozens of project types with specific recommendations.
 
@@ -486,9 +486,9 @@ Curbside pickup works well for routine yard maintenance, but many landscaping pr
 
 The right dumpster size depends on the scope of your landscaping project. Here is a general guide based on common Northeast Florida yard projects:
 
-- **Small yard cleanup or single tree trimming:** A [10-yard dumpster](/10-yard-dumpster-rental) at $275 handles moderate amounts of branches, fronds, and plant debris from routine seasonal cleanups.
-- **Major landscaping renovation or multiple tree removal:** A [15-yard dumpster](/15-yard-dumpster-rental) at $325 provides the capacity needed for landscape overhauls, large trimming projects, and clearing overgrown yards.
-- **Property clearing, storm cleanup, or lot preparation:** A [20-yard dumpster](/20-yard-dumpster-rental) at $375 is the right choice for large-scale projects that generate significant volumes of debris.
+- **Small yard cleanup or single tree trimming:** A [10-yard dumpster](/10-yard-dumpster-rental) at $299 handles moderate amounts of branches, fronds, and plant debris from routine seasonal cleanups.
+- **Major landscaping renovation or multiple tree removal:** A [15-yard dumpster](/15-yard-dumpster-rental) at $349 provides the capacity needed for landscape overhauls, large trimming projects, and clearing overgrown yards.
+- **Property clearing, storm cleanup, or lot preparation:** A [20-yard dumpster](/20-yard-dumpster-rental) at $399 is the right choice for large-scale projects that generate significant volumes of debris.
 
 > REVIEW: "Fast and efficient service. Excellent price will use again highly recommended" - Sarah Phillips, Google Review
 
@@ -603,7 +603,7 @@ Yes, but with weight limitations in mind. Dirt and sod are extremely heavy, with
 
 ### How much does a yard waste dumpster cost in Jacksonville?
 
-Yard waste dumpster rentals from 904 Dumpster start at $275 for a 10-yard container, $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental period. These same flat rates apply whether you are filling the dumpster with yard waste, construction debris, household junk, or any combination of accepted materials.
+Yard waste dumpster rentals from 904 Dumpster start at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental period. These same flat rates apply whether you are filling the dumpster with yard waste, construction debris, household junk, or any combination of accepted materials.
 
 ### Do I need a separate dumpster for yard waste and construction debris?
 
@@ -705,7 +705,7 @@ Educate your crews on prohibited materials to avoid contamination issues. For de
 
 Choosing the right dumpster size for your construction project directly impacts productivity and cost. Here are recommendations based on common contractor project types in the Jacksonville area.
 
-### 10-Yard Dumpster ($275)
+### 10-Yard Dumpster ($299)
 
 Best for smaller construction tasks and tight jobsites. The [10-yard container](/10-yard-dumpster-rental) works well for:
 
@@ -715,7 +715,7 @@ Best for smaller construction tasks and tight jobsites. The [10-yard container](
 - Punch-out and final cleanup on smaller projects
 - Jobsites with very limited space for a container
 
-### 15-Yard Dumpster ($325)
+### 15-Yard Dumpster ($349)
 
 Our most popular contractor size. The [15-yard container](/15-yard-dumpster-rental) handles:
 
@@ -725,7 +725,7 @@ Our most popular contractor size. The [15-yard container](/15-yard-dumpster-rent
 - Window and siding replacement jobs
 - Medium demolition projects
 
-### 20-Yard Dumpster ($375)
+### 20-Yard Dumpster ($399)
 
 The workhorse for major construction projects. The [20-yard container](/20-yard-dumpster-rental) is built for:
 
@@ -787,7 +787,7 @@ Contractors who work with us regularly have direct contact with our team. Many t
 
 ### Price Transparency
 
-National brokers often advertise low base prices but add fees for fuel, environmental charges, delivery, pickup, and disposal. By the time the final bill arrives, the "low price" has ballooned significantly. Our pricing is flat-rate, all-inclusive, and the same for every customer. When we tell you a 15-yard dumpster is $325, that is exactly what you pay. No surprises on the invoice.
+National brokers often advertise low base prices but add fees for fuel, environmental charges, delivery, pickup, and disposal. By the time the final bill arrives, the "low price" has ballooned significantly. Our pricing is flat-rate, all-inclusive, and the same for every customer. When we tell you a 15-yard dumpster is $349, that is exactly what you pay. No surprises on the invoice.
 
 ## Weight Limits and Construction Debris
 
@@ -860,7 +860,7 @@ Street placement is possible in some Jacksonville locations, depending on local 
     slug: 'dumpster-rental-cost-atlantic-beach-fl',
     title: 'How Much Does a Dumpster Cost in Atlantic Beach FL',
     metaTitle: 'Dumpster Rental Cost Atlantic Beach FL | 2026 Pricing Guide',
-    metaDescription: 'Dumpster rental in Atlantic Beach FL starts at $275 with flat-rate pricing. Includes delivery, pickup, and disposal. No hidden fees. Call 904 Dumpster at (904) 240-5598.',
+    metaDescription: 'Dumpster rental in Atlantic Beach FL starts at $299 with flat-rate pricing. Includes delivery, pickup, and disposal. No hidden fees. Call 904 Dumpster at (904) 240-5598.',
     excerpt: 'Complete dumpster rental pricing guide for Atlantic Beach FL, covering beach community considerations, narrow driveway tips, and flat-rate costs for every container size.',
     category: 'cost-savings',
     author: '904 Dumpster',
@@ -872,7 +872,7 @@ Street placement is possible in some Jacksonville locations, depending on local 
     content: `
 ## Dumpster Rental Pricing in Atlantic Beach FL
 
-If you need a [dumpster rental](/dumpster-rental-atlantic-beach-fl) in Atlantic Beach FL, costs range from $275 to $375 depending on the container size, with every price including delivery, pickup, disposal fees, and a 5-day rental period. 904 Dumpster provides flat-rate pricing to Atlantic Beach residents and contractors throughout zip code 32233, from the oceanfront homes along Atlantic Boulevard to the neighborhoods around Atlantic Beach Town Center and the Selva Marina area.
+If you need a [dumpster rental](/dumpster-rental-atlantic-beach-fl) in Atlantic Beach FL, costs range from $299 to $399 depending on the container size, with every price including delivery, pickup, disposal fees, and a 5-day rental period. 904 Dumpster provides flat-rate pricing to Atlantic Beach residents and contractors throughout zip code 32233, from the oceanfront homes along Atlantic Boulevard to the neighborhoods around Atlantic Beach Town Center and the Selva Marina area.
 
 Atlantic Beach is a small but vibrant beach community with roughly 14,000 residents, charming bungalows, mid-century homes, and an increasing number of modern renovations transforming the town's residential landscape. The combination of older homes needing updates, salt air accelerating exterior deterioration, and the ongoing trend of teardown-and-rebuild projects means Atlantic Beach homeowners and contractors need reliable dumpster rental service regularly.
 
@@ -882,19 +882,19 @@ This pricing guide covers everything Atlantic Beach residents need to know about
 
 904 Dumpster offers three roll-off container sizes for Atlantic Beach residents. Each price is all-inclusive with no hidden fees.
 
-### 10-Yard Dumpster - $275
+### 10-Yard Dumpster - $299
 
 The [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds up to 1.5 tons of material. This compact container is particularly well-suited for Atlantic Beach properties because it fits in smaller driveways and takes up minimal space on the street if driveway placement is not possible.
 
 **Best for:** Garage cleanouts, single-room renovations, small bathroom remodels, deck removals, and seasonal decluttering projects. Read our [visual guide to what fits in a 10-yard dumpster](/blog/what-fits-in-a-10-yard-dumpster-visual-guide) to see if this size works for your project.
 
-### 15-Yard Dumpster - $325
+### 15-Yard Dumpster - $349
 
 The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 4.5 feet tall and holds up to 2 tons. This mid-size container handles most home renovation projects that Atlantic Beach homeowners undertake.
 
 **Best for:** Kitchen remodels, roof replacements, multi-room renovations, whole-house cleanouts, and medium-sized construction projects. This is the most popular size for Atlantic Beach renovation work.
 
-### 20-Yard Dumpster - $375
+### 20-Yard Dumpster - $399
 
 The [20-yard dumpster](/20-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 5.8 feet tall and holds up to 2 tons. This is the largest container we offer and handles major projects with ease.
 
@@ -1008,16 +1008,16 @@ Based on our experience serving Atlantic Beach, here are the most common project
 
 | Project | Common Size | Price |
 |---|---|---|
-| Beach cottage bathroom remodel | 10-yard | $275 |
-| Garage or carport cleanout | 10-yard | $275 |
-| Kitchen renovation | 15-yard | $325 |
-| Roof replacement (salt damage) | 15-yard | $325 |
-| Whole-house renovation | 20-yard | $375 |
-| Deck/porch tear-out and rebuild | 10 or 15-yard | $275-$325 |
-| Estate cleanout | 15 or 20-yard | $325-$375 |
-| Teardown/new build | 20-yard | $375 |
-| Screen enclosure replacement | 10-yard | $275 |
-| Impact window installation | 10-yard | $275 |
+| Beach cottage bathroom remodel | 10-yard | $299 |
+| Garage or carport cleanout | 10-yard | $299 |
+| Kitchen renovation | 15-yard | $349 |
+| Roof replacement (salt damage) | 15-yard | $349 |
+| Whole-house renovation | 20-yard | $399 |
+| Deck/porch tear-out and rebuild | 10 or 15-yard | $299-$349 |
+| Estate cleanout | 15 or 20-yard | $349-$399 |
+| Teardown/new build | 20-yard | $399 |
+| Screen enclosure replacement | 10-yard | $299 |
+| Impact window installation | 10-yard | $299 |
 
 For more detailed sizing recommendations, check our [dumpster size guide](/dumpster-size-guide) or call us at **(904) 240-5598** to discuss your specific project.
 

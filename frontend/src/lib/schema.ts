@@ -1,6 +1,6 @@
 import { BUSINESS, REVIEWS } from './constants'
 import { LOCATIONS } from '@/data/locations'
-import pricing from '@/data/pricing.json'
+import { defaultPricing, priceValidUntil } from '@/data/pricing-helpers'
 
 // Types for schema generation
 interface GeoCoordinates {
@@ -205,8 +205,8 @@ export function generateLocalBusinessSchema() {
 
 // Generate Product schema for dumpster size pages (Enhanced with AggregateRating and isRelatedTo)
 export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
-  const dumpsterKey = `${size}-yard` as keyof typeof pricing.dumpsters
-  const dumpsterData = pricing.dumpsters[dumpsterKey]
+  const dumpsterKey = `${size}-yard` as keyof typeof defaultPricing.dumpsters
+  const dumpsterData = defaultPricing.dumpsters[dumpsterKey]
   const dims = dumpsterData.dimensions
 
   // Generate related products (other dumpster sizes)
@@ -241,7 +241,7 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
       '@type': 'Offer',
       price: dumpsterData.basePrice.toString(),
       priceCurrency: 'USD',
-      priceValidUntil: pricing.priceValidUntil,
+      priceValidUntil: priceValidUntil,
       availability: 'https://schema.org/InStock',
       seller: {
         '@type': 'Organization',
@@ -284,8 +284,8 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
 
 // Generate HowTo schema for dumpster rental process on size pages
 export function generateDumpsterHowToSchema(size: '10' | '15' | '20') {
-  const dumpsterKey = `${size}-yard` as keyof typeof pricing.dumpsters
-  const dumpsterData = pricing.dumpsters[dumpsterKey]
+  const dumpsterKey = `${size}-yard` as keyof typeof defaultPricing.dumpsters
+  const dumpsterData = defaultPricing.dumpsters[dumpsterKey]
 
   return {
     '@context': 'https://schema.org',
@@ -317,7 +317,7 @@ export function generateDumpsterHowToSchema(size: '10' | '15' | '20') {
         '@type': 'HowToStep',
         position: 3,
         name: 'Fill Your Dumpster',
-        text: `You have ${dumpsterData.rentalDays} days to load debris at your own pace. Use the rear swing door for heavy items or toss lighter debris over the walls. Keep debris below the top edge. Extensions available at $${dumpsterData.additionalDayRate}/day.`,
+        text: `You have ${dumpsterData.rentalDays} days to load debris at your own pace. Use the rear swing door for heavy items or toss lighter debris over the walls. Keep debris below the top edge. Extensions available at $${defaultPricing.extraDayRate}/day.`,
         url: 'https://www.904dumpster.com/' + size + '-yard-dumpster-rental',
       },
       {
@@ -342,7 +342,7 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
     url: 'https://www.904dumpster.com',
     telephone: '+19042405598',
     email: BUSINESS.email,
-    priceRange: '$275-$375',
+    priceRange: '$299-$649',
     foundingDate: '2016',
     address: {
       '@type': 'PostalAddress',
@@ -746,9 +746,9 @@ export function generatePricingItemListSchema() {
           },
           offers: {
             '@type': 'Offer',
-            price: pricing.dumpsters['10-yard'].basePrice,
+            price: defaultPricing.dumpsters['10-yard'].basePrice,
             priceCurrency: 'USD',
-            priceValidUntil: pricing.priceValidUntil,
+            priceValidUntil: priceValidUntil,
             availability: 'https://schema.org/InStock',
           },
         },
@@ -774,9 +774,9 @@ export function generatePricingItemListSchema() {
           },
           offers: {
             '@type': 'Offer',
-            price: pricing.dumpsters['15-yard'].basePrice,
+            price: defaultPricing.dumpsters['15-yard'].basePrice,
             priceCurrency: 'USD',
-            priceValidUntil: pricing.priceValidUntil,
+            priceValidUntil: priceValidUntil,
             availability: 'https://schema.org/InStock',
           },
         },
@@ -802,9 +802,9 @@ export function generatePricingItemListSchema() {
           },
           offers: {
             '@type': 'Offer',
-            price: pricing.dumpsters['20-yard'].basePrice,
+            price: defaultPricing.dumpsters['20-yard'].basePrice,
             priceCurrency: 'USD',
-            priceValidUntil: pricing.priceValidUntil,
+            priceValidUntil: priceValidUntil,
             availability: 'https://schema.org/InStock',
           },
         },

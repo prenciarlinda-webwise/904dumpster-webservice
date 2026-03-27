@@ -28,7 +28,7 @@ import {
   generateFAQSchema,
   generateBreadcrumbSchema,
 } from '@/lib/schema'
-import pricing from '@/data/pricing.json'
+import { defaultPricing, getCountyPricing, getCountyKey } from '@/data/pricing-helpers'
 
 // Generate static params for all pages (SSG)
 export async function generateStaticParams() {
@@ -284,14 +284,14 @@ function DumpsterSizePage({
   size: '10' | '15' | '20'
   service: typeof SERVICES[0]
 }) {
-  const dumpsterKey = `${size}-yard` as keyof typeof pricing.dumpsters
-  const dumpster = pricing.dumpsters[dumpsterKey]
+  const dumpsterKey = `${size}-yard` as keyof typeof defaultPricing.dumpsters
+  const dumpster = defaultPricing.dumpsters[dumpsterKey]
   const dims = dumpster.dimensions
 
   const allSizes = [
-    { size: '10', price: pricing.dumpsters['10-yard'].basePrice, tons: pricing.dumpsters['10-yard'].tonnageIncluded, loads: 3 },
-    { size: '15', price: pricing.dumpsters['15-yard'].basePrice, tons: pricing.dumpsters['15-yard'].tonnageIncluded, loads: 5 },
-    { size: '20', price: pricing.dumpsters['20-yard'].basePrice, tons: pricing.dumpsters['20-yard'].tonnageIncluded, loads: 7 },
+    { size: '10', price: defaultPricing.dumpsters['10-yard'].basePrice, tons: defaultPricing.dumpsters['10-yard'].tonnageIncluded, loads: 3 },
+    { size: '15', price: defaultPricing.dumpsters['15-yard'].basePrice, tons: defaultPricing.dumpsters['15-yard'].tonnageIncluded, loads: 5 },
+    { size: '20', price: defaultPricing.dumpsters['20-yard'].basePrice, tons: defaultPricing.dumpsters['20-yard'].tonnageIncluded, loads: 7 },
   ]
 
   return (
@@ -318,7 +318,7 @@ function DumpsterSizePage({
               <p className="text-xl text-white/70 mb-8">{service.description}</p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                  href="https://app.icans.ai/customer-portal/904dumpster/book/"
                   target="_blank"
                   rel="noopener noreferrer"
                   title="Book a Dumpster Rental Online"
@@ -394,7 +394,7 @@ function DumpsterSizePage({
               </div>
 
               <a
-                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Book a Dumpster Rental Online"
@@ -468,7 +468,7 @@ function DumpsterSizePage({
               To visualize 10 cubic yards, imagine a space roughly 12 feet long, 7.5 feet wide, and 3.6 feet high,about the footprint of a compact SUV. The container sits low to the ground, making it easy to toss items over the sides or walk debris in through the rear swing door. Its compact profile means it fits in most standard driveways without blocking sidewalks or streets.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              At 904 Dumpster, we rent 10 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$275</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 1.5 tons. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
+              At 904 Dumpster, we rent 10 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$299</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 1.5 tons. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
             </p>
           </div>
         </section>
@@ -541,7 +541,7 @@ function DumpsterSizePage({
               10 Yard Dumpster Cost in Jacksonville
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster, which includes delivery, a 5-day rental period, pickup, and disposal of up to 1.5 tons. Most competitors in the Jacksonville area charge between $350 and $400 for the same size container, making 904 Dumpster $75-$125 cheaper on average with no hidden fees.
+              A 10 yard dumpster rental in Jacksonville, FL costs $299 at 904 Dumpster, which includes delivery, a 5-day rental period, pickup, and disposal of up to 1.5 tons. Most competitors in the Jacksonville area charge between $350 and $400 for the same size container, making 904 Dumpster $75-$125 cheaper on average with no hidden fees.
             </p>
 
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg mb-8">
@@ -556,7 +556,7 @@ function DumpsterSizePage({
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
-                    <td className="py-4 px-6 font-bold text-primary text-xl">$275</td>
+                    <td className="py-4 px-6 font-bold text-primary text-xl">$299</td>
                     <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
@@ -594,10 +594,10 @@ function DumpsterSizePage({
             </div>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Many national dumpster brokers advertise low base rates of $199-$249 but add fuel surcharges ($25-$50), environmental fees ($15-$30), and per-ton disposal charges that can double your final bill. With 904 Dumpster, the $275 price is the price you pay,period. Based on our 10 years of serving Jacksonville homeowners, this transparent pricing saves customers an average of $75-$125 compared to competitors who stack hidden fees.
+              Many national dumpster brokers advertise low base rates of $199-$249 but add fuel surcharges ($25-$50), environmental fees ($15-$30), and per-ton disposal charges that can double your final bill. With 904 Dumpster, the $299 price is the price you pay,period. Based on our 10 years of serving Jacksonville homeowners, this transparent pricing saves customers an average of $75-$125 compared to competitors who stack hidden fees.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              <strong className="text-secondary">Dumpster rental vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 10 yard dumpster holds 3 pickup truck loads, meaning you would spend $150-$225 in dump fees alone,not counting gas, vehicle wear, and 4-6 hours of driving and unloading. At $275 all-in with delivery to your driveway, renting a dumpster is the smarter choice for most Jacksonville homeowners.
+              <strong className="text-secondary">Dumpster rental vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 10 yard dumpster holds 3 pickup truck loads, meaning you would spend $150-$225 in dump fees alone,not counting gas, vehicle wear, and 4-6 hours of driving and unloading. At $299 all-in with delivery to your driveway, renting a dumpster is the smarter choice for most Jacksonville homeowners.
             </p>
             <div className="mt-6">
               <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all" title="Dumpster Rental Pricing Jacksonville">
@@ -736,7 +736,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">Book Online or Call</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline" title="Book a Dumpster Rental Online">Book online 24/7</a> through our booking system or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">(904) 240-5598</a> during business hours. Tell us your preferred delivery date and placement location (driveway, yard, or street). Same-day delivery is available when you order before noon.
+                    <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline" title="Book a Dumpster Rental Online">Book online 24/7</a> through our booking system or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">(904) 240-5598</a> during business hours. Tell us your preferred delivery date and placement location (driveway, yard, or street). Same-day delivery is available when you order before noon.
                   </p>
                 </div>
               </div>
@@ -789,7 +789,7 @@ function DumpsterSizePage({
               When to Choose a 10 Yard vs. 15 Yard Dumpster
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              The 10 yard dumpster is the right choice when your project is limited to a single room, one area of the home, or a moderate amount of debris. It is the most cost-effective option for garage cleanouts, single bathroom remodels, and small landscaping projects. If your project involves more than one room, heavy materials like roofing shingles or concrete, or a significant volume of bulky furniture, our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link> at $325 offers 50% more capacity for only $50 more.
+              The 10 yard dumpster is the right choice when your project is limited to a single room, one area of the home, or a moderate amount of debris. It is the most cost-effective option for garage cleanouts, single bathroom remodels, and small landscaping projects. If your project involves more than one room, heavy materials like roofing shingles or concrete, or a significant volume of bulky furniture, our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link> at $349 offers 50% more capacity for only $50 more.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
               <strong className="text-secondary">Our rule of thumb after 2,000+ deliveries:</strong> If you&apos;re unsure between two sizes, it is almost always better to size up. Ordering a second dumpster because you ran out of space costs more than the $50 difference between sizes. When in doubt, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> and describe your project,our team can recommend the right size based on years of experience with Jacksonville homes.
@@ -812,7 +812,7 @@ function DumpsterSizePage({
               To visualize 20 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 5.8 feet high,roughly the length of a mid-size sedan with walls just under 6 feet tall. Despite being our largest size, the 20 yard dumpster shares the same footprint as our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link>,the extra capacity comes from the taller sidewalls, not a wider or longer frame. This means it fits in the same driveway space while holding 33% more debris.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              At 904 Dumpster, we rent 20 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$375</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). At just $18.75 per cubic yard, the 20 yard offers the best value per cubic yard of any size we carry. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
+              At 904 Dumpster, we rent 20 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$399</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). At just $18.75 per cubic yard, the 20 yard offers the best value per cubic yard of any size we carry. As a locally owned company serving the 904 area since 2016, we deliver with driveway protection boards on every drop-off and offer same-day delivery when you book before noon.
             </p>
           </div>
         </section>
@@ -895,9 +895,9 @@ function DumpsterSizePage({
               20 Yard Dumpster Rental Cost in Jacksonville
             </h2>
 
-            <h3 className="text-2xl font-bold text-secondary mb-4">What&apos;s Included in the $375 Flat Rate</h3>
+            <h3 className="text-2xl font-bold text-secondary mb-4">What&apos;s Included in the $399 Flat Rate</h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 2 tons (4,000 lbs). At $18.75 per cubic yard, the 20 yard is the most cost-efficient size for large projects,compared to $27.50/yard for the 10-yard and $21.67/yard for the 15-yard.
+              A 20 yard dumpster rental in Jacksonville, FL costs $399 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 2 tons (4,000 lbs). At $18.75 per cubic yard, the 20 yard is the most cost-efficient size for large projects,compared to $27.50/yard for the 10-yard and $21.67/yard for the 15-yard.
             </p>
 
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg mb-8">
@@ -912,7 +912,7 @@ function DumpsterSizePage({
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
-                    <td className="py-4 px-6 font-bold text-primary text-xl">$375</td>
+                    <td className="py-4 px-6 font-bold text-primary text-xl">$399</td>
                     <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
@@ -951,10 +951,10 @@ function DumpsterSizePage({
 
             <h3 className="text-2xl font-bold text-secondary mb-4">904 Dumpster vs. National Providers</h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              National dumpster brokers like Budget Dumpster and Waste Management advertise 20 yard rentals starting at $350-$450 in the Jacksonville market,but the final invoice often tells a different story. After fuel surcharges ($25-$50), environmental fees ($15-$30), and administrative charges ($20-$35), the average 20 yard rental from a national provider lands between $450 and $550. With 904 Dumpster, $375 is the total price,no add-ons, no surprises.
+              National dumpster brokers like Budget Dumpster and Waste Management advertise 20 yard rentals starting at $350-$450 in the Jacksonville market,but the final invoice often tells a different story. After fuel surcharges ($25-$50), environmental fees ($15-$30), and administrative charges ($20-$35), the average 20 yard rental from a national provider lands between $450 and $550. With 904 Dumpster, $399 is the total price,no add-ons, no surprises.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              <strong className="text-secondary">20 yard dumpster vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 20 yard dumpster holds 7 pickup truck loads, meaning you would spend $350-$525 in dump fees alone,not counting gas, vehicle wear, and 10-14 hours of driving and unloading. At $375 all-in with delivery to your driveway, renting a 20 yard dumpster saves the average Jacksonville homeowner $200+ and an entire weekend of work.
+              <strong className="text-secondary">20 yard dumpster vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 20 yard dumpster holds 7 pickup truck loads, meaning you would spend $350-$525 in dump fees alone,not counting gas, vehicle wear, and 10-14 hours of driving and unloading. At $399 all-in with delivery to your driveway, renting a 20 yard dumpster saves the average Jacksonville homeowner $200+ and an entire weekend of work.
             </p>
             <div className="mt-6">
               <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all" title="Dumpster Rental Pricing Jacksonville">
@@ -1175,8 +1175,8 @@ function DumpsterSizePage({
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Price</td>
-                    <td className="py-4 px-6 text-gray-600">$325</td>
-                    <td className="py-4 px-6 font-bold text-primary">$375</td>
+                    <td className="py-4 px-6 text-gray-600">$349</td>
+                    <td className="py-4 px-6 font-bold text-primary">$399</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Capacity</td>
@@ -1238,7 +1238,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">Book Online or Call</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Reserve your 20 yard dumpster through our <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold hover:underline" title="Book a Dumpster Rental Online">online booking system</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>. Tell us your delivery address, preferred drop-off date, and what type of debris you&apos;ll be loading. We&apos;ll confirm your reservation immediately.
+                    Reserve your 20 yard dumpster through our <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="noopener noreferrer" className="text-primary font-semibold hover:underline" title="Book a Dumpster Rental Online">online booking system</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>. Tell us your delivery address, preferred drop-off date, and what type of debris you&apos;ll be loading. We&apos;ll confirm your reservation immediately.
                   </p>
                 </div>
               </div>
@@ -1365,10 +1365,10 @@ function DumpsterSizePage({
               A 15 yard dumpster is a mid-size roll-off container that holds 15 cubic yards of debris,equivalent to approximately 5-6 pickup truck loads or 80-100 large contractor trash bags. It is the most popular dumpster size for residential projects in Jacksonville, FL, striking the ideal balance between capacity and driveway footprint for roofing jobs, kitchen remodels, and multi-room cleanouts.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              To visualize 15 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 4.5 feet high,roughly the same footprint as a large SUV. The 15 yard sits between our <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline" title="10 Yard Dumpster Rental">10 yard dumpster</Link> ($275) and our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> ($375), offering 50% more capacity than the 10 yard for only $50 more.
+              To visualize 15 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 4.5 feet high,roughly the same footprint as a large SUV. The 15 yard sits between our <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline" title="10 Yard Dumpster Rental">10 yard dumpster</Link> ($299) and our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> ($399), offering 50% more capacity than the 10 yard for only $50 more.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed">
-              At 904 Dumpster, we rent 15 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$325</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). As a locally owned company serving the 904 area since 2016, we are not a broker or national call center,we own our trucks, employ local drivers, and include driveway protection boards on every delivery at no extra cost.
+              At 904 Dumpster, we rent 15 yard dumpsters across Jacksonville and Northeast Florida for a flat rate of <strong className="text-secondary">$349</strong>, which includes delivery, pickup, a 5-day rental period, and disposal of up to 2 tons (4,000 lbs). As a locally owned company serving the 904 area since 2016, we are not a broker or national call center,we own our trucks, employ local drivers, and include driveway protection boards on every delivery at no extra cost.
             </p>
           </div>
         </section>
@@ -1516,7 +1516,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">Book Online or Call</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline" title="Book a Dumpster Rental Online">Book online 24/7</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">(904) 240-5598</a> during business hours. Let us know your preferred delivery date and where to place the dumpster. For roofing jobs, contractors often request street placement,we can advise on permit requirements for your Jacksonville neighborhood.
+                    <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline" title="Book a Dumpster Rental Online">Book online 24/7</a> or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">(904) 240-5598</a> during business hours. Let us know your preferred delivery date and where to place the dumpster. For roofing jobs, contractors often request street placement,we can advise on permit requirements for your Jacksonville neighborhood.
                   </p>
                 </div>
               </div>
@@ -1552,7 +1552,7 @@ function DumpsterSizePage({
                 <div>
                   <h3 className="text-xl font-bold text-secondary mb-2">We Pick Up &amp; Dispose</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    When you&apos;re finished, call, text, or email. Most pickups happen within 24 hours. We haul your debris to Trail Ridge Landfill or the appropriate disposal facility. No additional charges beyond your quoted $325 price,unless you exceeded the 2-ton weight limit, in which case we charge $75/ton overage.
+                    When you&apos;re finished, call, text, or email. Most pickups happen within 24 hours. We haul your debris to Trail Ridge Landfill or the appropriate disposal facility. No additional charges beyond your quoted $349 price,unless you exceeded the 2-ton weight limit, in which case we charge $75/ton overage.
                   </p>
                 </div>
               </div>
@@ -1667,7 +1667,7 @@ function DumpsterSizePage({
                 <h3 className="text-xl font-bold text-white mb-6">Weight Breakdown</h3>
                 <div className="space-y-4">
                   <div className="flex justify-between items-center py-3 border-b border-white/20">
-                    <span className="text-white/80">Our $325 flat rate includes</span>
+                    <span className="text-white/80">Our $349 flat rate includes</span>
                     <span className="text-white font-bold">2 tons (4,000 lbs)</span>
                   </div>
                   <div className="flex justify-between items-center py-3 border-b border-white/20">
@@ -1777,7 +1777,7 @@ function DumpsterSizePage({
                 </div>
                 <h3 className="text-xl font-bold text-secondary mb-4">No Hidden &quot;Environmental&quot; Fees</h3>
                 <p className="text-gray-600">
-                  National brokers often quote a low base price and add $50–$100 in &quot;fuel surcharges&quot; or &quot;admin fees&quot; at checkout. <strong>Our $325 price is the price.</strong>
+                  National brokers often quote a low base price and add $50–$100 in &quot;fuel surcharges&quot; or &quot;admin fees&quot; at checkout. <strong>Our $349 price is the price.</strong>
                 </p>
               </div>
 
@@ -1847,7 +1847,7 @@ function DumpsterSizePage({
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
-                    <td className="py-4 px-6 font-bold text-primary text-xl">$325</td>
+                    <td className="py-4 px-6 font-bold text-primary text-xl">$349</td>
                     <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-white">
@@ -2321,7 +2321,7 @@ function DumpsterSizePage({
             ${dumpster.basePrice} for {dumpster.rentalDays} days - Free delivery - Up to {dumpster.tonnageIncluded} tons included
           </p>
           <a
-            href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+            href="https://app.icans.ai/customer-portal/904dumpster/book/"
             target="_blank"
             rel="noopener noreferrer"
             title="Book a Dumpster Rental Online"
@@ -2383,9 +2383,9 @@ function DumpsterSizePage({
 // Location Page Component
 function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
   const dumpsterSizes = [
-    { size: '10', price: pricing.dumpsters['10-yard'].basePrice, slug: '10-yard-dumpster-rental' },
-    { size: '15', price: pricing.dumpsters['15-yard'].basePrice, slug: '15-yard-dumpster-rental' },
-    { size: '20', price: pricing.dumpsters['20-yard'].basePrice, slug: '20-yard-dumpster-rental' },
+    { size: '10', price: defaultPricing.dumpsters['10-yard'].basePrice, slug: '10-yard-dumpster-rental' },
+    { size: '15', price: defaultPricing.dumpsters['15-yard'].basePrice, slug: '15-yard-dumpster-rental' },
+    { size: '20', price: defaultPricing.dumpsters['20-yard'].basePrice, slug: '20-yard-dumpster-rental' },
   ]
 
   // Check if location has extended content

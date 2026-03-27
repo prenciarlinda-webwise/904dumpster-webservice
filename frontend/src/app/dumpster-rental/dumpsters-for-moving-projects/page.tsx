@@ -161,7 +161,7 @@ export default function DumpstersForMovingProjectsPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
@@ -423,7 +423,7 @@ export default function DumpstersForMovingProjectsPage() {
               </a>{' '}
               or{' '}
               <a
-                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary font-bold hover:underline"
@@ -527,7 +527,7 @@ export default function DumpstersForMovingProjectsPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"

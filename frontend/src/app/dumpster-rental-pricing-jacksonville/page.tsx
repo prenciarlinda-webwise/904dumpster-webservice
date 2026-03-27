@@ -2,13 +2,13 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { Phone, ArrowRight, CheckCircle2, Truck, Clock, Shield, DollarSign } from 'lucide-react'
 import { BUSINESS, DUMPSTER_SIZES } from '@/lib/constants'
-import pricing from '@/data/pricing.json'
+import { defaultPricing, priceValidUntil } from '@/data/pricing-helpers'
 import { generatePricingItemListSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
   title: 'Dumpster Rental Prices Jacksonville FL',
   description:
-    'Dumpster rental prices in Jacksonville FL. 10-yard from $275, 15-yard from $325, 20-yard from $375. 5-day rental included. No hidden fees.',
+    'Dumpster rental prices in Jacksonville FL. 10-yard from $299, 15-yard from $349, 20-yard from $399. 5-day rental included. No hidden fees.',
   keywords: [
     'dumpster rental prices jacksonville',
     'dumpster rental cost jacksonville fl',
@@ -31,31 +31,31 @@ export default function PricingPage() {
   const dumpsterData = [
     {
       size: '10',
-      price: pricing.dumpsters['10-yard'].basePrice,
-      days: pricing.dumpsters['10-yard'].rentalDays,
-      tons: pricing.dumpsters['10-yard'].tonnageIncluded,
-      truckLoads: pricing.dumpsters['10-yard'].truckLoadsEquivalent,
-      dimensions: `${pricing.dumpsters['10-yard'].dimensions.length}' x ${pricing.dumpsters['10-yard'].dimensions.width}' x ${pricing.dumpsters['10-yard'].dimensions.height}'`,
+      price: defaultPricing.dumpsters['10-yard'].basePrice,
+      days: defaultPricing.dumpsters['10-yard'].rentalDays,
+      tons: defaultPricing.dumpsters['10-yard'].tonnageIncluded,
+      truckLoads: defaultPricing.dumpsters['10-yard'].truckLoadsEquivalent,
+      dimensions: `${defaultPricing.dumpsters['10-yard'].dimensions.length}' x ${defaultPricing.dumpsters['10-yard'].dimensions.width}' x ${defaultPricing.dumpsters['10-yard'].dimensions.height}'`,
       ideal: ['Small cleanouts', 'Garage cleanouts', 'Minor renovations', 'Yard cleanup'],
       href: '/10-yard-dumpster-rental',
     },
     {
       size: '15',
-      price: pricing.dumpsters['15-yard'].basePrice,
-      days: pricing.dumpsters['15-yard'].rentalDays,
-      tons: pricing.dumpsters['15-yard'].tonnageIncluded,
-      truckLoads: pricing.dumpsters['15-yard'].truckLoadsEquivalent,
-      dimensions: `${pricing.dumpsters['15-yard'].dimensions.length}' x ${pricing.dumpsters['15-yard'].dimensions.width}' x ${pricing.dumpsters['15-yard'].dimensions.height}'`,
+      price: defaultPricing.dumpsters['15-yard'].basePrice,
+      days: defaultPricing.dumpsters['15-yard'].rentalDays,
+      tons: defaultPricing.dumpsters['15-yard'].tonnageIncluded,
+      truckLoads: defaultPricing.dumpsters['15-yard'].truckLoadsEquivalent,
+      dimensions: `${defaultPricing.dumpsters['15-yard'].dimensions.length}' x ${defaultPricing.dumpsters['15-yard'].dimensions.width}' x ${defaultPricing.dumpsters['15-yard'].dimensions.height}'`,
       ideal: ['Roofing projects', 'Kitchen remodels', 'Deck removal', 'Medium cleanouts'],
       href: '/15-yard-dumpster-rental',
     },
     {
       size: '20',
-      price: pricing.dumpsters['20-yard'].basePrice,
-      days: pricing.dumpsters['20-yard'].rentalDays,
-      tons: pricing.dumpsters['20-yard'].tonnageIncluded,
-      truckLoads: pricing.dumpsters['20-yard'].truckLoadsEquivalent,
-      dimensions: `${pricing.dumpsters['20-yard'].dimensions.length}' x ${pricing.dumpsters['20-yard'].dimensions.width}' x ${pricing.dumpsters['20-yard'].dimensions.height}'`,
+      price: defaultPricing.dumpsters['20-yard'].basePrice,
+      days: defaultPricing.dumpsters['20-yard'].rentalDays,
+      tons: defaultPricing.dumpsters['20-yard'].tonnageIncluded,
+      truckLoads: defaultPricing.dumpsters['20-yard'].truckLoadsEquivalent,
+      dimensions: `${defaultPricing.dumpsters['20-yard'].dimensions.length}' x ${defaultPricing.dumpsters['20-yard'].dimensions.width}' x ${defaultPricing.dumpsters['20-yard'].dimensions.height}'`,
       ideal: ['Large renovations', 'Construction', 'Estate cleanouts', 'Commercial projects'],
       href: '/20-yard-dumpster-rental',
       popular: true,
@@ -355,12 +355,12 @@ export default function PricingPage() {
           <div className="prose prose-lg max-w-none">
             <h3 className="text-xl font-bold text-secondary mb-3">How much does a dumpster rental cost in Jacksonville?</h3>
             <p className="text-gray-600 mb-6">
-              904 Dumpster offers roll-off dumpster rental in Jacksonville starting at $275 for a 10-yard container, $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental with no hidden fees. This is typically $50-$150 less than competitors in the Jacksonville market.
+              904 Dumpster offers roll-off dumpster rental in Jacksonville starting at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental with no hidden fees. This is typically $50-$150 less than competitors in the Jacksonville market.
             </p>
 
             <h3 className="text-xl font-bold text-secondary mb-3">What is the cheapest dumpster rental in Jacksonville?</h3>
             <p className="text-gray-600 mb-6">
-              The most affordable dumpster rental in Jacksonville is the 10-yard dumpster from 904 Dumpster at $275. This price includes everything — delivery, 5-day rental, pickup, and disposal up to 1.5 tons. There are no fuel surcharges, environmental fees, or hidden costs added at checkout.
+              The most affordable dumpster rental in Jacksonville is the 10-yard dumpster from 904 Dumpster at $299. This price includes everything — delivery, 3-day rental, pickup, and disposal up to 1 ton. There are no fuel surcharges, environmental fees, or hidden costs added at checkout.
             </p>
 
             <h3 className="text-xl font-bold text-secondary mb-3">Can you get same-day dumpster delivery in Jacksonville?</h3>
@@ -460,7 +460,7 @@ export default function PricingPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"

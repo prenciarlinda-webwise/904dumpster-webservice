@@ -129,7 +129,7 @@ If the estate is located in the beaches area, we also serve [Jacksonville Beach]
 
 ## How to Book a Dumpster for Your Estate Cleanout
 
-Renting a dumpster from 904 Dumpster takes about five minutes. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. Choose between a 10-yard ($275), 15-yard ($325), or 20-yard ($375) dumpster. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees.
+Renting a dumpster from 904 Dumpster takes about five minutes. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Choose between a 10-yard ($299), 15-yard ($349), or 20-yard ($399) dumpster. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees.
 
 For more information about the complete cleanout process, read our [complete guide to home cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville) and our [garage cleanout guide](/blog/garage-cleanout-guide-jacksonville).
 
@@ -137,7 +137,7 @@ For more information about the complete cleanout process, read our [complete gui
 
 ### How much does an estate cleanout cost in Jacksonville?
 
-The total cost depends on how much work you do yourself. A dumpster rental runs $275 to $375 from 904 Dumpster. If you hire a full-service estate cleanout company, expect to pay $2,000 to $8,000 or more depending on home size and volume of belongings. Renting a dumpster and doing the sorting yourself is the most affordable approach.
+The total cost depends on how much work you do yourself. A dumpster rental runs $299 to $399 from 904 Dumpster. If you hire a full-service estate cleanout company, expect to pay $2,000 to $8,000 or more depending on home size and volume of belongings. Renting a dumpster and doing the sorting yourself is the most affordable approach.
 
 ### How long does an estate cleanout take?
 
@@ -343,8 +343,8 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     slug: 'dumpster-rental-cost-fernandina-beach-fl',
     title: 'Dumpster Rental Pricing on Amelia Island and Fernandina Beach',
     metaTitle: 'Dumpster Rental Cost Fernandina Beach FL - Nassau County Pricing',
-    metaDescription: 'Dumpster rental cost in Fernandina Beach and Amelia Island FL. Flat-rate pricing from $275 with delivery to all of Nassau County. Book online or call.',
-    excerpt: 'Dumpster rental in Fernandina Beach and Amelia Island costs $275 to $375 depending on size. 904 Dumpster delivers to all of Nassau County with flat-rate pricing that includes delivery, pickup, and disposal.',
+    metaDescription: 'Dumpster rental cost in Fernandina Beach and Amelia Island FL. Flat-rate pricing from $299 with delivery to all of Nassau County. Book online or call.',
+    excerpt: 'Dumpster rental in Fernandina Beach and Amelia Island costs $299 to $399 depending on size. 904 Dumpster delivers to all of Nassau County with flat-rate pricing that includes delivery, pickup, and disposal.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-21',
@@ -356,7 +356,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     content: `
 ## Dumpster Rental Pricing on Amelia Island and Fernandina Beach
 
-Wondering how much does it cost to rent a dumpster in Fernandina Beach? A [dumpster rental in Nassau County](/dumpster-rental-fernandina-beach-fl) from 904 Dumpster costs between $275 and $375 depending on the size you need. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees, no fuel surcharges, and no surprise charges. We deliver to all of Nassau County, from downtown Fernandina Beach to the Plantation at Amelia Island and every neighborhood in between.
+Wondering how much does it cost to rent a dumpster in Fernandina Beach? A [dumpster rental in Nassau County](/dumpster-rental-fernandina-beach-fl) from 904 Dumpster costs between $299 and $399 depending on the size you need. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees, no fuel surcharges, and no surprise charges. We deliver to all of Nassau County, from downtown Fernandina Beach to the Plantation at Amelia Island and every neighborhood in between.
 
 ## 904 Dumpster Pricing for Fernandina Beach and Amelia Island
 
@@ -364,9 +364,9 @@ We keep our pricing simple and transparent. Here is what each dumpster size cost
 
 | Dumpster Size | Dimensions | Weight Included | Price |
 |--------------|------------|----------------|-------|
-| **10-Yard** | 12ft x 7.5ft x 3.6ft | 1.5 tons (3,000 lbs) | **$275** |
-| **15-Yard** | 14ft x 7.5ft x 4.5ft | 2 tons (4,000 lbs) | **$325** |
-| **20-Yard** | 14ft x 7.5ft x 5.8ft | 2 tons (4,000 lbs) | **$375** |
+| **10-Yard** | 12ft x 7.5ft x 3.6ft | 1.5 tons (3,000 lbs) | **$299** |
+| **15-Yard** | 14ft x 7.5ft x 4.5ft | 2 tons (4,000 lbs) | **$349** |
+| **20-Yard** | 14ft x 7.5ft x 5.8ft | 2 tons (4,000 lbs) | **$399** |
 
 These prices are the same whether you are on Amelia Island, in downtown Fernandina Beach, Yulee, Callahan, or Hilliard. We do not charge extra for delivery to Nassau County.
 
@@ -392,9 +392,9 @@ Here is how 904 Dumpster compares:
 
 | Feature | 904 Dumpster | National Brokers (Average) |
 |---------|-------------|--------------------------|
-| 10-yard price | $275 | $400 - $550 |
-| 15-yard price | $325 | $450 - $600 |
-| 20-yard price | $375 | $500 - $700 |
+| 10-yard price | $299 | $400 - $550 |
+| 15-yard price | $349 | $450 - $600 |
+| 20-yard price | $399 | $500 - $700 |
 | Rental period | 5 days included | 5-7 days (varies) |
 | Weight included | 1.5 - 2 tons | Often 1 ton or less |
 | Hidden fees | None | Fuel, environmental, admin fees common |
@@ -453,7 +453,7 @@ We deliver dumpsters throughout Nassau County, including:
 - **Hilliard** (32046) - Western Nassau County, including larger rural properties
 - **Nassau Village-Ratliff** and surrounding unincorporated areas
 
-Delivery is typically next-day for Nassau County orders placed before noon. Same-day delivery may be available depending on our schedule. The process is the same regardless of your location: [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call **(904) 240-5598**, choose your size, and tell us when and where you need it.
+Delivery is typically next-day for Nassau County orders placed before noon. Same-day delivery may be available depending on our schedule. The process is the same regardless of your location: [book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**, choose your size, and tell us when and where you need it.
 
 ## Dumpster Placement Tips for Amelia Island Properties
 
@@ -479,7 +479,7 @@ For pricing comparisons with other locations we serve, check out our pricing gui
 
 Ready to get started? You have two easy options:
 
-1. **Book online** at [checkout.wayste.com](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) - Takes about 3 minutes. Select your dumpster size, enter your Fernandina Beach address, choose your delivery date, and complete payment. You will receive a confirmation email immediately.
+1. **Book online** at [904dumpster.com](https://app.icans.ai/customer-portal/904dumpster/book/) - Takes about 3 minutes. Select your dumpster size, enter your Fernandina Beach address, choose your delivery date, and complete payment. You will receive a confirmation email immediately.
 
 2. **Call or text** **(904) 240-5598** - Talk to a real person who can help you choose the right size and schedule delivery. No phone trees, no hold music, no corporate runaround.
 
@@ -487,7 +487,7 @@ Ready to get started? You have two easy options:
 
 ### How much does a dumpster rental cost in Fernandina Beach?
 
-A dumpster rental in Fernandina Beach costs $275 for a 10-yard, $325 for a 15-yard, and $375 for a 20-yard at 904 Dumpster. All prices include delivery, pickup, disposal, and a 5-day rental period. There are no hidden fees or surcharges for Nassau County delivery.
+A dumpster rental in Fernandina Beach costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard at 904 Dumpster. All prices include delivery, pickup, disposal, and a 5-day rental period. There are no hidden fees or surcharges for Nassau County delivery.
 
 ### Do you deliver dumpsters to Amelia Island?
 
@@ -683,11 +683,11 @@ For most shed, deck, and fence demolitions in Jacksonville, a [15-yard dumpster]
 
 Our pricing is straightforward:
 
-- **10-yard dumpster:** $275 (includes 1.5 tons)
-- **15-yard dumpster:** $325 (includes 2 tons)
-- **20-yard dumpster:** $375 (includes 2 tons)
+- **10-yard dumpster:** $299 (includes 1.5 tons)
+- **15-yard dumpster:** $349 (includes 2 tons)
+- **20-yard dumpster:** $399 (includes 2 tons)
 
-All rentals include delivery, pickup, disposal, and a 5-day rental period. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call **(904) 240-5598**. We deliver throughout Jacksonville, [Middleburg](/dumpster-rental-middleburg-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all surrounding areas.
+All rentals include delivery, pickup, disposal, and a 5-day rental period. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**. We deliver throughout Jacksonville, [Middleburg](/dumpster-rental-middleburg-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all surrounding areas.
 
 ## Frequently Asked Questions
 
@@ -705,7 +705,7 @@ Yes. Pressure-treated wood, including CCA-treated lumber found in older decks an
 
 ### What is the cheapest way to get rid of demolition debris in Jacksonville?
 
-Renting a dumpster is the most cost-effective option for most homeowners. A 10-yard dumpster at $275 holds the equivalent of 4 to 5 pickup truck loads. Hauling debris yourself to the Trail Ridge Landfill requires a truck, multiple trips, and tipping fees of approximately $45 per ton plus a gate fee. For most projects, the dumpster saves both time and money.
+Renting a dumpster is the most cost-effective option for most homeowners. A 10-yard dumpster at $299 holds the equivalent of 4 to 5 pickup truck loads. Hauling debris yourself to the Trail Ridge Landfill requires a truck, multiple trips, and tipping fees of approximately $45 per ton plus a gate fee. For most projects, the dumpster saves both time and money.
 
 ### Should I demolish my structure myself or hire a contractor?
 
@@ -769,7 +769,7 @@ If you are deciding between dumpster sizes, this side-by-side comparison will he
 | **Pickup Truck Loads** | 3-4 | **5** | 6-7 |
 | **Wall Height** | 3.6 feet | **4.5 feet** | 5.8 feet |
 | **Best For** | Single-room projects | **Multi-room renovations, roofing, spring cleanouts** | Whole-house gut jobs, large construction |
-| **Price** | $275 | **$325** | $375 |
+| **Price** | $299 | **$349** | $399 |
 
 The 15-yard gives you 50 percent more volume than the 10-yard for just $50 more. That makes it the best value per cubic yard in our lineup, which is why contractors and homeowners alike gravitate toward this size when spring project season kicks in.
 
@@ -865,7 +865,7 @@ For projects involving concrete, brick, or stone specifically, our [concrete dis
 
 Getting a [15-yard dumpster](/15-yard-dumpster-rental) from 904 Dumpster is straightforward:
 
-1. **Book online or call** - [Reserve online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call **(904) 240-5598**
+1. **Book online or call** - [Reserve online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**
 2. **Choose your delivery date** - Same-day and next-day delivery available throughout Jacksonville
 3. **We drop it off** - Our driver places the dumpster in your driveway with boards underneath to protect your surface
 4. **Fill it up** - You have a 5-day rental period included (extensions available at $15/day)

@@ -28,11 +28,11 @@ import DeliveryMap from '@/components/DeliveryMap'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
-  description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. Call (904) 240-5598.',
+  title: 'Dumpster Rental Jacksonville FL - $299 Same-Day - 904 Dumpster',
+  description: 'Dumpster rental Jacksonville FL from $299. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. Call (904) 240-5598.',
   openGraph: {
-    title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
-    description: 'Dumpster rental Jacksonville FL from $275. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery. Locally owned since 2016.',
+    title: 'Dumpster Rental Jacksonville FL - $299 Same-Day - 904 Dumpster',
+    description: 'Dumpster rental Jacksonville FL from $299. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery. Locally owned since 2016.',
     type: 'website',
     url: 'https://www.904dumpster.com',
     siteName: '904 Dumpster - Dumpster Rental Jacksonville',
@@ -48,8 +48,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Dumpster Rental Jacksonville FL - $275 Same-Day - 904 Dumpster',
-    description: 'Dumpster rental Jacksonville FL from $275. Same-day delivery. No hidden fees. Locally owned.',
+    title: 'Dumpster Rental Jacksonville FL - $299 Same-Day - 904 Dumpster',
+    description: 'Dumpster rental Jacksonville FL from $299. Same-day delivery. No hidden fees. Locally owned.',
     images: ['/images/main-hero-dumpster.jpeg'],
   },
   alternates: {
@@ -71,7 +71,7 @@ const FAQ_DATA = [
   {
     question: 'How much does dumpster rental cost in Jacksonville?',
     answer:
-      'Dumpster rental in Jacksonville costs $275-$375 at 904 Dumpster. Most competitors charge $350-$500. Our 10-yard is $275, 15-yard is $325, and 20-yard is $375. All prices include delivery, pickup, disposal, and 5-day rental.',
+      'Dumpster rental in Jacksonville starts at $299 at 904 Dumpster. Most competitors charge $350-$500. Our 10-yard is $299, 15-yard is $349, and 20-yard is $399. All prices include delivery, pickup, and disposal.',
   },
   {
     question: 'How long can I keep the dumpster?',
@@ -96,12 +96,12 @@ const FAQ_DATA = [
   {
     question: 'Is it cheaper to get a dumpster or go to the dump?',
     answer:
-      'For most Jacksonville projects, renting a dumpster is cheaper than multiple dump runs. A single trip to Trail Ridge Landfill costs $50-75 in fees plus fuel and time. A 10-yard dumpster from 904 Dumpster is $275 all-in and holds 3 pickup truck loads, saving you 3+ round trips.',
+      'For most Jacksonville projects, renting a dumpster is cheaper than multiple dump runs. A single trip to Trail Ridge Landfill costs $50-75 in fees plus fuel and time. A 10-yard dumpster from 904 Dumpster is $299 all-in and holds 3 pickup truck loads, saving you 3+ round trips.',
   },
   {
     question: 'How much does it cost to rent a dumpster for 1 week?',
     answer:
-      'At 904 Dumpster, our standard 5-day rental costs $275-$375 depending on size. If you need a full 7 days, that\'s just $30 extra ($15/day extension). Most Jacksonville customers finish within the included 5-day period.',
+      'At 904 Dumpster, our 10-yard rental starts at $299 (3-day rental) and our 15 and 20-yard start at $349 (5-day rental). Need more time? Extensions are $15/day, or choose our 2-week or monthly options.',
   },
   {
     question: 'Will a couch fit in a 10 yard dumpster?',
@@ -121,7 +121,7 @@ const FAQ_DATA = [
   {
     question: 'What is the cheapest way to get rid of junk in Jacksonville?',
     answer:
-      'For small amounts of junk (a few items), hiring 904 Dumpster\'s junk removal service is the most affordable option — we do all the heavy lifting. For larger cleanouts, renting a 10-yard dumpster at $275 and loading it yourself is the cheapest approach. Self-hauling to Trail Ridge Landfill costs $50-75 per load plus your time, so a dumpster rental saves money after just 2-3 loads.',
+      'For small amounts of junk (a few items), hiring 904 Dumpster\'s junk removal service is the most affordable option — we do all the heavy lifting. For larger cleanouts, renting a 10-yard dumpster at $299 and loading it yourself is the cheapest approach. Self-hauling to Trail Ridge Landfill costs $50-75 per load plus your time, so a dumpster rental saves money after just 2-3 loads.',
   },
   {
     question: 'What is a roll-off dumpster?',
@@ -148,7 +148,7 @@ const howToSchema = {
     {
       '@type': 'HowToStep',
       name: 'Choose Your Dumpster Size',
-      text: 'Select from 10-yard ($275), 15-yard ($325), or 20-yard ($375) roll-off dumpsters based on your project size.',
+      text: 'Select from 10-yard ($299), 15-yard ($349), or 20-yard ($399) roll-off dumpsters based on your project size.',
       url: 'https://www.904dumpster.com/dumpster-size-guide',
     },
     {
@@ -456,13 +456,13 @@ export default function HomePage() {
                   Dumpster Rental{' '}
                   <span className="text-primary">Jacksonville FL</span>
                   <span className="block text-2xl md:text-3xl lg:text-4xl font-bold text-white/80 mt-3">
-                    From $275 — Same-Day Delivery
+                    From $299 — Same-Day Delivery
                   </span>
                 </h1>
 
                 {/* Sub-headline - Keyword in first sentence + AI-citable facts */}
                 <p className="text-xl md:text-2xl text-white/80 mb-8 leading-relaxed">
-                  Dumpster rental Jacksonville FL starting at $275 with free delivery, pickup, and disposal included.
+                  Dumpster rental Jacksonville FL starting at $299 with free delivery, pickup, and disposal included.
                   Locally owned since 2016. 5.0-star rated with {REVIEWS.count} Google reviews.
                   10, 15 &amp; 20-yard roll-off containers for homeowners and contractors.
                 </p>
@@ -537,8 +537,8 @@ export default function HomePage() {
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
               <strong>904 Dumpster</strong> is a locally owned dumpster rental company in Jacksonville, FL,
-              founded in 2016. Dumpster rental prices at 904 Dumpster start at $275 for a 10-yard container,
-              $325 for a 15-yard, and $375 for a 20-yard. All prices include delivery, pickup, disposal,
+              founded in 2016. Dumpster rental prices at 904 Dumpster start at $299 for a 10-yard container,
+              $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, and disposal.
               and a 5-day rental period with no hidden fees. 904 Dumpster serves Duval, St. Johns, Clay,
               and Nassau counties with same-day delivery available when customers book before noon.
               The company maintains a 5.0-star rating across {REVIEWS.count} Google reviews and is fully insured.
@@ -575,15 +575,15 @@ export default function HomePage() {
 
             <div className="prose prose-lg max-w-none text-gray-600">
               <p className="mb-4">
-                Dumpster rental prices in Jacksonville typically range from $275 to $500+ depending on the provider, size, and what&apos;s included.
-                At <strong className="text-secondary">904 Dumpster</strong>, our all-inclusive pricing starts at <strong className="text-primary">$275 for a 10-yard dumpster</strong>,
-                <strong className="text-primary"> $325 for a 15-yard</strong>, and <strong className="text-primary">$375 for a 20-yard</strong>.
+                Dumpster rental prices in Jacksonville typically range from $299 to $500+ depending on the provider, size, and what&apos;s included.
+                At <strong className="text-secondary">904 Dumpster</strong>, our all-inclusive pricing starts at <strong className="text-primary">$299 for a 10-yard dumpster</strong>,
+                <strong className="text-primary"> $349 for a 15-yard</strong>, and <strong className="text-primary">$399 for a 20-yard</strong>.
                 Every rental includes delivery, pickup, disposal fees at Trail Ridge Landfill, and a 5-day rental period, no hidden charges.
               </p>
 
               <p className="mb-4">
                 Looking for cheap dumpster rental in Jacksonville? Many national brokers advertise lower base rates but add fuel surcharges ($25-50), environmental fees ($15-30), and per-ton disposal charges that can double your final bill.
-                Our affordable dumpster rental pricing eliminates these surprises. For example, our 15-yard dumpster at $325 includes 2 tons of disposal, that&apos;s enough for most kitchen remodels and roofing projects.
+                Our affordable dumpster rental pricing eliminates these surprises. For example, our 15-yard dumpster at $349 includes 1.5 tons of disposal, that&apos;s enough for most kitchen remodels and roofing projects.
                 Competitors often charge $250 base plus $65/ton disposal, meaning the same project could cost $380+ with hidden fees.
               </p>
 
@@ -591,7 +591,7 @@ export default function HomePage() {
                 <strong className="text-secondary">How does 904 Dumpster compare to hauling debris yourself?</strong>{' '}
                 A single trip to Trail Ridge Landfill costs approximately $50-75 in disposal fees for a pickup truck load, plus fuel and your time.
                 Our 10-yard dumpster holds 3 pickup truck loads, meaning you&apos;d spend $150-225 in dump fees alone, not counting 3+ hours of driving and unloading.
-                At $275 all-in with delivery to your driveway, renting a dumpster saves both money and hassle for most Jacksonville homeowners.
+                At $299 all-in with delivery to your driveway, renting a dumpster saves both money and hassle for most Jacksonville homeowners.
               </p>
 
               <p className="mb-4">
@@ -650,7 +650,7 @@ export default function HomePage() {
                   dimensions: "12' L × 7.5' W × 3.6' H",
                   tons: '1.5',
                   bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
-                  price: '$275',
+                  price: '$299',
                   popular: false,
                   image: '/images/10 Yard Dumpster.avif',
                   href: '/10-yard-dumpster-rental',
@@ -661,7 +661,7 @@ export default function HomePage() {
                   dimensions: "14' L × 7.5' W × 4.5' H",
                   tons: '2',
                   bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
-                  price: '$325',
+                  price: '$349',
                   popular: false,
                   image: '/images/15 yard dumpster.avif',
                   href: '/15-yard-dumpster-rental',
@@ -672,7 +672,7 @@ export default function HomePage() {
                   dimensions: "14' L × 7.5' W × 5.8' H",
                   tons: '2',
                   bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
-                  price: '$375',
+                  price: '$399',
                   popular: true,
                   image: '/images/20 yard dumpster.avif',
                   href: '/20-yard-dumpster-rental',
@@ -747,7 +747,7 @@ export default function HomePage() {
                     {/* CTA Buttons */}
                     <div className="space-y-2">
                       <a
-                        href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                        href="https://app.icans.ai/customer-portal/904dumpster/book/"
                         target="_blank"
                         rel="noopener noreferrer"
                         title="Book a Dumpster Rental Online"
@@ -826,7 +826,7 @@ export default function HomePage() {
                 </div>
                 <h3 className="text-xl font-bold text-secondary mb-3">Choose Your Size</h3>
                 <p className="text-gray-600">
-                  Select from 10-yard ($275), 15-yard ($325), or 20-yard ($375) based on your project needs.
+                  Select from 10-yard ($299), 15-yard ($349), or 20-yard ($399) based on your project needs.
                 </p>
               </div>
 
@@ -881,7 +881,7 @@ export default function HomePage() {
 
                 <p>
                   <strong className="text-secondary">Scheduling delivery</strong> is simple. You can{' '}
-                  <a href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9" target="_blank" rel="noopener noreferrer" title="Book a Dumpster Rental Online" className="text-primary hover:underline">
+                  <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="noopener noreferrer" title="Book a Dumpster Rental Online" className="text-primary hover:underline">
                     book online 24/7
                   </a>{' '}
                   or call us at (904) 240-5598 during business hours. When ordering, let us know where you&apos;d like the dumpster placed:
@@ -905,7 +905,7 @@ export default function HomePage() {
 
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                  href="https://app.icans.ai/customer-portal/904dumpster/book/"
                   target="_blank"
                   rel="noopener noreferrer"
                   title="Book a Dumpster Rental Online"
@@ -1252,7 +1252,7 @@ export default function HomePage() {
             {/* CTA */}
             <div className="text-center mt-16">
               <a
-                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Book a Dumpster Rental Online"
@@ -1405,7 +1405,7 @@ export default function HomePage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Book a Dumpster Rental Online"

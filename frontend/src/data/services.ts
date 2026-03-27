@@ -44,8 +44,8 @@ export const SERVICES: ServicePage[] = [
     slug: '10-yard-dumpster-rental',
     type: 'dumpster-size',
     title: '10 Yard Dumpster Rental',
-    metaTitle: '10 Yard Dumpster Rental Jacksonville - $275',
-    metaDescription: '$275 flat rate includes delivery, pickup, 5-day rental & 1.5-ton disposal. No hidden fees. Same-day delivery available. Book online or call (904) 240-5598.',
+    metaTitle: '10 Yard Dumpster Rental Jacksonville - $299',
+    metaDescription: '$299 flat rate includes delivery, pickup, 3-day rental & 1-ton disposal. No hidden fees. Same-day delivery available. Book online or call (904) 240-5598.',
     keywords: [
       '10 yard dumpster',
       '10 yard dumpster rental',
@@ -79,13 +79,13 @@ export const SERVICES: ServicePage[] = [
       'dimensions of a 10 yard roll off dumpster',
       '10 cu yd dumpster dimensions',
     ],
-    description: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 1.5 tons of disposal, making it the most affordable roll-off option for small cleanouts and garage projects. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
+    description: 'A 10 yard dumpster rental in Jacksonville, FL costs $299 at 904 Dumpster. The flat rate includes delivery, pickup, a 3-day rental period, and 1 ton of disposal, making it the most affordable roll-off option for small cleanouts and garage projects. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
     features: [
       'Compact 12\' x 7.5\' x 3.6\' dimensions',
       'Fits in most residential driveways',
       'Holds approximately 3 pickup truck loads',
-      '5-day rental included',
-      'Up to 1.5 tons disposal included',
+      '3-day rental included (2-week option available)',
+      'Up to 1 ton disposal included',
       'Free delivery and pickup',
       'Same-day delivery available',
       'Driveway protection boards included',
@@ -112,16 +112,16 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'How much does a 10 yard dumpster cost in Jacksonville?',
-        answer: 'A 10 yard dumpster rental in Jacksonville, FL costs $275 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 1.5 tons (3,000 lbs). Most Jacksonville competitors charge $350-$400 for the same size, making 904 Dumpster $75-$125 cheaper on average. There are no hidden fuel surcharges, environmental fees, or admin charges.',
+        answer: 'A 10 yard dumpster rental in Jacksonville, FL costs $299 at 904 Dumpster. This flat-rate price includes delivery, a 3-day rental period, pickup, and disposal of up to 1 ton (2,000 lbs). Need more time? Our 2-week rental is $349. There are no hidden fuel surcharges, environmental fees, or admin charges.',
         image: '/images/10-yard-dumpster-rental-promo.jpg',
       },
       {
         question: 'What is the smallest dumpster you can rent?',
-        answer: 'The smallest roll-off dumpster commonly available in Jacksonville is a 10 yard container. At 904 Dumpster, the 10 yard is our entry-level size at $275. It is ideal for single-room projects, garage cleanouts, and small renovations where you need more capacity than trash bags but don\'t want to pay for a larger container you won\'t fill.',
+        answer: 'The smallest roll-off dumpster commonly available in Jacksonville is a 10 yard container. At 904 Dumpster, the 10 yard is our entry-level size at $299. It is ideal for single-room projects, garage cleanouts, and small renovations where you need more capacity than trash bags but don\'t want to pay for a larger container you won\'t fill.',
       },
       {
         question: 'How many pickup truck loads fit in a 10 yard dumpster?',
-        answer: 'A 10 yard dumpster holds approximately 3 full-size pickup truck loads of debris. This means instead of making 3 separate trips to Trail Ridge Landfill (costing $50-$75 per trip in disposal fees alone, plus fuel and time), you load everything into one container and we haul it away for $275 total.',
+        answer: 'A 10 yard dumpster holds approximately 3 full-size pickup truck loads of debris. This means instead of making 3 separate trips to Trail Ridge Landfill (costing $50-$75 per trip in disposal fees alone, plus fuel and time), you load everything into one container and we haul it away for $299 total.',
       },
       {
         question: 'Will a couch fit in a 10 yard dumpster?',
@@ -129,19 +129,19 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the weight limit for a 10 yard dumpster?',
-        answer: 'The weight limit for a 10 yard dumpster at 904 Dumpster is 3,000 pounds (1.5 tons), which is included in the $275 flat rate. This is sufficient for most household cleanouts and light renovation debris. If you exceed the weight limit, an overage fee of $75 per additional ton applies. Heavy materials like concrete, brick, or dirt fill up weight capacity faster than volume.',
+        answer: 'The weight limit for a 10 yard dumpster at 904 Dumpster is 2,000 pounds (1 ton), which is included in the $299 flat rate. This is sufficient for most household cleanouts and light renovation debris. If you exceed the weight limit, an overage fee of $75 per additional ton applies. Heavy materials like concrete, brick, or dirt fill up weight capacity faster than volume.',
       },
       {
         question: 'Can I put concrete in a 10 yard dumpster?',
-        answer: 'Yes, you can put concrete in a 10 yard dumpster, but be mindful of the 3,000-pound weight limit. Concrete is extremely heavy,a 10-yard bin filled entirely with concrete would far exceed the weight limit. For small amounts of concrete mixed with other debris, the 10 yard works fine. For concrete-only loads like a driveway tear-out, call us at (904) 240-5598 for heavy debris pricing.',
+        answer: 'Yes, you can put concrete in a 10 yard dumpster, but be mindful of the 2,000-pound weight limit. Concrete is extremely heavy,a 10-yard bin filled entirely with concrete would far exceed the weight limit. For small amounts of concrete mixed with other debris, the 10 yard works fine. For concrete-only loads like a driveway tear-out, call us at (904) 240-5598 for heavy debris pricing.',
       },
       {
         question: 'Is it cheaper to rent a dumpster or go to the dump?',
-        answer: 'For most Jacksonville projects, renting a 10 yard dumpster is cheaper than making multiple dump runs. A single trip to Trail Ridge Landfill costs $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Since a 10 yard dumpster holds 3 pickup truck loads, you would spend $150-$225 in dump fees alone for the equivalent capacity,not counting gas, vehicle wear, and 4-6 hours of driving and unloading. Our $275 all-in price saves both money and time.',
+        answer: 'For most Jacksonville projects, renting a 10 yard dumpster is cheaper than making multiple dump runs. A single trip to Trail Ridge Landfill costs $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Since a 10 yard dumpster holds 3 pickup truck loads, you would spend $150-$225 in dump fees alone for the equivalent capacity,not counting gas, vehicle wear, and 4-6 hours of driving and unloading. Our $299 all-in price saves both money and time.',
       },
       {
         question: 'How long can I keep a 10 yard dumpster rental?',
-        answer: 'The standard rental period for a 10 yard dumpster at 904 Dumpster is 5 days, included in the $275 price. If your project takes longer, extensions are available at $15 per additional day. Most Jacksonville homeowners finish garage cleanouts and small renovation projects within the 5-day window. Call us when you\'re done loading and we typically pick up within 24 hours.',
+        answer: 'The standard rental period for a 10 yard dumpster at 904 Dumpster is 3 days, included in the $299 price. Need more time? Our 2-week rental is $349, or extensions are available at $15 per additional day. Most Jacksonville homeowners finish garage cleanouts and small renovation projects within the 3-day window. Call us when you\'re done loading and we typically pick up within 24 hours.',
       },
       {
         question: 'Do I need a permit for a dumpster in Jacksonville, FL?',
@@ -155,8 +155,8 @@ export const SERVICES: ServicePage[] = [
     slug: '15-yard-dumpster-rental',
     type: 'dumpster-size',
     title: '15 Yard Dumpster Rental in Jacksonville, FL',
-    metaTitle: '15 Yard Dumpster Rental Jacksonville - $325',
-    metaDescription: '$325 flat rate includes delivery, pickup, 5-day rental & 2-ton disposal. No hidden fees. Same-day delivery available. Book online or call (904) 240-5598.',
+    metaTitle: '15 Yard Dumpster Rental Jacksonville - $349',
+    metaDescription: '$349 flat rate includes delivery, pickup, 5-day rental & 1.5-ton disposal. No hidden fees. Same-day delivery available. Book online or call (904) 240-5598.',
     keywords: [
       '15 yard dumpster',
       '15 yard dumpster rental',
@@ -190,15 +190,15 @@ export const SERVICES: ServicePage[] = [
       '15 cubic yard',
       '15 cubic yards',
     ],
-    description: 'A 15 yard dumpster rental in Jacksonville, FL costs $325 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, making it the most popular size for roofing jobs and mid-size renovations. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
+    description: 'A 15 yard dumpster rental in Jacksonville, FL costs $349 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 1.5 tons of disposal, making it the most popular size for roofing jobs and mid-size renovations. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
     features: [
       'Compact 14\' x 7.5\' x 4.5\' dimensions - fits standard driveways',
-      '$325 flat rate - no hidden fees or broker markups',
+      '$349 flat rate - no hidden fees or broker markups',
       'Holds 5-6 pickup truck loads (80-100 contractor bags)',
       '5-day rental included ($15/day extensions available)',
-      'Up to 2 tons (4,000 lbs) disposal included',
+      'Up to 1.5 tons (3,000 lbs) disposal included',
+      '2-week ($399) and monthly ($499) options available',
       'Free delivery and pickup - same-day available',
-      'Driveway protection boards included at no extra cost',
       'Local Jacksonville experts - not a call center in Ohio',
     ],
     idealFor: [
@@ -223,7 +223,7 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the average cost of a 15 yard dumpster in Jacksonville?',
-        answer: 'In the Jacksonville market, prices range from $325 to $450. 904 Dumpster offers a flat rate of $325 with no hidden broker fees. Our price includes delivery, 5-day rental, pickup, and disposal up to 2 tons (4,000 lbs). Overage fee is $75/ton only if you exceed the weight limit.',
+        answer: 'In the Jacksonville market, prices range from $349 to $450. 904 Dumpster offers a flat rate of $349 with no hidden broker fees. Our price includes delivery, 5-day rental, pickup, and disposal up to 2 tons (4,000 lbs). Overage fee is $75/ton only if you exceed the weight limit.',
       },
       {
         question: 'How many roofing squares fit in a 15 yard dumpster?',
@@ -248,11 +248,11 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the weight limit for a 15 yard dumpster?',
-        answer: 'The weight limit for a 15 yard dumpster at 904 Dumpster is 4,000 pounds (2 tons), included in the $325 flat rate. This is sufficient for most renovation projects, roofing tear-offs, and medium-sized cleanouts. If you exceed 2 tons, an overage fee of $75 per additional ton applies. For heavy materials like concrete, brick, or dirt, call us for heavy debris pricing guidance.',
+        answer: 'The weight limit for a 15 yard dumpster at 904 Dumpster is 4,000 pounds (2 tons), included in the $349 flat rate. This is sufficient for most renovation projects, roofing tear-offs, and medium-sized cleanouts. If you exceed 2 tons, an overage fee of $75 per additional ton applies. For heavy materials like concrete, brick, or dirt, call us for heavy debris pricing guidance.',
       },
       {
         question: 'How long can I keep a 15 yard dumpster?',
-        answer: 'The standard rental period for a 15 yard dumpster at 904 Dumpster is 5 days, included in the $325 price. Extensions are available at $15 per additional day if your project runs longer. Most Jacksonville homeowners complete kitchen remodels and roofing projects within the 5-day window. For longer-term construction projects, ask about our weekly rates.',
+        answer: 'The standard rental period for a 15 yard dumpster at 904 Dumpster is 5 days, included in the $349 price. Extensions are available at $15 per additional day if your project runs longer. Most Jacksonville homeowners complete kitchen remodels and roofing projects within the 5-day window. For longer-term construction projects, ask about our weekly rates.',
       },
       {
         question: 'Is a 15 yard dumpster big enough for a kitchen remodel?',
@@ -269,8 +269,8 @@ export const SERVICES: ServicePage[] = [
     slug: '20-yard-dumpster-rental',
     type: 'dumpster-size',
     title: '20 Yard Dumpster Rental',
-    metaTitle: '20 Yard Dumpster Rental Jacksonville - $375',
-    metaDescription: '$375 flat rate includes delivery, pickup, 5-day rental & 2-ton disposal. No hidden fees. Same-day delivery available. Book online or call (904) 240-5598.',
+    metaTitle: '20 Yard Dumpster Rental Jacksonville - $399',
+    metaDescription: '$399 flat rate includes delivery, pickup, 5-day rental & 2-ton disposal. No hidden fees. Same-day delivery available. Book online or call (904) 240-5598.',
     keywords: [
       '20 yard dumpster',
       '20 yard dumpster rental',
@@ -309,10 +309,10 @@ export const SERVICES: ServicePage[] = [
       '20 yard dumpster weight',
       '20 yard dumpster vs 30 yard dumpster',
     ],
-    description: 'A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, the best value per cubic yard for whole-house cleanouts and construction jobs. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
+    description: 'A 20 yard dumpster rental in Jacksonville, FL costs $399 at 904 Dumpster. The flat rate includes delivery, pickup, a 5-day rental period, and 2 tons of disposal, the best value per cubic yard for whole-house cleanouts and construction jobs. Locally owned and serving Jacksonville and Northeast Florida since 2016 with five-star Google reviews.',
     features: [
       '14\' x 7.5\' x 5.8\' dimensions,largest residential size',
-      '$375 flat rate,no hidden fees or broker markups',
+      '$399 flat rate,no hidden fees or broker markups',
       'Holds approximately 7 pickup truck loads (100-120 contractor bags)',
       '5-day rental included ($15/day extensions available)',
       'Up to 2 tons (4,000 lbs) disposal included',
@@ -333,7 +333,7 @@ export const SERVICES: ServicePage[] = [
     faqs: [
       {
         question: 'How much does a 20 yard dumpster cost in Jacksonville?',
-        answer: 'A 20 yard dumpster rental in Jacksonville, FL costs $375 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 2 tons (4,000 lbs). Most Jacksonville competitors charge $450-$500 for the same size, making 904 Dumpster $75-$125 cheaper on average. There are no hidden fuel surcharges, environmental fees, or admin charges.',
+        answer: 'A 20 yard dumpster rental in Jacksonville, FL costs $399 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 2 tons (4,000 lbs). Most Jacksonville competitors charge $450-$500 for the same size, making 904 Dumpster $75-$125 cheaper on average. There are no hidden fuel surcharges, environmental fees, or admin charges.',
       },
       {
         question: 'How big is a 20 yard dumpster?',
@@ -346,7 +346,7 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'What is the difference between a 15 and 20 yard dumpster?',
-        answer: 'The 15 yard dumpster (14\'×7.5\'×4.5\') holds 5-6 pickup truck loads and costs $325. The 20 yard dumpster (14\'×7.5\'×5.8\') holds 7 pickup truck loads and costs $375. Both have the same footprint and 2-ton weight limit, but the 20 yard is 1.3 feet taller, giving you 33% more volume for only $50 more. Choose the 15-yard for single-room projects and roofing; choose the 20-yard for multi-room renovations, whole-house cleanouts, and construction.',
+        answer: 'The 15 yard dumpster (14\'×7.5\'×4.5\') holds 5-6 pickup truck loads and costs $349. The 20 yard dumpster (14\'×7.5\'×5.8\') holds 7 pickup truck loads and costs $399. Both have the same footprint and 2-ton weight limit, but the 20 yard is 1.3 feet taller, giving you 33% more volume for only $50 more. Choose the 15-yard for single-room projects and roofing; choose the 20-yard for multi-room renovations, whole-house cleanouts, and construction.',
       },
       {
         question: 'Will a 20 yard dumpster fit in my driveway?',
@@ -359,7 +359,7 @@ export const SERVICES: ServicePage[] = [
       },
       {
         question: 'How much weight can a 20 yard dumpster hold?',
-        answer: 'The weight limit for a 20 yard dumpster at 904 Dumpster is 4,000 pounds (2 tons), included in the $375 flat rate. This is sufficient for most construction debris, furniture, and household items. If you exceed 2 tons, an overage fee of $75 per additional ton applies. Heavy materials like concrete, brick, and dirt reach the weight limit faster than bulky but lightweight items like furniture and drywall.',
+        answer: 'The weight limit for a 20 yard dumpster at 904 Dumpster is 4,000 pounds (2 tons), included in the $399 flat rate. This is sufficient for most construction debris, furniture, and household items. If you exceed 2 tons, an overage fee of $75 per additional ton applies. Heavy materials like concrete, brick, and dirt reach the weight limit faster than bulky but lightweight items like furniture and drywall.',
       },
       {
         question: 'Do I need a permit for a 20 yard dumpster in Jacksonville?',
@@ -389,7 +389,7 @@ export const SERVICES: ServicePage[] = [
     type: 'guide',
     title: 'Dumpster Size Guide',
     metaTitle: 'Dumpster Sizes Guide - Compare 10, 15 & 20 Yard',
-    metaDescription: 'Compare dumpster sizes for your project. 10 yard ($275), 15 yard ($325), 20 yard ($375). Find the right roll off container size in Jacksonville.',
+    metaDescription: 'Compare dumpster sizes for your project. 10 yard ($299), 15 yard ($349), 20 yard ($399). Find the right roll off container size in Jacksonville.',
     keywords: [
       'dumpster sizes',
       'roll off dumpster sizes',
@@ -620,7 +620,7 @@ export const SERVICES: ServicePage[] = [
       'Spring Cleaning',
     ],
     pricing: {
-      startingAt: '$275',
+      startingAt: '$299',
       includes: [
         'Delivery & Pickup',
         '5-day rental period',

@@ -6,8 +6,8 @@ export const POSTS_1_TO_5: BlogPost[] = [
     slug: 'dumpster-rental-cost-st-augustine-fl',
     title: 'How Much Does a Dumpster Rental Cost in St. Augustine FL',
     metaTitle: 'Dumpster Rental Cost St. Augustine FL - 2026 Pricing Guide',
-    metaDescription: 'Find out how much a dumpster rental costs in St. Augustine FL. 10, 15, and 20-yard pricing starting at $275. Same-day delivery in St. Johns County.',
-    excerpt: 'Dumpster rental in St. Augustine costs between $275 and $375 depending on size. Get transparent pricing for 10, 15, and 20-yard roll-off dumpsters with same-day delivery throughout St. Johns County.',
+    metaDescription: 'Find out how much a dumpster rental costs in St. Augustine FL. 10, 15, and 20-yard pricing starting at $299. Same-day delivery in St. Johns County.',
+    excerpt: 'Dumpster rental in St. Augustine costs between $299 and $399 depending on size. Get transparent pricing for 10, 15, and 20-yard roll-off dumpsters with same-day delivery throughout St. Johns County.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-02-25',
@@ -19,7 +19,7 @@ export const POSTS_1_TO_5: BlogPost[] = [
     content: `
 ## How Much Does a Dumpster Rental Cost in St. Augustine FL?
 
-The cost of [renting a dumpster](/residential-dumpster-rental) in St. Augustine, FL ranges between $275 and $375 depending on the size you choose. 904 Dumpster offers flat-rate pricing on 10, 15, and 20-yard roll-off dumpsters with delivery throughout St. Johns County. Every price includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges.
+The cost of [renting a dumpster](/residential-dumpster-rental) in St. Augustine, FL ranges between $299 and $399 depending on the size you choose. 904 Dumpster offers flat-rate pricing on 10, 15, and 20-yard roll-off dumpsters with delivery throughout St. Johns County. Every price includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges.
 
 Whether you are renovating a historic home in the Lincolnville neighborhood, clearing hurricane debris from your property on Anastasia Island, or managing a construction project along US-1 South, understanding what you will actually pay for a dumpster rental is the first step to staying on budget. This guide breaks down every cost factor so you can make the right decision for your project.
 
@@ -29,9 +29,9 @@ Here is what you can expect to pay for a roll-off dumpster rental in the St. Aug
 
 | Dumpster Size | Price | Dimensions (LxWxH) | Weight Included | Best For |
 |---|---|---|---|---|
-| [10-Yard](/10-yard-dumpster-rental) | $275 | 12ft x 7.5ft x 3.6ft | 1.5 tons | Garage cleanouts, small remodels |
-| [15-Yard](/15-yard-dumpster-rental) | $325 | 14ft x 7.5ft x 4.5ft | 2 tons | Roofing, kitchen remodels |
-| [20-Yard](/20-yard-dumpster-rental) | $375 | 14ft x 7.5ft x 5.8ft | 2 tons | Whole-house renovations, construction |
+| [10-Yard](/10-yard-dumpster-rental) | $299 | 12ft x 7.5ft x 3.6ft | 1.5 tons | Garage cleanouts, small remodels |
+| [15-Yard](/15-yard-dumpster-rental) | $349 | 14ft x 7.5ft x 4.5ft | 2 tons | Roofing, kitchen remodels |
+| [20-Yard](/20-yard-dumpster-rental) | $399 | 14ft x 7.5ft x 5.8ft | 2 tons | Whole-house renovations, construction |
 
 These are flat-rate prices. You will not see fuel surcharges, environmental fees, or any of the other line items that some national companies tack on after the fact. If your debris exceeds the included weight allowance, additional tonnage is billed at a fair per-ton rate that we disclose upfront.
 
@@ -51,7 +51,7 @@ There are no booking fees, no cancellation penalties for orders cancelled more t
 
 ### Dumpster Size
 
-Size is the biggest cost factor. A [10-yard dumpster](/10-yard-dumpster-rental) at $275 is the most affordable option and works for most single-room projects. If you are doing a larger renovation or whole-house cleanout, the [20-yard dumpster](/20-yard-dumpster-rental) at $375 gives you the most capacity per dollar. Our [dumpster size guide](/dumpster-size-guide) can help you estimate which size matches your project.
+Size is the biggest cost factor. A [10-yard dumpster](/10-yard-dumpster-rental) at $299 is the most affordable option and works for most single-room projects. If you are doing a larger renovation or whole-house cleanout, the [20-yard dumpster](/20-yard-dumpster-rental) at $399 gives you the most capacity per dollar. Our [dumpster size guide](/dumpster-size-guide) can help you estimate which size matches your project.
 
 ### Debris Type
 
@@ -71,9 +71,9 @@ If you have searched for dumpster pricing across Northeast Florida, you may have
 
 | Location | 10-Yard | 15-Yard | 20-Yard |
 |---|---|---|---|
-| St. Augustine (904 Dumpster) | $275 | $325 | $375 |
-| Jacksonville (904 Dumpster) | $275 | $325 | $375 |
-| [Orange Park](/dumpster-rental-orange-park-fl) (904 Dumpster) | $275 | $325 | $375 |
+| St. Augustine (904 Dumpster) | $299 | $349 | $399 |
+| Jacksonville (904 Dumpster) | $299 | $349 | $399 |
+| [Orange Park](/dumpster-rental-orange-park-fl) (904 Dumpster) | $299 | $349 | $399 |
 | National Broker Average | $350-$450 | $400-$500 | $475-$600 |
 
 We keep pricing consistent across our service area. That means residents in [St. Augustine](/dumpster-rental-st-augustine-fl) pay the same rates as customers in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) or [Ponte Vedra](/dumpster-rental-ponte-vedra-fl). National brokers typically charge more because they add a middleman markup before subcontracting to a local hauler.
@@ -105,7 +105,7 @@ A [10-yard dumpster](/10-yard-dumpster-rental) handles most garage cleanouts in 
 Booking takes less than five minutes:
 
 1. **Choose your size** - Use the table above or call us if you are not sure
-2. **Book online** - [Reserve your dumpster 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) through our online checkout
+2. **Book online** - [Reserve your dumpster 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) through our online checkout
 3. **We deliver** - Same-day delivery available when you order before noon
 4. **Load it up** - You have 5 days, load at your own pace
 5. **We pick up** - Call or text when full, pickup within 24 hours
@@ -132,11 +132,11 @@ For properties within the St. Augustine city limits, contact the Building Depart
 
 ### How much does a 10-yard dumpster cost in St. Augustine?
 
-A 10-yard dumpster in St. Augustine costs $275 from 904 Dumpster. This includes delivery, pickup, disposal at an approved St. Johns County facility, and a 5-day rental period. It holds approximately 3 pickup truck loads of debris and is ideal for garage cleanouts, small remodels, and yard waste projects.
+A 10-yard dumpster in St. Augustine costs $299 from 904 Dumpster. This includes delivery, pickup, disposal at an approved St. Johns County facility, and a 5-day rental period. It holds approximately 3 pickup truck loads of debris and is ideal for garage cleanouts, small remodels, and yard waste projects.
 
 ### Can I get same-day dumpster delivery in St. Augustine?
 
-Yes. 904 Dumpster offers same-day delivery throughout St. Augustine and St. Johns County when you book before noon. We deliver to downtown St. Augustine, Anastasia Island, St. Augustine Beach, Nocatee, World Golf Village, Hastings, and all surrounding areas. Call (904) 240-5598 or [book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) to schedule.
+Yes. 904 Dumpster offers same-day delivery throughout St. Augustine and St. Johns County when you book before noon. We deliver to downtown St. Augustine, Anastasia Island, St. Augustine Beach, Nocatee, World Golf Village, Hastings, and all surrounding areas. Call (904) 240-5598 or [book online](https://app.icans.ai/customer-portal/904dumpster/book/) to schedule.
 
 ### Do I need a permit for a dumpster in St. Augustine FL?
 
@@ -304,9 +304,9 @@ If your spring cleaning will generate more than a few bags of trash, a dumpster 
 
 | Project Scope | Recommended Size | Price |
 |---|---|---|
-| One room cleanout + garage | [10-Yard](/10-yard-dumpster-rental) | $275 |
-| Whole-house declutter | [15-Yard](/15-yard-dumpster-rental) | $325 |
-| Whole-house + yard + shed | [20-Yard](/20-yard-dumpster-rental) | $375 |
+| One room cleanout + garage | [10-Yard](/10-yard-dumpster-rental) | $299 |
+| Whole-house declutter | [15-Yard](/15-yard-dumpster-rental) | $349 |
+| Whole-house + yard + shed | [20-Yard](/20-yard-dumpster-rental) | $399 |
 
 Not sure which size fits your cleanout? Read our [guide to choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) for visual comparisons and project examples.
 
@@ -364,7 +364,7 @@ For a complete list with disposal alternatives for each item, read our [what can
 
 ### How much does a dumpster cost for spring cleaning in Jacksonville?
 
-A spring cleaning dumpster in Jacksonville costs $275 to $375 depending on size. A 10-yard dumpster at $275 works for one-room cleanouts, while a 15-yard at $325 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 5-day rental. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call (904) 240-5598.
+A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 5-day rental. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
 
 ### Can I put furniture in a dumpster during spring cleaning?
 
@@ -453,7 +453,7 @@ The right dumpster size depends on whether you are doing a cosmetic refresh or a
 
 **Debris generated:** 200-500 lbs
 
-**Recommended:** [10-yard dumpster](/10-yard-dumpster-rental) ($275) - This is more than enough for a cosmetic update. You will have room to spare for packing materials from new fixtures.
+**Recommended:** [10-yard dumpster](/10-yard-dumpster-rental) ($299) - This is more than enough for a cosmetic update. You will have room to spare for packing materials from new fixtures.
 
 ### Standard Remodel (Fixtures + Tile + Vanity)
 
@@ -461,7 +461,7 @@ The right dumpster size depends on whether you are doing a cosmetic refresh or a
 
 **Debris generated:** 800-1,500 lbs
 
-**Recommended:** [10-yard dumpster](/10-yard-dumpster-rental) ($275) for a small bathroom or [15-yard dumpster](/15-yard-dumpster-rental) ($325) for a standard or master bathroom. The 15-yard gives you a comfortable margin for the heavy tile and mortar.
+**Recommended:** [10-yard dumpster](/10-yard-dumpster-rental) ($299) for a small bathroom or [15-yard dumpster](/15-yard-dumpster-rental) ($349) for a standard or master bathroom. The 15-yard gives you a comfortable margin for the heavy tile and mortar.
 
 ### Full Gut Renovation (Down to Studs)
 
@@ -469,7 +469,7 @@ The right dumpster size depends on whether you are doing a cosmetic refresh or a
 
 **Debris generated:** 1,500-3,000 lbs
 
-**Recommended:** [15-yard dumpster](/15-yard-dumpster-rental) ($325) for a single bathroom or [20-yard dumpster](/20-yard-dumpster-rental) ($375) if you are gutting multiple bathrooms or doing a master suite renovation. Check out our [dumpster size guide](/dumpster-size-guide) for visual comparisons.
+**Recommended:** [15-yard dumpster](/15-yard-dumpster-rental) ($349) for a single bathroom or [20-yard dumpster](/20-yard-dumpster-rental) ($399) if you are gutting multiple bathrooms or doing a master suite renovation. Check out our [dumpster size guide](/dumpster-size-guide) for visual comparisons.
 
 ### Multi-Bathroom Renovation
 
@@ -530,14 +530,14 @@ Here is what disposal typically costs for a bathroom renovation in the Jacksonvi
 
 | Disposal Method | Cost | Notes |
 |---|---|---|
-| 904 Dumpster (10-yard) | $275 | Best for cosmetic remodels |
-| 904 Dumpster (15-yard) | $325 | Best for standard remodels |
-| 904 Dumpster (20-yard) | $375 | Best for full gut or multi-bath |
+| 904 Dumpster (10-yard) | $299 | Best for cosmetic remodels |
+| 904 Dumpster (15-yard) | $349 | Best for standard remodels |
+| 904 Dumpster (20-yard) | $399 | Best for full gut or multi-bath |
 | DIY dump runs (per trip) | $50-$80 | Trail Ridge Landfill tipping fees + gas + time |
 | Junk removal service | $300-$600 | They load, but you pay per volume |
 | Contractor markup | 15-25% | Some GCs mark up disposal as part of their bid |
 
-Renting a dumpster directly is almost always cheaper than having your contractor handle disposal, and it is far more convenient than making multiple trips to the landfill in a pickup truck. [Book a dumpster online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call (904) 240-5598 for same-day delivery.
+Renting a dumpster directly is almost always cheaper than having your contractor handle disposal, and it is far more convenient than making multiple trips to the landfill in a pickup truck. [Book a dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598 for same-day delivery.
 
 ## Jacksonville-Specific Tips for Bathroom Renovations
 
@@ -595,8 +595,8 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     slug: 'dumpster-rental-cost-orange-park-fl',
     title: 'Dumpster Rental Pricing in Orange Park FL for 2026',
     metaTitle: 'Dumpster Rental Cost Orange Park FL - Clay County 2026 Pricing',
-    metaDescription: 'How much does a dumpster cost in Orange Park FL? 10-yard from $275, 15-yard from $325, 20-yard from $375. Licensed Clay County franchise hauler. Call today.',
-    excerpt: 'Dumpster rental in Orange Park FL costs $275 to $375 depending on size. As a Clay County licensed franchise hauler, 904 Dumpster offers transparent pricing with same-day delivery in Orange Park and surrounding areas.',
+    metaDescription: 'How much does a dumpster cost in Orange Park FL? 10-yard from $299, 15-yard from $349, 20-yard from $399. Licensed Clay County franchise hauler. Call today.',
+    excerpt: 'Dumpster rental in Orange Park FL costs $299 to $399 depending on size. As a Clay County licensed franchise hauler, 904 Dumpster offers transparent pricing with same-day delivery in Orange Park and surrounding areas.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-03',
@@ -608,7 +608,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     content: `
 ## Dumpster Rental Pricing in Orange Park FL for 2026
 
-Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental) in Orange Park, FL? Prices range from $275 to $375 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
+Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental) in Orange Park, FL? Prices range from $299 to $399 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
 
 Orange Park is one of the busiest areas we serve in Clay County. Homeowners along Kingsley Avenue, contractors building in the Oakleaf Plantation communities, and property managers in the apartment complexes near the Orange Park Mall all need affordable, reliable dumpster rental. This guide breaks down exactly what you will pay, what affects the price, and how to get the best value for your project.
 
@@ -618,9 +618,9 @@ Here is our current pricing for roll-off dumpster rentals in Orange Park and thr
 
 | Dumpster Size | Price | Dimensions (LxWxH) | Weight Included | Best For |
 |---|---|---|---|---|
-| [10-Yard](/10-yard-dumpster-rental) | $275 | 12ft x 7.5ft x 3.6ft | 1.5 tons | Garage cleanouts, small remodels |
-| [15-Yard](/15-yard-dumpster-rental) | $325 | 14ft x 7.5ft x 4.5ft | 2 tons | Roofing, kitchen/bath remodels |
-| [20-Yard](/20-yard-dumpster-rental) | $375 | 14ft x 7.5ft x 5.8ft | 2 tons | Major renovations, construction |
+| [10-Yard](/10-yard-dumpster-rental) | $299 | 12ft x 7.5ft x 3.6ft | 1.5 tons | Garage cleanouts, small remodels |
+| [15-Yard](/15-yard-dumpster-rental) | $349 | 14ft x 7.5ft x 4.5ft | 2 tons | Roofing, kitchen/bath remodels |
+| [20-Yard](/20-yard-dumpster-rental) | $399 | 14ft x 7.5ft x 5.8ft | 2 tons | Major renovations, construction |
 
 ### What Is Included in Every Rental
 
@@ -641,7 +641,7 @@ We keep pricing simple because we believe you should know exactly what you are p
 
 ### No Middleman Markup
 
-National dumpster rental brokers, like the ones you find through Google Ads, charge $350 to $600 for the same sizes we offer at $275 to $375. The reason is simple: they take your order, add a 30-50% markup, and then call a local hauler to actually deliver the dumpster. You pay extra for a company that never touches your debris. When you book with 904 Dumpster, you are booking directly with the hauler. Our trucks, our drivers, our dumpsters, and our pricing.
+National dumpster rental brokers, like the ones you find through Google Ads, charge $350 to $600 for the same sizes we offer at $299 to $399. The reason is simple: they take your order, add a 30-50% markup, and then call a local hauler to actually deliver the dumpster. You pay extra for a company that never touches your debris. When you book with 904 Dumpster, you are booking directly with the hauler. Our trucks, our drivers, our dumpsters, and our pricing.
 
 ### Local Fuel and Travel Efficiency
 
@@ -679,14 +679,14 @@ Here are the most common projects we handle in the Orange Park area with recomme
 
 | Project Type | Recommended Size | Price | Rental Period |
 |---|---|---|---|
-| Garage cleanout | [10-Yard](/10-yard-dumpster-rental) | $275 | 5 days |
-| Single bathroom remodel | [10-Yard](/10-yard-dumpster-rental) | $275 | 5 days |
-| Kitchen remodel | [15-Yard](/15-yard-dumpster-rental) | $325 | 5 days |
-| Roof tear-off (up to 20 sq) | [15-Yard](/15-yard-dumpster-rental) | $325 | 5 days |
-| Estate/whole-house cleanout | [15-Yard](/15-yard-dumpster-rental) | $325 | 5 days |
-| Major renovation | [20-Yard](/20-yard-dumpster-rental) | $375 | 5 days |
-| New construction debris | [20-Yard](/20-yard-dumpster-rental) | $375 | 5 days |
-| Land clearing | [20-Yard](/20-yard-dumpster-rental) | $375 | 5 days |
+| Garage cleanout | [10-Yard](/10-yard-dumpster-rental) | $299 | 5 days |
+| Single bathroom remodel | [10-Yard](/10-yard-dumpster-rental) | $299 | 5 days |
+| Kitchen remodel | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
+| Roof tear-off (up to 20 sq) | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
+| Estate/whole-house cleanout | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
+| Major renovation | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
+| New construction debris | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
+| Land clearing | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
 
 For roofing projects specifically, our [managing roofing waste guide](/blog/managing-roofing-project-waste) covers weight estimates and disposal tips for shingle tear-offs common on Orange Park homes.
 
@@ -694,7 +694,7 @@ For roofing projects specifically, our [managing roofing waste guide](/blog/mana
 
 ### Right-Size Your Dumpster
 
-The most expensive mistake is ordering a dumpster that is too small. If you fill a 10-yard and need a second delivery, you are paying $550 total instead of $325 for a single 15-yard. Our [dumpster size guide](/dumpster-size-guide) includes visual comparisons to help you estimate correctly. When in doubt, go one size up; the $50 difference between sizes is always cheaper than a second delivery.
+The most expensive mistake is ordering a dumpster that is too small. If you fill a 10-yard and need a second delivery, you are paying $550 total instead of $349 for a single 15-yard. Our [dumpster size guide](/dumpster-size-guide) includes visual comparisons to help you estimate correctly. When in doubt, go one size up; the $50 difference between sizes is always cheaper than a second delivery.
 
 ### Load Efficiently
 
@@ -715,7 +715,7 @@ January, February, and mid-summer are our quieter months in Clay County. Spring 
 Booking your Orange Park dumpster takes just a few minutes:
 
 1. **Choose your size** - 10, 15, or 20-yard based on your project
-2. **Book online 24/7** - [Reserve your dumpster](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) through our quick checkout
+2. **Book online 24/7** - [Reserve your dumpster](https://app.icans.ai/customer-portal/904dumpster/book/) through our quick checkout
 3. **We deliver** - Same-day delivery when you book before noon
 4. **Fill it up** - Take up to 5 days at your own pace
 5. **We pick up** - Call or text us, pickup within 24 hours
@@ -741,9 +741,9 @@ For most projects, renting a dumpster from 904 Dumpster and having us handle dis
 
 | Feature | 904 Dumpster | National Broker | DIY Dump Runs |
 |---|---|---|---|
-| 10-Yard Price | $275 | $350-$450 | N/A |
-| 15-Yard Price | $325 | $400-$500 | N/A |
-| 20-Yard Price | $375 | $475-$600 | N/A |
+| 10-Yard Price | $299 | $350-$450 | N/A |
+| 15-Yard Price | $349 | $400-$500 | N/A |
+| 20-Yard Price | $399 | $475-$600 | N/A |
 | Same-Day Delivery | Yes | Rarely | N/A |
 | Clay County Licensed | Yes | Unknown sub | N/A |
 | Hidden Fees | None | Common | Tipping fees vary |
@@ -754,11 +754,11 @@ For most projects, renting a dumpster from 904 Dumpster and having us handle dis
 
 ### How much is a dumpster rental in Orange Park FL?
 
-A dumpster rental in Orange Park costs $275 for a 10-yard, $325 for a 15-yard, and $375 for a 20-yard from 904 Dumpster. All prices include delivery, pickup, disposal at approved Clay County facilities, and a 5-day rental period. No hidden fees.
+A dumpster rental in Orange Park costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard from 904 Dumpster. All prices include delivery, pickup, disposal at approved Clay County facilities, and a 5-day rental period. No hidden fees.
 
 ### Does 904 Dumpster deliver to Oakleaf Plantation?
 
-Yes. We deliver to all of Oakleaf Plantation, including every phase and subdivision. Oakleaf's wide driveways make dumpster placement straightforward. Same-day delivery is available when you book before noon. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call (904) 240-5598.
+Yes. We deliver to all of Oakleaf Plantation, including every phase and subdivision. Oakleaf's wide driveways make dumpster placement straightforward. Same-day delivery is available when you book before noon. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
 
 ### Do I need a permit for a dumpster in Orange Park?
 
@@ -798,7 +798,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 
-A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1.5 tons (3,000 pounds) of material. At $275, it is the most affordable roll-off option for small to medium projects in Jacksonville and the surrounding areas.
+A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1.5 tons (3,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in Jacksonville and the surrounding areas.
 
 The 10-yard dumpster is our most frequently misunderstood size. Some people think it is too small to be useful, while others assume it can handle a full house cleanout. The truth is somewhere in between, and knowing exactly what fits helps you avoid ordering too large (wasting money) or too small (needing a second delivery). This guide uses real project examples from jobs we have completed across Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and the Beaches to show you precisely what a 10-yard can handle.
 
@@ -812,7 +812,7 @@ The 10-yard dumpster is our most frequently misunderstood size. Some people thin
 | Height | 3.6 feet (about waist-high) |
 | Weight Limit | 1.5 tons (3,000 lbs) |
 | Pickup Truck Equivalent | 3 full loads |
-| Price | $275 (flat rate) |
+| Price | $299 (flat rate) |
 | Rental Period | 5 days included |
 
 The 3.6-foot wall height is one of the biggest practical advantages of the 10-yard. It is low enough that most people can toss debris over the side without a ramp, making loading faster and easier. The rear swing door also opens for rolling in heavier items like appliances or wheelbarrow loads.
@@ -937,7 +937,7 @@ If you are debating between a 10-yard dumpster and other ways to get rid of your
 
 | Option | Cost | Capacity | Convenience |
 |---|---|---|---|
-| 10-Yard Dumpster (904 Dumpster) | $275 | 10 cubic yards / 3 truck loads | High - loaded at your pace over 5 days |
+| 10-Yard Dumpster (904 Dumpster) | $299 | 10 cubic yards / 3 truck loads | High - loaded at your pace over 5 days |
 | Pickup truck trips to dump | $50-$80/trip x 3 trips = $150-$240 | 3-4 cubic yards per trip | Low - multiple trips, your time and gas |
 | Junk removal service | $300-$500 | Varies by volume | Medium - they load but you pay per item |
 | Bagster (Waste Management) | $230-$350 | 3 cubic yards (1 truck load) | Low - expensive for the capacity |
@@ -949,7 +949,7 @@ For most projects, the 10-yard dumpster hits the sweet spot of price, capacity, 
 
 Ready to get started? Here is how to rent a 10-yard dumpster from 904 Dumpster:
 
-1. **Book online** - [Reserve your 10-yard dumpster](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) in under 5 minutes
+1. **Book online** - [Reserve your 10-yard dumpster](https://app.icans.ai/customer-portal/904dumpster/book/) in under 5 minutes
 2. **We deliver** - Same-day delivery in Jacksonville, [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Orange Park, and all surrounding areas when you order before noon
 3. **Fill it up** - 5-day rental included, extensions at $15/day
 4. **We pick up** - Call or text when full, pickup within 24 hours
@@ -978,7 +978,7 @@ Yes. Most appliances including washers, dryers, dishwashers, stoves, and water h
 
 ### How much does a 10-yard dumpster cost in Jacksonville?
 
-A 10-yard dumpster rental in Jacksonville costs $275 from 904 Dumpster. This flat rate includes delivery, pickup, disposal at an approved facility, and a 5-day rental period. There are no hidden fees, fuel surcharges, or environmental charges. The same $275 price applies throughout our service area including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
+A 10-yard dumpster rental in Jacksonville costs $299 from 904 Dumpster. This flat rate includes delivery, pickup, disposal at an approved facility, and a 5-day rental period. There are no hidden fees, fuel surcharges, or environmental charges. The same $299 price applies throughout our service area including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
 
 ## Related Resources
 

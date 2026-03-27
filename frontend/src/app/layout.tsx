@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: '%s - 904 Dumpster',
   },
   description:
-    'Dumpster rental in Jacksonville FL from $275. Local roll-off containers for home cleanouts, construction & roofing. Same-day delivery. Book online!',
+    'Dumpster rental in Jacksonville FL from $299. Local roll-off containers for home cleanouts, construction & roofing. Same-day delivery. Book online!',
   keywords: [
     'dumpster rental jacksonville fl',
     'dumpster rental jacksonville',
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     siteName: '904 Dumpster - Dumpster Rental Jacksonville',
     title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description:
-      'Dumpster rental in Jacksonville FL from $275. Local roll-off containers for home cleanouts, construction & roofing. Same-day delivery.',
+      'Dumpster rental in Jacksonville FL from $299. Local roll-off containers for home cleanouts, construction & roofing. Same-day delivery.',
     images: [
       {
         url: '/images/main-hero-dumpster.jpeg',

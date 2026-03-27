@@ -21,7 +21,7 @@ export const POSTS_36_TO_45: BlogPost[] = [
 
 One of the biggest mistakes people make when renting a dumpster is guessing at the size they need. Order too small and you end up paying for a second haul. Order too large and you waste money on capacity you never use. Whether you are cleaning out a garage, tearing up old carpet, or hauling away demolition debris from a renovation, knowing how to estimate your debris volume in cubic yards saves you time, money, and frustration.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Is a Cubic Yard and Why Does It Matter?
 
@@ -88,13 +88,13 @@ If your project involves heavy materials like concrete, tile, or brick, you may 
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Tips for Accurately Estimating Your Debris
 
 ### Walk Through Before You Order
 
-Before you [book a dumpster online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9), walk through the project area and visualize the debris. Open every closet, pull out items from storage areas, and look behind large furniture. Jacksonville homeowners frequently underestimate the amount of junk in their garages, attics, and closets because they have not looked at it all laid out.
+Before you [book a dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/), walk through the project area and visualize the debris. Open every closet, pull out items from storage areas, and look behind large furniture. Jacksonville homeowners frequently underestimate the amount of junk in their garages, attics, and closets because they have not looked at it all laid out.
 
 ### When in Doubt, Size Up
 
@@ -118,7 +118,7 @@ No matter where your project is located in Northeast Florida, we deliver through
 
 ## How to Book the Right Size Dumpster
 
-Once you have estimated your debris volume, booking is simple. Visit our [online checkout](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. If you are still unsure about the right size, our team is happy to walk through your project details over the phone and recommend the best option.
+Once you have estimated your debris volume, booking is simple. Visit our [online checkout](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. If you are still unsure about the right size, our team is happy to walk through your project details over the phone and recommend the best option.
 
 Every rental includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges. For more information about our sizing options, visit our [dumpster size guide](/dumpster-size-guide).
 
@@ -165,7 +165,7 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
 
 Garage conversions have become one of the most popular home improvement projects in Jacksonville. Whether you are creating a home office, an in-law suite, a rental apartment, or additional living space for a growing family, converting an attached or detached garage involves a substantial amount of construction waste that most homeowners do not anticipate. Understanding what debris to expect at each stage of the project helps you plan ahead, choose the right dumpster size, and keep your property clean throughout the renovation.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Why Waste Planning Matters for Garage Conversions
 
@@ -247,7 +247,7 @@ Here is what we typically see from garage conversion projects in the Jacksonvill
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Will Converting a Garage Add Value to Your Jacksonville Home?
 
@@ -261,7 +261,7 @@ Neighborhoods in Jacksonville where garage conversions tend to add the most valu
 
 ### Schedule Dumpster Delivery Before Demo Day
 
-Have the dumpster on-site before demolition begins. This way, debris goes directly into the container instead of piling up on the ground. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) at least two days before your project start date to guarantee availability.
+Have the dumpster on-site before demolition begins. This way, debris goes directly into the container instead of piling up on the ground. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) at least two days before your project start date to guarantee availability.
 
 ### Separate Heavy Materials
 
@@ -285,7 +285,7 @@ For properties in [Middleburg](/dumpster-rental-middleburg-fl) and Clay County, 
 
 ### How much does it cost to convert a garage in Jacksonville?
 
-A basic garage conversion in Jacksonville typically costs $15,000 to $30,000 for a standard finish. Adding a bathroom can add $5,000 to $15,000, and a full apartment-style conversion with kitchen and bathroom can run $30,000 to $60,000 or more. Budget $275 to $750 for dumpster rental depending on the scope of debris.
+A basic garage conversion in Jacksonville typically costs $15,000 to $30,000 for a standard finish. Adding a bathroom can add $5,000 to $15,000, and a full apartment-style conversion with kitchen and bathroom can run $30,000 to $60,000 or more. Budget $299 to $750 for dumpster rental depending on the scope of debris.
 
 ### Do I need a permit for a garage conversion in Jacksonville?
 
@@ -324,7 +324,7 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
 
 A kitchen renovation is one of the most impactful home improvement projects you can take on, but it also generates one of the largest volumes of waste. Ripping out old cabinets, countertops, flooring, backsplash, and appliances from an average Jacksonville kitchen produces 6 to 12 cubic yards of debris before new materials even arrive. If you do not plan for waste removal before demolition day, you will find yourself surrounded by piles of broken tile, splintered cabinets, and old drywall with nowhere to put it.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Why Kitchen Renovations Produce So Much Waste
 
@@ -382,7 +382,7 @@ Drywall waste adds up quickly. A standard 4x8-foot sheet of drywall weighs about
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Choosing the Right Dumpster for Your Kitchen Renovation
 
@@ -413,7 +413,7 @@ Kitchen demolition produces enormous amounts of dust, especially when removing t
 
 ### Schedule Dumpster Delivery
 
-[Book your dumpster](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) at least two days before demolition begins. Having the container on-site and ready means debris goes directly from the kitchen into the dumpster without intermediate staging. We deliver throughout Jacksonville and surrounding communities including [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl).
+[Book your dumpster](https://app.icans.ai/customer-portal/904dumpster/book/) at least two days before demolition begins. Having the container on-site and ready means debris goes directly from the kitchen into the dumpster without intermediate staging. We deliver throughout Jacksonville and surrounding communities including [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl).
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
@@ -429,7 +429,7 @@ A typical Jacksonville kitchen renovation produces 6 to 12 cubic yards of debris
 
 ### How much does it cost to remove ceramic tile flooring?
 
-Professional ceramic tile removal in Jacksonville typically costs $3 to $6 per square foot for labor. The dumpster rental for tile disposal starts at $275 for a [10-yard container](/10-yard-dumpster-rental). For a 200-square-foot kitchen, total tile removal and disposal costs range from $875 to $1,475.
+Professional ceramic tile removal in Jacksonville typically costs $3 to $6 per square foot for labor. The dumpster rental for tile disposal starts at $299 for a [10-yard container](/10-yard-dumpster-rental). For a 200-square-foot kitchen, total tile removal and disposal costs range from $875 to $1,475.
 
 ### What size dumpster do I need for a kitchen remodel?
 
@@ -468,7 +468,7 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
 
 Basements represent some of the most underutilized square footage in a home. Whether your basement has been sitting empty, serving as a disorganized storage dump, or suffering from persistent moisture problems, converting it into livable space generates a unique set of waste challenges. Water-damaged materials, old insulation, outdated fixtures, and years of accumulated junk all need to go before the real renovation work can begin. Planning for that debris from the start makes the entire project smoother and more efficient.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Understanding Northeast Florida Basements
 
@@ -535,7 +535,7 @@ A full basement renovation demolition typically produces 8 to 15 cubic yards of 
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Phase 4: Construction and Finishing Waste
 
@@ -571,13 +571,13 @@ Before investing in a basement renovation, have the foundation inspected. Cracks
 
 ## Booking Your Dumpster for a Basement Renovation
 
-Ready to start your basement renovation? [Book a dumpster online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. We deliver throughout Jacksonville, [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all of Northeast Florida. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for full details on rates and included services.
+Ready to start your basement renovation? [Book a dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. We deliver throughout Jacksonville, [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all of Northeast Florida. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for full details on rates and included services.
 
 ## Frequently Asked Questions
 
 ### How much does it cost to turn a basement into an apartment?
 
-In Northeast Florida, a full basement-to-apartment conversion typically costs $30,000 to $75,000 depending on size, finishes, and whether plumbing and electrical need to be added from scratch. Dumpster rental for the project runs $275 to $750 total, depending on the number of loads required.
+In Northeast Florida, a full basement-to-apartment conversion typically costs $30,000 to $75,000 depending on size, finishes, and whether plumbing and electrical need to be added from scratch. Dumpster rental for the project runs $299 to $750 total, depending on the number of loads required.
 
 ### Why does my basement stink even after cleaning?
 
@@ -616,7 +616,7 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
 
 Jacksonville's climate is tough on outdoor structures. The combination of intense sun, high humidity, heavy rain, and occasional tropical storms means that wooden decks in Northeast Florida have a shorter lifespan than in drier regions. When your deck reaches the end of its useful life and needs to be removed or replaced, the demolition generates a surprising volume of heavy, bulky waste that requires proper planning. This guide covers everything you need to know about the waste side of deck removal and replacement projects.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Signs Your Jacksonville Deck Needs Replacement
 
@@ -668,7 +668,7 @@ For properties in HOA communities, check your association rules. Some HOAs requi
 
 ### Before Demolition Begins
 
-**Schedule your dumpster delivery first.** Have the container on-site before any demolition work starts. This allows your crew to load debris directly into the dumpster as boards and framing come down, rather than creating a staging pile that needs to be moved twice. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**.
+**Schedule your dumpster delivery first.** Have the container on-site before any demolition work starts. This allows your crew to load debris directly into the dumpster as boards and framing come down, rather than creating a staging pile that needs to be moved twice. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**.
 
 **Clear the area around the deck.** Move patio furniture, grills, potted plants, and any landscaping items away from the demolition zone. Also clear a path from the deck to where the dumpster will be parked so debris can be carried or wheeled directly to the container.
 
@@ -688,7 +688,7 @@ Deck demolition waste comes in awkward sizes. Full-length deck boards can be 8 t
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## What About the Posts and Footings?
 
@@ -721,7 +721,7 @@ We deliver dumpsters throughout the beaches communities with the same flat-rate 
 
 ### How much does it cost to demolish a deck?
 
-Professional deck demolition in Jacksonville typically costs $5 to $15 per square foot for labor, depending on the deck's size, height, and complexity. A 300-square-foot deck costs roughly $1,500 to $4,500 for professional removal. DIY demolition saves on labor but still requires a dumpster rental starting at $275 for debris disposal.
+Professional deck demolition in Jacksonville typically costs $5 to $15 per square foot for labor, depending on the deck's size, height, and complexity. A 300-square-foot deck costs roughly $1,500 to $4,500 for professional removal. DIY demolition saves on labor but still requires a dumpster rental starting at $299 for debris disposal.
 
 ### Do I need a permit to remove a deck in Jacksonville?
 
@@ -760,7 +760,7 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
 
 Every Jacksonville home has at least one space that has become the default dumping ground for things that do not have a home anywhere else. Attics, basements, bonus rooms above garages, and oversized closets slowly accumulate years of furniture, holiday decorations, old clothing, broken appliances, and boxes that have not been opened since the last move. When you finally decide to reclaim that space, the biggest challenge is not the sorting but the disposal. Where do you take old furniture? How do you get rid of bulky items that do not fit in your curbside bin? What do you do with metal cabinets, broken electronics, and items too large for your car?
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## The Scope of Attic and Basement Cleanouts
 
@@ -788,7 +788,7 @@ Large furniture is the most common disposal challenge during attic and basement 
 |----------------|---------|-------------|-----------|
 | Donation pickup | Usable furniture in good condition | Free | 3-7 days scheduling |
 | Curbside bulk pickup | 1-2 large items | Free (city service) | Up to 2 weeks |
-| Dumpster rental | Multiple items, full cleanout | $275-$375 | Same-day or next-day delivery |
+| Dumpster rental | Multiple items, full cleanout | $299-$399 | Same-day or next-day delivery |
 | Junk removal | Full-service, no lifting required | Varies by volume | Usually within 48 hours |
 
 ### How to Dispose of Old Cabinets
@@ -803,7 +803,7 @@ Metal furniture like filing cabinets, shelving units, bed frames, and old applia
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Step-by-Step Cleanout Process
 
@@ -830,7 +830,7 @@ Common hazardous items found during attic and basement cleanouts include old pai
 
 ### Step 4: Rent a Dumpster and Load It
 
-[Book your dumpster online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call **(904) 240-5598**. We offer same-day and next-day delivery throughout Jacksonville and surrounding areas including [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl).
+[Book your dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**. We offer same-day and next-day delivery throughout Jacksonville and surrounding areas including [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl).
 
 **Loading tips for maximum efficiency:**
 - Put large, flat items on the bottom: mattresses, table tops, doors
@@ -872,7 +872,7 @@ Yes. Wood cabinets, metal cabinets, bathroom vanities, and built-in shelving can
 
 ### How much does an attic cleanout cost?
 
-The cost depends on how much work you do yourself. A DIY attic cleanout with a [10-yard dumpster rental](/10-yard-dumpster-rental) starts at $275. If you hire a junk removal service to do the work, expect to pay $300 to $800 or more depending on the volume of items removed.
+The cost depends on how much work you do yourself. A DIY attic cleanout with a [10-yard dumpster rental](/10-yard-dumpster-rental) starts at $299. If you hire a junk removal service to do the work, expect to pay $300 to $800 or more depending on the volume of items removed.
 
 ### What should I not put in a dumpster during a cleanout?
 
@@ -899,7 +899,7 @@ Hazardous materials including paint, chemicals, batteries, propane tanks, and mo
 
 If you have ever opened your garage, shed, or storage closet and found a collection of half-used paint cans from projects going back years, you are not alone. Old paint is one of the most common household items that people struggle to get rid of. You know you should not just throw it in the regular trash, but you are not sure where it actually goes. In Jacksonville and Duval County, the answer depends on what type of paint you have and how much is left in the can.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## The Two Types of Paint and Why It Matters
 
@@ -982,7 +982,7 @@ During major cleanout and renovation projects, consider these steps:
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Other Hazardous Household Items and Where They Go
 
@@ -1053,7 +1053,7 @@ For major renovation projects that generate multiple gallons of old paint, sched
 
 If you have never rented a dumpster before, the process might seem intimidating. You might be picturing the massive green dumpsters behind restaurants and thinking that cannot possibly be what goes in your driveway. The reality is that residential roll-off dumpsters are specifically designed for homeowner use, they are smaller, cleaner, and delivered directly to your property on a schedule you choose. Whether you are tackling a home cleanout, renovation project, landscaping overhaul, or just finally dealing with years of accumulated junk, renting a dumpster is one of the simplest and most affordable ways to handle large-volume waste removal.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## How Does Dumpster Rental Work?
 
@@ -1062,7 +1062,7 @@ The process is straightforward. You choose a dumpster size, schedule a delivery 
 Here is the step-by-step breakdown:
 
 1. **Choose your size.** We offer 10-yard, 15-yard, and 20-yard dumpsters. Each size is suited to different project types, and we will help you choose the right one.
-2. **Book online or call.** [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call us at **(904) 240-5598**. You pick the delivery date and drop-off location.
+2. **Book online or call.** [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. You pick the delivery date and drop-off location.
 3. **We deliver.** Our driver places the dumpster where you want it, usually in the driveway. The process takes about 10 minutes.
 4. **You fill it.** Load your debris at your own pace. You have a 5-day rental period included in the flat rate.
 5. **We pick it up.** When you are done or the rental period ends, call or go online to schedule pickup. We haul the container and its contents to the disposal facility.
@@ -1073,7 +1073,7 @@ No complicated contracts, no hidden fees, no surprises.
 
 Choosing the right size is the single most important decision for first-time renters. Here is what each of our sizes looks like and what they handle:
 
-### 10-Yard Dumpster - $275
+### 10-Yard Dumpster - $299
 
 **Dimensions:** Approximately 12 feet long x 8 feet wide x 3.5 feet tall
 
@@ -1085,7 +1085,7 @@ A [10-yard dumpster](/10-yard-dumpster-rental) holds about 10 cubic yards of deb
 - Yard debris and landscaping cleanup
 - Small decluttering projects
 
-### 15-Yard Dumpster - $325
+### 15-Yard Dumpster - $349
 
 **Dimensions:** Approximately 14 feet long x 8 feet wide x 4.5 feet tall
 
@@ -1097,7 +1097,7 @@ A [15-yard dumpster](/15-yard-dumpster-rental) is the mid-range option that hand
 - [Estate cleanouts](/blog/estate-cleanout-guide-jacksonville)
 - Moderate home renovations
 
-### 20-Yard Dumpster - $375
+### 20-Yard Dumpster - $399
 
 **Dimensions:** Approximately 16 feet long x 8 feet wide x 5 feet tall
 
@@ -1113,7 +1113,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is our largest option and handles
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 For a detailed comparison with photos, visit our [dumpster size guide](/dumpster-size-guide) or read our blog post on [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
 
@@ -1129,9 +1129,9 @@ Our pricing is simple and transparent. Every rental is a flat rate that includes
 
 | Size | Flat Rate | Included Weight | Best For |
 |------|----------|----------------|---------|
-| 10-Yard | $275 | Generous weight allowance | Small projects |
-| 15-Yard | $325 | Generous weight allowance | Medium projects |
-| 20-Yard | $375 | Generous weight allowance | Large projects |
+| 10-Yard | $299 | Generous weight allowance | Small projects |
+| 15-Yard | $349 | Generous weight allowance | Medium projects |
+| 20-Yard | $399 | Generous weight allowance | Large projects |
 
 Need the dumpster for longer than 5 days? Extensions are available at affordable daily rates. Just call us before the rental period ends.
 
@@ -1269,7 +1269,7 @@ Great question. Read our blog post on [where does trash go after you throw it aw
 
 Jacksonville summers are no joke. With temperatures regularly hitting the mid-90s, humidity that makes it feel even hotter, and afternoon thunderstorms rolling through like clockwork, your home takes a beating from June through September. The smart move is to tackle summer preparation projects in the spring, before the heat makes outdoor work unbearable and before hurricane season adds another layer of urgency. Many of these maintenance tasks generate waste that needs proper disposal, from old insulation and worn-out outdoor furniture to landscape debris and renovation materials.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## HVAC Preparation and the Waste It Creates
 
@@ -1323,7 +1323,7 @@ The average Jacksonville garage cleanout produces 5 to 10 cubic yards of waste. 
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Hurricane Preparation and Debris Planning
 
@@ -1373,7 +1373,7 @@ Homes along the coast in [Jacksonville Beach](/dumpster-rental-jacksonville-beac
 
 Coastal homeowners often combine their summer maintenance with a broader cleanup and decluttering project. A single dumpster rental covers the outdoor furniture, fence sections, worn-out screens, and general debris from a full coastal property maintenance weekend.
 
-We serve all Northeast Florida beach communities with the same [flat-rate pricing](/dumpster-rental-pricing-jacksonville) and fast delivery. [Book online](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) or call **(904) 240-5598**.
+We serve all Northeast Florida beach communities with the same [flat-rate pricing](/dumpster-rental-pricing-jacksonville) and fast delivery. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**.
 
 ## Frequently Asked Questions
 
@@ -1391,7 +1391,7 @@ Common strategies for Jacksonville homes include improving attic insulation, sea
 
 ### What size dumpster do I need for a summer cleanup?
 
-For a combined garage cleanout and yard cleanup, a [10-yard dumpster](/10-yard-dumpster-rental) at $275 handles most projects. If you are adding a renovation project or clearing a large yard, step up to a [15-yard dumpster](/15-yard-dumpster-rental) at $325. For major multi-project summer cleanups, the [20-yard dumpster](/20-yard-dumpster-rental) at $375 gives you maximum capacity.
+For a combined garage cleanout and yard cleanup, a [10-yard dumpster](/10-yard-dumpster-rental) at $299 handles most projects. If you are adding a renovation project or clearing a large yard, step up to a [15-yard dumpster](/15-yard-dumpster-rental) at $349. For major multi-project summer cleanups, the [20-yard dumpster](/20-yard-dumpster-rental) at $399 gives you maximum capacity.
 
 ### Can yard waste go in a roll-off dumpster?
 
@@ -1418,7 +1418,7 @@ Yes. Branches, leaves, shrubs, mulch, and general yard debris are all accepted i
 
 Jacksonville's business community generates an enormous amount of waste every day. From retail stores clearing inventory to contractors hauling construction debris, from property managers handling tenant turnovers to restaurants managing renovations, commercial waste disposal is a constant need. If your business requires temporary, project-based waste removal, a commercial roll-off dumpster rental provides the flexibility and capacity that standard permanent dumpsters cannot match.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $275.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Understanding Commercial Dumpster Types
 
@@ -1444,7 +1444,7 @@ This guide focuses on roll-off dumpster rentals for commercial and business use,
 
 ## Commercial Dumpster Sizes and What They Handle
 
-### 10-Yard Roll-Off Dumpster - $275
+### 10-Yard Roll-Off Dumpster - $299
 
 The [10-yard dumpster](/10-yard-dumpster-rental) is the smallest roll-off we offer and works well for smaller commercial projects. It holds approximately 10 cubic yards of debris, about 3 pickup truck loads worth.
 
@@ -1455,7 +1455,7 @@ The [10-yard dumpster](/10-yard-dumpster-rental) is the smallest roll-off we off
 - Small warehouse cleanup section
 - Restaurant equipment removal (minor)
 
-### 15-Yard Roll-Off Dumpster - $325
+### 15-Yard Roll-Off Dumpster - $349
 
 The [15-yard dumpster](/15-yard-dumpster-rental) is the most versatile commercial option. It handles moderate projects without taking up excessive space on your property.
 
@@ -1466,7 +1466,7 @@ The [15-yard dumpster](/15-yard-dumpster-rental) is the most versatile commercia
 - Commercial kitchen renovation debris
 - Warehouse section cleanouts
 
-### 20-Yard Roll-Off Dumpster - $375
+### 20-Yard Roll-Off Dumpster - $399
 
 The [20-yard dumpster](/20-yard-dumpster-rental) is our largest option and handles major commercial projects.
 
@@ -1482,7 +1482,7 @@ The [20-yard dumpster](/20-yard-dumpster-rental) is our largest option and handl
 
 | | | |
 |---|---|---|
-| [**10-Yard Dumpster** - $275 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $325 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $375 - Best for large renovations](/20-yard-dumpster-rental) |
+| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
 ## Industry-Specific Waste Management
 
@@ -1520,9 +1520,9 @@ Our commercial pricing follows the same transparent, flat-rate structure as our 
 
 | Size | Flat Rate | Rental Period | Includes |
 |------|----------|--------------|---------|
-| 10-Yard | $275 | 5 days | Delivery, pickup, disposal |
-| 15-Yard | $325 | 5 days | Delivery, pickup, disposal |
-| 20-Yard | $375 | 5 days | Delivery, pickup, disposal |
+| 10-Yard | $299 | 5 days | Delivery, pickup, disposal |
+| 15-Yard | $349 | 5 days | Delivery, pickup, disposal |
+| 20-Yard | $399 | 5 days | Delivery, pickup, disposal |
 
 **No hidden fees.** No fuel surcharges, no environmental fees, no administrative costs. The price you see is the price you pay within the included weight allowance.
 
@@ -1573,7 +1573,7 @@ Same flat-rate pricing applies across our entire service area with no distance s
 
 ## How to Book a Commercial Dumpster Rental
 
-Booking is simple whether you need one dumpster or ten. [Book online 24/7](https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9) for standard orders, or call us at **(904) 240-5598** to discuss complex commercial needs, multi-container orders, or ongoing service arrangements.
+Booking is simple whether you need one dumpster or ten. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) for standard orders, or call us at **(904) 240-5598** to discuss complex commercial needs, multi-container orders, or ongoing service arrangements.
 
 ### Related Services
 
@@ -1585,7 +1585,7 @@ Booking is simple whether you need one dumpster or ten. [Book online 24/7](https
 
 ### How much does a commercial dumpster rental cost in Jacksonville?
 
-Our roll-off dumpster rentals for commercial use start at $275 for a 10-yard container, $325 for a 15-yard, and $375 for a 20-yard. Each rental includes delivery, pickup, disposal, and a 5-day rental period. No hidden fees or surcharges.
+Our roll-off dumpster rentals for commercial use start at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. Each rental includes delivery, pickup, disposal, and a 5-day rental period. No hidden fees or surcharges.
 
 ### What size commercial dumpster do I need?
 

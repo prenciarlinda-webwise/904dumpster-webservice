@@ -107,7 +107,7 @@ export default function ContactPage() {
                   Select your dumpster size and schedule delivery in minutes. No phone calls needed.
                 </p>
                 <a
-                  href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+                  href="https://app.icans.ai/customer-portal/904dumpster/book/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-3 bg-white hover:bg-gray-100 text-primary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300 w-full"
@@ -130,7 +130,7 @@ export default function ContactPage() {
                       <span className="text-gray-500 text-sm block">Perfect for small cleanouts</span>
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-primary font-bold">$275</span>
+                      <span className="text-primary font-bold">$299</span>
                       <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
                     </div>
                   </Link>
@@ -143,7 +143,7 @@ export default function ContactPage() {
                       <span className="text-gray-500 text-sm block">Great for roofing & remodels</span>
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-primary font-bold">$325</span>
+                      <span className="text-primary font-bold">$349</span>
                       <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
                     </div>
                   </Link>
@@ -156,7 +156,7 @@ export default function ContactPage() {
                       <span className="text-gray-500 text-sm block">Ideal for large renovations</span>
                     </div>
                     <div className="flex items-center gap-2">
-                      <span className="text-primary font-bold">$375</span>
+                      <span className="text-primary font-bold">$399</span>
                       <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
                     </div>
                   </Link>

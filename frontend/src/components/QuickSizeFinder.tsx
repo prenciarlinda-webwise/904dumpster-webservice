@@ -70,17 +70,17 @@ const PROJECT_TYPES = [
 
 const DUMPSTER_INFO: Record<string, { price: string; dimensions: string; capacity: string }> = {
   '10': {
-    price: '$275',
+    price: '$299',
     dimensions: "12' L × 7.5' W × 3.6' H",
     capacity: '3-4 pickup truck loads',
   },
   '15': {
-    price: '$325',
+    price: '$349',
     dimensions: "14' L × 7.5' W × 4.5' H",
     capacity: '5-6 pickup truck loads',
   },
   '20': {
-    price: '$375',
+    price: '$399',
     dimensions: "14' L × 7.5' W × 5.8' H",
     capacity: '7-8 pickup truck loads',
   },
@@ -162,7 +162,7 @@ export function QuickSizeFinder() {
         {/* CTAs */}
         <div className="space-y-3">
           <a
-            href="https://checkout.wayste.com/checkout/t6aNhsV7NMOF9uw9"
+            href="https://app.icans.ai/customer-portal/904dumpster/book/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-4 rounded-xl flex items-center justify-center gap-2 shadow-lg shadow-primary/25 transition-all"
