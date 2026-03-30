@@ -6,8 +6,8 @@ export const POSTS_1_TO_5: BlogPost[] = [
     slug: 'dumpster-rental-cost-st-augustine-fl',
     title: 'How Much Does a Dumpster Rental Cost in St. Augustine FL',
     metaTitle: 'Dumpster Rental Cost St. Augustine FL - 2026 Pricing Guide',
-    metaDescription: 'Find out how much a dumpster rental costs in St. Augustine FL. 10, 15, and 20-yard pricing starting at $299. Same-day delivery in St. Johns County.',
-    excerpt: 'Dumpster rental in St. Augustine costs between $299 and $399 depending on size. Get transparent pricing for 10, 15, and 20-yard roll-off dumpsters with same-day delivery throughout St. Johns County.',
+    metaDescription: 'Find out how much a dumpster rental costs in St. Augustine FL. 15 and 20-yard pricing starting at $449. Same-day delivery in St. Johns County.',
+    excerpt: 'Dumpster rental in St. Augustine costs between $449 and $499 depending on size. Get transparent pricing for 15 and 20-yard roll-off dumpsters with same-day delivery throughout St. Johns County.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-02-25',
@@ -19,7 +19,7 @@ export const POSTS_1_TO_5: BlogPost[] = [
     content: `
 ## How Much Does a Dumpster Rental Cost in St. Augustine FL?
 
-The cost of [renting a dumpster](/residential-dumpster-rental) in St. Augustine, FL ranges between $299 and $399 depending on the size you choose. 904 Dumpster offers flat-rate pricing on 10, 15, and 20-yard roll-off dumpsters with delivery throughout St. Johns County. Every price includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges.
+The cost of [renting a dumpster](/residential-dumpster-rental) in St. Augustine, FL ranges between $449 and $499 depending on the size you choose. 904 Dumpster offers flat-rate pricing on 15 and 20-yard roll-off dumpsters with delivery throughout the St. Augustine area. Every price includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges.
 
 Whether you are renovating a historic home in the Lincolnville neighborhood, clearing hurricane debris from your property on Anastasia Island, or managing a construction project along US-1 South, understanding what you will actually pay for a dumpster rental is the first step to staying on budget. This guide breaks down every cost factor so you can make the right decision for your project.
 
@@ -29,11 +29,10 @@ Here is what you can expect to pay for a roll-off dumpster rental in the St. Aug
 
 | Dumpster Size | Price | Dimensions (LxWxH) | Weight Included | Best For |
 |---|---|---|---|---|
-| [10-Yard](/10-yard-dumpster-rental) | $299 | 12ft x 7.5ft x 3.6ft | 1.5 tons | Garage cleanouts, small remodels |
-| [15-Yard](/15-yard-dumpster-rental) | $349 | 14ft x 7.5ft x 4.5ft | 2 tons | Roofing, kitchen remodels |
-| [20-Yard](/20-yard-dumpster-rental) | $399 | 14ft x 7.5ft x 5.8ft | 2 tons | Whole-house renovations, construction |
+| [15-Yard](/15-yard-dumpster-rental) | $449 | 14ft x 7.5ft x 4.5ft | 1.5 tons | Roofing, kitchen remodels, cleanouts |
+| [20-Yard](/20-yard-dumpster-rental) | $499 | 14ft x 7.5ft x 5.8ft | 2 tons | Whole-house renovations, construction |
 
-These are flat-rate prices. You will not see fuel surcharges, environmental fees, or any of the other line items that some national companies tack on after the fact. If your debris exceeds the included weight allowance, additional tonnage is billed at a fair per-ton rate that we disclose upfront.
+These are flat-rate prices. You will not see fuel surcharges, environmental fees, or any of the other line items that some national companies tack on after the fact. If your debris exceeds the included weight allowance, additional tonnage is billed at $100 per ton, which we disclose upfront.
 
 ### What Is Included in the Price?
 
@@ -51,7 +50,7 @@ There are no booking fees, no cancellation penalties for orders cancelled more t
 
 ### Dumpster Size
 
-Size is the biggest cost factor. A [10-yard dumpster](/10-yard-dumpster-rental) at $299 is the most affordable option and works for most single-room projects. If you are doing a larger renovation or whole-house cleanout, the [20-yard dumpster](/20-yard-dumpster-rental) at $399 gives you the most capacity per dollar. Our [dumpster size guide](/dumpster-size-guide) can help you estimate which size matches your project.
+Size is the biggest cost factor. A [15-yard dumpster](/15-yard-dumpster-rental) at $449 is our most compact option for St. Augustine and works for most renovation and cleanout projects. If you are doing a larger renovation or whole-house cleanout, the [20-yard dumpster](/20-yard-dumpster-rental) at $499 gives you the most capacity per dollar. Our [dumpster size guide](/dumpster-size-guide) can help you estimate which size matches your project.
 
 ### Debris Type
 
@@ -69,14 +68,14 @@ The standard 5-day rental period is included. Most homeowners in St. Augustine f
 
 If you have searched for dumpster pricing across Northeast Florida, you may have noticed that some areas charge more than others. Here is how St. Augustine stacks up:
 
-| Location | 10-Yard | 15-Yard | 20-Yard |
-|---|---|---|---|
-| St. Augustine (904 Dumpster) | $299 | $349 | $399 |
-| Jacksonville (904 Dumpster) | $299 | $349 | $399 |
-| [Orange Park](/dumpster-rental-orange-park-fl) (904 Dumpster) | $299 | $349 | $399 |
-| National Broker Average | $350-$450 | $400-$500 | $475-$600 |
+| Location | 15-Yard | 20-Yard |
+|---|---|---|
+| St. Augustine (904 Dumpster) | $449 | $499 |
+| Jacksonville / Duval County (904 Dumpster) | $349 | $399 |
+| [Orange Park](/dumpster-rental-orange-park-fl) / Clay County (904 Dumpster) | $409 | $459 |
+| National Broker Average | $400-$500 | $475-$600 |
 
-We keep pricing consistent across our service area. That means residents in [St. Augustine](/dumpster-rental-st-augustine-fl) pay the same rates as customers in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) or [Ponte Vedra](/dumpster-rental-ponte-vedra-fl). National brokers typically charge more because they add a middleman markup before subcontracting to a local hauler.
+Pricing varies by service area based on distance from our Jacksonville base and local disposal facility costs. St. Augustine pricing reflects the additional distance to serve the area. National brokers typically charge even more because they add a middleman markup before subcontracting to a local hauler.
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good! They were there when promised at drop off and pick up." - Paul Yarger, Google Review
 
@@ -595,8 +594,8 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     slug: 'dumpster-rental-cost-orange-park-fl',
     title: 'Dumpster Rental Pricing in Orange Park FL for 2026',
     metaTitle: 'Dumpster Rental Cost Orange Park FL - Clay County 2026 Pricing',
-    metaDescription: 'How much does a dumpster cost in Orange Park FL? 10-yard from $299, 15-yard from $349, 20-yard from $399. Licensed Clay County franchise hauler. Call today.',
-    excerpt: 'Dumpster rental in Orange Park FL costs $299 to $399 depending on size. As a Clay County licensed franchise hauler, 904 Dumpster offers transparent pricing with same-day delivery in Orange Park and surrounding areas.',
+    metaDescription: 'How much does a dumpster cost in Orange Park FL? 15-yard from $409, 20-yard from $459. Licensed Clay County franchise hauler. Call today.',
+    excerpt: 'Dumpster rental in Orange Park FL costs $409 to $459 depending on size. As a Clay County licensed franchise hauler, 904 Dumpster offers transparent pricing with same-day delivery in Orange Park and surrounding areas.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-03',
@@ -608,7 +607,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     content: `
 ## Dumpster Rental Pricing in Orange Park FL for 2026
 
-Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental) in Orange Park, FL? Prices range from $299 to $399 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
+Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental) in Orange Park, FL? Prices range from $409 to $459 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
 
 Orange Park is one of the busiest areas we serve in Clay County. Homeowners along Kingsley Avenue, contractors building in the Oakleaf Plantation communities, and property managers in the apartment complexes near the Orange Park Mall all need affordable, reliable dumpster rental. This guide breaks down exactly what you will pay, what affects the price, and how to get the best value for your project.
 
@@ -618,9 +617,8 @@ Here is our current pricing for roll-off dumpster rentals in Orange Park and thr
 
 | Dumpster Size | Price | Dimensions (LxWxH) | Weight Included | Best For |
 |---|---|---|---|---|
-| [10-Yard](/10-yard-dumpster-rental) | $299 | 12ft x 7.5ft x 3.6ft | 1.5 tons | Garage cleanouts, small remodels |
-| [15-Yard](/15-yard-dumpster-rental) | $349 | 14ft x 7.5ft x 4.5ft | 2 tons | Roofing, kitchen/bath remodels |
-| [20-Yard](/20-yard-dumpster-rental) | $399 | 14ft x 7.5ft x 5.8ft | 2 tons | Major renovations, construction |
+| [15-Yard](/15-yard-dumpster-rental) | $409 | 14ft x 7.5ft x 4.5ft | 1.5 tons | Roofing, kitchen/bath remodels, cleanouts |
+| [20-Yard](/20-yard-dumpster-rental) | $459 | 14ft x 7.5ft x 5.8ft | 2 tons | Major renovations, construction |
 
 ### What Is Included in Every Rental
 
@@ -641,7 +639,7 @@ We keep pricing simple because we believe you should know exactly what you are p
 
 ### No Middleman Markup
 
-National dumpster rental brokers, like the ones you find through Google Ads, charge $350 to $600 for the same sizes we offer at $299 to $399. The reason is simple: they take your order, add a 30-50% markup, and then call a local hauler to actually deliver the dumpster. You pay extra for a company that never touches your debris. When you book with 904 Dumpster, you are booking directly with the hauler. Our trucks, our drivers, our dumpsters, and our pricing.
+National dumpster rental brokers, like the ones you find through Google Ads, charge $500 to $700 for the same sizes we offer at $409 to $459. The reason is simple: they take your order, add a 30-50% markup, and then call a local hauler to actually deliver the dumpster. You pay extra for a company that never touches your debris. When you book with 904 Dumpster, you are booking directly with the hauler. Our trucks, our drivers, our dumpsters, and our pricing.
 
 ### Local Fuel and Travel Efficiency
 

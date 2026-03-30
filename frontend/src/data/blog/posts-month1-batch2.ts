@@ -190,7 +190,7 @@ Late fall through early spring, roughly November through March, offers the most 
     slug: 'dumpster-rental-cost-ponte-vedra-fl',
     title: 'How Much Does a Dumpster Cost in Ponte Vedra FL',
     metaTitle: 'Dumpster Rental Cost Ponte Vedra FL | 2026 Pricing Guide',
-    metaDescription: 'Dumpster rental prices in Ponte Vedra FL start at $299. Flat-rate pricing for Ponte Vedra Beach, Nocatee, and TPC Sawgrass areas. No hidden fees. Call (904) 240-5598.',
+    metaDescription: 'Dumpster rental prices in Ponte Vedra FL start at $409. Flat-rate pricing for Ponte Vedra Beach, Nocatee, and TPC Sawgrass areas. No hidden fees. Call (904) 240-5598.',
     excerpt: 'Complete pricing guide for dumpster rentals in Ponte Vedra FL, covering Ponte Vedra Beach, Nocatee, and St. Johns County with flat-rate pricing and no hidden fees.',
     category: 'cost-savings',
     author: '904 Dumpster',
@@ -202,7 +202,7 @@ Late fall through early spring, roughly November through March, offers the most 
     content: `
 ## Dumpster Rental Pricing in Ponte Vedra FL
 
-If you need a [dumpster rental](/dumpster-rental-ponte-vedra-fl) in Ponte Vedra FL, costs range from $299 to $399 depending on the container size, with flat-rate pricing that includes delivery, pickup, disposal, and a 5-day rental period. 904 Dumpster provides straightforward pricing with no hidden fees for Ponte Vedra residents throughout zip codes 32081 and 32082, whether you are renovating a home near Ponte Vedra Beach, clearing out a property in Nocatee, or managing a construction project in the TPC Sawgrass area.
+If you need a [dumpster rental](/dumpster-rental-ponte-vedra-fl) in Ponte Vedra FL, costs range from $409 to $459 depending on the container size, with flat-rate pricing that includes delivery, pickup, disposal, and a 5-day rental period. 904 Dumpster provides straightforward pricing with no hidden fees for Ponte Vedra residents throughout zip codes 32081 and 32082, whether you are renovating a home near Ponte Vedra Beach, clearing out a property in Nocatee, or managing a construction project in the TPC Sawgrass area.
 
 Ponte Vedra is one of the most desirable communities in Northeast Florida, and homeowners here frequently need dumpster rentals for renovation projects, estate cleanouts, landscaping overhauls, and new construction debris. Understanding dumpster rental costs upfront helps you budget accurately and avoid the surprise charges that plague customers who rent from national brokers or companies that advertise low base prices but tack on fees for fuel, disposal, environmental charges, and overage penalties.
 
@@ -212,15 +212,11 @@ This guide covers everything Ponte Vedra residents need to know about dumpster r
 
 Here are the current flat-rate prices for dumpster rentals in Ponte Vedra FL from 904 Dumpster:
 
-### 10-Yard Dumpster - $299
+### 15-Yard Dumpster - $409
 
-Our [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds up to 1.5 tons of material. This is the ideal size for small to medium projects like single-room renovations, garage cleanouts, deck removals, and small landscaping jobs. The compact footprint fits easily in Ponte Vedra driveways, including the narrower driveways found in some Nocatee neighborhoods.
+The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 4.5 feet tall and holds up to 1.5 tons. This is our most popular size for Ponte Vedra homeowners tackling kitchen remodels, bathroom renovations, roofing projects, and multi-room cleanouts. It provides a solid step up in capacity without requiring significantly more driveway space.
 
-### 15-Yard Dumpster - $349
-
-The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 4.5 feet tall and holds up to 2 tons. This is our most popular size for Ponte Vedra homeowners tackling kitchen remodels, bathroom renovations, roofing projects, and multi-room cleanouts. It provides a solid step up in capacity without requiring significantly more driveway space.
-
-### 20-Yard Dumpster - $399
+### 20-Yard Dumpster - $459
 
 Our largest container, the [20-yard dumpster](/20-yard-dumpster-rental), measures 14 feet long by 7.5 feet wide by 5.8 feet tall and holds up to 2 tons. This size handles whole-house renovations, major construction projects, estate cleanouts, and large-scale demolition debris. Contractors working on new builds and major remodels throughout Ponte Vedra frequently use this size.
 

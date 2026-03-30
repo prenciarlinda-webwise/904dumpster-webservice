@@ -343,8 +343,8 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     slug: 'dumpster-rental-cost-fernandina-beach-fl',
     title: 'Dumpster Rental Pricing on Amelia Island and Fernandina Beach',
     metaTitle: 'Dumpster Rental Cost Fernandina Beach FL - Nassau County Pricing',
-    metaDescription: 'Dumpster rental cost in Fernandina Beach and Amelia Island FL. Flat-rate pricing from $299 with delivery to all of Nassau County. Book online or call.',
-    excerpt: 'Dumpster rental in Fernandina Beach and Amelia Island costs $299 to $399 depending on size. 904 Dumpster delivers to all of Nassau County with flat-rate pricing that includes delivery, pickup, and disposal.',
+    metaDescription: 'Dumpster rental cost in Fernandina Beach and Amelia Island FL. Flat-rate pricing from $409 with delivery to all of Nassau County. Book online or call.',
+    excerpt: 'Dumpster rental in Fernandina Beach and Amelia Island costs $409 to $459 depending on size. 904 Dumpster delivers to all of Nassau County with flat-rate pricing that includes delivery, pickup, and disposal.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-21',
@@ -356,7 +356,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     content: `
 ## Dumpster Rental Pricing on Amelia Island and Fernandina Beach
 
-Wondering how much does it cost to rent a dumpster in Fernandina Beach? A [dumpster rental in Nassau County](/dumpster-rental-fernandina-beach-fl) from 904 Dumpster costs between $299 and $399 depending on the size you need. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees, no fuel surcharges, and no surprise charges. We deliver to all of Nassau County, from downtown Fernandina Beach to the Plantation at Amelia Island and every neighborhood in between.
+Wondering how much does it cost to rent a dumpster in Fernandina Beach? A [dumpster rental in Nassau County](/dumpster-rental-fernandina-beach-fl) from 904 Dumpster costs between $409 and $459 depending on the size you need. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees, no fuel surcharges, and no surprise charges. We deliver to all of Nassau County, from downtown Fernandina Beach to the Plantation at Amelia Island and every neighborhood in between.
 
 ## 904 Dumpster Pricing for Fernandina Beach and Amelia Island
 
@@ -364,11 +364,10 @@ We keep our pricing simple and transparent. Here is what each dumpster size cost
 
 | Dumpster Size | Dimensions | Weight Included | Price |
 |--------------|------------|----------------|-------|
-| **10-Yard** | 12ft x 7.5ft x 3.6ft | 1.5 tons (3,000 lbs) | **$299** |
-| **15-Yard** | 14ft x 7.5ft x 4.5ft | 2 tons (4,000 lbs) | **$349** |
-| **20-Yard** | 14ft x 7.5ft x 5.8ft | 2 tons (4,000 lbs) | **$399** |
+| **15-Yard** | 14ft x 7.5ft x 4.5ft | 1.5 tons (3,000 lbs) | **$409** |
+| **20-Yard** | 14ft x 7.5ft x 5.8ft | 2 tons (4,000 lbs) | **$459** |
 
-These prices are the same whether you are on Amelia Island, in downtown Fernandina Beach, Yulee, Callahan, or Hilliard. We do not charge extra for delivery to Nassau County.
+These prices are the same whether you are on Amelia Island, in downtown Fernandina Beach, Yulee, Callahan, or Hilliard.
 
 ### What Is Included in Every Rental
 
@@ -380,13 +379,13 @@ Every dumpster rental from 904 Dumpster includes:
 - **Pickup** within 24 hours of your call or text
 - **No fuel surcharges, environmental fees, or admin charges**
 
-The price you see is the price you pay. If you go over the included weight limit, additional weight is billed at a per-ton rate, but for most residential projects in Fernandina Beach, the included tonnage is more than enough.
+The price you see is the price you pay. If you go over the included weight limit, additional weight is billed at $100 per ton, but for most residential projects in Fernandina Beach, the included tonnage is more than enough.
 
 > REVIEW: "Fast and efficient service. Excellent price will use again highly recommended" - Sarah Phillips, Google Review
 
 ## How Fernandina Beach Pricing Compares to Other Services
 
-Dumpster rental pricing in the Fernandina Beach area varies widely depending on who you call. National brokers like Waste Management, Budget Dumpster, and Bin There Dump That often quote $400 to $600 or more for a 10-yard dumpster in Nassau County, and many of those quotes do not include the full weight allowance or disposal fees.
+Dumpster rental pricing in the Fernandina Beach area varies widely depending on who you call. National brokers like Waste Management, Budget Dumpster, and Bin There Dump That often quote $500 to $700 or more for a 15-yard dumpster in Nassau County, and many of those quotes do not include the full weight allowance or disposal fees.
 
 Here is how 904 Dumpster compares:
 
