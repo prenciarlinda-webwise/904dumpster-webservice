@@ -46,15 +46,27 @@ export default function Header() {
 
   return (
     <>
-      {/* Floating Call Button - Mobile */}
-      <a
-        href={`tel:${BUSINESS.phoneRaw}`}
-        className="lg:hidden fixed bottom-6 right-6 z-50 bg-primary text-white p-4 rounded-full shadow-2xl shadow-primary/30 hover:scale-110 transition-transform duration-300"
-        aria-label="Call us"
-        title="Call 904 Dumpster"
-      >
-        <Phone className="w-6 h-6" />
-      </a>
+      {/* Floating Mobile Buttons */}
+      <div className="lg:hidden fixed bottom-6 right-6 z-50 flex flex-col gap-3">
+        <a
+          href="https://app.icans.ai/customer-portal/904dumpster/book/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-primary text-white px-5 py-3 rounded-full shadow-2xl shadow-primary/30 hover:scale-105 transition-transform duration-300 font-bold text-sm flex items-center gap-2"
+          title="Book a Dumpster Online"
+        >
+          Book Now
+          <ArrowRight className="w-4 h-4" />
+        </a>
+        <a
+          href={`tel:${BUSINESS.phoneRaw}`}
+          className="bg-secondary text-white p-4 rounded-full shadow-2xl shadow-black/20 hover:scale-110 transition-transform duration-300 self-end"
+          aria-label="Call us"
+          title="Call 904 Dumpster"
+        >
+          <Phone className="w-6 h-6" />
+        </a>
+      </div>
 
       {/* Main Header */}
       <header
@@ -356,15 +368,32 @@ export default function Header() {
                 </div>
               ))}
 
-              {/* Desktop CTA */}
-              <a
-                href={`tel:${BUSINESS.phoneRaw}`}
-                title="Call 904 Dumpster"
-                className="ml-6 bg-primary hover:bg-primary/90 text-white font-bold px-6 py-3 rounded-full flex items-center gap-2 shadow-lg shadow-primary/25 hover:shadow-xl hover:shadow-primary/30 hover:scale-105 transition-all duration-300"
-              >
-                <Phone className="w-4 h-4" />
-                {BUSINESS.phone}
-              </a>
+              {/* Desktop CTAs */}
+              <div className="ml-6 flex items-center gap-3">
+                <a
+                  href="https://app.icans.ai/customer-portal/904dumpster/auth/login/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title="Already a Customer? Log In"
+                  className={`font-semibold px-4 py-2.5 rounded-full transition-all duration-300 ${
+                    useTransparentHeader
+                      ? 'text-white/90 hover:text-white hover:bg-white/10 border border-white/30'
+                      : 'text-secondary hover:text-primary hover:bg-primary/5 border border-gray-200'
+                  }`}
+                >
+                  Already a Customer?
+                </a>
+                <a
+                  href="https://app.icans.ai/customer-portal/904dumpster/book/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title="Book a Dumpster Rental Online"
+                  className="bg-primary hover:bg-primary/90 text-white font-bold px-6 py-3 rounded-full flex items-center gap-2 shadow-lg shadow-primary/25 hover:shadow-xl hover:shadow-primary/30 hover:scale-105 transition-all duration-300"
+                >
+                  Book Online
+                  <ArrowRight className="w-4 h-4" />
+                </a>
+              </div>
             </div>
 
             {/* Mobile Menu Button */}
@@ -596,18 +625,34 @@ export default function Header() {
             </nav>
 
             {/* Mobile CTA */}
-            <div className="p-6 border-t border-gray-100 mt-4">
+            <div className="p-6 border-t border-gray-100 mt-4 space-y-3">
+              <a
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Book a Dumpster Rental Online"
+                className="flex items-center justify-center gap-3 w-full bg-primary hover:bg-primary/90 text-white font-bold px-6 py-4 rounded-2xl shadow-lg shadow-primary/25 transition-all"
+              >
+                Book Online
+                <ArrowRight className="w-5 h-5" />
+              </a>
+              <a
+                href="https://app.icans.ai/customer-portal/904dumpster/auth/login/"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Already a Customer? Log In"
+                className="flex items-center justify-center gap-3 w-full border-2 border-gray-200 hover:border-primary text-secondary hover:text-primary font-bold px-6 py-4 rounded-2xl transition-all"
+              >
+                Already a Customer? Log In
+              </a>
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
                 title="Call 904 Dumpster"
-                className="flex items-center justify-center gap-3 w-full bg-primary hover:bg-primary/90 text-white font-bold px-6 py-4 rounded-2xl shadow-lg shadow-primary/25 transition-all"
+                className="flex items-center justify-center gap-3 w-full text-gray-500 hover:text-primary font-medium px-6 py-3 transition-all"
               >
-                <Phone className="w-5 h-5" />
-                Call {BUSINESS.phone}
+                <Phone className="w-4 h-4" />
+                {BUSINESS.phone}
               </a>
-              <p className="text-center text-gray-400 text-sm mt-3">
-                {BUSINESS.hours.weekday}
-              </p>
             </div>
           </div>
         </div>
