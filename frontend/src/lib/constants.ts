@@ -149,7 +149,7 @@ export const DUMPSTER_SIZES = [
     href: '/10-yard-dumpster-rental',
     dimensions: "12' L x 7.5' W x 3.6' H",
     capacity: '10 cubic yards',
-    weight: 'Up to 1.5 tons',
+    weight: 'Up to 1 ton',
     truckLoads: '3 pickup truck loads',
     ideal: ['Small home cleanouts', 'Garage cleanouts', 'Minor renovation projects', 'Small landscaping projects'],
     description: 'Perfect for small home cleanouts and minor renovation projects.',

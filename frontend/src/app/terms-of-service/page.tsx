@@ -42,7 +42,7 @@ export default function TermsOfServicePage() {
             <span className="text-white">Terms of Service</span>
           </nav>
           <h1 className="text-4xl md:text-5xl font-black text-white">Terms of Service</h1>
-          <p className="text-white/70 mt-4">Last updated: January 2025</p>
+          <p className="text-white/70 mt-4">Last updated: March 2026</p>
         </div>
       </section>
 
@@ -64,11 +64,11 @@ export default function TermsOfServicePage() {
               with 904 Dumpster. This agreement includes:
             </p>
             <ul className="list-disc pl-6 space-y-2 text-gray-600 mb-6">
-              <li>The quoted price for your rental</li>
-              <li>The rental period (standard 5 days unless otherwise agreed)</li>
+              <li>The quoted price for your rental (pricing varies by county and service area)</li>
+              <li>The rental period (3 days for 10-yard, 5 days for 15 and 20-yard, unless otherwise agreed)</li>
               <li>Delivery and pickup dates</li>
-              <li>Dumpster size selected</li>
-              <li>Delivery address</li>
+              <li>Dumpster size selected (10-yard available in Duval County only; 15 and 20-yard available in all service areas)</li>
+              <li>Delivery address and service area</li>
               <li>Any special instructions or conditions</li>
             </ul>
 
@@ -77,20 +77,33 @@ export default function TermsOfServicePage() {
             </h2>
             <h3 className="text-xl font-bold text-secondary mt-8 mb-4">Base Pricing</h3>
             <p className="text-gray-600 mb-4">
-              Our quoted prices include delivery, standard rental period (5 days), pickup, and
-              disposal up to the included weight limit. Prices are subject to change without
-              notice, but your quote is locked in once confirmed.
+              Our quoted prices include delivery, the standard rental period (3 days for 10-yard,
+              5 days for 15 and 20-yard), pickup, and disposal up to the included weight limit.
+              Pricing varies by service area:
+            </p>
+            <ul className="list-disc pl-6 space-y-2 text-gray-600 mb-4">
+              <li><strong>Duval County:</strong> 10-yard $299 (1 ton, 3 days), 15-yard $349 (1.5 tons, 5 days), 20-yard $399 (2 tons, 5 days)</li>
+              <li><strong>Clay County:</strong> 15-yard $409 (1.5 tons, 5 days), 20-yard $459 (2 tons, 5 days)</li>
+              <li><strong>St. Johns County:</strong> 15-yard $409 (1.5 tons, 5 days), 20-yard $459 (2 tons, 5 days)</li>
+              <li><strong>Nassau County:</strong> 15-yard $409 (1.5 tons, 5 days), 20-yard $459 (2 tons, 5 days)</li>
+              <li><strong>St. Augustine:</strong> 15-yard $449 (1.5 tons, 5 days), 20-yard $499 (2 tons, 5 days)</li>
+              <li><strong>Macclenny / Baker County:</strong> 15-yard $379 (1.5 tons, 5 days), 20-yard $429 (2 tons, 5 days)</li>
+              <li><strong>Starke / Bradford County:</strong> 15-yard $449 (1.5 tons, 5 days), 20-yard $499 (2 tons, 5 days)</li>
+            </ul>
+            <p className="text-gray-600 mb-4">
+              2-week and monthly rental options are available at additional cost. Prices are
+              subject to change without notice, but your quote is locked in once confirmed.
             </p>
 
             <h3 className="text-xl font-bold text-secondary mt-8 mb-4">Additional Charges</h3>
             <p className="text-gray-600 mb-4">Additional charges may apply for:</p>
             <ul className="list-disc pl-6 space-y-2 text-gray-600 mb-6">
               <li>
-                <strong>Weight overage:</strong> $75 per additional ton over the included weight
-                limit
+                <strong>Weight overage:</strong> $75 per additional ton in Duval County; $100 per
+                additional ton in all other service areas
               </li>
               <li>
-                <strong>Extended rental:</strong> $10 per day beyond the standard rental period
+                <strong>Extended rental:</strong> $15 per day beyond the standard rental period
               </li>
               <li>
                 <strong>Prohibited items:</strong> Fees for removal of prohibited materials found

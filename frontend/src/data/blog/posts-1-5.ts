@@ -131,7 +131,7 @@ For properties within the St. Augustine city limits, contact the Building Depart
 
 ### How much does a 10-yard dumpster cost in St. Augustine?
 
-A 10-yard dumpster in St. Augustine costs $299 from 904 Dumpster. This includes delivery, pickup, disposal at an approved St. Johns County facility, and a 5-day rental period. It holds approximately 3 pickup truck loads of debris and is ideal for garage cleanouts, small remodels, and yard waste projects.
+A 10-yard dumpster in St. Augustine costs $299 from 904 Dumpster. This includes delivery, pickup, disposal at an approved St. Johns County facility, and a 3-day rental period. It holds approximately 3 pickup truck loads of debris and is ideal for garage cleanouts, small remodels, and yard waste projects.
 
 ### Can I get same-day dumpster delivery in St. Augustine?
 
@@ -363,7 +363,7 @@ For a complete list with disposal alternatives for each item, read our [what can
 
 ### How much does a dumpster cost for spring cleaning in Jacksonville?
 
-A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 5-day rental. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
+A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
 
 ### Can I put furniture in a dumpster during spring cleaning?
 
@@ -677,8 +677,8 @@ Here are the most common projects we handle in the Orange Park area with recomme
 
 | Project Type | Recommended Size | Price | Rental Period |
 |---|---|---|---|
-| Garage cleanout | [10-Yard](/10-yard-dumpster-rental) | $299 | 5 days |
-| Single bathroom remodel | [10-Yard](/10-yard-dumpster-rental) | $299 | 5 days |
+| Garage cleanout | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
+| Single bathroom remodel | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
 | Kitchen remodel | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
 | Roof tear-off (up to 20 sq) | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
 | Estate/whole-house cleanout | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
@@ -752,7 +752,7 @@ For most projects, renting a dumpster from 904 Dumpster and having us handle dis
 
 ### How much is a dumpster rental in Orange Park FL?
 
-A dumpster rental in Orange Park costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard from 904 Dumpster. All prices include delivery, pickup, disposal at approved Clay County facilities, and a 5-day rental period. No hidden fees.
+A dumpster rental in Orange Park costs $349 for a 15-yard and $399 for a 20-yard from 904 Dumpster. All prices include delivery, pickup, disposal at approved Clay County facilities, and a 5-day rental period. No hidden fees.
 
 ### Does 904 Dumpster deliver to Oakleaf Plantation?
 
@@ -796,7 +796,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 
-A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1.5 tons (3,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in Jacksonville and the surrounding areas.
+A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1 ton (2,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in Jacksonville and the surrounding areas.
 
 The 10-yard dumpster is our most frequently misunderstood size. Some people think it is too small to be useful, while others assume it can handle a full house cleanout. The truth is somewhere in between, and knowing exactly what fits helps you avoid ordering too large (wasting money) or too small (needing a second delivery). This guide uses real project examples from jobs we have completed across Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and the Beaches to show you precisely what a 10-yard can handle.
 
@@ -808,10 +808,10 @@ The 10-yard dumpster is our most frequently misunderstood size. Some people thin
 | Length | 12 feet |
 | Width | 7.5 feet |
 | Height | 3.6 feet (about waist-high) |
-| Weight Limit | 1.5 tons (3,000 lbs) |
+| Weight Limit | 1 ton (2,000 lbs) |
 | Pickup Truck Equivalent | 3 full loads |
 | Price | $299 (flat rate) |
-| Rental Period | 5 days included |
+| Rental Period | 3 days included |
 
 The 3.6-foot wall height is one of the biggest practical advantages of the 10-yard. It is low enough that most people can toss debris over the side without a ramp, making loading faster and easier. The rear swing door also opens for rolling in heavier items like appliances or wheelbarrow loads.
 
@@ -851,7 +851,7 @@ A cosmetic bathroom renovation where you are replacing the vanity, toilet, mirro
 
 ### Deck Removal (Small to Medium)
 
-A deck up to about 200 square feet, which is a standard 10x20 or 12x16 deck, fits in a 10-yard when broken down properly. Cut boards into manageable lengths and stack them flat in the dumpster to maximize space. The weight of pressure-treated lumber adds up quickly, so stay mindful of the 1.5-ton limit.
+A deck up to about 200 square feet, which is a standard 10x20 or 12x16 deck, fits in a 10-yard when broken down properly. Cut boards into manageable lengths and stack them flat in the dumpster to maximize space. The weight of pressure-treated lumber adds up quickly, so stay mindful of the 1-ton limit.
 
 ### Attic Cleanout
 
@@ -895,7 +895,7 @@ Kitchens generate heavy debris: cabinets, countertops (especially granite or qua
 
 ### Roof Tear-Off
 
-Roofing shingles are extremely heavy. A single layer of shingles from a 1,500-square-foot roof weighs approximately 3,000 to 5,000 pounds, which exceeds the 10-yard's 1.5-ton weight limit. Roofing projects need a 15 or 20-yard dumpster. Details in our [roofing waste management guide](/blog/managing-roofing-project-waste).
+Roofing shingles are extremely heavy. A single layer of shingles from a 1,500-square-foot roof weighs approximately 3,000 to 5,000 pounds, which exceeds the 10-yard's 1-ton weight limit. Roofing projects need a 15 or 20-yard dumpster. Details in our [roofing waste management guide](/blog/managing-roofing-project-waste).
 
 ### Major Renovation or Construction
 
@@ -935,7 +935,7 @@ If you are debating between a 10-yard dumpster and other ways to get rid of your
 
 | Option | Cost | Capacity | Convenience |
 |---|---|---|---|
-| 10-Yard Dumpster (904 Dumpster) | $299 | 10 cubic yards / 3 truck loads | High - loaded at your pace over 5 days |
+| 10-Yard Dumpster (904 Dumpster) | $299 | 10 cubic yards / 3 truck loads | High - loaded at your pace over 3 days |
 | Pickup truck trips to dump | $50-$80/trip x 3 trips = $150-$240 | 3-4 cubic yards per trip | Low - multiple trips, your time and gas |
 | Junk removal service | $300-$500 | Varies by volume | Medium - they load but you pay per item |
 | Bagster (Waste Management) | $230-$350 | 3 cubic yards (1 truck load) | Low - expensive for the capacity |
@@ -968,7 +968,7 @@ Yes. A 10-yard dumpster is the ideal size for most standard two-car garage clean
 
 ### How much weight can you put in a 10-yard dumpster?
 
-A 10-yard dumpster from 904 Dumpster has a weight limit of 1.5 tons (3,000 pounds). This is sufficient for most household junk, furniture, and light construction debris. Heavy materials like concrete, brick, and dirt fill the weight limit before filling the volume, so projects involving those materials may need a [concrete disposal dumpster](/concrete-disposal-dumpster) or a larger container.
+A 10-yard dumpster from 904 Dumpster has a weight limit of 1 ton (2,000 pounds). This is sufficient for most household junk, furniture, and light construction debris. Heavy materials like concrete, brick, and dirt fill the weight limit before filling the volume, so projects involving those materials may need a [concrete disposal dumpster](/concrete-disposal-dumpster) or a larger container.
 
 ### Can I put appliances in a 10-yard dumpster?
 
@@ -976,7 +976,7 @@ Yes. Most appliances including washers, dryers, dishwashers, stoves, and water h
 
 ### How much does a 10-yard dumpster cost in Jacksonville?
 
-A 10-yard dumpster rental in Jacksonville costs $299 from 904 Dumpster. This flat rate includes delivery, pickup, disposal at an approved facility, and a 5-day rental period. There are no hidden fees, fuel surcharges, or environmental charges. The same $299 price applies throughout our service area including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
+A 10-yard dumpster rental in Jacksonville costs $299 from 904 Dumpster. This flat rate includes delivery, pickup, disposal at an approved facility, and a 3-day rental period. There are no hidden fees, fuel surcharges, or environmental charges. The same $299 price applies throughout our service area including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
 
 ## Related Resources
 

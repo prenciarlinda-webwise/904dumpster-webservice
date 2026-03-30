@@ -39,9 +39,9 @@ Choosing the right roll off container size is the single most important decision
 |---|---|---|---|
 | **Dimensions (LxWxH)** | 12ft x 7.5ft x 3.6ft | 14ft x 7.5ft x 4.5ft | 14ft x 7.5ft x 5.8ft |
 | **Equivalent Pickup Loads** | 4-5 truck loads | 6-8 truck loads | 8-10 truck loads |
-| **Weight Included** | 1.5 tons | 2 tons | 2 tons |
+| **Weight Included** | 1 ton | 2 tons | 2 tons |
 | **Price** | $299 | $349 | $399 |
-| **Rental Period** | 5 days | 5 days | 5 days |
+| **Rental Period** | 3 days | 5 days | 5 days |
 | **Best For** | Small cleanouts, single room | Roofing, mid-size remodels | Major renovations, construction |
 
 All three roll away dumpster sizes fit comfortably in a standard driveway. The 10-yard is the most compact option and sits low to the ground, making it easy to load by hand. The 20-yard is taller but still manageable with a walk-in rear door that lets you wheel in heavy items with a hand truck or dolly.
@@ -92,7 +92,7 @@ At 904 Dumpster, our [flat-rate pricing](/dumpster-rental-pricing-jacksonville) 
 
 | Size | Flat Rate | Includes |
 |---|---|---|
-| 10-yard | $299 | Delivery, pickup, 1.5 tons disposal, 5-day rental |
+| 10-yard | $299 | Delivery, pickup, 1 ton disposal, 3-day rental |
 | 15-yard | $349 | Delivery, pickup, 2 tons disposal, 5-day rental |
 | 20-yard | $399 | Delivery, pickup, 2 tons disposal, 5-day rental |
 
@@ -910,7 +910,7 @@ Choosing the right construction dumpster size depends on your project type, the 
 
 | Size | Dimensions | Weight Included | Price | Best For |
 |---|---|---|---|---|
-| [10-Yard](/10-yard-dumpster-rental) | 12ft x 7.5ft x 3.6ft | 1.5 tons | $299 | Small remodels, single-room renovations |
+| [10-Yard](/10-yard-dumpster-rental) | 12ft x 7.5ft x 3.6ft | 1 ton | $299 | Small remodels, single-room renovations |
 | [15-Yard](/15-yard-dumpster-rental) | 14ft x 7.5ft x 4.5ft | 2 tons | $349 | Kitchen/bath remodels, roofing, mid-size projects |
 | [20-Yard](/20-yard-dumpster-rental) | 14ft x 7.5ft x 5.8ft | 2 tons | $399 | New construction, large renovations, demolition |
 
@@ -1001,7 +1001,7 @@ For [demolition projects](/demolition-services-jacksonville), check out our demo
 
 ### How much does a construction dumpster rental cost?
 
-Construction dumpster rental from 904 Dumpster costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard container. Flat-rate pricing includes delivery, pickup, disposal, and a 5-day rental period. See our [pricing page](/dumpster-rental-pricing-jacksonville) for complete details.
+Construction dumpster rental from 904 Dumpster costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard container. Flat-rate pricing includes delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental period. See our [pricing page](/dumpster-rental-pricing-jacksonville) for complete details.
 
 ### What size dumpster do I need for a construction site?
 

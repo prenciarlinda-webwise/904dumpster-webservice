@@ -49,7 +49,7 @@ If you live in Orange Park, Fleming Island, Middleburg, Green Cove Springs, Oakl
 
 We deliver three roll-off dumpster sizes throughout Clay County:
 
-**10-Yard Dumpster ($299)** - 12ft x 7.5ft x 3.6ft. Holds 1.5 tons. Best for garage cleanouts, single-room renovations, and small landscaping projects. Fits easily in Clay County driveways and cul-de-sacs.
+**10-Yard Dumpster ($299)** - 12ft x 7.5ft x 3.6ft. Holds 1 ton. Best for garage cleanouts, single-room renovations, and small landscaping projects. Fits easily in Clay County driveways and cul-de-sacs.
 
 **15-Yard Dumpster ($349)** - 14ft x 7.5ft x 4.5ft. Holds 2 tons. Ideal for roofing tear-offs, kitchen remodels, and medium estate cleanouts. Our most popular size for Fleming Island and Oakleaf homeowners.
 
@@ -99,7 +99,7 @@ No permit is needed if the dumpster is placed on your private property, such as 
 
 ### How much does a dumpster rental cost in Clay County?
 
-Dumpster rental in Clay County costs $299 to $399 at 904 Dumpster, depending on size. The 10-yard is $299, the 15-yard is $349, and the 20-yard is $399. All prices include delivery, pickup, disposal, and a 5-day rental.
+Dumpster rental in Clay County costs $299 to $399 at 904 Dumpster, depending on size. The 10-yard is $299, the 15-yard is $349, and the 20-yard is $399. All prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental.
 
 ### Does 904 Dumpster deliver to Orange Park and Fleming Island?
 
@@ -597,8 +597,8 @@ After 2,000+ deliveries across Jacksonville since 2016, we have seen every type 
 | Dimensions | 12' x 7.5' x 3.6' | 14' x 7.5' x 4.5' | 14' x 7.5' x 5.8' |
 | Capacity | 10 cubic yards | 15 cubic yards | 20 cubic yards |
 | Truck Loads | 3 pickup loads | 5 pickup loads | 7 pickup loads |
-| Weight Limit | 1.5 tons (3,000 lbs) | 2 tons (4,000 lbs) | 2 tons (4,000 lbs) |
-| Rental Period | 5 days | 5 days | 5 days |
+| Weight Limit | 1 ton (2,000 lbs) | 2 tons (4,000 lbs) | 2 tons (4,000 lbs) |
+| Rental Period | 3 days | 5 days | 5 days |
 | Best For | Small cleanouts, garage | Roofing, remodels | Whole-house, construction |
 
 All prices include delivery, pickup, rental period, and disposal. No hidden fees.
@@ -609,7 +609,7 @@ All prices include delivery, pickup, rental period, and disposal. No hidden fees
 
 **Capacity**: 10 cubic yards (approximately 3 pickup truck loads)
 
-**Weight Limit**: Up to 3,000 pounds (1.5 tons)
+**Weight Limit**: Up to 2,000 pounds (1 ton)
 
 **Ideal Projects**:
 - Small bathroom remodels
@@ -886,7 +886,7 @@ Yes, mattresses are accepted in all 904 Dumpster roll-off containers. Place them
 
 ### Can I put concrete or brick in a dumpster?
 
-Yes, but be mindful of weight limits. Concrete weighs approximately 150 lbs per cubic foot. A [10-yard dumpster](/10-yard-dumpster-rental) loaded with concrete can quickly exceed the 1.5-ton weight limit. For concrete-only loads, we offer a [concrete disposal dumpster](/concrete-disposal-dumpster) with appropriate weight allowances.
+Yes, but be mindful of weight limits. Concrete weighs approximately 150 lbs per cubic foot. A [10-yard dumpster](/10-yard-dumpster-rental) loaded with concrete can quickly exceed the 1-ton weight limit. For concrete-only loads, we offer a [concrete disposal dumpster](/concrete-disposal-dumpster) with appropriate weight allowances.
 
 ### What happens if prohibited items are found in my dumpster?
 

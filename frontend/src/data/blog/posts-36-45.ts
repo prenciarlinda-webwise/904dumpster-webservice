@@ -1520,7 +1520,7 @@ Our commercial pricing follows the same transparent, flat-rate structure as our 
 
 | Size | Flat Rate | Rental Period | Includes |
 |------|----------|--------------|---------|
-| 10-Yard | $299 | 5 days | Delivery, pickup, disposal |
+| 10-Yard | $299 | 3 days | Delivery, pickup, disposal |
 | 15-Yard | $349 | 5 days | Delivery, pickup, disposal |
 | 20-Yard | $399 | 5 days | Delivery, pickup, disposal |
 
@@ -1585,7 +1585,7 @@ Booking is simple whether you need one dumpster or ten. [Book online 24/7](https
 
 ### How much does a commercial dumpster rental cost in Jacksonville?
 
-Our roll-off dumpster rentals for commercial use start at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. Each rental includes delivery, pickup, disposal, and a 5-day rental period. No hidden fees or surcharges.
+Our roll-off dumpster rentals for commercial use start at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. Each rental includes delivery, pickup, disposal, and a rental period (3 days for 10-yard, 5 days for 15/20-yard). No hidden fees or surcharges.
 
 ### What size commercial dumpster do I need?
 

@@ -129,7 +129,7 @@ If the estate is located in the beaches area, we also serve [Jacksonville Beach]
 
 ## How to Book a Dumpster for Your Estate Cleanout
 
-Renting a dumpster from 904 Dumpster takes about five minutes. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Choose between a 10-yard ($299), 15-yard ($349), or 20-yard ($399) dumpster. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees.
+Renting a dumpster from 904 Dumpster takes about five minutes. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Choose between a 10-yard ($299), 15-yard ($349), or 20-yard ($399) dumpster. Every rental includes delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental period with no hidden fees.
 
 For more information about the complete cleanout process, read our [complete guide to home cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville) and our [garage cleanout guide](/blog/garage-cleanout-guide-jacksonville).
 
@@ -417,7 +417,7 @@ If you are also dealing with [kitchen renovation debris](/blog/kitchen-renovatio
 
 ### Vacation Rental Turnovers and Cleanouts
 
-Amelia Island is a major vacation rental market. Property owners frequently update and refresh rental properties between seasons, replacing furniture, mattresses, appliances, and decor. A 10-yard dumpster is usually sufficient for a vacation rental cleanout, and the 5-day rental period gives you plenty of time to complete the work between guests.
+Amelia Island is a major vacation rental market. Property owners frequently update and refresh rental properties between seasons, replacing furniture, mattresses, appliances, and decor. A 10-yard dumpster is usually sufficient for a vacation rental cleanout, and the 3-day rental period gives you plenty of time to complete the work between guests.
 
 ### New Construction in Yulee and Wildlight
 
@@ -486,7 +486,7 @@ Ready to get started? You have two easy options:
 
 ### How much does a dumpster rental cost in Fernandina Beach?
 
-A dumpster rental in Fernandina Beach costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard at 904 Dumpster. All prices include delivery, pickup, disposal, and a 5-day rental period. There are no hidden fees or surcharges for Nassau County delivery.
+A dumpster rental in Fernandina Beach costs $349 for a 15-yard and $399 for a 20-yard at 904 Dumpster. All prices include delivery, pickup, disposal, and a 5-day rental period. There are no hidden fees or surcharges for Nassau County delivery.
 
 ### Do you deliver dumpsters to Amelia Island?
 
@@ -682,11 +682,11 @@ For most shed, deck, and fence demolitions in Jacksonville, a [15-yard dumpster]
 
 Our pricing is straightforward:
 
-- **10-yard dumpster:** $299 (includes 1.5 tons)
+- **10-yard dumpster:** $299 (includes 1 ton)
 - **15-yard dumpster:** $349 (includes 2 tons)
 - **20-yard dumpster:** $399 (includes 2 tons)
 
-All rentals include delivery, pickup, disposal, and a 5-day rental period. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**. We deliver throughout Jacksonville, [Middleburg](/dumpster-rental-middleburg-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all surrounding areas.
+All rentals include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental period. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**. We deliver throughout Jacksonville, [Middleburg](/dumpster-rental-middleburg-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all surrounding areas.
 
 ## Frequently Asked Questions
 
@@ -764,7 +764,7 @@ If you are deciding between dumpster sizes, this side-by-side comparison will he
 |---------|---------|-------------|---------|
 | **Cubic Yards** | 10 | **15** | 20 |
 | **Dimensions (L x W x H)** | 12ft x 7.5ft x 3.6ft | **14ft x 7.5ft x 4.5ft** | 14ft x 7.5ft x 5.8ft |
-| **Weight Included** | 1.5 tons | **2 tons** | 2 tons |
+| **Weight Included** | 1 ton | **2 tons** | 2 tons |
 | **Pickup Truck Loads** | 3-4 | **5** | 6-7 |
 | **Wall Height** | 3.6 feet | **4.5 feet** | 5.8 feet |
 | **Best For** | Single-room projects | **Multi-room renovations, roofing, spring cleanouts** | Whole-house gut jobs, large construction |

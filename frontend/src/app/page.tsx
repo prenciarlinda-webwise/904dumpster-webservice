@@ -353,7 +353,7 @@ const serviceSchema = {
         itemOffered: {
           '@type': 'Service',
           name: '10 Yard Dumpster Rental',
-          description: '12ft x 7.5ft x 3.6ft roll-off container. Holds 1.5 tons. Ideal for garage cleanouts and small renovations.',
+          description: '12ft x 7.5ft x 3.6ft roll-off container. Holds 1 ton. 3-day rental. Ideal for garage cleanouts and small renovations.',
           url: 'https://www.904dumpster.com/10-yard-dumpster-rental',
         },
         price: '275',

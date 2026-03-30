@@ -3,6 +3,14 @@ export interface FAQ {
   answer: string
 }
 
+export type LocationType = 'historic' | 'beach' | 'upscale' | 'rural' | 'suburban'
+
+export interface NeighborhoodSpotlight {
+  name: string
+  description: string
+  popularSize: string
+}
+
 export interface Location {
   slug: string
   name: string
@@ -28,6 +36,15 @@ export interface Location {
   commonProjects: string[]
   localInfo: string
   faqs: FAQ[]
+  // Differentiation fields
+  locationType?: LocationType
+  serviceHighlights?: string[]
+  neighborhoodSpotlights?: NeighborhoodSpotlight[]
+  permitInfo?: { title: string; steps: string[]; note: string }
+  hoaGuidelines?: { communityName: string; rules: string[] }[]
+  coastalConsiderations?: string[]
+  ruralDeliveryTips?: string[]
+  pricingNote?: string
 }
 
 export const LOCATIONS: Location[] = [

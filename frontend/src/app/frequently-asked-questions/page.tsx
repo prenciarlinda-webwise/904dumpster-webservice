@@ -80,7 +80,7 @@ const faqs = [
       {
         question: 'How much weight can I put in the dumpster?',
         answer:
-          'Weight limits vary by size: 10-yard holds up to 1.5 tons, 15-yard holds up to 2 tons, and 20-yard holds up to 2 tons. Heavy materials like concrete can reach weight' +
+          'Weight limits vary by size: 10-yard holds up to 1 ton, 15-yard holds up to 1.5 tons, and 20-yard holds up to 2 tons. Heavy materials like concrete can reach weight' +
             ' limits before filling the container.',
       },
       {
@@ -101,7 +101,7 @@ const faqs = [
       {
         question: 'How much weight can a dumpster hold?',
         answer:
-          'Weight limits depend on the dumpster size. Our 10-yard dumpster holds up to 1.5 tons (3,000 lbs), the 15-yard holds up to 2 tons (4,000 lbs), and the 20-yard also holds up to 2 tons (4,000 lbs). Heavy materials like concrete, brick, and dirt can reach weight limits quickly, even if the dumpster is not full. Overage charges apply if the weight limit is exceeded.',
+          'Weight limits depend on the dumpster size. Our 10-yard dumpster holds up to 1 ton (2,000 lbs), the 15-yard holds up to 1.5 tons (3,000 lbs), and the 20-yard holds up to 2 tons (4,000 lbs). Heavy materials like concrete, brick, and dirt can reach weight limits quickly, even if the dumpster is not full. Overage charges apply if the weight limit is exceeded.',
       },
       {
         question: 'How do I choose the right dumpster size?',
@@ -126,17 +126,17 @@ const faqs = [
       {
         question: 'How much does it cost to rent a dumpster?',
         answer:
-          'Our pricing starts at $299 for a 10-yard dumpster, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, and a 5-day rental. Additional days are $15/day. There are no hidden fees.',
+          'Our Duval County pricing starts at $299 for a 10-yard dumpster (3-day rental), $349 for a 15-yard, and $399 for a 20-yard (5-day rentals). Pricing varies by service area. Additional days are $15/day. There are no hidden fees.',
       },
       {
         question: 'How much does a dumpster rental cost?',
         answer:
-          'Dumpster rental costs in Jacksonville range from $299 to $399 depending on size. Our 10-yard dumpster is $299, the 15-yard is $349, and the 20-yard is $399. Every rental includes delivery, a 5-day rental period, pickup, and disposal up to the weight limit. Extensions are available at just $15 per additional day. There are no hidden fees, fuel surcharges, or environmental charges.',
+          'Dumpster rental costs in Jacksonville (Duval County) range from $299 to $399 depending on size. Our 10-yard dumpster is $299 with a 3-day rental, the 15-yard is $349, and the 20-yard is $399 — both with 5-day rentals. Pricing varies for Clay, St. Johns, Nassau, and other service areas. Every rental includes delivery, pickup, and disposal up to the weight limit. Extensions are available at $15 per additional day. There are no hidden fees, fuel surcharges, or environmental charges.',
       },
       {
         question: 'What is included in the rental price?',
         answer:
-          'Our all-inclusive pricing covers delivery, a 5-day rental period, pickup, and disposal up to the weight limit. There are no fuel surcharges, environmental fees, or other hidden costs.',
+          'Our all-inclusive pricing covers delivery, the rental period (3 days for 10-yard, 5 days for 15 and 20-yard), pickup, and disposal up to the weight limit. There are no fuel surcharges, environmental fees, or other hidden costs.',
       },
       {
         question: 'Are there any additional fees I should know about?',

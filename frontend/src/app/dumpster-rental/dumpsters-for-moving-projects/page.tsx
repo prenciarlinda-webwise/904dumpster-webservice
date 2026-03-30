@@ -398,7 +398,7 @@ export default function DumpstersForMovingProjectsPage() {
                   <tr className="border-b border-gray-100">
                     <td className="px-6 py-4 font-bold text-primary">10 Yard</td>
                     <td className="px-6 py-4 text-gray-600">12&apos; L x 7.5&apos; W x 3.6&apos; H</td>
-                    <td className="px-6 py-4 text-gray-600">Up to 1.5 tons</td>
+                    <td className="px-6 py-4 text-gray-600">Up to 1 ton</td>
                     <td className="px-6 py-4 text-gray-600">Small cleanouts, 1-2 rooms</td>
                   </tr>
                   <tr className="border-b border-gray-100 bg-primary/5">

@@ -37,7 +37,7 @@ A full garage cleanout typically takes one to two days for a two-car garage, dep
 
 Before you pull a single item out of the garage, schedule your dumpster delivery. This is the most important step because having a dumpster in your driveway creates a deadline and a destination for everything you are throwing away. Without it, you will end up with trash piles in your yard and lose motivation halfway through.
 
-For most garage cleanouts in Jacksonville, a [10-yard dumpster](/10-yard-dumpster-rental) is the right choice. A 10-yard container measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds about 1.5 tons of material. That is enough for the contents of a heavily cluttered single-car garage or a moderately cluttered two-car garage. If you know your garage is packed to the rafters, or you are also cleaning out a shed or patio area, step up to a [15-yard dumpster](/15-yard-dumpster-rental) to give yourself extra room.
+For most garage cleanouts in Jacksonville, a [10-yard dumpster](/10-yard-dumpster-rental) is the right choice. A 10-yard container measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds about 1 ton of material. That is enough for the contents of a heavily cluttered single-car garage or a moderately cluttered two-car garage. If you know your garage is packed to the rafters, or you are also cleaning out a shed or patio area, step up to a [15-yard dumpster](/15-yard-dumpster-rental) to give yourself extra room.
 
 At 904 Dumpster, we offer same-day or next-day delivery throughout Jacksonville and surrounding areas. Call us at **(904) 240-5598** to schedule your drop-off, and we will place the dumpster exactly where you need it in your driveway.
 
@@ -160,7 +160,7 @@ Compare that to hiring a full-service [junk removal company](/junk-removal-jacks
 
 ### How much does it cost to rent a dumpster for a garage cleanout in Jacksonville?
 
-A 10-yard dumpster from 904 Dumpster costs $299 and includes delivery, pickup, disposal fees, and a 5-day rental period. This is enough for most standard garage cleanouts. If your garage is extremely full or you are cleaning out additional areas, a 15-yard dumpster at $349 provides extra capacity. There are no hidden fees or surprise charges.
+A 10-yard dumpster from 904 Dumpster costs $299 and includes delivery, pickup, disposal fees, and a 3-day rental period. This is enough for most standard garage cleanouts. If your garage is extremely full or you are cleaning out additional areas, a 15-yard dumpster at $349 provides extra capacity. There are no hidden fees or surprise charges.
 
 ### Can I put old furniture in a dumpster?
 
@@ -382,7 +382,7 @@ Street placement regulations vary depending on your specific location within Pon
 
 ### What happens if I go over the weight limit?
 
-Each dumpster size includes a specific weight allowance, which is 1.5 tons for the 10-yard and 2 tons for the 15-yard and 20-yard containers. If your load exceeds the included weight, additional charges apply per ton over the limit. We weigh every container at the disposal facility and will contact you if any overage charges apply. For most residential projects in Ponte Vedra, staying within the weight limit is not an issue.
+Each dumpster size includes a specific weight allowance, which is 1 ton for the 10-yard and 2 tons for the 15-yard and 20-yard containers. If your load exceeds the included weight, additional charges apply per ton over the limit. We weigh every container at the disposal facility and will contact you if any overage charges apply. For most residential projects in Ponte Vedra, staying within the weight limit is not an issue.
 
 ## Related Resources
 
@@ -599,7 +599,7 @@ Yes, but with weight limitations in mind. Dirt and sod are extremely heavy, with
 
 ### How much does a yard waste dumpster cost in Jacksonville?
 
-Yard waste dumpster rentals from 904 Dumpster start at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental period. These same flat rates apply whether you are filling the dumpster with yard waste, construction debris, household junk, or any combination of accepted materials.
+Yard waste dumpster rentals from 904 Dumpster start at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental period. These same flat rates apply whether you are filling the dumpster with yard waste, construction debris, household junk, or any combination of accepted materials.
 
 ### Do I need a separate dumpster for yard waste and construction debris?
 
@@ -796,7 +796,7 @@ Construction debris varies dramatically in weight, and understanding weight limi
 - **Ceramic tile:** approximately 5-7 pounds per square foot
 - **Brick:** approximately 4-5 pounds per brick
 
-Our 10-yard dumpster includes 1.5 tons (3,000 pounds), while the 15-yard and 20-yard dumpsters include 2 tons (4,000 pounds) each. For projects involving heavy materials like concrete, brick, or multiple layers of roofing shingles, keep these weight limits in mind when loading. If you expect to exceed the included weight, let us know and we can discuss the most cost-effective approach.
+Our 10-yard dumpster includes 1 ton (2,000 pounds), while the 15-yard and 20-yard dumpsters include 2 tons (4,000 pounds) each. For projects involving heavy materials like concrete, brick, or multiple layers of roofing shingles, keep these weight limits in mind when loading. If you expect to exceed the included weight, let us know and we can discuss the most cost-effective approach.
 
 ## Setting Up a Contractor Account With 904 Dumpster
 
@@ -880,7 +880,7 @@ This pricing guide covers everything Atlantic Beach residents need to know about
 
 ### 10-Yard Dumpster - $299
 
-The [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds up to 1.5 tons of material. This compact container is particularly well-suited for Atlantic Beach properties because it fits in smaller driveways and takes up minimal space on the street if driveway placement is not possible.
+The [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds up to 1 ton of material. This compact container is particularly well-suited for Atlantic Beach properties because it fits in smaller driveways and takes up minimal space on the street if driveway placement is not possible.
 
 **Best for:** Garage cleanouts, single-room renovations, small bathroom remodels, deck removals, and seasonal decluttering projects. Read our [visual guide to what fits in a 10-yard dumpster](/blog/what-fits-in-a-10-yard-dumpster-visual-guide) to see if this size works for your project.
 
@@ -1057,7 +1057,7 @@ Absolutely. Teardown and rebuild projects are increasingly common in Atlantic Be
 
 ### What if my project produces heavy materials like concrete or tile?
 
-Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-yard includes 1.5 tons and the 15 and 20-yard containers include 2 tons each. Concrete, tile, and stone are among the heaviest construction materials, so be mindful of weight when loading. If your project is primarily heavy material, contact us to discuss options including our [concrete disposal service](/concrete-disposal-dumpster).
+Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-yard includes 1 ton and the 15 and 20-yard containers include 2 tons each. Concrete, tile, and stone are among the heaviest construction materials, so be mindful of weight when loading. If your project is primarily heavy material, contact us to discuss options including our [concrete disposal service](/concrete-disposal-dumpster).
 
 ## Related Resources
 
