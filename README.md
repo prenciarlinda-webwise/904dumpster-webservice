@@ -10,7 +10,8 @@ Dumpster rental service website for Jacksonville, FL area.
 │   ├── backend/       # Django project settings
 │   ├── core/          # Main app (forms, emails, API)
 │   └── manage.py
-├── frontend/          # Next.js frontend (coming soon)
+├── 
+frontend/          # Next.js frontend (coming soon)
 └── .venv/             # Python virtual environment
 ```
 
