@@ -14,7 +14,7 @@ export const POSTS_46_TO_55: BlogPost[] = [
     readTime: '8 min read',
     featuredImage: '/images/10-yard-dumpster-rental-cost.jpg',
     tags: ['screened in porch exterior', 'how to screen in porch', 'how to make screen panels for porch', 'porch renovation waste', 'porch construction debris', 'screen porch project planning', 'porch debris removal jacksonville', 'home improvement waste disposal'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Screened-In Porch Project: Debris and Waste Planning
@@ -144,7 +144,7 @@ In Jacksonville, no permit is needed if the dumpster sits on your private drivew
     readTime: '9 min read',
     featuredImage: '/images/10-yard-dumpster-rental-near-me.jpg',
     tags: ['how to find roof leak', 'how to find a leak on a shingle roof', 'roof leak repair preparation', 'roofing debris disposal', 'roof replacement waste', 'roofing waste jacksonville', 'shingle disposal', 'roof repair planning'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'what-cannot-go-in-dumpster'],
     content: `
 ## How to Find and Prepare for a Roof Leak Repair
@@ -293,7 +293,7 @@ For a minor patch repair involving just a few shingles and a vent boot, heavy-du
     readTime: '9 min read',
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['how to remove laminate wood flooring', 'how to remove laminate tile flooring', 'laminate floor removal tool', 'how much to rip up carpet', 'how long does subfloor last', 'wood floors refinishing', 'wood floor sanding and refinishing', 'wood floor installation cost', 'flooring waste disposal'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Flooring Removal: What Waste to Expect and How to Dispose
@@ -421,7 +421,7 @@ Carpet can be removed from a full house in one to two days. Laminate removal typ
     readTime: '9 min read',
     featuredImage: '/images/20-yard-dumpster-rental-near-me.jpg',
     tags: ['common building code violations', 'house code violations', 'home violations', 'do you need a permit to finish an attic', 'things to look for when buying an old house', 'building code jacksonville', 'home renovation permits', 'code violation cleanup'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Building Code Violations: What Homeowners Need to Know
@@ -559,7 +559,7 @@ Some work, like installing smoke detectors or improving ventilation, can be done
     readTime: '9 min read',
     featuredImage: '/images/small-dumpster-rentals.png',
     tags: ['laundry renovation cost', 'laundry room renovation price', 'bathroom remodel order', 'bathroom remodel for cheap', 'bathroom renovation waste', 'bathroom demolition debris', 'laundry room renovation waste', 'bathroom remodel disposal'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'flooring-removal-waste-disposal-guide'],
     content: `
 ## Laundry Room and Bathroom Renovation: Waste Planning
@@ -710,7 +710,7 @@ If your update is limited to painting, replacing fixtures, and swapping a vanity
     readTime: '9 min read',
     featuredImage: '/images/when-to-rent-dumpster-jacksonville.png',
     tags: ['old appliances disposal', 'dispose appliances', 'disposal of appliances', 'where to throw away appliances', 'disposal of hot water heater', 'will the garbage man take a hot water heater', 'can you take a dishwasher to the dump', 'where to throw away dishwasher', 'appliance disposal jacksonville'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'what-cannot-go-in-dumpster'],
     content: `
 ## How to Dispose of Appliances in Jacksonville FL
@@ -839,7 +839,7 @@ Costs range from free (city bulk pickup or scrap yard) to $299-$399 for a dumpst
     readTime: '9 min read',
     featuredImage: '/images/20-yard-dumpster.jpg',
     tags: ['yard drainage solutions', 'landscape water drainage', 'yard not draining water', 'how to get rid of gravel', 'how to dispose of gravel', 'gravel removal cost', 'how to dispose of landscape rocks', 'how to get rid of extra dirt', 'where to throw dirt away', 'where to take dirt', 'dirt wanted'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'how-to-dispose-of-rocks-dirt-landscaping'],
     content: `
 ## Yard Drainage Solutions: Planning and Debris Removal
@@ -989,7 +989,7 @@ Start with a landscape contractor for most residential drainage issues. For prob
     readTime: '9 min read',
     featuredImage: '/images/moving-cleanup-dumpster-jacksonville.png',
     tags: ['whole house junk removal', 'old sofa disposal', 'cheapest mattress removal', 'where to put old furniture', 'can i leave furniture on the curb', 'leaving furniture on curb', 'how to get furniture picked up for trash', 'yard sale tips', 'moving declutter guide'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'garage-cleanout-guide-jacksonville'],
     content: `
 ## Moving Day Waste: Declutter and Dispose Before You Move
@@ -1308,7 +1308,7 @@ Absolutely. Many Jacksonville homeowners rent a dumpster from us and hire day la
     readTime: '10 min read',
     featuredImage: '/images/trash-dumpster-rental-jacksonville.png',
     tags: ['how to dispose of rocks', 'how to dispose of rocks and dirt', 'where to dispose of old mulch', 'where to dump mulch', 'how to dispose of lava rocks', 'how to get rid of extra dirt from yard', 'can you take dirt to the dump', 'where to take rocks from yard', 'dirt bin rental', 'how to dispose of pavers', 'how to dispose of concrete pavers', 'where to recycle old concrete'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['yard-drainage-solutions-debris-removal', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Dispose of Rocks, Dirt, and Landscaping Materials

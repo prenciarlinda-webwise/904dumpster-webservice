@@ -158,7 +158,7 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     readTime: '10 min read',
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['garage conversion waste', 'garage conversion permit jacksonville', 'how much does it cost to convert a garage', 'garage conversion without permit', 'will converting a garage add value', 'permit to convert garage to living space', 'garage renovation debris', 'garage conversion jacksonville'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Garage Conversion Guide: What Waste to Expect During Renovation
@@ -461,7 +461,7 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
     readTime: '10 min read',
     featuredImage: '/images/20-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['basement renovation waste', 'fix leaking basement wall', 'leak in foundation wall', 'how to turn a basement into an apartment', 'why does my basement smell musty', 'basement efficiency apartment', 'cost to turn basement into apartment', 'check foundation of house'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['kitchen-renovation-waste-preparation-guide', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Basement Renovation Waste Guide: From Leaks to Living Space
@@ -609,7 +609,7 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
     readTime: '9 min read',
     featuredImage: '/images/dumpster-now.jpg',
     tags: ['deck removal waste', 'cost to demo deck', 'cost to remove deck boards', 'cost to demolish a deck', 'wood deck removal', 'wood deck maintenance', 'do i need a permit to remove a deck', 'deck demolition jacksonville'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
 ## Deck Removal and Replacement: Waste Planning Guide
@@ -753,7 +753,7 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
     readTime: '9 min read',
     featuredImage: '/images/10-yard-dumpster-rental-near-me.jpg',
     tags: ['how to dispose of large items', 'where to dispose large furniture', 'how to get furniture picked up for trash', 'how to dispose of old cabinets', 'where to take old furniture for disposal', 'where to put old furniture', 'attic cleanout', 'basement cleanout jacksonville'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
 ## Attic and Basement Cleanout: Decluttering and Disposal Guide
@@ -892,7 +892,7 @@ Hazardous materials including paint, chemicals, batteries, propane tanks, and mo
     readTime: '8 min read',
     featuredImage: '/images/cheap-dumpster-rental-near-me.jpg',
     tags: ['where can i dispose of old paint', 'can you throw paint cans in a dumpster', 'paint disposal jacksonville', 'hazardous materials dumpster', 'latex paint disposal', 'oil based paint disposal', 'paint recycling jacksonville', 'household hazardous waste jacksonville'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Where to Dispose of Old Paint in Jacksonville FL
@@ -1262,7 +1262,7 @@ Great question. Read our blog post on [where does trash go after you throw it aw
     readTime: '9 min read',
     featuredImage: '/images/dumpsters-rent-florida.jpg',
     tags: ['summer maintenance tips', 'summer house tips', 'summer home maintenance jacksonville', 'seasonal cleanup jacksonville', 'how to keep upstairs cool', 'jacksonville summer preparation', 'home maintenance checklist', 'summer decluttering tips'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Summer Home Maintenance Tips for Jacksonville Homeowners

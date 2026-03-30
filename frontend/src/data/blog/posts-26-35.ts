@@ -1176,7 +1176,7 @@ Demolition is the rapid mechanical teardown of a structure or space. Deconstruct
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-near-me-jacksonville.jpg',
     tags: ['dog friendly backyards', 'dog friendly back yard', 'best yard for dogs', 'xeriscaping cost', 'xeriscape yard', 'xeriscaping ideas', 'xeriscape backyard', 'yard privacy ideas', 'driveway with border', 'backyard makeover waste'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['yard-waste-disposal-guide-what-goes-where', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Dog-Friendly Backyard Makeover: Waste Planning Guide
@@ -1311,7 +1311,7 @@ Yes. We deliver throughout Northeast Florida including [Jacksonville Beach](/dum
     readTime: '10 min read',
     featuredImage: '/images/rent-a-dumpster-jacksonville-fl.jpg',
     tags: ['aging in place renovations', 'aging in place remodeler', 'aging-in-place remodeling', 'handicap renovations', 'disability remodeling', 'bathroom remodel for cheap', 'in law suite', 'mother in law suite', 'building an in law suite', 'in law studio', 'in laws quarters'],
-    status: 'scheduled' as const,
+    status: 'draft' as const,
     relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Aging in Place Home Renovations: Accessibility Remodeling Waste Guide
