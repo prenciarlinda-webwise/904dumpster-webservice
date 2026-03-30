@@ -24,6 +24,7 @@ import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { QuickSizeFinder } from '@/components/QuickSizeFinder'
 import { GoogleReviews } from '@/components/GoogleReviews'
+import { HeroReviewSlider } from '@/components/HeroReviewSlider'
 import DeliveryMap from '@/components/DeliveryMap'
 
 // Homepage-specific metadata (overrides layout.tsx default)
@@ -514,8 +515,8 @@ export default function HomePage() {
                 </div>
               </div>
 
-              {/* Right - Quick Size Finder */}
-              <QuickSizeFinder />
+              {/* Right - Review Slider */}
+              <HeroReviewSlider />
             </div>
           </div>
 
