@@ -108,6 +108,36 @@ export const LOCATIONS: Location[] = [
         answer: 'We serve all of St. Augustine including downtown, Anastasia Island, Davis Shores, Lincolnville, West Augustine, Vilano Beach, and surrounding communities like Hastings, Elkton, and the World Golf Village area.',
       },
     ],
+    locationType: 'historic',
+    serviceHighlights: ['Historic District Expertise', 'Permit Assistance', 'Same-Day Delivery', 'Licensed & Insured'],
+    permitInfo: {
+      title: 'Historic District Dumpster Permits',
+      steps: [
+        'Check if your property is in the St. Augustine Historic District',
+        'Contact the City of St. Augustine Planning Department for street placement permits',
+        'Allow 3-5 business days for permit processing',
+        'Our team can advise on placement options that may not require a permit',
+      ],
+      note: 'Dumpsters placed on private driveways in the historic district typically do not require a permit.',
+    },
+    pricingNote: 'St. Augustine pricing starts at $449 for a 15-yard and $499 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
+    neighborhoodSpotlights: [
+      {
+        name: 'Historic District & Lincolnville',
+        description: 'Renovation projects in St. Augustine\'s historic core often involve plaster walls, old hardwood, and heavy trim materials. Permits may be required for street placement.',
+        popularSize: '15-yard',
+      },
+      {
+        name: 'Anastasia Island',
+        description: 'Coastal properties along A1A deal with salt air damage and storm debris. Tight driveways near the beach work best with our compact containers.',
+        popularSize: '15-yard',
+      },
+      {
+        name: 'World Golf Village & Nocatee North',
+        description: 'Newer developments with larger homes and driveways. HOA communities may have specific placement guidelines.',
+        popularSize: '20-yard',
+      },
+    ],
   },
   {
     slug: 'dumpster-rental-middleburg-fl',
@@ -169,6 +199,15 @@ export const LOCATIONS: Location[] = [
         answer: 'Yes, we serve all of Clay County including Middleburg, Orange Park, Green Cove Springs, Fleming Island, Keystone Heights, and the Black Creek area. Same-day delivery is available for most locations.',
       },
     ],
+    locationType: 'rural',
+    serviceHighlights: ['Rural Property Access', 'Long Driveway OK', 'Same-Day Delivery', 'Licensed & Insured'],
+    ruralDeliveryTips: [
+      'Ensure driveways can support a loaded roll-off truck (approximately 30,000 lbs)',
+      'Clear overhanging branches with at least 14 feet of vertical clearance',
+      'Mark septic tank locations so our driver can avoid them during placement',
+      'For unpaved driveways, we recommend placement on a flat, firm surface',
+    ],
+    pricingNote: 'Clay County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
   },
   {
     slug: 'dumpster-rental-atlantic-beach-fl',
@@ -230,6 +269,15 @@ export const LOCATIONS: Location[] = [
         answer: 'We offer same-day delivery to Atlantic Beach for orders placed before noon. We recommend early morning deliveries to avoid beach traffic, especially during summer months. Our drivers know the area well and can navigate efficiently through the beach neighborhoods.',
       },
     ],
+    locationType: 'beach',
+    serviceHighlights: ['Beach Community Expert', 'Compact Dumpsters', 'Same-Day Delivery', 'Licensed & Insured'],
+    coastalConsiderations: [
+      'Salt air accelerates exterior deterioration — expect more debris from siding, deck, and fence projects',
+      'Narrow streets near the oceanfront require careful delivery scheduling',
+      'We recommend early morning delivery (before 8 AM) to avoid beach traffic',
+      'Sand-heavy loads are heavier than they appear — factor weight limits accordingly',
+    ],
+    pricingNote: 'Duval County pricing: 10-yard $299 (3-day rental), 15-yard $349, 20-yard $399 (5-day rentals).',
   },
   {
     slug: 'dumpster-rental-neptune-beach-fl',
@@ -291,6 +339,14 @@ export const LOCATIONS: Location[] = [
         answer: 'Clear your driveway of vehicles and ensure there\'s at least 12 feet of length and 8 feet of width available. Our drivers will place boards under the dumpster to protect your driveway. Make sure there are no low-hanging branches or wires in the delivery path.',
       },
     ],
+    locationType: 'beach',
+    serviceHighlights: ['Compact Dumpsters', 'Beach Driveways', 'Same-Day Delivery', 'Licensed & Insured'],
+    coastalConsiderations: [
+      'Neptune Beach has one of the smallest footprints of any Jacksonville beach community — driveway space is limited',
+      'Street placement may require coordination with the City of Neptune Beach',
+      'Our 10-yard dumpster is the most requested size here due to compact driveways',
+    ],
+    pricingNote: 'Duval County pricing: 10-yard $299 (3-day rental), 15-yard $349, 20-yard $399 (5-day rentals).',
   },
   {
     slug: 'dumpster-rental-jacksonville-beach-fl',
@@ -352,6 +408,14 @@ export const LOCATIONS: Location[] = [
         answer: 'For typical Jacksonville Beach renovation projects, our 10-yard handles one room remodels, 15-yard works for multi-room projects or roofing, and 20-yard is ideal for whole-house renovations or construction. Call us to discuss your specific project and we\'ll recommend the right size.',
       },
     ],
+    locationType: 'beach',
+    serviceHighlights: ['Residential & Commercial', 'All Dumpster Sizes', 'Same-Day Delivery', 'Licensed & Insured'],
+    coastalConsiderations: [
+      'Jax Beach has a wider variety of property sizes than other beach communities',
+      'Commercial projects along Beach Boulevard may need delivery scheduling around business hours',
+      'Hurricane season preparation generates high demand — book early during June-November',
+    ],
+    pricingNote: 'Duval County pricing: 10-yard $299 (3-day rental), 15-yard $349, 20-yard $399 (5-day rentals).',
   },
   {
     slug: 'dumpster-rental-ponte-vedra-fl',
@@ -413,6 +477,36 @@ export const LOCATIONS: Location[] = [
         answer: 'For comprehensive Ponte Vedra luxury home renovations, our 20-yard dumpster is typically the best choice. It handles large volumes of construction debris while keeping your project on schedule. For smaller projects like a single bathroom or kitchen, our 15-yard option works well.',
       },
     ],
+    locationType: 'upscale',
+    serviceHighlights: ['HOA Compliant', 'Premium Service', 'Same-Day Delivery', 'Licensed & Insured'],
+    hoaGuidelines: [
+      {
+        communityName: 'Nocatee',
+        rules: [
+          'Dumpsters typically allowed for active renovation projects',
+          'Must be placed on driveway, not street or lawn',
+          'Notify HOA before delivery',
+          'Recommend limiting rental to project duration',
+        ],
+      },
+      {
+        communityName: 'TPC Sawgrass / Ponte Vedra Inn Area',
+        rules: [
+          'Some communities require 48-hour advance notice',
+          'Street placement may not be permitted',
+          'Dumpster must be removed promptly after project completion',
+        ],
+      },
+      {
+        communityName: 'Marsh Landing',
+        rules: [
+          'Check with guard gate about delivery truck access',
+          'Dumpster placement on driveway only',
+          'Contact property management for specific community rules',
+        ],
+      },
+    ],
+    pricingNote: 'St. Johns County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
   },
   {
     slug: 'dumpster-rental-orange-park-fl',
@@ -474,6 +568,26 @@ export const LOCATIONS: Location[] = [
         answer: 'If you live in an HOA community in Orange Park, such as Oakleaf Plantation or Fleming Island subdivisions, you should check with your association before ordering. Some HOAs have guidelines about dumpster placement, duration, or notification requirements. We can work around any restrictions your HOA may have.',
       },
     ],
+    locationType: 'suburban',
+    serviceHighlights: ['Clay County Licensed', 'Fast Delivery', 'Same-Day Available', 'Franchise Hauler'],
+    neighborhoodSpotlights: [
+      {
+        name: 'Oakleaf Plantation',
+        description: 'Large master-planned community with wide driveways. HOA may require notification before dumpster placement.',
+        popularSize: '15-yard',
+      },
+      {
+        name: 'Lakeside & Argyle Forest',
+        description: 'Growing area with active new construction. Contractors frequently use our 20-yard containers here.',
+        popularSize: '20-yard',
+      },
+      {
+        name: 'Orange Park Town Center',
+        description: 'Established neighborhoods with mature trees. Compact driveways work well with 15-yard containers.',
+        popularSize: '15-yard',
+      },
+    ],
+    pricingNote: 'Clay County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
   },
   {
     slug: 'dumpster-rental-fleming-island-fl',
@@ -535,6 +649,28 @@ export const LOCATIONS: Location[] = [
         answer: 'For most Fleming Island renovation projects, our 15-yard dumpster is the ideal choice. It provides ample capacity for kitchen remodels, bathroom renovations, and general cleanouts while fitting comfortably in standard driveways. For larger projects like whole-home renovations, our 20-yard option works well.',
       },
     ],
+    locationType: 'upscale',
+    serviceHighlights: ['HOA Compliant', 'Clean Dumpsters', 'Same-Day Delivery', 'Licensed & Insured'],
+    hoaGuidelines: [
+      {
+        communityName: 'Eagle Harbor',
+        rules: [
+          'Contact the Eagle Harbor POA office before scheduling delivery',
+          'Dumpster must be placed on driveway only',
+          'Limit rental duration to active project period',
+          'No street placement allowed',
+        ],
+      },
+      {
+        communityName: 'Fleming Island Plantation',
+        rules: [
+          'Notify property management 24 hours before delivery',
+          'Dumpsters should be removed within 7 days unless extended',
+          'Keep dumpster area clean and debris contained',
+        ],
+      },
+    ],
+    pricingNote: 'Clay County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
   },
   {
     slug: 'dumpster-rental-green-cove-springs-fl',
@@ -596,6 +732,19 @@ export const LOCATIONS: Location[] = [
         answer: 'We offer same-day delivery to Green Cove Springs for orders placed before noon. The city is centrally located in our Clay County service area, allowing for efficient delivery and pickup. Next-day delivery is always available for later orders.',
       },
     ],
+    locationType: 'historic',
+    serviceHighlights: ['Historic Downtown Access', 'County Seat Service', 'Same-Day Delivery', 'Licensed & Insured'],
+    permitInfo: {
+      title: 'Green Cove Springs Dumpster Placement',
+      steps: [
+        'Dumpsters on private property generally do not require permits in Clay County',
+        'Street placement in the historic downtown area may require city approval',
+        'Contact Green Cove Springs City Hall for downtown street placement inquiries',
+        'Our team can recommend optimal driveway placement to avoid street permits',
+      ],
+      note: 'As the Clay County seat, Green Cove Springs offers convenient access to county offices for any permit questions.',
+    },
+    pricingNote: 'Clay County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
   },
   {
     slug: 'dumpster-rental-fernandina-beach-fl',
@@ -666,6 +815,24 @@ export const LOCATIONS: Location[] = [
         answer: 'Absolutely! We understand vacation rental turnovers require precise timing. We offer flexible scheduling and can coordinate delivery and pickup to align with your rental calendar, ensuring the dumpster is removed before your next guests arrive.',
       },
     ],
+    locationType: 'historic',
+    serviceHighlights: ['Historic District Expert', 'Island Delivery', 'Same-Day Delivery', 'Licensed & Insured'],
+    permitInfo: {
+      title: 'Fernandina Beach Historic District Permits',
+      steps: [
+        'Check if your property is within the Fernandina Beach Historic District along Centre Street',
+        'Street placement in the historic district requires city approval',
+        'Contact the City of Fernandina Beach Building Department',
+        'Private driveway placement typically does not require a permit',
+      ],
+      note: 'For properties in the Amelia Island Plantation or other gated communities, coordinate gate access with us before delivery.',
+    },
+    coastalConsiderations: [
+      'Amelia Island properties face similar salt air challenges as Jacksonville beaches',
+      'Bridge access means delivery timing matters — avoid peak tourist hours on A1A',
+      'Vacation rental turnovers require precise scheduling between guests',
+    ],
+    pricingNote: 'Nassau County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',
   },
 ]
 

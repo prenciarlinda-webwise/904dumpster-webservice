@@ -46,27 +46,15 @@ export default function Header() {
 
   return (
     <>
-      {/* Floating Mobile Buttons */}
-      <div className="lg:hidden fixed bottom-6 right-6 z-50 flex flex-col gap-3">
-        <a
-          href="https://app.icans.ai/customer-portal/904dumpster/book/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-primary text-white px-5 py-3 rounded-full shadow-2xl shadow-primary/30 hover:scale-105 transition-transform duration-300 font-bold text-sm flex items-center gap-2"
-          title="Book a Dumpster Online"
-        >
-          Book Now
-          <ArrowRight className="w-4 h-4" />
-        </a>
-        <a
-          href={`tel:${BUSINESS.phoneRaw}`}
-          className="bg-secondary text-white p-4 rounded-full shadow-2xl shadow-black/20 hover:scale-110 transition-transform duration-300 self-end"
-          aria-label="Call us"
-          title="Call 904 Dumpster"
-        >
-          <Phone className="w-6 h-6" />
-        </a>
-      </div>
+      {/* Floating Call Button - Mobile */}
+      <a
+        href={`tel:${BUSINESS.phoneRaw}`}
+        className="lg:hidden fixed bottom-6 right-6 z-50 bg-primary text-white p-4 rounded-full shadow-2xl shadow-primary/30 hover:scale-110 transition-transform duration-300"
+        aria-label="Call us"
+        title="Call 904 Dumpster"
+      >
+        <Phone className="w-6 h-6" />
+      </a>
 
       {/* Main Header */}
       <header
@@ -396,16 +384,28 @@ export default function Header() {
               </div>
             </div>
 
-            {/* Mobile Menu Button */}
-            <button
-              onClick={toggleMobileMenu}
-              className={`lg:hidden p-2.5 rounded-xl transition-colors ${
-                useTransparentHeader ? 'text-white hover:bg-white/10' : 'text-secondary hover:bg-gray-100'
-              }`}
-              aria-label="Toggle menu"
-            >
-              {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-            </button>
+            {/* Mobile: Book Now + Menu Button */}
+            <div className="lg:hidden flex items-center gap-2">
+              <a
+                href="https://app.icans.ai/customer-portal/904dumpster/book/"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Book a Dumpster Online"
+                className="bg-primary hover:bg-primary/90 text-white font-bold text-sm px-4 py-2.5 rounded-full flex items-center gap-1.5 shadow-lg shadow-primary/25 transition-all"
+              >
+                Book Now
+                <ArrowRight className="w-3.5 h-3.5" />
+              </a>
+              <button
+                onClick={toggleMobileMenu}
+                className={`p-2.5 rounded-xl transition-colors ${
+                  useTransparentHeader ? 'text-white hover:bg-white/10' : 'text-secondary hover:bg-gray-100'
+                }`}
+                aria-label="Toggle menu"
+              >
+                {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+              </button>
+            </div>
           </div>
         </nav>
       </header>
