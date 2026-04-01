@@ -365,7 +365,7 @@ const serviceSchema = {
         itemOffered: {
           '@type': 'Service',
           name: '15 Yard Dumpster Rental',
-          description: '14ft x 7.5ft x 4.5ft roll-off container. Holds 2 tons. Perfect for roofing and kitchen remodels.',
+          description: '14ft x 7.5ft x 4.5ft roll-off container. Holds 1.5 tons. Perfect for roofing and kitchen remodels.',
           url: 'https://www.904dumpster.com/15-yard-dumpster-rental',
         },
         price: '325',

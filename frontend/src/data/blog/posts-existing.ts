@@ -51,7 +51,7 @@ We deliver three roll-off dumpster sizes throughout Clay County:
 
 **10-Yard Dumpster ($299)** - 12ft x 7.5ft x 3.6ft. Holds 1 ton. Best for garage cleanouts, single-room renovations, and small landscaping projects. Fits easily in Clay County driveways and cul-de-sacs.
 
-**15-Yard Dumpster ($349)** - 14ft x 7.5ft x 4.5ft. Holds 2 tons. Ideal for roofing tear-offs, kitchen remodels, and medium estate cleanouts. Our most popular size for Fleming Island and Oakleaf homeowners.
+**15-Yard Dumpster ($349)** - 14ft x 7.5ft x 4.5ft. Holds 1.5 tons. Ideal for roofing tear-offs, kitchen remodels, and medium estate cleanouts. Our most popular size for Fleming Island and Oakleaf homeowners.
 
 **20-Yard Dumpster ($399)** - 14ft x 7.5ft x 5.8ft. Holds 2 tons. Built for whole-house renovations, construction debris, and large property cleanouts. Frequently rented by contractors working in new developments around Middleburg and Green Cove Springs.
 
@@ -597,7 +597,7 @@ After 2,000+ deliveries across Jacksonville since 2016, we have seen every type 
 | Dimensions | 12' x 7.5' x 3.6' | 14' x 7.5' x 4.5' | 14' x 7.5' x 5.8' |
 | Capacity | 10 cubic yards | 15 cubic yards | 20 cubic yards |
 | Truck Loads | 3 pickup loads | 5 pickup loads | 7 pickup loads |
-| Weight Limit | 1 ton (2,000 lbs) | 2 tons (4,000 lbs) | 2 tons (4,000 lbs) |
+| Weight Limit | 1 ton (2,000 lbs) | 1.5 tons (3,000 lbs) | 2 tons (4,000 lbs) |
 | Rental Period | 3 days | 5 days | 5 days |
 | Best For | Small cleanouts, garage | Roofing, remodels | Whole-house, construction |
 
@@ -626,7 +626,7 @@ The [10-yard dumpster](/10-yard-dumpster-rental) is our most compact option, mak
 
 **Capacity**: 15 cubic yards (approximately 5 pickup truck loads)
 
-**Weight Limit**: Up to 4,000 pounds (2 tons)
+**Weight Limit**: Up to 3,000 pounds (1.5 tons)
 
 **Ideal Projects**:
 - Full roof replacements (up to 3,000 sq ft)
@@ -712,11 +712,11 @@ For a single room, use a [10-yard dumpster](/10-yard-dumpster-rental) ($299). Fo
 
 ### What size dumpster do I need for a roofing project?
 
-A [15-yard dumpster](/15-yard-dumpster-rental) handles most residential [roofing projects](/blog/roofing-project-waste-management) up to 2,500 sq ft. Roofing shingles are heavy, so the 2-ton weight limit is more important than the cubic yard capacity. For roofs over 2,500 sq ft or multi-layer tear-offs, use a [20-yard dumpster](/20-yard-dumpster-rental) or ask about swap-outs.
+A [15-yard dumpster](/15-yard-dumpster-rental) handles most residential [roofing projects](/blog/roofing-project-waste-management) up to 2,500 sq ft. Roofing shingles are heavy, so the 1.5-ton weight limit is more important than the cubic yard capacity. For roofs over 2,500 sq ft or multi-layer tear-offs, use a [20-yard dumpster](/20-yard-dumpster-rental) or ask about swap-outs.
 
 ### What is the difference between a 15 and 20 yard dumpster?
 
-The 15-yard and 20-yard dumpsters share the same 14' x 7.5' footprint. The 20-yard has taller walls (5.8' vs. 4.5'), giving it 33% more capacity for only $50 more. Both include a 2-ton weight limit. If you are debating between the two, the 20-yard is the safer choice.
+The 15-yard and 20-yard dumpsters share the same 14' x 7.5' footprint. The 20-yard has taller walls (5.8' vs. 4.5'), giving it 33% more capacity for only $50 more. The 15-yard includes a 1.5-ton weight limit and the 20-yard includes a 2-ton weight limit. If you are debating between the two, the 20-yard is the safer choice.
 
 ### Can I put heavy materials like concrete in a dumpster?
 
@@ -951,7 +951,7 @@ For roofing projects, we recommend:
 
 **[15-Yard Dumpster](/15-yard-dumpster-rental)** - $349 flat rate
 - Best for: Roofs up to 25 squares (2,500 sq ft)
-- Weight limit: 4,000 lbs (2 tons)
+- Weight limit: 3,000 lbs (1.5 tons)
 - Single-layer removal only
 - Our most popular choice for Jacksonville roofing contractors
 
@@ -1045,11 +1045,11 @@ Some homeowners prefer to rent their own dumpster. This can save money but makes
 
 ### What size dumpster do I need for a roofing project?
 
-A [15-yard dumpster](/15-yard-dumpster-rental) handles most single-layer residential roof replacements up to 2,500 sq ft in Jacksonville. The 2-ton weight limit is the key constraint for roofing, not volume. For roofs over 2,500 sq ft or multi-layer tear-offs, a [20-yard dumpster](/20-yard-dumpster-rental) or scheduled swap-out is recommended.
+A [15-yard dumpster](/15-yard-dumpster-rental) handles most single-layer residential roof replacements up to 2,500 sq ft in Jacksonville. The 1.5-ton weight limit is the key constraint for roofing, not volume. For roofs over 2,500 sq ft or multi-layer tear-offs, a [20-yard dumpster](/20-yard-dumpster-rental) or scheduled swap-out is recommended.
 
 ### How heavy are roofing shingles?
 
-Standard asphalt shingles weigh 200-300 pounds per "square" (100 square feet of roof coverage). A 2,000 sq ft roof produces approximately 4,000-6,000 lbs of shingle debris, plus underlayment, flashing, and damaged decking. Our 15-yard dumpster includes a 2-ton (4,000 lb) weight limit, with overages at $75/ton.
+Standard asphalt shingles weigh 200-300 pounds per "square" (100 square feet of roof coverage). A 2,000 sq ft roof produces approximately 4,000-6,000 lbs of shingle debris, plus underlayment, flashing, and damaged decking. Our 15-yard dumpster includes a 1.5-ton (3,000 lb) weight limit, with overages at $75/ton.
 
 ### Should the contractor or homeowner provide the dumpster?
 

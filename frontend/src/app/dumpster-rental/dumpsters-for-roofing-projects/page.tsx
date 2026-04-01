@@ -146,7 +146,7 @@ export default function DumpstersForRoofingProjectsPage() {
             </div>
             <div className="flex items-center justify-center gap-2">
               <Shield className="w-5 h-5" />
-              <span>2 Tons Included</span>
+              <span>1.5 Tons Included</span>
             </div>
           </div>
         </div>

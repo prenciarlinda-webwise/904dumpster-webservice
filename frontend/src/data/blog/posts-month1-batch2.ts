@@ -382,7 +382,7 @@ Street placement regulations vary depending on your specific location within Pon
 
 ### What happens if I go over the weight limit?
 
-Each dumpster size includes a specific weight allowance, which is 1 ton for the 10-yard and 2 tons for the 15-yard and 20-yard containers. If your load exceeds the included weight, additional charges apply per ton over the limit. We weigh every container at the disposal facility and will contact you if any overage charges apply. For most residential projects in Ponte Vedra, staying within the weight limit is not an issue.
+Each dumpster size includes a specific weight allowance, which is 1 ton for the 10-yard, 1.5 tons for the 15-yard, and 2 tons for the 20-yard containers. If your load exceeds the included weight, additional charges apply per ton over the limit. We weigh every container at the disposal facility and will contact you if any overage charges apply. For most residential projects in Ponte Vedra, staying within the weight limit is not an issue.
 
 ## Related Resources
 
@@ -796,7 +796,7 @@ Construction debris varies dramatically in weight, and understanding weight limi
 - **Ceramic tile:** approximately 5-7 pounds per square foot
 - **Brick:** approximately 4-5 pounds per brick
 
-Our 10-yard dumpster includes 1 ton (2,000 pounds), while the 15-yard and 20-yard dumpsters include 2 tons (4,000 pounds) each. For projects involving heavy materials like concrete, brick, or multiple layers of roofing shingles, keep these weight limits in mind when loading. If you expect to exceed the included weight, let us know and we can discuss the most cost-effective approach.
+Our 10-yard dumpster includes 1 ton (2,000 pounds), while the 15-yard dumpster includes 1.5 tons (3,000 pounds) and the 20-yard dumpster includes 2 tons (4,000 pounds). For projects involving heavy materials like concrete, brick, or multiple layers of roofing shingles, keep these weight limits in mind when loading. If you expect to exceed the included weight, let us know and we can discuss the most cost-effective approach.
 
 ## Setting Up a Contractor Account With 904 Dumpster
 
@@ -886,7 +886,7 @@ The [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet 
 
 ### 15-Yard Dumpster - $349
 
-The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 4.5 feet tall and holds up to 2 tons. This mid-size container handles most home renovation projects that Atlantic Beach homeowners undertake.
+The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 4.5 feet tall and holds up to 1.5 tons. This mid-size container handles most home renovation projects that Atlantic Beach homeowners undertake.
 
 **Best for:** Kitchen remodels, roof replacements, multi-room renovations, whole-house cleanouts, and medium-sized construction projects. This is the most popular size for Atlantic Beach renovation work.
 
@@ -1057,7 +1057,7 @@ Absolutely. Teardown and rebuild projects are increasingly common in Atlantic Be
 
 ### What if my project produces heavy materials like concrete or tile?
 
-Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-yard includes 1 ton and the 15 and 20-yard containers include 2 tons each. Concrete, tile, and stone are among the heaviest construction materials, so be mindful of weight when loading. If your project is primarily heavy material, contact us to discuss options including our [concrete disposal service](/concrete-disposal-dumpster).
+Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-yard includes 1 ton, the 15-yard includes 1.5 tons, and the 20-yard includes 2 tons. Concrete, tile, and stone are among the heaviest construction materials, so be mindful of weight when loading. If your project is primarily heavy material, contact us to discuss options including our [concrete disposal service](/concrete-disposal-dumpster).
 
 ## Related Resources
 

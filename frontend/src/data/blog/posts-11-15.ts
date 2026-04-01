@@ -683,7 +683,7 @@ For most shed, deck, and fence demolitions in Jacksonville, a [15-yard dumpster]
 Our pricing is straightforward:
 
 - **10-yard dumpster:** $299 (includes 1 ton)
-- **15-yard dumpster:** $349 (includes 2 tons)
+- **15-yard dumpster:** $349 (includes 1.5 tons)
 - **20-yard dumpster:** $399 (includes 2 tons)
 
 All rentals include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental period. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**. We deliver throughout Jacksonville, [Middleburg](/dumpster-rental-middleburg-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and all surrounding areas.
@@ -736,7 +736,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
     content: `
 ## What Actually Fits in a 15-Yard Dumpster
 
-A [15-yard dumpster](/15-yard-dumpster-rental) from 904 Dumpster holds approximately 15 cubic yards of debris, which translates to roughly 5 full-size pickup truck loads. It measures 14 feet long by 7.5 feet wide by 4.5 feet tall and includes up to 2 tons (4,000 pounds) of weight capacity. This is the most popular dumpster size we deliver across Northeast Florida because it handles the majority of mid-range renovation projects, spring cleanouts, and roofing jobs without forcing you to pay for space you will not use.
+A [15-yard dumpster](/15-yard-dumpster-rental) from 904 Dumpster holds approximately 15 cubic yards of debris, which translates to roughly 5 full-size pickup truck loads. It measures 14 feet long by 7.5 feet wide by 4.5 feet tall and includes up to 1.5 tons (3,000 pounds) of weight capacity. This is the most popular dumpster size we deliver across Northeast Florida because it handles the majority of mid-range renovation projects, spring cleanouts, and roofing jobs without forcing you to pay for space you will not use.
 
 Spring is the busiest season for home projects in Jacksonville, and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the 15-yard dumpster is likely the size that will handle everything you throw into it.
 
@@ -750,7 +750,7 @@ Understanding the physical size of a 15-yard dumpster helps you plan where to pl
 | **Width** | 7.5 feet |
 | **Height** | 4.5 feet |
 | **Cubic Yards** | 15 |
-| **Weight Limit** | 2 tons (4,000 lbs) |
+| **Weight Limit** | 1.5 tons (3,000 lbs) |
 | **Pickup Truck Equivalents** | Approximately 5 loads |
 | **Driveway Space Needed** | About the size of a large parking space |
 
@@ -764,7 +764,7 @@ If you are deciding between dumpster sizes, this side-by-side comparison will he
 |---------|---------|-------------|---------|
 | **Cubic Yards** | 10 | **15** | 20 |
 | **Dimensions (L x W x H)** | 12ft x 7.5ft x 3.6ft | **14ft x 7.5ft x 4.5ft** | 14ft x 7.5ft x 5.8ft |
-| **Weight Included** | 1 ton | **2 tons** | 2 tons |
+| **Weight Included** | 1 ton | **1.5 tons** | 2 tons |
 | **Pickup Truck Loads** | 3-4 | **5** | 6-7 |
 | **Wall Height** | 3.6 feet | **4.5 feet** | 5.8 feet |
 | **Best For** | Single-room projects | **Multi-room renovations, roofing, spring cleanouts** | Whole-house gut jobs, large construction |
@@ -792,7 +792,7 @@ A full kitchen remodel generates a surprising amount of waste. Old cabinets, lam
 
 ### Roof Replacement Shingles
 
-Roofing tear-offs are heavy, and the 15-yard is sized to handle up to 25 squares of asphalt shingles along with felt paper, flashing, and ridge caps. Many Jacksonville roofing contractors prefer the 15-yard for standard residential roofs because the 2-ton weight limit aligns well with the weight of a typical shingle roof. Spring is an ideal time for roof replacement before hurricane season begins in June. For more details, see our guide on [managing roofing project waste](/blog/managing-roofing-project-waste).
+Roofing tear-offs are heavy, and the 15-yard is sized to handle up to 25 squares of asphalt shingles along with felt paper, flashing, and ridge caps. Many Jacksonville roofing contractors prefer the 15-yard for standard residential roofs because the 1.5-ton weight limit aligns well with the weight of a typical shingle roof. Spring is an ideal time for roof replacement before hurricane season begins in June. For more details, see our guide on [managing roofing project waste](/blog/managing-roofing-project-waste).
 
 ### Deck Replacement and Patio Building
 
@@ -814,7 +814,7 @@ These are actual projects where Jacksonville-area customers used a 15-yard dumps
 
 ### Mandarin Kitchen Remodel
 
-A homeowner in Mandarin gutted a 12x14 kitchen down to the studs. Into the 15-yard dumpster went 18 old oak cabinets, laminate countertops, ceramic tile flooring, drywall from one reconfigured wall, an old dishwasher, a microwave, and a range hood. The dumpster was about 85 percent full and came in well under the 2-ton weight limit.
+A homeowner in Mandarin gutted a 12x14 kitchen down to the studs. Into the 15-yard dumpster went 18 old oak cabinets, laminate countertops, ceramic tile flooring, drywall from one reconfigured wall, an old dishwasher, a microwave, and a range hood. The dumpster was about 85 percent full and came in well under the 1.5-ton weight limit.
 
 ### St. Augustine Roof Tear-Off
 
@@ -837,7 +837,7 @@ Knowing the limits is just as important as knowing the capacity. Here is when yo
 | Whole-house gut renovation (1,500+ sq ft) | Volume exceeds 15 cubic yards; a 20-yard or two loads are needed |
 | Large construction project with mixed debris | Heavy materials like concrete fill the weight limit before the volume |
 | Decluttering a hoarder home | Volume of belongings typically exceeds 15 cubic yards |
-| Multi-story roof tear-off (30+ squares) | Combined weight of shingles exceeds 2-ton limit |
+| Multi-story roof tear-off (30+ squares) | Combined weight of shingles exceeds 1.5-ton limit |
 | Commercial tenant improvement | Scale of debris usually requires 20-yard or multiple loads |
 
 If your project falls into one of these categories, our [20-yard dumpster guide](/blog/20-yard-dumpster-guide) covers what that larger size can handle. And if you are still not sure which size is right, our [dumpster size guide](/dumpster-size-guide) helps you compare all options side by side.
@@ -854,7 +854,7 @@ Getting the most out of your 15-yard rental means loading it strategically:
 
 **Fill gaps with small debris.** Stuff bags of clothing, insulation, and smaller items into the gaps between larger pieces. Every cubic foot of air space is wasted capacity.
 
-**Watch the weight with heavy materials.** Roofing shingles, tile, and concrete are dense. You may hit the 2-ton weight limit before filling the dumpster by volume. If your project involves heavy materials mixed with lighter debris, load the heavy items first so you can gauge where you stand.
+**Watch the weight with heavy materials.** Roofing shingles, tile, and concrete are dense. You may hit the 1.5-ton weight limit before filling the dumpster by volume. If your project involves heavy materials mixed with lighter debris, load the heavy items first so you can gauge where you stand.
 
 For projects involving concrete, brick, or stone specifically, our [concrete disposal dumpster service](/concrete-disposal-dumpster) is designed for those heavy loads.
 
@@ -884,7 +884,7 @@ Yes. A 15-yard dumpster handles a standard kitchen renovation comfortably, inclu
 
 ### What is the weight limit for a 15-yard dumpster?
 
-Our 15-yard dumpster includes 2 tons (4,000 pounds) of weight. This is enough for most renovation, cleanout, and roofing projects. The weight limit matters most for dense materials like roofing shingles, ceramic tile, concrete, and dirt. Lighter materials like furniture, drywall, wood, and general household clutter rarely approach the weight limit even when the dumpster is full.
+Our 15-yard dumpster includes 1.5 tons (3,000 pounds) of weight. This is enough for most renovation, cleanout, and roofing projects. The weight limit matters most for dense materials like roofing shingles, ceramic tile, concrete, and dirt. Lighter materials like furniture, drywall, wood, and general household clutter rarely approach the weight limit even when the dumpster is full.
 
 ### Can I put a couch and mattress in a 15-yard dumpster?
 

@@ -161,7 +161,7 @@ export const DUMPSTER_SIZES = [
     href: '/15-yard-dumpster-rental',
     dimensions: "14' L x 7.5' W x 4.5' H",
     capacity: '15 cubic yards',
-    weight: 'Up to 2 tons',
+    weight: 'Up to 1.5 tons',
     truckLoads: '5 pickup truck loads',
     ideal: ['Roofing projects', 'Medium cleanouts', 'Kitchen/bathroom remodels', 'Deck removal'],
     description: 'Great for roofing projects and medium-sized cleanouts.',

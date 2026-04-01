@@ -1157,7 +1157,7 @@ function DumpsterSizePage({
               15 Yard vs. 20 Yard Dumpster
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-4">
-              The 15 yard and 20 yard are our two most popular sizes for mid-to-large projects in Jacksonville. They share the same 14&apos; × 7.5&apos; footprint,the 20 yard simply has taller walls (5.8&apos; vs. 4.5&apos;), which gives you 33% more capacity for only $50 more. Both include a 2-ton weight allowance and 5-day rental period.
+              The 15 yard and 20 yard are our two most popular sizes for mid-to-large projects in Jacksonville. They share the same 14&apos; × 7.5&apos; footprint,the 20 yard simply has taller walls (5.8&apos; vs. 4.5&apos;), which gives you 33% more capacity for only $50 more. The 15 yard includes a 1.5-ton weight allowance and the 20 yard includes a 2-ton weight allowance, both with a 5-day rental period.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
               <strong className="text-secondary">Our recommendation after 2,000+ deliveries:</strong> If you are on the fence between 15 and 20 yards, size up. A second dumpster delivery costs far more than the $50 difference. The 20 yard is the right call for any project involving more than one room, construction debris, or an estate cleanout,and at $18.75/yard it is the best value per cubic yard we offer.
@@ -1190,7 +1190,7 @@ function DumpsterSizePage({
                   </tr>
                   <tr className="border-b border-gray-200 bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Weight Limit</td>
-                    <td className="py-4 px-6 text-gray-600">2 tons (4,000 lbs)</td>
+                    <td className="py-4 px-6 text-gray-600">1.5 tons (3,000 lbs)</td>
                     <td className="py-4 px-6 text-gray-600">2 tons (4,000 lbs)</td>
                   </tr>
                   <tr className="border-b border-gray-200">
@@ -1412,7 +1412,7 @@ function DumpsterSizePage({
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Weight Limit</td>
-                    <td className="py-4 px-6 text-gray-600">4,000 lbs (2 tons)</td>
+                    <td className="py-4 px-6 text-gray-600">3,000 lbs (1.5 tons)</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Equivalent Capacity</td>
@@ -1490,7 +1490,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro Tip:</strong> For roofing projects, shingles are deceptively heavy,one &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs. A 15 yard dumpster holds 25-30 squares within the 2-ton weight limit. If you have architectural shingles or a roof larger than 3,000 sq ft, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss whether you&apos;ll need a weight limit adjustment. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link>.
+                <strong className="text-secondary">Pro Tip:</strong> For roofing projects, shingles are deceptively heavy,one &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs. A 15 yard dumpster holds 25-30 squares within the 1.5-ton weight limit. If you have architectural shingles or a roof larger than 3,000 sq ft, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss whether you&apos;ll need a weight limit adjustment. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link>.
               </p>
             </div>
           </div>
@@ -1852,7 +1852,7 @@ function DumpsterSizePage({
                   </tr>
                   <tr className="border-b border-gray-200 bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Weight Limit</td>
-                    <td className="py-4 px-6 font-bold text-secondary">2 Tons</td>
+                    <td className="py-4 px-6 font-bold text-secondary">1.5 Tons</td>
                     <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included in base price</td>
                   </tr>
                   <tr className="border-b border-gray-200">
@@ -1863,7 +1863,7 @@ function DumpsterSizePage({
                   <tr className="bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Overage Fee</td>
                     <td className="py-4 px-6 font-bold text-secondary">$75/Ton</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only applies if you exceed 2 tons</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only applies if you exceed 1.5 tons</td>
                   </tr>
                 </tbody>
               </table>

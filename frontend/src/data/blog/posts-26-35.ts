@@ -39,7 +39,7 @@ Choosing the right roll off container size is the single most important decision
 |---|---|---|---|
 | **Dimensions (LxWxH)** | 12ft x 7.5ft x 3.6ft | 14ft x 7.5ft x 4.5ft | 14ft x 7.5ft x 5.8ft |
 | **Equivalent Pickup Loads** | 4-5 truck loads | 6-8 truck loads | 8-10 truck loads |
-| **Weight Included** | 1 ton | 2 tons | 2 tons |
+| **Weight Included** | 1 ton | 1.5 tons | 2 tons |
 | **Price** | $299 | $349 | $399 |
 | **Rental Period** | 3 days | 5 days | 5 days |
 | **Best For** | Small cleanouts, single room | Roofing, mid-size remodels | Major renovations, construction |
@@ -93,7 +93,7 @@ At 904 Dumpster, our [flat-rate pricing](/dumpster-rental-pricing-jacksonville) 
 | Size | Flat Rate | Includes |
 |---|---|---|
 | 10-yard | $299 | Delivery, pickup, 1 ton disposal, 3-day rental |
-| 15-yard | $349 | Delivery, pickup, 2 tons disposal, 5-day rental |
+| 15-yard | $349 | Delivery, pickup, 1.5 tons disposal, 5-day rental |
 | 20-yard | $399 | Delivery, pickup, 2 tons disposal, 5-day rental |
 
 If your debris exceeds the included weight allowance, you pay a per-ton overage rate that we disclose before you book. Extensions beyond the 5-day rental period are available at $15 per day.
@@ -911,7 +911,7 @@ Choosing the right construction dumpster size depends on your project type, the 
 | Size | Dimensions | Weight Included | Price | Best For |
 |---|---|---|---|---|
 | [10-Yard](/10-yard-dumpster-rental) | 12ft x 7.5ft x 3.6ft | 1 ton | $299 | Small remodels, single-room renovations |
-| [15-Yard](/15-yard-dumpster-rental) | 14ft x 7.5ft x 4.5ft | 2 tons | $349 | Kitchen/bath remodels, roofing, mid-size projects |
+| [15-Yard](/15-yard-dumpster-rental) | 14ft x 7.5ft x 4.5ft | 1.5 tons | $349 | Kitchen/bath remodels, roofing, mid-size projects |
 | [20-Yard](/20-yard-dumpster-rental) | 14ft x 7.5ft x 5.8ft | 2 tons | $399 | New construction, large renovations, demolition |
 
 ### Which Construction Dumpster Size Do You Need?
@@ -926,7 +926,7 @@ Choosing the right construction dumpster size depends on your project type, the 
 | Commercial build-out | 10-30+ cubic yards | [20-yard](/20-yard-dumpster-rental), scheduled swaps |
 | Interior demolition | 10-20+ cubic yards | [20-yard](/20-yard-dumpster-rental) |
 
-For most contractors working on residential projects in Jacksonville, a [15-yard dumpster](/15-yard-dumpster-rental) hits the sweet spot between capacity and cost. It handles mid-size remodels without taking up the entire driveway, and the 2-ton weight limit accommodates a mix of materials.
+For most contractors working on residential projects in Jacksonville, a [15-yard dumpster](/15-yard-dumpster-rental) hits the sweet spot between capacity and cost. It handles mid-size remodels without taking up the entire driveway, and the 1.5-ton weight limit accommodates a mix of materials.
 
 For new construction and larger commercial projects, the [20-yard dumpster](/20-yard-dumpster-rental) provides the volume you need. On longer projects, we can schedule regular swaps where we pick up the full container and drop off an empty one, keeping your site clean throughout the entire build.
 
