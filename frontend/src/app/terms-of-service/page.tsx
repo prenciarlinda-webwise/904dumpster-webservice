@@ -111,6 +111,7 @@ export default function TermsOfServicePage() {
               <li>A <strong>10-yard dumpster</strong> comes with <strong>1 ton (2,000 lbs)</strong> included. If you go over, an overweight charge of $50&ndash;$100 per extra ton applies, depending on the area.</li>
               <li>A <strong>15-yard dumpster</strong> comes with <strong>1.5 tons (3,000 lbs)</strong> included, with the same overweight charge of $50&ndash;$100 per extra ton depending on the area.</li>
               <li>A <strong>20-yard dumpster</strong> comes with <strong>2 tons (4,000 lbs)</strong> included, with the same approach for any extra weight.</li>
+              <li>A <strong>30-yard dumpster</strong> comes with <strong>3 tons (6,000 lbs)</strong> included, with the same approach for any extra weight.</li>
             </ul>
             <p className="text-gray-600 mb-8">
               We&apos;ll let you know the specifics when you book, so you can plan accordingly!
