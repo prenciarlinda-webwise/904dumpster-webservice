@@ -71,7 +71,7 @@ export default function AboutPage() {
             </h1>
             <p className="text-xl text-white/70 mb-8">
               Jacksonville&apos;s locally owned and operated dumpster rental company. Serving Northeast
-              Florida since 2016 — not a broker, just your neighbors.
+              Florida since 2016. Not a broker, just your neighbors.
             </p>
             {/* Trust Badges */}
             <div className="flex flex-wrap items-center gap-4">
@@ -111,7 +111,7 @@ export default function AboutPage() {
                 </p>
                 <p>
                   We noticed that many dumpster rental companies in the Jacksonville area were actually
-                  <strong> national brokers or call centers</strong> — they&apos;d take your money, then dispatch
+                  <strong> national brokers or call centers</strong>. They&apos;d take your money, then dispatch
                   whoever was available. Hidden fees, unreliable delivery times, and poor communication
                   were the norm. We knew there had to be a better way.
                 </p>
@@ -139,7 +139,7 @@ export default function AboutPage() {
                   <div>
                     <div className="font-bold text-secondary mb-1">Locally Owned & Operated</div>
                     <p className="text-gray-600">
-                      We live and work in Jacksonville — not a broker or national call center.
+                      We live and work in Jacksonville. Not a broker or national call center.
                     </p>
                   </div>
                 </div>
@@ -183,10 +183,52 @@ export default function AboutPage() {
                   <div>
                     <div className="font-bold text-secondary mb-1">Real People, Real Service</div>
                     <p className="text-gray-600">
-                      Call us and talk to a real person who can help — no automated systems.
+                      Call us and talk to a real person who can help. No automated systems.
                     </p>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Meet the Owner */}
+      <section className="py-20 lg:py-28 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="max-w-3xl mx-auto text-center mb-12">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Meet the Owner
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
+              Dionis (Danny), Founder of 904 Dumpster
+            </h2>
+          </div>
+          <div className="max-w-3xl mx-auto">
+            <div className="bg-white rounded-3xl p-8 lg:p-10 shadow-lg shadow-black/5">
+              <div className="space-y-4 text-gray-600 text-lg">
+                <p>
+                  <strong className="text-secondary">Dionis (Danny)</strong> has called Florida home for the
+                  past 10 years, and his passion for the community is what drives 904 Dumpster every single day.
+                  For Danny, there&apos;s nothing more rewarding than delivering great service fast and making
+                  sure every rental goes smoothly from start to finish.
+                </p>
+                <p>
+                  That commitment to quality shows in every detail of the business. Danny personally invests
+                  in <strong>high-quality dumpster materials</strong> so containers arrive clean, sturdy, and
+                  ready for any project. He believes that great equipment is the foundation of great service.
+                </p>
+                <p>
+                  Communication is just as important to Danny as the dumpsters themselves. He makes sure every
+                  customer knows exactly what to expect, from <strong>delivery timelines and weight limits
+                  to what you can and can&apos;t put in the dumpster</strong>. No surprises, no confusion, just
+                  clear and honest guidance so your project stays on track.
+                </p>
+                <p>
+                  When you rent from 904 Dumpster, you&apos;re not working with a faceless corporation.
+                  You&apos;re working with Danny and his local team, people who take pride in serving their
+                  neighbors across Jacksonville and Northeast Florida.
+                </p>
               </div>
             </div>
           </div>

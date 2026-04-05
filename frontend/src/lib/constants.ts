@@ -6,7 +6,7 @@ export const BUSINESS = {
   phone: '(904) 240-5598',
   phoneRaw: '9042405598',
   email: 'info@904dumpster.com',
-  address: 'Jacksonville, FL 32246',
+  address: '2798 Anniston Rd, Jacksonville, FL 32246',
   hours: {
     weekday: 'Mon-Fri 8AM-7PM',
     weekend: 'Sat 8AM-5PM',

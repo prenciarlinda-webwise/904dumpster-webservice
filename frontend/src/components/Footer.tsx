@@ -169,13 +169,19 @@ export default function Footer() {
 
             {/* Location Badge */}
             <div className="mt-8 p-4 bg-white/5 rounded-xl border border-white/10">
-              <div className="flex items-start gap-3">
+              <a
+                href="https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="904 Dumpster Location - 2798 Anniston Rd, Jacksonville, FL 32246"
+                className="flex items-start gap-3 group"
+              >
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                 <div>
-                  <div className="font-semibold text-white">{BUSINESS.address}</div>
+                  <div className="font-semibold text-white group-hover:text-primary transition-colors">{BUSINESS.address}</div>
                   <div className="text-sm text-white/50 mt-1">Serving all of Northeast Florida</div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
 

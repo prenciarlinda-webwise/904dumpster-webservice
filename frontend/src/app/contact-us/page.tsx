@@ -210,8 +210,15 @@ export default function ContactPage() {
                       <MapPin className="w-6 h-6 text-primary" />
                     </div>
                     <div>
-                      <div className="font-semibold text-secondary">Service Area</div>
-                      <p className="text-gray-600">{BUSINESS.address}</p>
+                      <div className="font-semibold text-secondary">Address</div>
+                      <a
+                        href="https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-gray-600 hover:text-primary transition-colors"
+                      >
+                        {BUSINESS.address}
+                      </a>
                       <p className="text-gray-500 text-sm mt-1">
                         Serving Jacksonville & Northeast Florida
                       </p>
