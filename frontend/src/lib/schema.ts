@@ -81,6 +81,21 @@ export function generateOrganizationSchema() {
       'https://www.tiktok.com/@904dumpsters',
       'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
     ],
+    founder: {
+      '@type': 'Person',
+      name: 'Dionis (Danny)',
+      jobTitle: 'Founder & Owner',
+    },
+    foundingDate: '2016',
+    foundingLocation: {
+      '@type': 'Place',
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: 'Jacksonville',
+        addressRegion: 'FL',
+        addressCountry: 'US',
+      },
+    },
     contactPoint: {
       '@type': 'ContactPoint',
       telephone: BUSINESS.phone,
@@ -343,6 +358,11 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
     telephone: '+19042405598',
     email: BUSINESS.email,
     priceRange: '$299-$649',
+    founder: {
+      '@type': 'Person',
+      name: 'Dionis (Danny)',
+      jobTitle: 'Founder & Owner',
+    },
     foundingDate: '2016',
     address: {
       '@type': 'PostalAddress',
@@ -604,7 +624,7 @@ export function generateAboutPageSchema() {
     '@id': 'https://www.904dumpster.com/about#webpage',
     url: 'https://www.904dumpster.com/about',
     name: 'About 904 Dumpster',
-    description: 'Learn about 904 Dumpster, Jacksonville\'s trusted local dumpster rental company.',
+    description: 'Learn about 904 Dumpster and founder Dionis (Danny). Jacksonville\'s trusted local dumpster rental company, serving Northeast Florida since 2016.',
     isPartOf: {
       '@id': 'https://www.904dumpster.com/#website',
     },
@@ -612,7 +632,28 @@ export function generateAboutPageSchema() {
       '@id': 'https://www.904dumpster.com/#organization',
     },
     mainEntity: {
+      '@type': 'Organization',
       '@id': 'https://www.904dumpster.com/#organization',
+      name: BUSINESS.name,
+      founder: {
+        '@type': 'Person',
+        name: 'Dionis (Danny)',
+        jobTitle: 'Founder & Owner',
+        description: 'Florida resident for over 10 years. Founded 904 Dumpster in 2016 with a focus on quality equipment, clear communication, and fast, reliable service for Jacksonville and Northeast Florida.',
+        worksFor: {
+          '@type': 'Organization',
+          name: BUSINESS.name,
+        },
+      },
+      foundingDate: '2016',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: '2798 Anniston Rd',
+        addressLocality: 'Jacksonville',
+        addressRegion: 'FL',
+        postalCode: '32246',
+        addressCountry: 'US',
+      },
     },
     inLanguage: 'en-US',
   }
@@ -640,8 +681,10 @@ export function generateContactPageSchema() {
       email: BUSINESS.email,
       address: {
         '@type': 'PostalAddress',
+        streetAddress: '2798 Anniston Rd',
         addressLocality: 'Jacksonville',
         addressRegion: 'FL',
+        postalCode: '32246',
         addressCountry: 'US',
       },
     },

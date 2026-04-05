@@ -272,10 +272,10 @@ export const LOCATIONS: Location[] = [
     locationType: 'beach',
     serviceHighlights: ['Beach Community Expert', 'Compact Dumpsters', 'Same-Day Delivery', 'Licensed & Insured'],
     coastalConsiderations: [
-      'Salt air accelerates exterior deterioration — expect more debris from siding, deck, and fence projects',
+      'Salt air accelerates exterior deterioration, so expect more debris from siding, deck, and fence projects',
       'Narrow streets near the oceanfront require careful delivery scheduling',
       'We recommend early morning delivery (before 8 AM) to avoid beach traffic',
-      'Sand-heavy loads are heavier than they appear — factor weight limits accordingly',
+      'Sand-heavy loads are heavier than they appear, so factor weight limits accordingly',
     ],
     pricingNote: 'Duval County pricing: 10-yard $299 (3-day rental), 15-yard $349, 20-yard $399 (5-day rentals).',
   },
@@ -342,7 +342,7 @@ export const LOCATIONS: Location[] = [
     locationType: 'beach',
     serviceHighlights: ['Compact Dumpsters', 'Beach Driveways', 'Same-Day Delivery', 'Licensed & Insured'],
     coastalConsiderations: [
-      'Neptune Beach has one of the smallest footprints of any Jacksonville beach community — driveway space is limited',
+      'Neptune Beach has one of the smallest footprints of any Jacksonville beach community, so driveway space is limited',
       'Street placement may require coordination with the City of Neptune Beach',
       'Our 10-yard dumpster is the most requested size here due to compact driveways',
     ],
@@ -413,7 +413,7 @@ export const LOCATIONS: Location[] = [
     coastalConsiderations: [
       'Jax Beach has a wider variety of property sizes than other beach communities',
       'Commercial projects along Beach Boulevard may need delivery scheduling around business hours',
-      'Hurricane season preparation generates high demand — book early during June-November',
+      'Hurricane season preparation generates high demand, so book early during June-November',
     ],
     pricingNote: 'Duval County pricing: 10-yard $299 (3-day rental), 15-yard $349, 20-yard $399 (5-day rentals).',
   },
@@ -725,7 +725,7 @@ export const LOCATIONS: Location[] = [
       },
       {
         question: 'What size dumpster is best for historic home projects?',
-        answer: 'For renovation projects in Green Cove Springs\' historic downtown area, our 15-yard dumpster is the best choice — compact enough for tighter driveways while providing excellent capacity. For larger historic home renovations or properties with more space, our 20-yard dumpster handles the job.',
+        answer: 'For renovation projects in Green Cove Springs\' historic downtown area, our 15-yard dumpster is the best choice. It is compact enough for tighter driveways while providing excellent capacity. For larger historic home renovations or properties with more space, our 20-yard dumpster handles the job.',
       },
       {
         question: 'How quickly can you deliver to Green Cove Springs?',
@@ -800,7 +800,7 @@ export const LOCATIONS: Location[] = [
       },
       {
         question: 'What size dumpster works best for historic home projects?',
-        answer: 'For renovation projects in Fernandina Beach\'s historic district, our 15-yard dumpster is the best choice — compact enough for narrower driveways while providing excellent capacity for renovation debris. For larger historic home renovations or properties with more room, our 20-yard dumpster handles the job.',
+        answer: 'For renovation projects in Fernandina Beach\'s historic district, our 15-yard dumpster is the best choice. It is compact enough for narrower driveways while providing excellent capacity for renovation debris. For larger historic home renovations or properties with more room, our 20-yard dumpster handles the job.',
       },
       {
         question: 'How quickly can you deliver to Fernandina Beach?',
@@ -829,7 +829,7 @@ export const LOCATIONS: Location[] = [
     },
     coastalConsiderations: [
       'Amelia Island properties face similar salt air challenges as Jacksonville beaches',
-      'Bridge access means delivery timing matters — avoid peak tourist hours on A1A',
+      'Bridge access means delivery timing matters, so avoid peak tourist hours on A1A',
       'Vacation rental turnovers require precise scheduling between guests',
     ],
     pricingNote: 'Nassau County pricing starts at $409 for a 15-yard and $459 for a 20-yard dumpster. 10-yard dumpsters are not available in this area.',

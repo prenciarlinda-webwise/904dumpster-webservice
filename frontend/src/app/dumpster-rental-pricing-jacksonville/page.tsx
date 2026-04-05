@@ -360,7 +360,7 @@ export default function PricingPage() {
 
             <h3 className="text-xl font-bold text-secondary mb-3">What is the cheapest dumpster rental in Jacksonville?</h3>
             <p className="text-gray-600 mb-6">
-              The most affordable dumpster rental in Jacksonville is the 10-yard dumpster from 904 Dumpster at $299. This price includes everything — delivery, 3-day rental, pickup, and disposal up to 1 ton. There are no fuel surcharges, environmental fees, or hidden costs added at checkout.
+              The most affordable dumpster rental in Jacksonville is the 10-yard dumpster from 904 Dumpster at $299. This price includes everything: delivery, 3-day rental, pickup, and disposal up to 1 ton. There are no fuel surcharges, environmental fees, or hidden costs added at checkout.
             </p>
 
             <h3 className="text-xl font-bold text-secondary mb-3">Can you get same-day dumpster delivery in Jacksonville?</h3>

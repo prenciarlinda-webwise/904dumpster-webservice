@@ -37,15 +37,15 @@ function getContextualInterlinks(post: BlogPost, allPosts: BlogPost[]): { set1: 
 
   // Pool of service cards
   const serviceCards: InterlinkCard[] = [
-    { title: '10 Yard Dumpster', description: 'From $299 — Small cleanouts, garage projects', href: '/10-yard-dumpster-rental', label: 'Dumpster Size' },
-    { title: '15 Yard Dumpster', description: 'From $349 — Renovations, roofing, remodels', href: '/15-yard-dumpster-rental', label: 'Dumpster Size' },
-    { title: '20 Yard Dumpster', description: 'From $399 — Large renovations, construction', href: '/20-yard-dumpster-rental', label: 'Most Popular' },
-    { title: 'Junk Removal', description: 'We load it for you — Full-service hauling', href: '/junk-removal-jacksonville', label: 'Service' },
-    { title: 'Construction Dumpster', description: 'Job site waste — Contractors welcome', href: '/construction-dumpster-rental', label: 'Service' },
-    { title: 'Concrete Disposal', description: 'Heavy materials — Brick, block, asphalt', href: '/concrete-disposal-dumpster', label: 'Service' },
-    { title: 'Demolition Services', description: 'Professional demo — Sheds, decks, interiors', href: '/demolition-services-jacksonville', label: 'Service' },
+    { title: '10 Yard Dumpster', description: 'From $299. Small cleanouts, garage projects', href: '/10-yard-dumpster-rental', label: 'Dumpster Size' },
+    { title: '15 Yard Dumpster', description: 'From $349. Renovations, roofing, remodels', href: '/15-yard-dumpster-rental', label: 'Dumpster Size' },
+    { title: '20 Yard Dumpster', description: 'From $399. Large renovations, construction', href: '/20-yard-dumpster-rental', label: 'Most Popular' },
+    { title: 'Junk Removal', description: 'We load it for you. Full-service hauling', href: '/junk-removal-jacksonville', label: 'Service' },
+    { title: 'Construction Dumpster', description: 'Job site waste. Contractors welcome', href: '/construction-dumpster-rental', label: 'Service' },
+    { title: 'Concrete Disposal', description: 'Heavy materials: brick, block, asphalt', href: '/concrete-disposal-dumpster', label: 'Service' },
+    { title: 'Demolition Services', description: 'Professional demo: sheds, decks, interiors', href: '/demolition-services-jacksonville', label: 'Service' },
     { title: 'Dumpster Size Guide', description: 'Not sure which size? Compare all options', href: '/dumpster-size-guide', label: 'Guide' },
-    { title: 'Pricing Guide', description: 'Transparent flat-rate pricing — No hidden fees', href: '/dumpster-rental-pricing-jacksonville', label: 'Pricing' },
+    { title: 'Pricing Guide', description: 'Transparent flat-rate pricing. No hidden fees', href: '/dumpster-rental-pricing-jacksonville', label: 'Pricing' },
   ]
 
   // Pool of location cards
@@ -79,7 +79,7 @@ function getContextualInterlinks(post: BlogPost, allPosts: BlogPost[]): { set1: 
   const svc2 = serviceCards[(seed + 3) % serviceCards.length]
   const loc1 = locationCards[seed % locationCards.length]
 
-  // Set 2 (appears ~6 paragraphs in): "You might also read" — 3 blog posts
+  // Set 2 (appears ~6 paragraphs in): "You might also read" - 3 blog posts
   const blog1 = blogCards[0] || serviceCards[(seed + 1) % serviceCards.length]
   const blog2 = blogCards[1] || serviceCards[(seed + 2) % serviceCards.length]
   const blog3 = blogCards[2] || locationCards[(seed + 1) % locationCards.length]
@@ -244,7 +244,7 @@ function formatContent(content: string, interlinkSet1?: string, interlinkSet2?: 
         result.push(`<blockquote class="my-8 border-l-4 border-primary bg-primary/5 rounded-r-xl p-6">
           <div class="flex gap-1 mb-3">${'<svg class="w-5 h-5 text-primary" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>'.repeat(5)}</div>
           <p class="text-gray-700 text-lg italic mb-3">"${quote}"</p>
-          <cite class="text-sm font-semibold text-secondary not-italic">— ${attribution}</cite>
+          <cite class="text-sm font-semibold text-secondary not-italic">- ${attribution}</cite>
         </blockquote>`)
         continue
       }

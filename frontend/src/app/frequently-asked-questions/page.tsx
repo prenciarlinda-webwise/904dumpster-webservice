@@ -106,12 +106,12 @@ const faqs = [
       {
         question: 'How do I choose the right dumpster size?',
         answer:
-          'Choosing the right dumpster size depends on your project type and the amount of debris. For small cleanouts, bathroom remodels, or garage cleanups, a 10-yard dumpster is usually sufficient. For kitchen renovations, roofing projects, or multiple-room cleanouts, the 15-yard is our most popular choice. For large construction projects, whole-home renovations, or estate cleanouts, go with the 20-yard. When in doubt, size up — it is more cost-effective than renting a second dumpster. Check our dumpster size guide for project-specific recommendations.',
+          'Choosing the right dumpster size depends on your project type and the amount of debris. For small cleanouts, bathroom remodels, or garage cleanups, a 10-yard dumpster is usually sufficient. For kitchen renovations, roofing projects, or multiple-room cleanouts, the 15-yard is our most popular choice. For large construction projects, whole-home renovations, or estate cleanouts, go with the 20-yard. When in doubt, size up. It is more cost-effective than renting a second dumpster. Check our dumpster size guide for project-specific recommendations.',
       },
       {
         question: 'What is a roll-off dumpster?',
         answer:
-          'A roll-off dumpster is an open-top waste container that is delivered and picked up by a special roll-off truck. The truck rolls the dumpster off the back onto your driveway or designated area. Roll-off dumpsters are the standard type used for residential and commercial cleanouts, renovations, and construction projects. They come in various sizes — we offer 10-yard, 15-yard, and 20-yard roll-off dumpsters to fit any project.',
+          'A roll-off dumpster is an open-top waste container that is delivered and picked up by a special roll-off truck. The truck rolls the dumpster off the back onto your driveway or designated area. Roll-off dumpsters are the standard type used for residential and commercial cleanouts, renovations, and construction projects. They come in various sizes, and we offer 10-yard, 15-yard, and 20-yard roll-off dumpsters to fit any project.',
       },
       {
         question: 'What if I fill the dumpster before my rental period ends?',
@@ -131,7 +131,7 @@ const faqs = [
       {
         question: 'How much does a dumpster rental cost?',
         answer:
-          'Dumpster rental costs in Jacksonville (Duval County) range from $299 to $399 depending on size. Our 10-yard dumpster is $299 with a 3-day rental, the 15-yard is $349, and the 20-yard is $399 — both with 5-day rentals. Pricing varies for Clay, St. Johns, Nassau, and other service areas. Every rental includes delivery, pickup, and disposal up to the weight limit. Extensions are available at $15 per additional day. There are no hidden fees, fuel surcharges, or environmental charges.',
+          'Dumpster rental costs in Jacksonville (Duval County) range from $299 to $399 depending on size. Our 10-yard dumpster is $299 with a 3-day rental, the 15-yard is $349, and the 20-yard is $399, both with 5-day rentals. Pricing varies for Clay, St. Johns, Nassau, and other service areas. Every rental includes delivery, pickup, and disposal up to the weight limit. Extensions are available at $15 per additional day. There are no hidden fees, fuel surcharges, or environmental charges.',
       },
       {
         question: 'What is included in the rental price?',
@@ -191,12 +191,12 @@ const faqs = [
       {
         question: 'Can you throw concrete in a dumpster?',
         answer:
-          'Yes, you can throw concrete in a dumpster. We offer concrete disposal dumpsters specifically for heavy materials like concrete, brick, block, and stone. Because concrete is extremely heavy, weight limits are reached quickly — a 10-yard dumpster should be filled no more than 1/4 full with concrete. For large concrete removal projects such as driveway or patio demolition, contact us about our heavy debris pricing for the most cost-effective option.',
+          'Yes, you can throw concrete in a dumpster. We offer concrete disposal dumpsters specifically for heavy materials like concrete, brick, block, and stone. Because concrete is extremely heavy, weight limits are reached quickly, so a 10-yard dumpster should be filled no more than 1/4 full with concrete. For large concrete removal projects such as driveway or patio demolition, contact us about our heavy debris pricing for the most cost-effective option.',
       },
       {
         question: 'Can you throw paint in a dumpster?',
         answer:
-          'It depends on the type of paint. Latex (water-based) paint can go in a dumpster, but it must be completely dried out first. You can dry latex paint by removing the lid and letting it air dry, or by mixing in cat litter or sawdust to absorb the liquid. Oil-based paint is considered hazardous waste and cannot go in a dumpster — it must be taken to a household hazardous waste collection facility. Empty, dry paint cans are always accepted.',
+          'It depends on the type of paint. Latex (water-based) paint can go in a dumpster, but it must be completely dried out first. You can dry latex paint by removing the lid and letting it air dry, or by mixing in cat litter or sawdust to absorb the liquid. Oil-based paint is considered hazardous waste and cannot go in a dumpster. It must be taken to a household hazardous waste collection facility. Empty, dry paint cans are always accepted.',
       },
       {
         question: 'Can I put yard waste in the dumpster?',
@@ -221,7 +221,7 @@ const faqs = [
       {
         question: 'How long can you rent a dumpster?',
         answer:
-          'Our standard dumpster rental period is 5 days, which is included in the base price. If you need more time, extensions are available at just $15 per additional day. There is no maximum rental period — you can keep the dumpster for as long as your project requires. Just let us know before your 5-day rental period ends so we can extend it for you.',
+          'Our standard dumpster rental period is 5 days, which is included in the base price. If you need more time, extensions are available at just $15 per additional day. There is no maximum rental period, so you can keep the dumpster for as long as your project requires. Just let us know before your 5-day rental period ends so we can extend it for you.',
       },
       {
         question: 'How do I schedule pickup?',
@@ -286,7 +286,7 @@ const faqs = [
       {
         question: 'Where does trash go after it is picked up?',
         answer:
-          'After your dumpster is picked up, the contents are transported to a licensed transfer station or landfill facility in Northeast Florida. At the transfer station, materials are sorted — recyclable items like metal, concrete, and wood are separated for recycling whenever possible. Non-recyclable waste is sent to an approved landfill for safe, environmentally compliant disposal. We are committed to responsible waste management and divert as much material from landfills as possible.',
+          'After your dumpster is picked up, the contents are transported to a licensed transfer station or landfill facility in Northeast Florida. At the transfer station, materials are sorted. Recyclable items like metal, concrete, and wood are separated for recycling whenever possible. Non-recyclable waste is sent to an approved landfill for safe, environmentally compliant disposal. We are committed to responsible waste management and divert as much material from landfills as possible.',
       },
     ],
   },

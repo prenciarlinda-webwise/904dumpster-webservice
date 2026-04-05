@@ -387,9 +387,9 @@ export const SERVICES: ServicePage[] = [
   {
     slug: 'dumpster-size-guide',
     type: 'guide',
-    title: 'Dumpster Size Guide',
-    metaTitle: 'Dumpster Sizes Guide - Compare 10, 15 & 20 Yard',
-    metaDescription: 'Compare dumpster sizes for your project. 10 yard ($299), 15 yard ($349), 20 yard ($399). Find the right roll off container size in Jacksonville.',
+    title: 'Dumpster Size Chart',
+    metaTitle: 'Dumpster Size Chart - 10, 15 & 20 Yard Dimensions Compared',
+    metaDescription: 'Dumpster size chart with dimensions for 10 yard (12\'x7.5\'x3.6\'), 15 yard (14\'x7.5\'x4.5\'), and 20 yard (14\'x7.5\'x5.8\') roll-off containers. Standard dumpster sizes compared with photos.',
     keywords: [
       'dumpster sizes',
       'roll off dumpster sizes',

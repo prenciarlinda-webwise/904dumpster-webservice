@@ -122,7 +122,7 @@ const FAQ_DATA = [
   {
     question: 'What is the cheapest way to get rid of junk in Jacksonville?',
     answer:
-      'For small amounts of junk (a few items), hiring 904 Dumpster\'s junk removal service is the most affordable option — we do all the heavy lifting. For larger cleanouts, renting a 10-yard dumpster at $299 and loading it yourself is the cheapest approach. Self-hauling to Trail Ridge Landfill costs $50-75 per load plus your time, so a dumpster rental saves money after just 2-3 loads.',
+      'For small amounts of junk (a few items), hiring 904 Dumpster\'s junk removal service is the most affordable option. We do all the heavy lifting. For larger cleanouts, renting a 10-yard dumpster at $299 and loading it yourself is the cheapest approach. Self-hauling to Trail Ridge Landfill costs $50-75 per load plus your time, so a dumpster rental saves money after just 2-3 loads.',
   },
   {
     question: 'What is a roll-off dumpster?',
@@ -200,6 +200,11 @@ const localBusinessSchema = {
   description: '904 Dumpster is a locally owned and operated dumpster rental company serving the 904 area code - Jacksonville and Northeast Florida. Not a broker or national call center. Same-day delivery, transparent pricing, and real local service from your neighbors.',
   alternateName: '904 Dumpster',
   slogan: 'Same-Day Dumpster Delivery in Jacksonville, FL',
+  founder: {
+    '@type': 'Person',
+    name: 'Dionis (Danny)',
+    jobTitle: 'Founder & Owner',
+  },
   foundingDate: '2016',
   url: 'https://www.904dumpster.com',
   telephone: BUSINESS.phone,
@@ -457,7 +462,7 @@ export default function HomePage() {
                   Dumpster Rental{' '}
                   <span className="text-primary">Jacksonville FL</span>
                   <span className="block text-2xl md:text-3xl lg:text-4xl font-bold text-white/80 mt-3">
-                    From $299 — Same-Day Delivery
+                    From $299 | Same-Day Delivery
                   </span>
                 </h1>
 
