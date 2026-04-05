@@ -161,7 +161,7 @@ const howToSchema = {
     {
       '@type': 'HowToStep',
       name: 'Fill Your Dumpster',
-      text: 'Load your debris during the 5-day rental period. Extensions available at $15/day.',
+      text: 'Load your debris during your rental period (3 days for 10-yard, 5 days for 15 and 20-yard). Extensions available at $15/day.',
       url: 'https://www.904dumpster.com/rules/prohibited-items-list',
     },
     {
@@ -336,7 +336,7 @@ const serviceSchema = {
   '@type': 'Service',
   serviceType: 'Dumpster Rental',
   name: 'Dumpster Rental Jacksonville FL',
-  description: 'Roll-off dumpster rental service in Jacksonville, FL. 10, 15, and 20-yard containers available with same-day delivery. All rentals include delivery, pickup, disposal, and 5-day rental period.',
+  description: 'Roll-off dumpster rental service in Jacksonville, FL. 10, 15, and 20-yard containers available with same-day delivery. All rentals include delivery, pickup, disposal, and rental period.',
   provider: {
     '@type': 'LocalBusiness',
     name: '904 Dumpster',
@@ -544,8 +544,8 @@ export default function HomePage() {
             <p className="text-gray-700 leading-relaxed mb-6">
               <strong>904 Dumpster</strong> is a locally owned dumpster rental company in Jacksonville, FL,
               founded in 2016. Dumpster rental prices at 904 Dumpster start at $299 for a 10-yard container,
-              $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, and disposal.
-              and a 5-day rental period with no hidden fees. 904 Dumpster serves Duval, St. Johns, Clay,
+              $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal,
+              and a rental period (3 days for the 10-yard, 5 days for 15 and 20-yard) with no hidden fees. 904 Dumpster serves Duval, St. Johns, Clay,
               and Nassau counties with same-day delivery available when customers book before noon.
               The company maintains a 5.0-star rating across {REVIEWS.count} Google reviews and is fully insured.
               904 Dumpster owns its trucks and employs local drivers, unlike national brokers or call centers.
@@ -584,7 +584,7 @@ export default function HomePage() {
                 Dumpster rental prices in Jacksonville typically range from $299 to $500+ depending on the provider, size, and what&apos;s included.
                 At <strong className="text-secondary">904 Dumpster</strong>, our all-inclusive pricing starts at <strong className="text-primary">$299 for a 10-yard dumpster</strong>,
                 <strong className="text-primary"> $349 for a 15-yard</strong>, and <strong className="text-primary">$399 for a 20-yard</strong>.
-                Every rental includes delivery, pickup, disposal fees at Trail Ridge Landfill, and a 5-day rental period, no hidden charges.
+                Every rental includes delivery, pickup, and disposal fees at Trail Ridge Landfill. The 10-yard comes with a 3-day rental, while 15 and 20-yard include a 5-day rental. No hidden charges.
               </p>
 
               <p className="mb-4">
@@ -601,7 +601,7 @@ export default function HomePage() {
               </p>
 
               <p className="mb-4">
-                Need an extra day or two? Extensions are $15 per day. Most customers finish within the included 5-day rental, but we&apos;re flexible if your project takes longer.
+                Need an extra day or two? Extensions are $15 per day. Most customers finish within the included rental period, but we&apos;re flexible if your project takes longer.
                 For longer-term projects like construction sites, ask about our weekly and monthly rates.
               </p>
             </div>
@@ -642,7 +642,7 @@ export default function HomePage() {
                 Choose Your Dumpster Size
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Need a small dumpster rental for a garage cleanout or a large container for construction? All prices include delivery, pickup, disposal, and a 5-day rental period.
+                Need a small dumpster rental for a garage cleanout or a large container for construction? All prices include delivery, pickup, disposal, and a rental period.
                 No hidden fees, ever.
               </p>
             </div>
@@ -655,6 +655,7 @@ export default function HomePage() {
                   name: '10 Yard Dumpster',
                   dimensions: "12' L × 7.5' W × 3.6' H",
                   tons: '1',
+                  days: 3,
                   bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
                   price: '$299',
                   popular: false,
@@ -666,6 +667,7 @@ export default function HomePage() {
                   name: '15 Yard Dumpster',
                   dimensions: "14' L × 7.5' W × 4.5' H",
                   tons: '1.5',
+                  days: 5,
                   bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
                   price: '$349',
                   popular: false,
@@ -677,6 +679,7 @@ export default function HomePage() {
                   name: '20 Yard Dumpster',
                   dimensions: "14' L × 7.5' W × 5.8' H",
                   tons: '2',
+                  days: 5,
                   bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
                   price: '$399',
                   popular: true,
@@ -720,7 +723,7 @@ export default function HomePage() {
                       </div>
                       <div className="text-right">
                         <div className="text-2xl font-black text-primary">{dumpster.price}</div>
-                        <div className="text-xs text-gray-400">5-day rental</div>
+                        <div className="text-xs text-gray-400">{dumpster.days}-day rental</div>
                       </div>
                     </div>
 
@@ -1197,7 +1200,7 @@ export default function HomePage() {
                 </div>
                 <h3 className="text-xl font-bold text-white mb-3">No Hidden Fees, Guaranteed</h3>
                 <p className="text-white/70 leading-relaxed">
-                  Every 904 Dumpster quote includes delivery, pickup, disposal fees, and a 5-day rental period.
+                  Every 904 Dumpster quote includes delivery, pickup, disposal fees, and a rental period.
                   Many competitors advertise low base rates then add fuel surcharges, environmental fees, and disposal costs at pickup.
                   We believe in transparent pricing: the price you see is the price you pay, with no surprises when we pick up your dumpster.
                   If you need extra days, we charge a flat $15 per day, and we&apos;ll always let you know before any additional charges apply.

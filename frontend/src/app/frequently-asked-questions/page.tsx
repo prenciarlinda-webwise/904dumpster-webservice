@@ -221,7 +221,7 @@ const faqs = [
       {
         question: 'How long can you rent a dumpster?',
         answer:
-          'Our standard dumpster rental period is 5 days, which is included in the base price. If you need more time, extensions are available at just $15 per additional day. There is no maximum rental period, so you can keep the dumpster for as long as your project requires. Just let us know before your 5-day rental period ends so we can extend it for you.',
+          'Our 10-yard dumpster includes a 3-day rental period, and our 15 and 20-yard dumpsters include a 5-day rental period. If you need more time, extensions are available at just $15 per additional day. There is no maximum rental period, so you can keep the dumpster for as long as your project requires. Just let us know before your rental period ends so we can extend it for you.',
       },
       {
         question: 'How do I schedule pickup?',

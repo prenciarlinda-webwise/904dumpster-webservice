@@ -409,7 +409,7 @@ For projects where you need hands-on help, our [junk removal service](/junk-remo
 
 ### How much does a home cleanout cost in Jacksonville?
 
-A home cleanout in Jacksonville costs between $299 and $399 for dumpster rental with 904 Dumpster, depending on the size container you need. A single-room cleanout fits in a $299 [10-yard dumpster](/10-yard-dumpster-rental), while a whole-house cleanout typically requires a $399 [20-yard dumpster](/20-yard-dumpster-rental). All prices include delivery, pickup, a 5-day rental, and disposal.
+A home cleanout in Jacksonville costs between $299 and $399 for dumpster rental with 904 Dumpster, depending on the size container you need. A single-room cleanout fits in a $299 [10-yard dumpster](/10-yard-dumpster-rental), while a whole-house cleanout typically requires a $399 [20-yard dumpster](/20-yard-dumpster-rental). All prices include delivery, pickup, a rental period, and disposal.
 
 ### How long does a whole-house cleanout take?
 

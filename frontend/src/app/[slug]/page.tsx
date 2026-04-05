@@ -289,9 +289,9 @@ function DumpsterSizePage({
   const dims = dumpster.dimensions
 
   const allSizes = [
-    { size: '10', price: defaultPricing.dumpsters['10-yard'].basePrice, tons: defaultPricing.dumpsters['10-yard'].tonnageIncluded, loads: 3 },
-    { size: '15', price: defaultPricing.dumpsters['15-yard'].basePrice, tons: defaultPricing.dumpsters['15-yard'].tonnageIncluded, loads: 5 },
-    { size: '20', price: defaultPricing.dumpsters['20-yard'].basePrice, tons: defaultPricing.dumpsters['20-yard'].tonnageIncluded, loads: 7 },
+    { size: '10', price: defaultPricing.dumpsters['10-yard'].basePrice, tons: defaultPricing.dumpsters['10-yard'].tonnageIncluded, days: defaultPricing.dumpsters['10-yard'].rentalDays, loads: 3 },
+    { size: '15', price: defaultPricing.dumpsters['15-yard'].basePrice, tons: defaultPricing.dumpsters['15-yard'].tonnageIncluded, days: defaultPricing.dumpsters['15-yard'].rentalDays, loads: 5 },
+    { size: '20', price: defaultPricing.dumpsters['20-yard'].basePrice, tons: defaultPricing.dumpsters['20-yard'].tonnageIncluded, days: defaultPricing.dumpsters['20-yard'].rentalDays, loads: 7 },
   ]
 
   return (
@@ -2126,7 +2126,7 @@ function DumpsterSizePage({
                   ${dumpsterSize.price}
                 </div>
                 <p className={`mb-4 ${dumpsterSize.size === size ? 'text-white/70' : 'text-gray-500'}`}>
-                  5-day rental - {dumpsterSize.tons} ton limit
+                  {dumpsterSize.days}-day rental - {dumpsterSize.tons} ton limit
                 </p>
                 <ul className={`space-y-2 text-sm ${dumpsterSize.size === size ? '' : 'text-gray-600'}`}>
                   <li>✓ {dumpsterSize.loads} pickup truck loads</li>

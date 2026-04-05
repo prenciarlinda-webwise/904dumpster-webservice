@@ -8,7 +8,7 @@ import { generatePricingItemListSchema, generateBreadcrumbSchema } from '@/lib/s
 export const metadata: Metadata = {
   title: 'Dumpster Rental Prices Jacksonville FL',
   description:
-    'Dumpster rental prices in Jacksonville FL. 10-yard from $299, 15-yard from $349, 20-yard from $399. 5-day rental included. No hidden fees.',
+    'Dumpster rental prices in Jacksonville FL. 10-yard from $299, 15-yard from $349, 20-yard from $399. Rental period included. No hidden fees.',
   keywords: [
     'dumpster rental prices jacksonville',
     'dumpster rental cost jacksonville fl',
@@ -355,7 +355,7 @@ export default function PricingPage() {
           <div className="prose prose-lg max-w-none">
             <h3 className="text-xl font-bold text-secondary mb-3">How much does a dumpster rental cost in Jacksonville?</h3>
             <p className="text-gray-600 mb-6">
-              904 Dumpster offers roll-off dumpster rental in Jacksonville starting at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal, and a 5-day rental with no hidden fees. This is typically $50-$150 less than competitors in the Jacksonville market.
+              904 Dumpster offers roll-off dumpster rental in Jacksonville starting at $299 for a 10-yard container, $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal, and a rental period with no hidden fees. This is typically $50-$150 less than competitors in the Jacksonville market.
             </p>
 
             <h3 className="text-xl font-bold text-secondary mb-3">What is the cheapest dumpster rental in Jacksonville?</h3>
