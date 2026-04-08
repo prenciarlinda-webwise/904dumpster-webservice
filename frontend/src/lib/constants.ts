@@ -5,6 +5,7 @@ export const BUSINESS = {
   nameShort: '904 Dumpster',
   phone: '(904) 240-5598',
   phoneRaw: '9042405598',
+  phoneE164: '+19042405598',
   email: 'info@904dumpster.com',
   address: '2798 Anniston Rd, Jacksonville, FL 32246',
   hours: {
@@ -14,6 +15,26 @@ export const BUSINESS = {
   },
   bookingUrl: 'https://app.icans.ai/customer-portal/904dumpster/book/',
 } as const
+
+// Social / Review profiles (used for sameAs, footer icons, contact page, etc.)
+export const SOCIAL_LINKS = [
+  {
+    name: 'Facebook',
+    href: 'https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/',
+  },
+  {
+    name: 'Instagram',
+    href: 'https://www.instagram.com/904dumpster/',
+  },
+  {
+    name: 'Yelp',
+    href: 'https://www.yelp.com/biz/904-dumpsters-jacksonville',
+  },
+  {
+    name: 'Google',
+    href: 'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
+  },
+] as const
 
 // Google Reviews - update this when review count changes
 export const REVIEWS = {
