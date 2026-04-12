@@ -5,6 +5,7 @@ import {
   BUSINESS,
   FOOTER_LEGAL,
 } from '@/lib/constants'
+import { SocialLinks } from './SocialLinks'
 
 // Complete sitemap structure
 const SITEMAP = {
@@ -182,6 +183,14 @@ export default function Footer() {
                   <div className="text-sm text-white/50 mt-1">Serving all of Northeast Florida</div>
                 </div>
               </a>
+            </div>
+
+            {/* Social Links */}
+            <div className="mt-6">
+              <div className="text-xs text-white/40 uppercase tracking-wider mb-3">
+                Follow Us
+              </div>
+              <SocialLinks variant="footer" />
             </div>
           </div>
 
