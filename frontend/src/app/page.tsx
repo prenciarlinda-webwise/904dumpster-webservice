@@ -1,11 +1,9 @@
 import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-import Script from 'next/script'
 import {
   Phone,
   Truck,
-  Clock,
   Shield,
   Star,
   ArrowRight,
@@ -22,10 +20,8 @@ import {
 } from 'lucide-react'
 import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
-import { QuickSizeFinder } from '@/components/QuickSizeFinder'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
-import DeliveryMap from '@/components/DeliveryMap'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
@@ -466,11 +462,10 @@ export default function HomePage() {
                   </span>
                 </h1>
 
-                {/* Sub-headline - Keyword in first sentence + AI-citable facts */}
+                {/* Sub-headline */}
                 <p className="text-xl md:text-2xl text-white/80 mb-8 leading-relaxed">
-                  Dumpster rental Jacksonville FL starting at $299 with free delivery, pickup, and disposal included.
-                  Locally owned since 2016. 5.0-star rated with {REVIEWS.count} Google reviews.
-                  10, 15 &amp; 20-yard roll-off containers for homeowners and contractors.
+                  Jacksonville dumpster rental starting at $299. Delivery, pickup, and disposal included.
+                  10, 15 &amp; 20-yard roll-off containers for homeowners and contractors. Locally owned since 2016.
                 </p>
 
                 {/* Trust Indicators */}
@@ -534,43 +529,6 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            CITATION SECTION - AI Overview & Rich Results
-        ============================================ */}
-        <section className="py-12 bg-white border-b border-gray-100">
-          <div className="max-w-4xl mx-auto px-4 lg:px-6">
-            <h2 className="text-2xl md:text-3xl font-black text-secondary text-center mb-6">
-              Dumpster Rental in Jacksonville, FL, Pricing & Sizes
-            </h2>
-            <p className="text-gray-700 leading-relaxed mb-6">
-              <strong>904 Dumpster</strong> is a locally owned dumpster rental company in Jacksonville, FL,
-              founded in 2016. Dumpster rental prices at 904 Dumpster start at $299 for a 10-yard container,
-              $349 for a 15-yard, and $399 for a 20-yard. All prices include delivery, pickup, disposal,
-              and a rental period (3 days for the 10-yard, 5 days for 15 and 20-yard) with no hidden fees. 904 Dumpster serves Duval, St. Johns, Clay,
-              and Nassau counties with same-day delivery available when customers book before noon.
-              The company maintains a 5.0-star rating across {REVIEWS.count} Google reviews and is fully insured.
-              904 Dumpster owns its trucks and employs local drivers, unlike national brokers or call centers.
-            </p>
-            <div className="flex flex-wrap justify-center gap-4">
-              <Link
-                href="/dumpster-rental-pricing-jacksonville"
-                title="Dumpster Rental Pricing Jacksonville"
-                className="text-primary font-semibold hover:underline"
-              >
-                View Full Pricing Details →
-              </Link>
-              <span className="text-gray-300">|</span>
-              <Link
-                href="/contact-us"
-                title="Contact 904 Dumpster for a Free Quote"
-                className="text-primary font-semibold hover:underline"
-              >
-                Get a Free Quote →
-              </Link>
-            </div>
-          </div>
-        </section>
-
-        {/* ============================================
             DUMPSTER RENTAL COSTS IN JACKSONVILLE
         ============================================ */}
         <section className="py-16 bg-gray-50 border-b border-gray-200">
@@ -588,21 +546,15 @@ export default function HomePage() {
               </p>
 
               <p className="mb-4">
-                Looking for cheap dumpster rental in Jacksonville? Many national brokers advertise lower base rates but add fuel surcharges ($25-50), environmental fees ($15-30), and per-ton disposal charges that can double your final bill.
-                Our affordable dumpster rental pricing eliminates these surprises. For example, our 15-yard dumpster at $349 includes 1.5 tons of disposal, that&apos;s enough for most kitchen remodels and roofing projects.
-                Competitors often charge $250 base plus $65/ton disposal, meaning the same project could cost $380+ with hidden fees.
+                Looking for an affordable dumpster in Jacksonville FL? Many national brokers advertise low base rates but add fuel surcharges, environmental fees, and per-ton disposal that can double your bill.
+                Our 15-yard at $349 includes 1.5 tons of disposal, enough for most kitchen remodels and roofing projects.
+                Competitors often charge $250 base plus $65/ton, meaning the same project costs $380+ after hidden fees.
               </p>
 
               <p className="mb-4">
-                <strong className="text-secondary">How does 904 Dumpster compare to hauling debris yourself?</strong>{' '}
-                A single trip to Trail Ridge Landfill costs approximately $50-75 in disposal fees for a pickup truck load, plus fuel and your time.
-                Our 10-yard dumpster holds 3 pickup truck loads, meaning you&apos;d spend $150-225 in dump fees alone, not counting 3+ hours of driving and unloading.
-                At $299 all-in with delivery to your driveway, renting a dumpster saves both money and hassle for most Jacksonville homeowners.
-              </p>
-
-              <p className="mb-4">
-                Need an extra day or two? Extensions are $15 per day. Most customers finish within the included rental period, but we&apos;re flexible if your project takes longer.
-                For longer-term projects like construction sites, ask about our weekly and monthly rates.
+                A single trip to Trail Ridge Landfill costs $50-75 per pickup truck load in disposal fees alone.
+                Our 10-yard holds 3 truck loads. At $299 all-in with delivery to your driveway, a dumpster rental in Jacksonville saves money and time for most homeowners.
+                Need extra days? Extensions are $15 per day. For construction sites, ask about weekly and monthly rates.
               </p>
             </div>
 
@@ -639,11 +591,10 @@ export default function HomePage() {
                 Roll-Off Dumpster Sizes
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Choose Your Dumpster Size
+                Dumpster Sizes Available in Jacksonville, FL
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Need a small dumpster rental for a garage cleanout or a large container for construction? All prices include delivery, pickup, disposal, and a rental period.
-                No hidden fees, ever.
+                Every Jacksonville dumpster rental includes delivery, pickup, disposal, and a rental period. No hidden fees, ever.
               </p>
             </div>
 
@@ -808,10 +759,10 @@ export default function HomePage() {
                 Simple 4-Step Process
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                How Dumpster Rental Works in Jacksonville
+                How to Rent Dumpsters in Jacksonville FL
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Renting a roll-off dumpster from 904 Dumpster is straightforward. Here&apos;s exactly what to expect with your roll-off dumpster rental in Jacksonville from start to finish.
+                Renting a roll-off dumpster in Jacksonville is straightforward. Here&apos;s what to expect from start to finish.
               </p>
             </div>
 
@@ -873,46 +824,18 @@ export default function HomePage() {
               </div>
             </div>
 
-            {/* Prose Explanation */}
+            {/* Quick Summary + CTAs */}
             <div className="bg-gray-50 rounded-3xl p-8 lg:p-12">
-              <h3 className="text-2xl font-bold text-secondary mb-6">What to Expect When Renting a Dumpster in Jacksonville</h3>
+              <h3 className="text-2xl font-bold text-secondary mb-4">What to Expect with Your Jacksonville Dumpster Rental</h3>
+              <p className="text-gray-600 leading-relaxed mb-6">
+                Our 10-yard holds roughly 3 pickup truck loads, the 15-yard handles roofing tear-offs and kitchen remodels,
+                and the 20-yard fits whole-house renovations while still fitting most Jacksonville driveways.{' '}
+                <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="noopener noreferrer" title="Book a Dumpster Rental Online" className="text-primary hover:underline">Book online 24/7</a> or
+                call (904) 240-5598. Our drivers call 30 minutes before arrival and place boards under dumpster feet to protect your driveway.
+                When you&apos;re done loading, call or text for pickup within 24 hours.
+              </p>
 
-              <div className="space-y-6 text-gray-600 leading-relaxed">
-                <p>
-                  <strong className="text-secondary">Choosing the right size</strong> is the first step in your roll-off dumpster rental.
-                  Whether you need a garbage dumpster rental for a cleanout or a trash dumpster rental for a renovation project,
-                  our 10-yard dumpster works well for single-room cleanouts, garage purges, and small landscaping projects —
-                  it holds roughly 3 pickup truck loads of debris. The 15-yard is our most versatile size,
-                  handling kitchen remodels, roofing tear-offs (up to 20 squares of shingles), and medium estate cleanouts.
-                  For whole-house renovations, construction projects, or large cleanouts, the 20-yard provides maximum capacity
-                  while still fitting in most Jacksonville driveways.
-                </p>
-
-                <p>
-                  <strong className="text-secondary">Scheduling delivery</strong> is simple. You can{' '}
-                  <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="noopener noreferrer" title="Book a Dumpster Rental Online" className="text-primary hover:underline">
-                    book online 24/7
-                  </a>{' '}
-                  or call us at (904) 240-5598 during business hours. When ordering, let us know where you&apos;d like the dumpster placed:
-                  most customers prefer their driveway, but we can also place on grass, gravel, or the street if you have a permit.
-                  Our drivers will call 30 minutes before arrival so you can point them to the exact spot.
-                </p>
-
-                <p>
-                  <strong className="text-secondary">During your rental period,</strong> you have 5 days to fill the dumpster at your own pace.
-                  Load items through the rear swing doors (great for heavy items like concrete) or toss debris over the sides.
-                  Don&apos;t overfill: debris should stay below the top edge for safe transport.
-                  If your project runs longer than expected, call us for an extension at $15 per additional day.
-                </p>
-
-                <p>
-                  <strong className="text-secondary">Pickup is hassle-free.</strong> When you&apos;re done loading, simply call, text, or email us.
-                  Most pickups happen within 24 hours of your request. We handle all disposal at Trail Ridge Landfill or
-                  the appropriate facility based on your debris type. Your rental is complete, and your project is one step closer to finished.
-                </p>
-              </div>
-
-              <div className="mt-8 flex flex-col sm:flex-row gap-4">
+              <div className="flex flex-col sm:flex-row gap-4">
                 <a
                   href="https://app.icans.ai/customer-portal/904dumpster/book/"
                   target="_blank"
@@ -952,11 +875,11 @@ export default function HomePage() {
                 Solutions For Every Project
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Dumpster Solutions for Every Project
+                Jacksonville Dumpster Rental for Every Project
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
                 Whether you&apos;re a homeowner tackling a cleanout or a contractor managing a job site,
-                we have the right dumpster for you.
+                our dumpster service in Jacksonville FL has you covered.
               </p>
             </div>
 
@@ -1183,11 +1106,11 @@ export default function HomePage() {
                 Why Choose Us
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white mb-6">
-                The Local Difference
+                Why Jacksonville Chooses 904 Dumpster
               </h2>
               <p className="text-white/60 text-lg max-w-2xl mx-auto">
-                As a locally owned dumpster rental company in Jacksonville, we&apos;re not a broker or a national call center. We&apos;re your neighbors,
-                and we take pride in serving the Jacksonville community.
+                We&apos;re not a broker or a national call center. 904 Dumpster is a locally owned dumpster service in Jacksonville FL,
+                and we take pride in serving the community we live in.
               </p>
             </div>
 
@@ -1200,10 +1123,8 @@ export default function HomePage() {
                 </div>
                 <h3 className="text-xl font-bold text-white mb-3">No Hidden Fees, Guaranteed</h3>
                 <p className="text-white/70 leading-relaxed">
-                  Every 904 Dumpster quote includes delivery, pickup, disposal fees, and a rental period.
-                  Many competitors advertise low base rates then add fuel surcharges, environmental fees, and disposal costs at pickup.
-                  We believe in transparent pricing: the price you see is the price you pay, with no surprises when we pick up your dumpster.
-                  If you need extra days, we charge a flat $15 per day, and we&apos;ll always let you know before any additional charges apply.
+                  Every dumpster rental in Jacksonville FL from 904 Dumpster includes delivery, pickup, disposal, and a rental period.
+                  The price you see is the price you pay. Need extra days? A flat $15 per day, no surprises.
                 </p>
               </div>
 
@@ -1222,10 +1143,8 @@ export default function HomePage() {
                   className="w-full h-48 object-cover rounded-xl mb-4"
                 />
                 <p className="text-white/70 leading-relaxed">
-                  904 Dumpster isn&apos;t a national broker or call center. We&apos;re a Jacksonville-based company that owns our trucks and employs local drivers.
-                  Founded in 2016, we&apos;ve completed over 2,000 dumpster deliveries across Duval, St. Johns, Clay, and Nassau counties.
-                  When you call us, you&apos;re talking to someone who knows Jacksonville, from the narrow driveways in Riverside to the newer developments in Nocatee.
-                  We take pride in being your neighbors and treat every property like it&apos;s our own.
+                  We own our trucks and employ local drivers. Over 2,000 dumpster deliveries completed across Duval, St. Johns, Clay, and Nassau counties.
+                  When you call, you talk to someone who knows Jacksonville, from the narrow driveways in Riverside to the newer developments in Nocatee.
                 </p>
               </div>
 
@@ -1234,12 +1153,10 @@ export default function HomePage() {
                 <div className="w-14 h-14 bg-primary rounded-2xl flex items-center justify-center mb-6">
                   <Zap className="w-7 h-7 text-white" />
                 </div>
-                <h3 className="text-xl font-bold text-white mb-3">Same-Day Delivery Available</h3>
+                <h3 className="text-xl font-bold text-white mb-3">Same-Day Dumpster Delivery</h3>
                 <p className="text-white/70 leading-relaxed">
-                  When you book before noon, we can deliver your dumpster the same day throughout Jacksonville and surrounding areas.
-                  We understand that renovation projects, storm cleanups, and construction jobs can&apos;t always wait for scheduled deliveries.
-                  Our dispatch team monitors routes throughout the day to fit in last-minute orders whenever possible.
-                  Need a pickup sooner than expected? Just call or text, and most pickups happen within 24 hours of your request.
+                  Book before noon and get your dumpster delivered the same day throughout Jacksonville and surrounding areas.
+                  Need a pickup sooner than expected? Call or text, and most pickups happen within 24 hours.
                 </p>
               </div>
 
@@ -1250,11 +1167,31 @@ export default function HomePage() {
                 </div>
                 <h3 className="text-xl font-bold text-white mb-3">Driveway-Friendly Equipment</h3>
                 <p className="text-white/70 leading-relaxed">
-                  Our roll-off trucks use rubber-tired wheels and we place wooden boards under dumpster feet to protect your driveway from scratches and cracks.
-                  Many Jacksonville homes have decorative concrete, pavers, or freshly sealed driveways, and we take extra care during placement.
-                  Our drivers are trained to position dumpsters exactly where you need them, whether that&apos;s close to the garage, by the backyard gate, or in the street (when permitted).
-                  If you have tight spaces or HOA restrictions, we&apos;ll work with you to find the best solution.
+                  We place wooden boards under dumpster feet and use rubber-tired trucks to protect your driveway.
+                  Our drivers position dumpsters exactly where you need them. Tight spaces or HOA restrictions? We&apos;ll work with you.
                 </p>
+              </div>
+            </div>
+
+            {/* Credentials Row */}
+            <div className="grid md:grid-cols-3 gap-6 mt-12">
+              <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/10 text-center">
+                <Award className="w-8 h-8 text-primary mx-auto mb-3" />
+                <h3 className="text-sm font-bold text-white mb-1">Clay County Licensed Hauler</h3>
+                <p className="text-white/60 text-xs">
+                  Listed on the{' '}
+                  <a href="https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers" target="_blank" rel="nofollow noopener noreferrer" title="Clay County Licensed Franchise Haulers" className="text-primary hover:underline">Clay County government website</a>
+                </p>
+              </div>
+              <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/10 text-center">
+                <Shield className="w-8 h-8 text-primary mx-auto mb-3" />
+                <h3 className="text-sm font-bold text-white mb-1">Fully Insured</h3>
+                <p className="text-white/60 text-xs">General liability and commercial auto coverage on every delivery</p>
+              </div>
+              <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/10 text-center">
+                <Star className="w-8 h-8 text-primary mx-auto mb-3" />
+                <h3 className="text-sm font-bold text-white mb-1">5.0-Star Google Rating</h3>
+                <p className="text-white/60 text-xs">{REVIEWS.count} verified reviews from Jacksonville customers</p>
               </div>
             </div>
 
@@ -1270,56 +1207,7 @@ export default function HomePage() {
                 Book Online Now
                 <ArrowRight className="w-6 h-6" />
               </a>
-              <p className="text-white/40 mt-4">Fast booking • Instant confirmation • Same-day delivery</p>
-            </div>
-          </div>
-        </section>
-
-        {/* ============================================
-            SECTION 6B: LICENSED & INSURED (E-E-A-T)
-        ============================================ */}
-        <section className="py-20 lg:py-28 bg-white">
-          <div className="max-w-7xl mx-auto px-4 lg:px-6">
-            <div className="text-center mb-16">
-              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                Verified Credentials
-              </span>
-              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Licensed, Insured &amp; Trusted
-              </h2>
-              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                When you compare dumpster rental companies in Jacksonville, credentials matter.
-                904 Dumpster is fully verified and government-listed.
-              </p>
-            </div>
-
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-              <div className="bg-gray-50 rounded-2xl p-8">
-                <Award className="w-10 h-10 text-primary mb-4" />
-                <h3 className="text-lg font-bold text-secondary mb-2">Clay County Licensed Franchise Hauler</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  904 Dumpster is listed as an approved franchise hauler on the{' '}
-                  <a href="https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers" target="_blank" rel="nofollow noopener noreferrer" title="Clay County Licensed Franchise Haulers" className="text-primary hover:underline">Clay County government website</a>.
-                  This means we meet all county requirements for insurance, licensing, and legal waste disposal.
-                </p>
-              </div>
-              <div className="bg-gray-50 rounded-2xl p-8">
-                <Shield className="w-10 h-10 text-primary mb-4" />
-                <h3 className="text-lg font-bold text-secondary mb-2">Fully Insured</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  904 Dumpster carries general liability and commercial auto coverage for every delivery.
-                  Your property is protected from the moment our truck arrives until your dumpster is picked up.
-                </p>
-              </div>
-              <div className="bg-gray-50 rounded-2xl p-8">
-                <Calendar className="w-10 h-10 text-primary mb-4" />
-                <h3 className="text-lg font-bold text-secondary mb-2">Serving Jacksonville Since 2016</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  With 10 years of local experience and over 2,000 dumpster deliveries completed across Northeast Florida,
-                  904 Dumpster is one of Jacksonville&apos;s most experienced independent roll-off providers.
-                  We maintain a 5.0-star Google rating with {REVIEWS.count} verified reviews.
-                </p>
-              </div>
+              <p className="text-white/40 mt-4">Fast booking - Instant confirmation - Same-day delivery</p>
             </div>
           </div>
         </section>
@@ -1335,7 +1223,7 @@ export default function HomePage() {
                 Common Questions
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Frequently Asked Questions
+                Dumpster Rental Jacksonville FL FAQ
               </h2>
               <p className="text-gray-600 text-lg">
                 Everything you need to know about renting a dumpster in Jacksonville.
@@ -1372,31 +1260,7 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            SECTION 8: DELIVERY MAP (Social Proof)
-        ============================================ */}
-        <section className="py-20 lg:py-28 bg-white">
-          <div className="max-w-7xl mx-auto px-4 lg:px-6">
-            {/* Section Header */}
-            <div className="text-center mb-12">
-              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                Trusted By Your Neighbors
-              </span>
-              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Recent Deliveries Across Jacksonville
-              </h2>
-              <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                See where we&apos;ve recently delivered dumpsters. From the beaches to Orange Park,
-                we&apos;re proud to serve the entire 904 area.
-              </p>
-            </div>
-
-            {/* Delivery Map Component */}
-            <DeliveryMap height="500px" showStats={true} />
-          </div>
-        </section>
-
-        {/* ============================================
-            SECTION 9: FINAL CTA
+            SECTION 8: FINAL CTA
         ============================================ */}
         <section className="py-20 lg:py-28 bg-primary relative overflow-hidden">
           {/* Background Pattern */}
@@ -1406,11 +1270,10 @@ export default function HomePage() {
 
           <div className="relative max-w-4xl mx-auto px-4 lg:px-6 text-center">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white mb-6">
-              Ready to Get Started?
+              Book Your Dumpster Rental in Jacksonville Today
             </h2>
             <p className="text-white/80 text-xl mb-10 max-w-2xl mx-auto">
-              Book online now for fast, easy dumpster rental in Jacksonville, FL.
-              Same-day delivery available!
+              Same-day dumpster delivery available. Book online or call (904) 240-5598.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
