@@ -25,10 +25,10 @@ import { HeroReviewSlider } from '@/components/HeroReviewSlider'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Jacksonville FL - $299 Same-Day - 904 Dumpster',
+  title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
   description: 'Dumpster rental Jacksonville FL from $299. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery available. Locally owned since 2016. Call (904) 240-5598.',
   openGraph: {
-    title: 'Dumpster Rental Jacksonville FL - $299 Same-Day - 904 Dumpster',
+    title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description: 'Dumpster rental Jacksonville FL from $299. 10, 15 & 20-yard roll-off containers with free delivery, pickup, and disposal. Same-day delivery. Locally owned since 2016.',
     type: 'website',
     url: 'https://www.904dumpster.com',
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Dumpster Rental Jacksonville FL - $299 Same-Day - 904 Dumpster',
+    title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description: 'Dumpster rental Jacksonville FL from $299. Same-day delivery. No hidden fees. Locally owned.',
     images: ['/images/main-hero-dumpster.jpeg'],
   },
@@ -457,9 +457,6 @@ export default function HomePage() {
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6 leading-tight">
                   Dumpster Rental{' '}
                   <span className="text-primary">Jacksonville FL</span>
-                  <span className="block text-2xl md:text-3xl lg:text-4xl font-bold text-white/80 mt-3">
-                    From $299 | Same-Day Delivery
-                  </span>
                 </h1>
 
                 {/* Sub-headline */}
@@ -534,7 +531,7 @@ export default function HomePage() {
         <section className="py-16 bg-gray-50 border-b border-gray-200">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <h2 className="text-2xl md:text-3xl font-black text-secondary mb-6">
-              Dumpster Rental Costs in Jacksonville, FL
+              How Much Does a Dumpster Cost in Jacksonville?
             </h2>
 
             <div className="prose prose-lg max-w-none text-gray-600">
@@ -591,7 +588,7 @@ export default function HomePage() {
                 Roll-Off Dumpster Sizes
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                Dumpster Sizes Available in Jacksonville, FL
+                Roll-Off Container Sizes and Pricing
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
                 Every Jacksonville dumpster rental includes delivery, pickup, disposal, and a rental period. No hidden fees, ever.
@@ -759,7 +756,7 @@ export default function HomePage() {
                 Simple 4-Step Process
               </span>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
-                How to Rent Dumpsters in Jacksonville FL
+                How It Works
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
                 Renting a roll-off dumpster in Jacksonville is straightforward. Here&apos;s what to expect from start to finish.
@@ -784,9 +781,9 @@ export default function HomePage() {
                 <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-white font-black text-xl mb-4">
                   1
                 </div>
-                <h3 className="text-xl font-bold text-secondary mb-3">Choose Your Size</h3>
+                <h3 className="text-xl font-bold text-secondary mb-3">Choose Your Dumpster Size</h3>
                 <p className="text-gray-600">
-                  Select from 10-yard ($299), 15-yard ($349), or 20-yard ($399) based on your project needs.
+                  Select from 10-yard ($299), 15-yard ($349), or 20-yard ($399) dumpsters in Jacksonville FL based on your project.
                 </p>
               </div>
 
@@ -795,9 +792,9 @@ export default function HomePage() {
                 <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-white font-black text-xl mb-4">
                   2
                 </div>
-                <h3 className="text-xl font-bold text-secondary mb-3">Schedule Delivery</h3>
+                <h3 className="text-xl font-bold text-secondary mb-3">Schedule Your Jacksonville Dumpster Delivery</h3>
                 <p className="text-gray-600">
-                  Book online or call (904) 240-5598. Same-day delivery available when you order before noon.
+                  Book online or call (904) 240-5598. Same-day dumpster service available when you order before noon.
                 </p>
               </div>
 
@@ -817,9 +814,9 @@ export default function HomePage() {
                 <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-white font-black text-xl mb-4">
                   4
                 </div>
-                <h3 className="text-xl font-bold text-secondary mb-3">We Pick It Up</h3>
+                <h3 className="text-xl font-bold text-secondary mb-3">We Handle Pickup and Disposal</h3>
                 <p className="text-gray-600">
-                  Call or text when ready. We pick up your dumpster and handle disposal at the landfill.
+                  Call or text when ready. Our dumpster service in Jacksonville FL picks up and handles landfill disposal.
                 </p>
               </div>
             </div>
@@ -888,29 +885,29 @@ export default function HomePage() {
               {[
                 {
                   icon: HomeIcon,
-                  title: 'Home Cleanouts',
-                  desc: 'Purge the clutter with ease. Perfect for garage, attic, and estate cleanouts.',
+                  title: 'Home Cleanout Dumpsters',
+                  desc: 'Dumpster rental for garage, attic, and estate cleanouts in Jacksonville.',
                   href: '/residential-dumpster-rental',
                   color: 'from-blue-500 to-blue-600',
                 },
                 {
                   icon: HardHat,
-                  title: 'Construction Sites',
-                  desc: 'Heavy-duty bins for pros. Handles lumber, drywall, and debris.',
+                  title: 'Construction Dumpster Rental',
+                  desc: 'Heavy-duty roll-off containers for lumber, drywall, and job site debris.',
                   href: '/dumpster-rental/dumpsters-for-construction-projects',
                   color: 'from-orange-500 to-orange-600',
                 },
                 {
                   icon: Building2,
-                  title: 'Roofing Jobs',
-                  desc: 'Shingle-ready roll-offs. Built for heavy roofing materials.',
+                  title: 'Roofing Dumpster Service',
+                  desc: 'Shingle-ready dumpsters built for heavy roofing materials.',
                   href: '/dumpster-rental/dumpsters-for-roofing-projects',
                   color: 'from-red-500 to-red-600',
                 },
                 {
                   icon: Users,
-                  title: 'Property Managers',
-                  desc: 'Fast turnarounds for rentals. Recurring service available.',
+                  title: 'Property Manager Dumpsters',
+                  desc: 'Fast turnarounds for rental properties. Recurring dumpster service available.',
                   href: '/residential-dumpster-rental',
                   color: 'from-purple-500 to-purple-600',
                 },

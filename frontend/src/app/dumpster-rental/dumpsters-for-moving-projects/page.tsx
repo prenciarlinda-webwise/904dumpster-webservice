@@ -17,16 +17,6 @@ export const metadata: Metadata = {
   title: 'Dumpsters for Moving Projects Jacksonville FL - 904 Dumpster',
   description:
     'Moving dumpster rental in Jacksonville FL. Declutter before moving, whole house cleanouts, and junk removal for your move. Same-day delivery available. Call (904) 240-5598.',
-  keywords: [
-    'moving dumpster',
-    'moving dumpsters',
-    'dumpster rental for moving',
-    'declutter before moving',
-    'whole house cleanout for moving',
-    'moving junk removal jacksonville',
-    'dumpster for moving out',
-    'moving cleanout dumpster jacksonville fl',
-  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-moving-projects',
   },

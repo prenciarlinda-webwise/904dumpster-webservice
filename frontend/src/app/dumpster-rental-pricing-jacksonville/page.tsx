@@ -9,13 +9,6 @@ export const metadata: Metadata = {
   title: 'Dumpster Rental Prices Jacksonville FL',
   description:
     'Dumpster rental prices in Jacksonville FL. 10-yard from $299, 15-yard from $349, 20-yard from $399. Rental period included. No hidden fees.',
-  keywords: [
-    'dumpster rental prices jacksonville',
-    'dumpster rental cost jacksonville fl',
-    'how much is a dumpster rental',
-    'dumpster pricing jacksonville',
-    'cheap dumpster rental jacksonville',
-  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental-pricing-jacksonville',
   },

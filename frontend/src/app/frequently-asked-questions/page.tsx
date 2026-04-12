@@ -8,21 +8,6 @@ export const metadata: Metadata = {
   title: 'Dumpster Rental FAQ | Jacksonville FL Questions & Answers',
   description:
     'Frequently asked questions about dumpster rental in Jacksonville FL. Dumpster sizes, dimensions, pricing, what you can throw away, permits, delivery areas, and more.',
-  keywords: [
-    'dumpster rental faq',
-    'dumpster rental questions',
-    'how to rent a dumpster jacksonville',
-    'dumpster rental answers',
-    'how big is a 10 yard dumpster',
-    'how big is a 15 yard dumpster',
-    'how big is a 20 yard dumpster',
-    'how much does a dumpster rental cost',
-    'what is a roll off dumpster',
-    'can you put a mattress in a dumpster',
-    'do you need a permit for a dumpster',
-    'what items cannot go in a dumpster',
-    'same day dumpster delivery jacksonville',
-  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/frequently-asked-questions',
   },

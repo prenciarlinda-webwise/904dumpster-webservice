@@ -17,16 +17,6 @@ export const metadata: Metadata = {
   title: 'Dumpsters for Landscaping Projects Jacksonville FL - 904 Dumpster',
   description:
     'Landscaping dumpster rental in Jacksonville FL. Yard waste, tree trimming, sod removal, and landscape renovation debris disposal. Same-day delivery. Call (904) 240-5598.',
-  keywords: [
-    'landscaping dumpster',
-    'landscape dumpster rental',
-    'yard waste dumpster',
-    'yard debris dumpster',
-    'lawn waste disposal dumpster',
-    'garden waste dumpster',
-    'tree trimming dumpster jacksonville',
-    'sod removal dumpster rental',
-  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-landscaping-projects',
   },

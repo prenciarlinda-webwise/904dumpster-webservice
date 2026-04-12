@@ -21,7 +21,6 @@ export const metadata: Metadata = {
   title: 'About Us',
   description:
     'Learn about 904 Dumpster, Jacksonville\'s locally owned dumpster rental company serving Northeast Florida since 2016. Fully insured, 2,000+ deliveries completed.',
-  keywords: ['904 Dumpster about', 'Jacksonville dumpster company', 'local dumpster rental Jacksonville'],
   alternates: {
     canonical: 'https://www.904dumpster.com/about',
   },

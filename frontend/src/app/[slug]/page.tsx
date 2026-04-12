@@ -63,7 +63,6 @@ export async function generateMetadata({
     return {
       title: enhancedTitle,
       description: service.metaDescription,
-      keywords: service.keywords,
       alternates: {
         canonical: `https://www.904dumpster.com/${slug}`,
       },
@@ -103,7 +102,6 @@ export async function generateMetadata({
     return {
       title: enhancedTitle,
       description: location.metaDescription,
-      keywords: location.keywords,
       alternates: {
         canonical: `https://www.904dumpster.com/${slug}`,
       },

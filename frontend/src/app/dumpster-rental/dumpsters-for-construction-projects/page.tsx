@@ -17,14 +17,6 @@ export const metadata: Metadata = {
   title: 'Dumpsters for Construction Projects Jacksonville FL - 904 Dumpster',
   description:
     'Construction dumpster rental in Jacksonville FL. Heavy-duty roll-off containers for job sites, renovations, and new builds. Same-day delivery available.',
-  keywords: [
-    'construction dumpster rental jacksonville',
-    'job site dumpster rental',
-    'contractor dumpster jacksonville fl',
-    'renovation dumpster rental',
-    'construction debris removal',
-    'building project dumpster',
-  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-construction-projects',
   },

@@ -17,14 +17,6 @@ export const metadata: Metadata = {
   title: 'Dumpsters for Roofing Projects Jacksonville FL - 904 Dumpster',
   description:
     'Rent a dumpster for your roofing project in Jacksonville FL. 15-yard dumpsters are perfect for shingle removal. Same-day delivery, transparent pricing.',
-  keywords: [
-    'roofing dumpster rental jacksonville',
-    'dumpster for roof replacement',
-    'shingle removal dumpster',
-    'roofing debris dumpster',
-    'roof tear off dumpster',
-    'roofing project dumpster jacksonville fl',
-  ],
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-roofing-projects',
   },
