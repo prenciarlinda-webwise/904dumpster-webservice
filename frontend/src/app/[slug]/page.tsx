@@ -417,23 +417,7 @@ function DumpsterSizePage({
                           <ArrowRight className="w-3.5 h-3.5 text-gray-300 group-hover:text-primary transition-colors" />
                         </span>
                       </a>
-                    ) : (
-                      <a
-                        key={key}
-                        href={`tel:${BUSINESS.phoneRaw}`}
-                        title={`Call for ${size} Yard Dumpster pricing in ${county.name}`}
-                        className="flex items-center justify-between px-3 py-2.5 rounded-lg bg-gray-50 hover:bg-primary/10 border border-gray-100 hover:border-primary/30 transition-all duration-200 group"
-                      >
-                        <span className="flex items-center gap-2">
-                          <MapPin className="w-3.5 h-3.5 text-gray-400 group-hover:text-primary" />
-                          <span className="text-sm font-medium text-secondary">{county.name}</span>
-                        </span>
-                        <span className="flex items-center gap-2">
-                          <Phone className="w-3 h-3 text-gray-400 group-hover:text-primary" />
-                          <span className="text-sm font-semibold text-gray-500 group-hover:text-primary">Call Us</span>
-                        </span>
-                      </a>
-                    )
+                    ) : null
                   })}
                 </div>
               </div>
@@ -2377,23 +2361,7 @@ function DumpsterSizePage({
                     <ArrowRight className="w-4 h-4 text-white/60 group-hover:text-white transition-colors" />
                   </span>
                 </a>
-              ) : (
-                <a
-                  key={key}
-                  href={`tel:${BUSINESS.phoneRaw}`}
-                  title={`Call for ${size} Yard Dumpster pricing in ${county.name}`}
-                  className="flex items-center justify-between px-4 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 hover:border-white/40 transition-all duration-200 group"
-                >
-                  <span className="flex items-center gap-2">
-                    <MapPin className="w-4 h-4 text-white/60 group-hover:text-white" />
-                    <span className="text-white font-medium">{county.name}</span>
-                  </span>
-                  <span className="flex items-center gap-2">
-                    <Phone className="w-3.5 h-3.5 text-white/60 group-hover:text-white" />
-                    <span className="text-white/80 font-semibold group-hover:text-white">Call Us</span>
-                  </span>
-                </a>
-              )
+              ) : null
             })}
           </div>
         </div>
