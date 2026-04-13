@@ -68,7 +68,7 @@ export function generateOrganizationSchema() {
     email: BUSINESS.email,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '2798 Anniston Rd',
+      streetAddress: '2797 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -142,7 +142,7 @@ export function generateLocalBusinessSchema() {
     email: BUSINESS.email,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '2798 Anniston Rd',
+      streetAddress: '2797 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -366,7 +366,7 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
     foundingDate: '2016',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '2798 Anniston Rd',
+      streetAddress: '2797 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -490,7 +490,7 @@ export function generateLocationServiceSchema(
       telephone: BUSINESS.phone,
       address: {
         '@type': 'PostalAddress',
-        streetAddress: '2798 Anniston Rd',
+        streetAddress: '2797 Anniston Rd',
         addressLocality: 'Jacksonville',
         addressRegion: 'FL',
         postalCode: '32246',
@@ -573,7 +573,7 @@ export function generateAggregateRatingSchema() {
     image: 'https://www.904dumpster.com/images/og-image.jpg',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '2798 Anniston Rd',
+      streetAddress: '2797 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
@@ -648,7 +648,7 @@ export function generateAboutPageSchema() {
       foundingDate: '2016',
       address: {
         '@type': 'PostalAddress',
-        streetAddress: '2798 Anniston Rd',
+        streetAddress: '2797 Anniston Rd',
         addressLocality: 'Jacksonville',
         addressRegion: 'FL',
         postalCode: '32246',
@@ -681,7 +681,7 @@ export function generateContactPageSchema() {
       email: BUSINESS.email,
       address: {
         '@type': 'PostalAddress',
-        streetAddress: '2798 Anniston Rd',
+        streetAddress: '2797 Anniston Rd',
         addressLocality: 'Jacksonville',
         addressRegion: 'FL',
         postalCode: '32246',

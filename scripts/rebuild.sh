@@ -5,7 +5,7 @@
 
 set -e
 
-DEPLOY_DIR="/opt/904dumpster/904dumpster-webservice"
+DEPLOY_DIR="/var/www/html/904dumpster"
 LOG_PREFIX="[904-rebuild $(date '+%Y-%m-%d %H:%M:%S')]"
 
 echo "$LOG_PREFIX Starting rebuild..."
@@ -16,12 +16,12 @@ cd "$DEPLOY_DIR"
 echo "$LOG_PREFIX Pulling latest from main..."
 git pull origin main
 
-# Rebuild frontend (static build picks up posts where publishedDate <= now)
+# Rebuild and restart frontend
 echo "$LOG_PREFIX Building frontend..."
-docker compose build frontend --no-cache
+docker build -t 904dumpster-frontend:latest ./frontend
 
-# Restart frontend service
 echo "$LOG_PREFIX Restarting frontend..."
-docker compose up -d frontend
+docker stop 904dumpster-frontend && docker rm 904dumpster-frontend
+docker run -d --name 904dumpster-frontend -p 3001:3000 --restart unless-stopped 904dumpster-frontend:latest
 
 echo "$LOG_PREFIX Rebuild complete."

@@ -174,7 +174,7 @@ export default function Footer() {
                 href="https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA"
                 target="_blank"
                 rel="noopener noreferrer"
-                title="904 Dumpster Location - 2798 Anniston Rd, Jacksonville, FL 32246"
+                title="904 Dumpster Location - 2797 Anniston Rd, Jacksonville, FL 32246"
                 className="flex items-start gap-3 group"
               >
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />

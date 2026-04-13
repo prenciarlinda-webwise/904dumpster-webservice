@@ -217,7 +217,7 @@ const localBusinessSchema = {
   ],
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '2798 Anniston Rd',
+    streetAddress: '2797 Anniston Rd',
     addressLocality: 'Jacksonville',
     addressRegion: 'FL',
     postalCode: '32246',
@@ -270,7 +270,7 @@ const localBusinessSchema = {
     '@type': 'Place',
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '2798 Anniston Rd',
+      streetAddress: '2797 Anniston Rd',
       addressLocality: 'Jacksonville',
       addressRegion: 'FL',
       postalCode: '32246',
