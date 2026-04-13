@@ -22,6 +22,7 @@ import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
+import pricingData from '@/data/pricing.json'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
@@ -526,58 +527,6 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            DUMPSTER RENTAL COSTS IN JACKSONVILLE
-        ============================================ */}
-        <section className="py-16 bg-gray-50 border-b border-gray-200">
-          <div className="max-w-4xl mx-auto px-4 lg:px-6">
-            <h2 className="text-2xl md:text-3xl font-black text-secondary mb-6">
-              How Much Does a Dumpster Cost in Jacksonville?
-            </h2>
-
-            <div className="prose prose-lg max-w-none text-gray-600">
-              <p className="mb-4">
-                Dumpster rental prices in Jacksonville typically range from $299 to $500+ depending on the provider, size, and what&apos;s included.
-                At <strong className="text-secondary">904 Dumpster</strong>, our all-inclusive pricing starts at <strong className="text-primary">$299 for a 10-yard dumpster</strong>,
-                <strong className="text-primary"> $349 for a 15-yard</strong>, and <strong className="text-primary">$399 for a 20-yard</strong>.
-                Every rental includes delivery, pickup, and disposal fees at Trail Ridge Landfill. The 10-yard comes with a 3-day rental, while 15 and 20-yard include a 5-day rental. No hidden charges.
-              </p>
-
-              <p className="mb-4">
-                Looking for an affordable dumpster in Jacksonville FL? Many national brokers advertise low base rates but add fuel surcharges, environmental fees, and per-ton disposal that can double your bill.
-                Our 15-yard at $349 includes 1.5 tons of disposal, enough for most kitchen remodels and roofing projects.
-                Competitors often charge $250 base plus $65/ton, meaning the same project costs $380+ after hidden fees.
-              </p>
-
-              <p className="mb-4">
-                A single trip to Trail Ridge Landfill costs $50-75 per pickup truck load in disposal fees alone.
-                Our 10-yard holds 3 truck loads. At $299 all-in with delivery to your driveway, a dumpster rental in Jacksonville saves money and time for most homeowners.
-                Need extra days? Extensions are $15 per day. For construction sites, ask about weekly and monthly rates.
-              </p>
-            </div>
-
-            <div className="mt-6 flex flex-wrap gap-4">
-              <Link
-                href="/dumpster-rental-pricing-jacksonville"
-                title="Dumpster Rental Pricing Jacksonville"
-                className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
-              >
-                View Detailed Pricing Breakdown
-                <ArrowRight className="w-4 h-4" />
-              </Link>
-              <span className="text-gray-300">|</span>
-              <a
-                href={`tel:${BUSINESS.phoneRaw}`}
-                title="Call 904 Dumpster"
-                className="inline-flex items-center gap-2 text-secondary font-semibold"
-              >
-                <Phone className="w-4 h-4" />
-                Call for Custom Quote: {BUSINESS.phone}
-              </a>
-            </div>
-          </div>
-        </section>
-
-        {/* ============================================
             SECTION 2: SIZE SELECTOR (Visual & Transactional)
         ============================================ */}
         <section id="sizes" className="py-20 lg:py-28 bg-gray-50">
@@ -663,20 +612,65 @@ export default function HomePage() {
 
                   {/* Content */}
                   <div className="p-6 pt-2">
-                    {/* Size & Price Header */}
+                    {/* Size Header */}
                     <div className="flex items-center justify-between mb-4">
                       <div>
                         <span className="text-4xl font-black text-secondary">{dumpster.size}</span>
                         <span className="text-gray-400 text-lg ml-1">yard</span>
                       </div>
                       <div className="text-right">
-                        <div className="text-2xl font-black text-primary">{dumpster.price}</div>
                         <div className="text-xs text-gray-400">{dumpster.days}-day rental</div>
                       </div>
                     </div>
 
+                    {/* Zone Pricing & Book Buttons */}
+                    <div className="mb-4">
+                      <div className="text-xs text-gray-400 uppercase tracking-wide mb-2">Book by Area</div>
+                      <div className="space-y-1.5 max-h-[210px] overflow-y-auto">
+                        {Object.entries(pricingData.counties).map(([key, county]) => {
+                            const sizeKey = `${dumpster.size}-yard` as keyof typeof county.dumpsters
+                            const dumpsterPricing = county.dumpsters[sizeKey] as { basePrice: number } | undefined
+                            return dumpsterPricing ? (
+                              <a
+                                key={key}
+                                href="https://app.icans.ai/customer-portal/904dumpster/book/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                title={`Book ${dumpster.name} in ${county.name}`}
+                                className="flex items-center justify-between px-3 py-2 rounded-lg bg-gray-50 hover:bg-primary/10 border border-gray-100 hover:border-primary/30 transition-all duration-200 group"
+                              >
+                                <span className="flex items-center gap-2">
+                                  <MapPin className="w-3.5 h-3.5 text-gray-400 group-hover:text-primary" />
+                                  <span className="text-sm font-medium text-secondary">{county.name}</span>
+                                </span>
+                                <span className="flex items-center gap-2">
+                                  <span className="text-sm font-bold text-primary">${dumpsterPricing.basePrice}</span>
+                                  <ArrowRight className="w-3.5 h-3.5 text-gray-300 group-hover:text-primary transition-colors" />
+                                </span>
+                              </a>
+                            ) : (
+                              <a
+                                key={key}
+                                href={`tel:${BUSINESS.phoneRaw}`}
+                                title={`Call for ${dumpster.name} pricing in ${county.name}`}
+                                className="flex items-center justify-between px-3 py-2 rounded-lg bg-gray-50 hover:bg-primary/10 border border-gray-100 hover:border-primary/30 transition-all duration-200 group"
+                              >
+                                <span className="flex items-center gap-2">
+                                  <MapPin className="w-3.5 h-3.5 text-gray-400 group-hover:text-primary" />
+                                  <span className="text-sm font-medium text-secondary">{county.name}</span>
+                                </span>
+                                <span className="flex items-center gap-2">
+                                  <Phone className="w-3 h-3 text-gray-400 group-hover:text-primary" />
+                                  <span className="text-sm font-semibold text-gray-500 group-hover:text-primary">Call Us</span>
+                                </span>
+                              </a>
+                            )
+                          })}
+                      </div>
+                    </div>
+
                     {/* Specs Grid */}
-                    <div className="grid grid-cols-2 gap-3 mb-5 p-4 bg-gray-50 rounded-xl">
+                    <div className="grid grid-cols-2 gap-3 mb-4 p-4 bg-gray-50 rounded-xl">
                       <div>
                         <div className="text-xs text-gray-400 uppercase tracking-wide">Dimensions</div>
                         <div className="text-sm font-semibold text-secondary">{dumpster.dimensions}</div>
@@ -688,7 +682,7 @@ export default function HomePage() {
                     </div>
 
                     {/* Best For Tags */}
-                    <div className="mb-5">
+                    <div className="mb-4">
                       <div className="flex flex-wrap gap-2">
                         {dumpster.bestFor.map((item, i) => (
                           <span
@@ -701,30 +695,14 @@ export default function HomePage() {
                       </div>
                     </div>
 
-                    {/* CTA Buttons */}
-                    <div className="space-y-2">
-                      <a
-                        href="https://app.icans.ai/customer-portal/904dumpster/book/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        title="Book a Dumpster Rental Online"
-                        className={`w-full flex items-center justify-center gap-2 font-bold py-4 rounded-xl transition-all duration-300 ${
-                          dumpster.popular
-                            ? 'bg-primary hover:bg-primary/90 text-white shadow-lg shadow-primary/30'
-                            : 'bg-secondary hover:bg-primary text-white'
-                        }`}
-                      >
-                        Book Now
-                      </a>
-                      <Link
-                        href={dumpster.href}
-                        title={`${dumpster.name} Details`}
-                        className="w-full flex items-center justify-center gap-2 font-semibold py-3 rounded-xl text-primary hover:bg-primary/10 transition-all duration-300"
-                      >
-                        View Details
-                        <ArrowRight className="w-4 h-4" />
-                      </Link>
-                    </div>
+                    <Link
+                      href={dumpster.href}
+                      title={`${dumpster.name} Details`}
+                      className="w-full flex items-center justify-center gap-2 font-semibold py-3 rounded-xl text-primary hover:bg-primary/10 transition-all duration-300"
+                    >
+                      View Details
+                      <ArrowRight className="w-4 h-4" />
+                    </Link>
                   </div>
                 </div>
               ))}
@@ -741,6 +719,58 @@ export default function HomePage() {
                 View Our Complete Size Guide
                 <ArrowRight className="w-5 h-5" />
               </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            DUMPSTER RENTAL COSTS IN JACKSONVILLE
+        ============================================ */}
+        <section className="py-16 bg-gray-50 border-b border-gray-200">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <h2 className="text-2xl md:text-3xl font-black text-secondary mb-6">
+              How Much Does a Dumpster Cost in Jacksonville?
+            </h2>
+
+            <div className="prose prose-lg max-w-none text-gray-600">
+              <p className="mb-4">
+                Dumpster rental prices in Jacksonville typically range from $299 to $500+ depending on the provider, size, and what&apos;s included.
+                At <strong className="text-secondary">904 Dumpster</strong>, our all-inclusive pricing starts at <strong className="text-primary">$299 for a 10-yard dumpster</strong>,
+                <strong className="text-primary"> $349 for a 15-yard</strong>, and <strong className="text-primary">$399 for a 20-yard</strong>.
+                Every rental includes delivery, pickup, and disposal fees at Trail Ridge Landfill. The 10-yard comes with a 3-day rental, while 15 and 20-yard include a 5-day rental. No hidden charges.
+              </p>
+
+              <p className="mb-4">
+                Looking for an affordable dumpster in Jacksonville FL? Many national brokers advertise low base rates but add fuel surcharges, environmental fees, and per-ton disposal that can double your bill.
+                Our 15-yard at $349 includes 1.5 tons of disposal, enough for most kitchen remodels and roofing projects.
+                Competitors often charge $250 base plus $65/ton, meaning the same project costs $380+ after hidden fees.
+              </p>
+
+              <p className="mb-4">
+                A single trip to Trail Ridge Landfill costs $50-75 per pickup truck load in disposal fees alone.
+                Our 10-yard holds 3 truck loads. At $299 all-in with delivery to your driveway, a dumpster rental in Jacksonville saves money and time for most homeowners.
+                Need extra days? Extensions are $15 per day. For construction sites, ask about weekly and monthly rates.
+              </p>
+            </div>
+
+            <div className="mt-6 flex flex-wrap gap-4">
+              <Link
+                href="/dumpster-rental-pricing-jacksonville"
+                title="Dumpster Rental Pricing Jacksonville"
+                className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
+              >
+                View Detailed Pricing Breakdown
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+              <span className="text-gray-300">|</span>
+              <a
+                href={`tel:${BUSINESS.phoneRaw}`}
+                title="Call 904 Dumpster"
+                className="inline-flex items-center gap-2 text-secondary font-semibold"
+              >
+                <Phone className="w-4 h-4" />
+                Call for Custom Quote: {BUSINESS.phone}
+              </a>
             </div>
           </div>
         </section>
