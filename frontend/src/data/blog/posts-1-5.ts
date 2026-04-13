@@ -85,11 +85,11 @@ St. Augustine has a unique mix of historic homes, newer subdivisions, and coasta
 
 ### Historic Home Renovation (Downtown, Lincolnville, Abbott Tract)
 
-If you are renovating a home in one of St. Augustine's historic districts, expect plaster walls, old hardwood, and heavy trim materials. A 15-yard dumpster handles most single-floor renovations, but whole-house gut jobs in the larger Victorian homes along St. George Street or Cordova Street may need a 20-yard. Read our [kitchen renovation debris disposal guide](/blog/kitchen-renovation-debris-disposal) for room-specific estimates.
+If you are renovating a home in one of St. Augustine's historic districts, expect plaster walls, old hardwood, and heavy trim materials. A 15-yard dumpster handles most single-floor renovations, but whole-house gut jobs in the larger Victorian homes along St. George Street or Cordova Street may need a 20-yard. Read our [kitchen renovation debris disposal guide](/blog/kitchen-renovation-debris-disposal-guide) for room-specific estimates.
 
 ### Post-Storm Cleanup (Anastasia Island, Crescent Beach, Butler Beach)
 
-Coastal St. Augustine properties along A1A frequently deal with storm debris, fallen trees, and water-damaged materials. A 15-yard dumpster clears most yard debris and damaged furniture from a single-family home. For larger properties or homes that took significant damage, start with a 20-yard. Our team has helped hundreds of homeowners recover after storms, and we prioritize deliveries during post-hurricane cleanup. For preparation tips, see our [hurricane season readiness guide](/blog/preparing-jacksonville-hurricane-season).
+Coastal St. Augustine properties along A1A frequently deal with storm debris, fallen trees, and water-damaged materials. A 15-yard dumpster clears most yard debris and damaged furniture from a single-family home. For larger properties or homes that took significant damage, start with a 20-yard. Our team has helped hundreds of homeowners recover after storms, and we prioritize deliveries during post-hurricane cleanup. For preparation tips, see our [hurricane season readiness guide](/blog/hurricane-debris-cleanup-jacksonville).
 
 ### New Construction (Nocatee, Silverleaf, Twin Creeks)
 
@@ -184,7 +184,7 @@ Jacksonville's mild spring weather, typically in the low 70s from March through 
 Jacksonville homeowners have a few unique reasons to prioritize spring cleaning:
 
 - **Post-winter mold check.** Even our mild winters bring enough temperature swings to create condensation and mold in garages, closets, and attics. Spring is the time to catch it early.
-- **Pre-hurricane prep.** Hurricane season starts June 1. Clearing out your garage and yard now gives you space to store patio furniture, generators, and supplies when storms threaten. Our [hurricane season preparation guide](/blog/preparing-jacksonville-hurricane-season) covers this in detail.
+- **Pre-hurricane prep.** Hurricane season starts June 1. Clearing out your garage and yard now gives you space to store patio furniture, generators, and supplies when storms threaten. Our [hurricane season preparation guide](/blog/hurricane-debris-cleanup-jacksonville) covers this in detail.
 - **Yard recovery.** Jacksonville yards in zip codes across the Westside (32210, 32221), Southside (32256, 32246), and Arlington (32211, 32225) take a beating from winter storms. Branches, dead landscaping, and leaf buildup are easiest to handle before new growth takes off.
 - **Donation timing.** Local charities like Goodwill and the Salvation Army on Beach Boulevard and Habersham Thrift on San Jose Boulevard need inventory for their spring shoppers.
 
@@ -212,7 +212,7 @@ The kitchen is where most families should start because it is the most used room
 - Clean the oven, microwave, and dishwasher with a degreaser
 - Check under the sink for leaks or mold, which is common in Jacksonville's humid climate
 
-For a full breakdown on managing kitchen renovation waste, see our [kitchen renovation debris guide](/blog/kitchen-renovation-debris-disposal).
+For a full breakdown on managing kitchen renovation waste, see our [kitchen renovation debris guide](/blog/kitchen-renovation-debris-disposal-guide).
 
 ### Bedrooms and Closets
 
@@ -583,7 +583,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
 
 ## Related Resources
 
-- [Kitchen Renovation Debris Disposal](/blog/kitchen-renovation-debris-disposal)
+- [Kitchen Renovation Debris Disposal](/blog/kitchen-renovation-debris-disposal-guide)
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
 - [Construction Dumpster Rental](/construction-dumpster-rental)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
@@ -686,7 +686,7 @@ Here are the most common projects we handle in the Orange Park area with recomme
 | New construction debris | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
 | Land clearing | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
 
-For roofing projects specifically, our [managing roofing waste guide](/blog/managing-roofing-project-waste) covers weight estimates and disposal tips for shingle tear-offs common on Orange Park homes.
+For roofing projects specifically, our [managing roofing waste guide](/blog/roofing-project-waste-management) covers weight estimates and disposal tips for shingle tear-offs common on Orange Park homes.
 
 ## How to Save Money on Your Orange Park Dumpster Rental
 
@@ -792,7 +792,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     featuredImage: '/images/10-yard-dumpster-rental.jpg',
     tags: ['10 yard dumpster capacity', 'what fits in 10 yard dumpster', 'small dumpster rental', '10 yard dumpster projects', '10 yard dumpster dimensions', '10 yd dumpster', '10 cubic yard dumpster', 'how big is a 10 yard dumpster'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', '20-yard-dumpster-guide'],
+    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 
@@ -891,15 +891,15 @@ If you are clearing out an entire house, whether for an estate cleanout, a move,
 
 ### Kitchen Renovation
 
-Kitchens generate heavy debris: cabinets, countertops (especially granite or quartz), flooring, and appliances. Even a small kitchen remodel typically needs a 15-yard. See our [kitchen renovation debris guide](/blog/kitchen-renovation-debris-disposal) for specifics.
+Kitchens generate heavy debris: cabinets, countertops (especially granite or quartz), flooring, and appliances. Even a small kitchen remodel typically needs a 15-yard. See our [kitchen renovation debris guide](/blog/kitchen-renovation-debris-disposal-guide) for specifics.
 
 ### Roof Tear-Off
 
-Roofing shingles are extremely heavy. A single layer of shingles from a 1,500-square-foot roof weighs approximately 3,000 to 5,000 pounds, which exceeds the 10-yard's 1-ton weight limit. Roofing projects need a 15 or 20-yard dumpster. Details in our [roofing waste management guide](/blog/managing-roofing-project-waste).
+Roofing shingles are extremely heavy. A single layer of shingles from a 1,500-square-foot roof weighs approximately 3,000 to 5,000 pounds, which exceeds the 10-yard's 1-ton weight limit. Roofing projects need a 15 or 20-yard dumpster. Details in our [roofing waste management guide](/blog/roofing-project-waste-management).
 
 ### Major Renovation or Construction
 
-Any project that involves removing drywall from multiple rooms, pulling up subfloor, or demolishing structural elements should skip the 10-yard entirely. The [20-yard dumpster guide](/blog/20-yard-dumpster-guide) covers sizing for larger renovation and construction projects.
+Any project that involves removing drywall from multiple rooms, pulling up subfloor, or demolishing structural elements should skip the 10-yard entirely. The [20-yard dumpster guide](/20-yard-dumpster-rental) covers sizing for larger renovation and construction projects.
 
 ## How to Maximize Your 10-Yard Dumpster Space
 
@@ -954,7 +954,7 @@ Ready to get started? Here is how to rent a 10-yard dumpster from 904 Dumpster:
 
 You can also call (904) 240-5598 to book by phone or ask any questions about whether a 10-yard is the right fit for your project. Our team talks to homeowners and contractors every day about sizing and can give you a quick recommendation based on your project description.
 
-Not sure if a 10-yard is enough? Read our [dumpster size guide](/dumpster-size-guide) to compare all three sizes side by side, or check out the [20-yard dumpster guide](/blog/20-yard-dumpster-guide) if you think you might need more capacity.
+Not sure if a 10-yard is enough? Read our [dumpster size guide](/dumpster-size-guide) to compare all three sizes side by side, or check out the [20-yard dumpster guide](/20-yard-dumpster-rental) if you think you might need more capacity.
 
 ## Frequently Asked Questions
 
@@ -983,7 +983,7 @@ A 10-yard dumpster rental in Jacksonville costs $299 from 904 Dumpster. This fla
 - [10-Yard Dumpster Rental](/10-yard-dumpster-rental)
 - [Dumpster Size Guide](/dumpster-size-guide)
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
-- [20-Yard Dumpster Guide](/blog/20-yard-dumpster-guide)
+- [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
 `,
   },
 ]

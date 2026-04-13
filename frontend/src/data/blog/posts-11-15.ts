@@ -233,7 +233,7 @@ However, treated lumber, painted wood, and wood contaminated with adhesives, lea
 
 If you are doing a roofing project, your old asphalt shingles may be recyclable. Recycled shingles are ground up and used in road paving and new asphalt production. Not all facilities in Jacksonville accept shingle loads, so call ahead. Shingles must be free of nails, flashing, and other non-shingle materials.
 
-For roofing project waste management, our guide on [managing roofing project waste](/blog/managing-roofing-project-waste) covers the full process from tearoff to disposal.
+For roofing project waste management, our guide on [managing roofing project waste](/blog/roofing-project-waste-management) covers the full process from tearoff to disposal.
 
 ### Drywall and Gypsum
 
@@ -334,7 +334,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
 
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
 - [Yard Waste and Landscaping Debris Disposal in Northeast Florida](/blog/yard-waste-landscaping-debris-disposal-northeast-florida)
-- [Managing Roofing Project Waste](/blog/managing-roofing-project-waste)
+- [Managing Roofing Project Waste](/blog/roofing-project-waste-management)
 - [Construction Dumpster Rental](/construction-dumpster-rental)
 `,
   },
@@ -413,7 +413,7 @@ Downtown Fernandina Beach, centered around Centre Street, has some of the most b
 
 Amelia Island's oceanfront and marsh-front properties endure salt air, humidity, and occasional storm damage. Many homeowners on the island cycle through renovations every 10 to 15 years, replacing weathered decking, siding, bathroom fixtures, and flooring. A 15-yard dumpster handles most beach house renovation debris.
 
-If you are also dealing with [kitchen renovation debris](/blog/kitchen-renovation-debris-disposal) or a [bathroom remodel](/blog/bathroom-renovation-waste-disposal-guide), those guides cover the specific waste volumes you can expect.
+If you are also dealing with [kitchen renovation debris](/blog/kitchen-renovation-debris-disposal-guide) or a [bathroom remodel](/blog/bathroom-renovation-waste-disposal-guide), those guides cover the specific waste volumes you can expect.
 
 ### Vacation Rental Turnovers and Cleanouts
 
@@ -526,7 +526,7 @@ No permit is needed if the dumpster is placed on your private property such as a
     featuredImage: '/images/20-yard-dumpster-driveway-delivery.jpg',
     tags: ['shed demolition jacksonville', 'deck removal dumpster', 'fence demolition diy', 'structure teardown guide', 'demolition dumpster rental', 'deck demolition', 'deck removal'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', '20-yard-dumpster-guide'],
+    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Tear Down a Shed, Deck, or Fence Yourself
 
@@ -632,7 +632,7 @@ Deck posts in Jacksonville are typically set in concrete footings. You can cut t
 | 16x24 feet (384 sq ft) | 3,000 - 4,500 lbs | 20-yard |
 | 20x20 feet or larger | 4,000+ lbs | 20-yard (may need two loads) |
 
-For projects that involve both deck demolition and new construction, our [20-yard dumpster guide](/blog/20-yard-dumpster-guide) covers capacity and best practices for managing larger debris loads.
+For projects that involve both deck demolition and new construction, our [20-yard dumpster guide](/20-yard-dumpster-rental) covers capacity and best practices for managing larger debris loads.
 
 ## How to Demolish a Fence
 
@@ -713,7 +713,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
 ## Related Resources
 
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
-- [20-Yard Dumpster Guide](/blog/20-yard-dumpster-guide)
+- [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
 - [Demolition Services in Jacksonville](/demolition-services-jacksonville)
 `,
@@ -732,7 +732,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['15 yard dumpster capacity', 'what fits in 15 yard dumpster', 'mid-size dumpster rental', '15 yard dumpster projects', '15 yard dumpster dimensions', 'how big is a 15 yard dumpster', '15 yard dumpster rental cost', 'dumpster rental 15 yard', '15 yard roll off dumpster'],
     status: 'scheduled' as const,
-    relatedSlugs: ['what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size', '20-yard-dumpster-guide'],
+    relatedSlugs: ['what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What Actually Fits in a 15-Yard Dumpster
 
@@ -758,7 +758,7 @@ The 4.5-foot wall height is an important detail. It is tall enough to handle bul
 
 ## How the 15-Yard Compares to Other Sizes
 
-If you are deciding between dumpster sizes, this side-by-side comparison will help you see where the 15-yard fits in the lineup. For deeper detail on the smaller option, read our guide on [what fits in a 10-yard dumpster](/blog/what-fits-in-10-yard-dumpster), and for the larger option, check out the [20-yard dumpster guide](/blog/20-yard-dumpster-guide).
+If you are deciding between dumpster sizes, this side-by-side comparison will help you see where the 15-yard fits in the lineup. For deeper detail on the smaller option, read our guide on [what fits in a 10-yard dumpster](/blog/what-fits-in-10-yard-dumpster), and for the larger option, check out the [20-yard dumpster guide](/20-yard-dumpster-rental).
 
 | Feature | 10-Yard | **15-Yard** | 20-Yard |
 |---------|---------|-------------|---------|
@@ -780,7 +780,7 @@ Spring in Northeast Florida is prime time for renovations, outdoor upgrades, and
 
 ### Kitchen Renovation Debris
 
-A full kitchen remodel generates a surprising amount of waste. Old cabinets, laminate or granite countertops, vinyl or tile flooring, drywall from reconfigured walls, outdated appliances, and the plumbing and electrical fixtures that come out during demo all add up fast. A 15-yard dumpster handles a standard kitchen renovation comfortably. For more on managing kitchen project waste, see our [kitchen renovation debris disposal guide](/blog/kitchen-renovation-debris-disposal).
+A full kitchen remodel generates a surprising amount of waste. Old cabinets, laminate or granite countertops, vinyl or tile flooring, drywall from reconfigured walls, outdated appliances, and the plumbing and electrical fixtures that come out during demo all add up fast. A 15-yard dumpster handles a standard kitchen renovation comfortably. For more on managing kitchen project waste, see our [kitchen renovation debris disposal guide](/blog/kitchen-renovation-debris-disposal-guide).
 
 **What fits from a typical kitchen demo:**
 - 15 to 20 upper and lower cabinets
@@ -792,7 +792,7 @@ A full kitchen remodel generates a surprising amount of waste. Old cabinets, lam
 
 ### Roof Replacement Shingles
 
-Roofing tear-offs are heavy, and the 15-yard is sized to handle up to 25 squares of asphalt shingles along with felt paper, flashing, and ridge caps. Many Jacksonville roofing contractors prefer the 15-yard for standard residential roofs because the 1.5-ton weight limit aligns well with the weight of a typical shingle roof. Spring is an ideal time for roof replacement before hurricane season begins in June. For more details, see our guide on [managing roofing project waste](/blog/managing-roofing-project-waste).
+Roofing tear-offs are heavy, and the 15-yard is sized to handle up to 25 squares of asphalt shingles along with felt paper, flashing, and ridge caps. Many Jacksonville roofing contractors prefer the 15-yard for standard residential roofs because the 1.5-ton weight limit aligns well with the weight of a typical shingle roof. Spring is an ideal time for roof replacement before hurricane season begins in June. For more details, see our guide on [managing roofing project waste](/blog/roofing-project-waste-management).
 
 ### Deck Replacement and Patio Building
 
@@ -804,7 +804,7 @@ When you open every closet, clear out the garage, empty the attic, and finally d
 
 ### Bathroom Renovation
 
-A full bathroom gut produces more waste than most homeowners expect. The tile alone from floors and shower walls can weigh hundreds of pounds, and once you add the old vanity, toilet, bathtub or shower base, drywall, and subflooring, you have a substantial load. A 15-yard handles a single large bathroom or two smaller bathrooms comfortably. Our [bathroom renovation waste disposal guide](/blog/bathroom-renovation-debris-disposal-guide) covers the details.
+A full bathroom gut produces more waste than most homeowners expect. The tile alone from floors and shower walls can weigh hundreds of pounds, and once you add the old vanity, toilet, bathtub or shower base, drywall, and subflooring, you have a substantial load. A 15-yard handles a single large bathroom or two smaller bathrooms comfortably. Our [bathroom renovation waste disposal guide](/blog/bathroom-renovation-waste-disposal-guide) covers the details.
 
 > REVIEW: "Excellent service, super nice company, shows up every-time when expected which is really needed when managing a project or renovation" - Dalton Guinn, Google Review
 
@@ -840,7 +840,7 @@ Knowing the limits is just as important as knowing the capacity. Here is when yo
 | Multi-story roof tear-off (30+ squares) | Combined weight of shingles exceeds 1.5-ton limit |
 | Commercial tenant improvement | Scale of debris usually requires 20-yard or multiple loads |
 
-If your project falls into one of these categories, our [20-yard dumpster guide](/blog/20-yard-dumpster-guide) covers what that larger size can handle. And if you are still not sure which size is right, our [dumpster size guide](/dumpster-size-guide) helps you compare all options side by side.
+If your project falls into one of these categories, our [20-yard dumpster guide](/20-yard-dumpster-rental) covers what that larger size can handle. And if you are still not sure which size is right, our [dumpster size guide](/dumpster-size-guide) helps you compare all options side by side.
 
 ## Tips for Maximizing Your 15-Yard Dumpster This Spring
 
@@ -897,7 +897,7 @@ Every 15-yard rental from 904 Dumpster includes a 5-day rental period. If your s
 ## Related Resources
 
 - [What Fits in a 10-Yard Dumpster](/blog/what-fits-in-10-yard-dumpster)
-- [20-Yard Dumpster Guide](/blog/20-yard-dumpster-guide)
+- [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
 - [Spring Cleaning Decluttering Guide for Jacksonville](/blog/spring-cleaning-decluttering-guide-jacksonville)
 - [15-Yard Dumpster Rental](/15-yard-dumpster-rental)

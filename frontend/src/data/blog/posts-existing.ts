@@ -14,6 +14,7 @@ export const EXISTING_POSTS: BlogPost[] = [
     readTime: '5 min read',
     featuredImage: '/images/dumpster-rental-middleburg-fl.jpg',
     tags: ['clay county dumpster rental', 'orange park dumpster rental', 'clay county franchise hauler', 'fleming island dumpster rental', 'middleburg dumpster rental', 'green cove springs dumpster rental', '904 dumpster clay county'],
+    relatedSlugs: ['dumpster-rental-cost-orange-park-fl', 'jacksonville-dumpster-permit-guide', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `
 ## 904 Dumpster Is a Clay County Licensed Franchise Hauler
 
@@ -127,6 +128,7 @@ Yes. We deliver to all of Clay County including Orange Park, Fleming Island, Mid
     readTime: '8 min read',
     featuredImage: '/images/what-can-go-in-a-dumpster-jacksonville.png',
     tags: ['how to dispose of paint', 'how to dispose of old paint', 'how to dispose of latex paint', 'how to dispose of spray paint', 'how to dispose of paint thinner', 'how to dispose of paint cans', 'paint disposal jacksonville'],
+    relatedSlugs: ['what-cannot-go-in-dumpster', 'where-to-dispose-of-old-paint-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
 ## How to Dispose of Paint in Jacksonville
 
@@ -315,6 +317,7 @@ Call (904) 240-5598 or [book online](https://app.icans.ai/customer-portal/904dum
     readTime: '8 min read',
     featuredImage: '/images/residential-cleanup-dumpster.jpg',
     tags: ['home cleanout guide', 'decluttering tips', 'estate cleanout', 'whole house cleanout'],
+    relatedSlugs: ['estate-cleanout-guide-jacksonville', 'garage-cleanout-guide-jacksonville', 'how-to-choose-right-dumpster-size'],
     content: `
 ## How to Do a Home Cleanout in Jacksonville
 
@@ -445,6 +448,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://app.icans.ai/custom
     readTime: '6 min read',
     featuredImage: '/images/renovation-dumpster-rental.png',
     tags: ['kitchen renovation debris', 'cabinet disposal', 'countertop removal', 'kitchen remodel waste'],
+    relatedSlugs: ['bathroom-renovation-waste-disposal-guide', 'how-to-dispose-of-appliances-jacksonville', 'kitchen-renovation-waste-preparation-guide'],
     content: `
 ## Kitchen Renovation Debris
 
@@ -582,6 +586,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://app.icans.ai/custom
     readTime: '7 min read',
     featuredImage: '/images/what-size-dumpster-jacksonville.png',
     tags: ['dumpster size', 'how to choose', 'dumpster rental guide', '10 yard', '15 yard', '20 yard'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'what-fits-in-10-yard-dumpster', 'what-fits-in-15-yard-dumpster'],
     content: `
 ## How to Choose the Right Dumpster Size
 
@@ -744,6 +749,7 @@ We deliver same-day throughout Jacksonville and Northeast Florida, including [Ja
     readTime: '5 min read',
     featuredImage: '/images/dumpster-rental-near-me.jpg',
     tags: ['prohibited items', 'hazardous waste', 'disposal rules', 'jacksonville disposal'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'how-to-dispose-of-paint-jacksonville', 'dumpster-waste-types-guide'],
     content: `
 ## What Cannot Go in a Dumpster
 
@@ -919,6 +925,7 @@ Not sure if something can go in your dumpster? Call us at (904) 240-5598 before 
     readTime: '6 min read',
     featuredImage: '/images/dumpster-rental.jpg',
     tags: ['roofing', 'shingle disposal', 'contractor tips', 'construction debris'],
+    relatedSlugs: ['prepare-for-roof-replacement-waste-planning', 'roof-leak-repair-preparation-waste-guide', 'contractor-dumpster-rental-jacksonville'],
     content: `
 ## Roofing Project Waste Management
 
@@ -1081,6 +1088,7 @@ Before your project, review our guide on [what items cannot go in a dumpster](/b
     readTime: '7 min read',
     featuredImage: '/images/commercial-dumpster-jacksonville.jpg',
     tags: ['demolition', 'debris disposal', 'construction waste', 'jacksonville permits'],
+    relatedSlugs: ['demolition-debris-planning-disposal-guide', 'shed-deck-fence-demolition-diy-guide', 'construction-demolition-recycling-insights'],
     content: `
 ## Demolition Debris Disposal
 
@@ -1250,6 +1258,7 @@ Call (904) 240-5598 or [book online](https://app.icans.ai/customer-portal/904dum
     readTime: '5 min read',
     featuredImage: '/images/dumpster-for-rent-jacksonville-florida.jpg',
     tags: ['permits', 'jacksonville', 'regulations', 'dumpster placement'],
+    relatedSlugs: ['dumpster-permit-guide-do-you-need-one', 'dumpster-rental-for-homeowners-first-time-guide', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Do You Need a Dumpster Permit in Jacksonville
 
@@ -1418,6 +1427,7 @@ Check out our [dumpster sizes and pricing](/blog/how-to-choose-right-dumpster-si
     readTime: '6 min read',
     featuredImage: '/images/storm-cleanup-dumpster-jacksonville.png',
     tags: ['hurricane debris cleanup', 'storm damage disposal', 'florida hurricane recovery', 'disaster debris removal'],
+    relatedSlugs: ['yard-waste-landscaping-debris-disposal-northeast-florida', 'what-cannot-go-in-dumpster', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Hurricane Debris Cleanup in Jacksonville
 

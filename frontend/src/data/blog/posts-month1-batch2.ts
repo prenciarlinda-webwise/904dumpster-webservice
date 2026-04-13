@@ -14,6 +14,7 @@ export const MONTH1_POSTS_BATCH2: BlogPost[] = [
     featuredImage: '/images/small-dumpster.jpg',
     tags: ['garage cleanout jacksonville', 'garage clean out dumpster', 'garage declutter', 'home cleanout', 'junk removal jacksonville', '10 yard dumpster', 'home cleanouts', 'bulk junk removal', 'how to declutter your home'],
     status: 'published' as const,
+    relatedSlugs: ['complete-guide-home-cleanout-jacksonville', 'spring-cleaning-decluttering-guide-jacksonville', 'what-fits-in-10-yard-dumpster'],
     content: `
 ## How to Clean Out Your Garage Without Losing Your Mind
 
@@ -176,14 +177,14 @@ If the dumpster sits entirely on your private property, such as your driveway, n
 
 ### What is the best time of year for a garage cleanout in Jacksonville?
 
-Late fall through early spring, roughly November through March, offers the most comfortable working temperatures for a garage cleanout in Jacksonville. You avoid the extreme summer heat and the daily afternoon thunderstorms. Spring is also ideal because you can time your cleanout with our [spring cleaning checklist for Jacksonville](/blog/spring-cleaning-checklist-jacksonville-decluttering-guide) to maximize your decluttering momentum.
+Late fall through early spring, roughly November through March, offers the most comfortable working temperatures for a garage cleanout in Jacksonville. You avoid the extreme summer heat and the daily afternoon thunderstorms. Spring is also ideal because you can time your cleanout with our [spring cleaning checklist for Jacksonville](/blog/spring-cleaning-decluttering-guide-jacksonville) to maximize your decluttering momentum.
 
 ## Related Resources
 
 - [How to Choose the Right Dumpster Size for Your Project](/blog/how-to-choose-right-dumpster-size)
 - [What Cannot Go in a Dumpster: Prohibited Items Guide](/blog/what-cannot-go-in-dumpster)
 - [Complete Guide to Home Cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
-- [What Fits in a 10-Yard Dumpster: A Visual Guide](/blog/what-fits-in-a-10-yard-dumpster-visual-guide)
+- [What Fits in a 10-Yard Dumpster: A Visual Guide](/blog/what-fits-in-10-yard-dumpster)
     `,
   },
   {
@@ -199,6 +200,7 @@ Late fall through early spring, roughly November through March, offers the most 
     featuredImage: '/images/dumpster-rental-ponte-vedra-beach-fl.jpg',
     tags: ['dumpster rental cost ponte vedra', 'ponte vedra dumpster prices', 'ponte vedra beach dumpster', 'nocatee dumpster rental', 'st johns county dumpster rental', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'dumpster prices'],
     status: 'published' as const,
+    relatedSlugs: ['dumpster-rental-cost-st-augustine-fl', 'dumpster-rental-cost-complete-pricing-guide', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Dumpster Rental Pricing in Ponte Vedra FL
 
@@ -304,7 +306,7 @@ St. Johns County offers curbside bulk pickup for some waste types, but the servi
 
 Ponte Vedra dumpster rental prices from 904 Dumpster are consistent with what we charge throughout our Northeast Florida service area. For comparison, check our pricing guides for nearby communities:
 
-- [Dumpster Rental Cost in St. Augustine FL](/blog/dumpster-rental-cost-st-augustine-fl-pricing-guide)
+- [Dumpster Rental Cost in St. Augustine FL](/blog/dumpster-rental-cost-st-augustine-fl)
 - [Dumpster Rental in Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl)
 - [Dumpster Rental in Fernandina Beach](/dumpster-rental-fernandina-beach-fl)
 
@@ -386,7 +388,7 @@ Each dumpster size includes a specific weight allowance, which is 1 ton for the 
 
 ## Related Resources
 
-- [Dumpster Rental Cost in St. Augustine FL: Complete Pricing Guide](/blog/dumpster-rental-cost-st-augustine-fl-pricing-guide)
+- [Dumpster Rental Cost in St. Augustine FL: Complete Pricing Guide](/blog/dumpster-rental-cost-st-augustine-fl)
 - [How to Choose the Right Dumpster Size for Your Project](/blog/how-to-choose-right-dumpster-size)
 - [Kitchen Renovation Debris Disposal Guide](/blog/kitchen-renovation-debris-disposal-guide)
 - [Dumpster Rental in Ponte Vedra FL](/dumpster-rental-ponte-vedra-fl)
@@ -405,6 +407,7 @@ Each dumpster size includes a specific weight allowance, which is 1 ton for the 
     featuredImage: '/images/10-yard-dumpster-rental-promo.jpg',
     tags: ['yard waste disposal jacksonville', 'landscaping debris dumpster', 'yard waste northeast florida', 'tree removal debris', 'landscaping dumpster rental', 'palm frond disposal', 'tree debris removal', 'yard waste dumpster rental', 'landscape debris removal'],
     status: 'published' as const,
+    relatedSlugs: ['yard-waste-disposal-guide-what-goes-where', 'hurricane-debris-cleanup-jacksonville', 'dog-friendly-backyard-makeover-waste-planning'],
     content: `
 ## Yard Waste and Landscaping Debris Disposal in Northeast Florida
 
@@ -617,8 +620,8 @@ Late fall through early spring, from November through March, is the ideal window
 
 - [How to Choose the Right Dumpster Size for Your Project](/blog/how-to-choose-right-dumpster-size)
 - [What Cannot Go in a Dumpster: Prohibited Items Guide](/blog/what-cannot-go-in-dumpster)
-- [Spring Cleaning Checklist for Jacksonville Homeowners](/blog/spring-cleaning-checklist-jacksonville-decluttering-guide)
-- [Managing Roofing Project Waste in Jacksonville](/blog/managing-roofing-project-waste)
+- [Spring Cleaning Checklist for Jacksonville Homeowners](/blog/spring-cleaning-decluttering-guide-jacksonville)
+- [Managing Roofing Project Waste in Jacksonville](/blog/roofing-project-waste-management)
     `,
   },
   {
@@ -634,6 +637,7 @@ Late fall through early spring, from November through March, is the ideal window
     featuredImage: '/images/dumpster-rental-residential-jacksonville.jpg',
     tags: ['contractor dumpster rental jacksonville', 'construction dumpster', 'construction waste disposal', 'contractor waste management', 'jobsite dumpster', 'jacksonville construction', 'construction debris container rental', 'how to rent a dumpster', 'demolition dumpster rental'],
     status: 'published' as const,
+    relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'demolition-debris-disposal-best-practices', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Why Jacksonville Contractors Choose 904 Dumpster
 
@@ -684,7 +688,7 @@ Knowing what goes in the dumpster and what does not helps your crew load efficie
 ### Materials Requiring Special Handling
 
 - **Concrete and heavy masonry:** Accepted but subject to weight limits. If your project produces large amounts of concrete, consider our [concrete disposal dumpster](/concrete-disposal-dumpster) service, which is designed for heavy loads.
-- **Roofing shingles:** Multiple layers of shingles from a tear-off are extremely heavy. Our guide on [managing roofing project waste](/blog/managing-roofing-project-waste) covers sizing and weight considerations specific to roofing jobs.
+- **Roofing shingles:** Multiple layers of shingles from a tear-off are extremely heavy. Our guide on [managing roofing project waste](/blog/roofing-project-waste-management) covers sizing and weight considerations specific to roofing jobs.
 
 ### Prohibited Materials on Construction Sites
 
@@ -847,7 +851,7 @@ Street placement is possible in some Jacksonville locations, depending on local 
 ## Related Resources
 
 - [Construction Dumpster Rental in Jacksonville](/construction-dumpster-rental)
-- [Managing Roofing Project Waste in Northeast Florida](/blog/managing-roofing-project-waste)
+- [Managing Roofing Project Waste in Northeast Florida](/blog/roofing-project-waste-management)
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
 - [Concrete Disposal Dumpster Service](/concrete-disposal-dumpster)
     `,
@@ -865,6 +869,7 @@ Street placement is possible in some Jacksonville locations, depending on local 
     featuredImage: '/images/10-yard-dumpster.jpg',
     tags: ['dumpster rental cost atlantic beach', 'beach dumpster rental', 'atlantic beach dumpster', 'atlantic beach fl', 'beach home renovation', 'coastal dumpster rental', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
     status: 'published' as const,
+    relatedSlugs: ['dumpster-rental-cost-fernandina-beach-fl', 'dumpster-rental-cost-complete-pricing-guide', 'dumpster-rental-for-homeowners-first-time-guide'],
     content: `
 ## Dumpster Rental Pricing in Atlantic Beach FL
 
@@ -882,7 +887,7 @@ This pricing guide covers everything Atlantic Beach residents need to know about
 
 The [10-yard dumpster](/10-yard-dumpster-rental) measures approximately 12 feet long by 7.5 feet wide by 3.6 feet tall and holds up to 1 ton of material. This compact container is particularly well-suited for Atlantic Beach properties because it fits in smaller driveways and takes up minimal space on the street if driveway placement is not possible.
 
-**Best for:** Garage cleanouts, single-room renovations, small bathroom remodels, deck removals, and seasonal decluttering projects. Read our [visual guide to what fits in a 10-yard dumpster](/blog/what-fits-in-a-10-yard-dumpster-visual-guide) to see if this size works for your project.
+**Best for:** Garage cleanouts, single-room renovations, small bathroom remodels, deck removals, and seasonal decluttering projects. Read our [visual guide to what fits in a 10-yard dumpster](/blog/what-fits-in-10-yard-dumpster) to see if this size works for your project.
 
 ### 15-Yard Dumpster - $349
 
@@ -916,7 +921,7 @@ Living near the ocean has many benefits, but salt air takes a serious toll on bu
 
 Common coastal deterioration projects that require dumpsters include:
 
-- **Roof replacement:** Salt air shortens shingle lifespan, often requiring replacement sooner than the manufacturer's rated lifespan. Learn more about managing this waste in our [roofing project waste guide](/blog/managing-roofing-project-waste).
+- **Roof replacement:** Salt air shortens shingle lifespan, often requiring replacement sooner than the manufacturer's rated lifespan. Learn more about managing this waste in our [roofing project waste guide](/blog/roofing-project-waste-management).
 - **Deck and porch reconstruction:** Wooden decks and screened porches near the beach may last only 10 to 15 years before salt damage requires complete replacement.
 - **Siding replacement:** Wood siding, particularly on ocean-facing walls, deteriorates faster in the salt environment.
 - **Window and door replacement:** Salt spray damages frames, seals, and hardware, prompting more frequent replacement.
