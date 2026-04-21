@@ -22,7 +22,6 @@ import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
-import pricingData from '@/data/pricing.json'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
@@ -623,34 +622,22 @@ export default function HomePage() {
                       </div>
                     </div>
 
-                    {/* Zone Pricing & Book Buttons */}
+                    {/* Starting Price & Book Button */}
                     <div className="mb-4">
-                      <div className="text-xs text-gray-400 uppercase tracking-wide mb-2">Book by Area</div>
-                      <div className="space-y-1.5 max-h-[210px] overflow-y-auto">
-                        {Object.entries(pricingData.counties).map(([key, county]) => {
-                            const sizeKey = `${dumpster.size}-yard` as keyof typeof county.dumpsters
-                            const dumpsterPricing = county.dumpsters[sizeKey] as { basePrice: number } | undefined
-                            return dumpsterPricing ? (
-                              <a
-                                key={key}
-                                href="https://app.icans.ai/customer-portal/904dumpster/book/"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                title={`Book ${dumpster.name} in ${county.name}`}
-                                className="flex items-center justify-between px-3 py-2 rounded-lg bg-gray-50 hover:bg-primary/10 border border-gray-100 hover:border-primary/30 transition-all duration-200 group"
-                              >
-                                <span className="flex items-center gap-2">
-                                  <MapPin className="w-3.5 h-3.5 text-gray-400 group-hover:text-primary" />
-                                  <span className="text-sm font-medium text-secondary">{county.name}</span>
-                                </span>
-                                <span className="flex items-center gap-2">
-                                  <span className="text-sm font-bold text-primary">${dumpsterPricing.basePrice}</span>
-                                  <ArrowRight className="w-3.5 h-3.5 text-gray-300 group-hover:text-primary transition-colors" />
-                                </span>
-                              </a>
-                            ) : null
-                          })}
+                      <div className="flex items-baseline justify-between mb-3 px-1">
+                        <span className="text-xs text-gray-400 uppercase tracking-wide">Starting at</span>
+                        <span className="text-3xl font-black text-primary">{dumpster.price}</span>
                       </div>
+                      <a
+                        href="https://app.icans.ai/customer-portal/904dumpster/book/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title={`Book ${dumpster.name} Online`}
+                        className="w-full flex items-center justify-center gap-2 bg-primary hover:bg-primary/90 text-white font-bold py-3 rounded-xl transition-all duration-200"
+                      >
+                        Book Online
+                        <ArrowRight className="w-4 h-4" />
+                      </a>
                     </div>
 
                     {/* Specs Grid */}

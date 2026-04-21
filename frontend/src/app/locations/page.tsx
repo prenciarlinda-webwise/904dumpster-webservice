@@ -23,7 +23,7 @@ const SERVICE_AREAS = {
       { name: 'Jacksonville Beach', href: '/dumpster-rental-jacksonville-beach-fl', description: 'Beaches area service' },
       { name: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl', description: 'Coastal community service' },
       { name: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl', description: 'Beach town service' },
-      { name: 'Arlington', href: '/', description: 'East Jacksonville service' },
+      { name: 'Arlington', href: '/dumpster-rental-arlington-fl', description: 'East Jacksonville service' },
       { name: 'Mandarin', href: '/', description: 'South Jacksonville service' },
       { name: 'Southside', href: '/', description: 'Southeast Jacksonville service' },
       { name: 'Riverside', href: '/', description: 'Historic district service' },
