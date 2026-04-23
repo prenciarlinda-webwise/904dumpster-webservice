@@ -360,14 +360,30 @@ function DumpsterSizePage({
                 <p className="text-gray-500 mt-2">Starting price - All-inclusive</p>
               </div>
 
-              <div className="space-y-4 mb-8">
-                <div className="flex items-center gap-4 p-4 bg-gray-50 rounded-xl">
-                  <Clock className="w-8 h-8 text-primary" />
-                  <div>
-                    <div className="font-bold text-secondary">{dumpster.rentalDays}-Day Rental</div>
-                    <div className="text-sm text-gray-500">$15/day additional</div>
+              {/* Rental Pricing Tiers */}
+              <div className="mb-6">
+                <div className="text-xs text-gray-400 uppercase tracking-wide mb-2 text-center">Rental Pricing</div>
+                <div className="space-y-2">
+                  <div className="flex items-center justify-between px-4 py-3 rounded-xl bg-primary/5 border-2 border-primary/20">
+                    <span className="font-semibold text-secondary">{dumpster.rentalDays} days</span>
+                    <span className="text-xl font-black text-primary">${dumpster.basePrice}</span>
                   </div>
+                  {dumpster.twoWeekPrice && (
+                    <div className="flex items-center justify-between px-4 py-3 rounded-xl bg-gray-50 border border-gray-100">
+                      <span className="font-semibold text-secondary">10 days</span>
+                      <span className="text-xl font-black text-primary">${dumpster.twoWeekPrice}</span>
+                    </div>
+                  )}
+                  {size === '20' && 'monthPrice' in dumpster && dumpster.monthPrice && (
+                    <div className="flex items-center justify-between px-4 py-3 rounded-xl bg-gray-50 border border-gray-100">
+                      <span className="font-semibold text-secondary">30 days</span>
+                      <span className="text-xl font-black text-primary">${dumpster.monthPrice}</span>
+                    </div>
+                  )}
                 </div>
+              </div>
+
+              <div className="space-y-4 mb-8">
                 <div className="flex items-center gap-4 p-4 bg-gray-50 rounded-xl">
                   <Shield className="w-8 h-8 text-primary" />
                   <div>

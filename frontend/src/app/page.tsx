@@ -553,7 +553,10 @@ export default function HomePage() {
                   tons: '1',
                   days: 3,
                   bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
-                  price: '$299',
+                  tiers: [
+                    { days: 3, price: 299 },
+                    { days: 10, price: 359 },
+                  ],
                   popular: false,
                   image: '/images/10 Yard Dumpster.avif',
                   href: '/10-yard-dumpster-rental',
@@ -565,7 +568,10 @@ export default function HomePage() {
                   tons: '1.5',
                   days: 5,
                   bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
-                  price: '$349',
+                  tiers: [
+                    { days: 5, price: 349 },
+                    { days: 10, price: 399 },
+                  ],
                   popular: false,
                   image: '/images/15 yard dumpster.avif',
                   href: '/15-yard-dumpster-rental',
@@ -577,7 +583,11 @@ export default function HomePage() {
                   tons: '2',
                   days: 5,
                   bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
-                  price: '$399',
+                  tiers: [
+                    { days: 5, price: 399 },
+                    { days: 10, price: 449 },
+                    { days: 30, price: 549 },
+                  ],
                   popular: true,
                   image: '/images/20 yard dumpster.avif',
                   href: '/20-yard-dumpster-rental',
@@ -622,11 +632,19 @@ export default function HomePage() {
                       </div>
                     </div>
 
-                    {/* Starting Price & Book Button */}
+                    {/* Tiered Pricing & Book Button */}
                     <div className="mb-4">
-                      <div className="flex items-baseline justify-between mb-3 px-1">
-                        <span className="text-xs text-gray-400 uppercase tracking-wide">Starting at</span>
-                        <span className="text-3xl font-black text-primary">{dumpster.price}</span>
+                      <div className="text-xs text-gray-400 uppercase tracking-wide mb-2">Rental Pricing</div>
+                      <div className="space-y-1.5 mb-3">
+                        {dumpster.tiers.map((tier) => (
+                          <div
+                            key={tier.days}
+                            className="flex items-center justify-between px-3 py-2 rounded-lg bg-gray-50 border border-gray-100"
+                          >
+                            <span className="text-sm font-medium text-secondary">{tier.days} days</span>
+                            <span className="text-lg font-black text-primary">${tier.price}</span>
+                          </div>
+                        ))}
                       </div>
                       <a
                         href="https://app.icans.ai/customer-portal/904dumpster/book/"

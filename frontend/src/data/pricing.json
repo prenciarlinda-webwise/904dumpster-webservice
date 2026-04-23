@@ -9,7 +9,7 @@
           "size": "10",
           "name": "10 Yard Dumpster",
           "basePrice": 299,
-          "twoWeekPrice": 349,
+          "twoWeekPrice": 359,
           "rentalDays": 3,
           "tonnageIncluded": 1,
           "dimensions": { "length": 12, "width": 7.5, "height": 3.6 },
