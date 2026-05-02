@@ -309,10 +309,12 @@ function DumpsterSizePage({
                 <span>/</span>
                 <span className="text-white">{size} Yard Dumpster</span>
               </nav>
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6">
-                {size} Yard Dumpster Rental in{' '}
-                <span className="text-primary">Jacksonville, FL</span>
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-3">
+                {size} Yard <span className="text-primary">Dumpster Rental</span>
               </h1>
+              <p className="text-sm text-white/50 uppercase tracking-wider mb-6">
+                Roll-off container rental in Jacksonville, FL &bull; from ${dumpster.basePrice}
+              </p>
               <p className="text-xl text-white/70 mb-8">{service.description}</p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
@@ -337,11 +339,12 @@ function DumpsterSizePage({
               <div className="mt-8 rounded-2xl overflow-hidden hidden lg:block">
                 <Image
                   src={`/images/${size}-yard-dumpster.jpg`}
-                  alt={`${size} Yard Dumpster Rental Jacksonville FL`}
-                  title={`${size} Yard Dumpster Rental Jacksonville FL`}
+                  alt={`${size} yard roll-off dumpster, ${dims.length} ft x ${dims.width} ft x ${dims.height} ft container, holds ${dumpster.tonnageIncluded} ton${dumpster.tonnageIncluded !== 1 ? 's' : ''}`}
+                  title={`${size} Yard Dumpster Rental`}
                   width={600}
                   height={400}
                   className="w-full h-auto rounded-2xl"
+                  sizes="(max-width: 1024px) 100vw, 600px"
                 />
               </div>
             </div>
@@ -478,7 +481,7 @@ function DumpsterSizePage({
               What Is a 10 Yard Dumpster?
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              A 10 yard dumpster is a roll-off container that holds 10 cubic yards of debris,equivalent to approximately 3 pickup truck loads or 40-50 large contractor trash bags. It is the smallest standard dumpster size available for residential rental in Jacksonville, FL, and the most affordable option for homeowners tackling small-to-medium projects.
+              A 10 yard dumpster is a roll-off container that holds 10 cubic yards of debris, equivalent to approximately 3 pickup truck loads or 40 to 50 large contractor trash bags. It is the smallest standard dumpster size offered for residential rental and the most affordable option for homeowners tackling small to medium projects.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
               To visualize 10 cubic yards, imagine a space roughly 12 feet long, 7.5 feet wide, and 3.6 feet high,about the footprint of a compact SUV. The container sits low to the ground, making it easy to toss items over the sides or walk debris in through the rear swing door. Its compact profile means it fits in most standard driveways without blocking sidewalks or streets.
@@ -549,15 +552,15 @@ function DumpsterSizePage({
         </section>
       )}
 
-      {/* 10-Yard Specific: Cost in Jacksonville */}
+      {/* 10-Yard Specific: Cost */}
       {size === '10' && (
         <section className="py-20 lg:py-28 bg-gray-50">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
-              10 Yard Dumpster Cost in Jacksonville
+              10 Yard Dumpster Cost
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 10 yard dumpster rental in Jacksonville, FL costs $299 at 904 Dumpster, which includes delivery, a 3-day rental period, pickup, and disposal of up to 1 ton. Most competitors in the Jacksonville area charge between $350 and $400 for the same size container, making 904 Dumpster $75-$125 cheaper on average with no hidden fees.
+              A 10 yard dumpster rental costs <strong>$299</strong> at 904 Dumpster. The flat rate includes delivery, a 3-day rental, pickup, and disposal of up to 1 ton. National averages for a 10-yard run $425 to $750 according to industry guides like Waste Management and Dumpsters.com, putting 904 Dumpster roughly 30 to 50 percent below market with no hidden fees.
             </p>
 
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg mb-8">
@@ -577,18 +580,18 @@ function DumpsterSizePage({
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Disposal Included</td>
-                    <td className="py-4 px-6 font-bold text-secondary">1.5 Tons</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">3,000 lbs included in base price</td>
+                    <td className="py-4 px-6 font-bold text-secondary">1 Ton</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">2,000 lbs included in base price</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Rental Period</td>
-                    <td className="py-4 px-6 font-bold text-secondary">5 Days</td>
+                    <td className="py-4 px-6 font-bold text-secondary">3 Days</td>
                     <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">$15/day extensions available</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Overage Fee</td>
                     <td className="py-4 px-6 font-bold text-secondary">$75/Ton</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only if you exceed 1.5 tons</td>
+                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only if you exceed 1 ton</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Fuel Surcharge</td>
@@ -610,10 +613,10 @@ function DumpsterSizePage({
             </div>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Many national dumpster brokers advertise low base rates of $199-$249 but add fuel surcharges ($25-$50), environmental fees ($15-$30), and per-ton disposal charges that can double your final bill. With 904 Dumpster, the $299 price is the price you pay,period. Based on our 10 years of serving Jacksonville homeowners, this transparent pricing saves customers an average of $75-$125 compared to competitors who stack hidden fees.
+              Many national dumpster brokers advertise low base rates of $199-$249 but add fuel surcharges ($25-$50), environmental fees ($15-$30), and per-ton disposal charges that can double the final bill. With 904 Dumpster, the $299 price is the price you pay. Based on a decade of operating, this transparent pricing saves customers an average of $75 to $125 compared to brokers who stack hidden fees.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              <strong className="text-secondary">Dumpster rental vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 10 yard dumpster holds 3 pickup truck loads, meaning you would spend $150-$225 in dump fees alone,not counting gas, vehicle wear, and 4-6 hours of driving and unloading. At $299 all-in with delivery to your driveway, renting a dumpster is the smarter choice for most Jacksonville homeowners.
+              <strong className="text-secondary">Dumpster rental vs. hauling it yourself:</strong> A single landfill trip costs roughly $50 to $75 in disposal fees plus fuel and 1 to 2 hours of your time. The 10-yard dumpster holds about 3 pickup truck loads, which would total $150 to $225 in dump fees alone, not counting gas, vehicle wear, and 4 to 6 hours of driving and unloading. At $299 all-in with delivery to your driveway, renting a dumpster is the cheaper option once you have more than two truckloads of debris.
             </p>
             <div className="mt-6">
               <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all" title="Dumpster Rental Pricing Jacksonville">
@@ -704,7 +707,7 @@ function DumpsterSizePage({
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-xl font-bold text-secondary mb-4">Garage &amp; Attic Cleanouts</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  The 10 yard dumpster is the most popular choice for Jacksonville homeowners cleaning out a single-car or two-car garage. A typical garage cleanout produces enough debris to fill 60-70% of the container, leaving room for unexpected items you find along the way. Old bicycles, broken lawn equipment, holiday decorations, and stacks of boxes all fit with room to spare. The low 3.6-foot walls make it easy to toss items over the side without a ramp. For large 3-car garages packed floor to ceiling, consider our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link> instead.
+                  The 10 yard dumpster is the most popular choice for homeowners cleaning out a single-car or two-car garage. A typical garage cleanout produces enough debris to fill 60 to 70 percent of the container, leaving room for unexpected items you find along the way. Old bicycles, broken lawn equipment, holiday decorations, and stacks of boxes all fit with space to spare. The low 3.6-foot walls make it easy to toss items over the side without a ramp. For large 3-car garages packed floor to ceiling, the <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link> is a better fit.
                 </p>
               </div>
 
@@ -718,7 +721,7 @@ function DumpsterSizePage({
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-xl font-bold text-secondary mb-4">Yard Debris &amp; Landscaping</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Jacksonville&apos;s growing season produces a significant amount of yard waste. The 10 yard dumpster works well for trimming projects, bush removal, small tree limbs, sod removal, and general landscaping cleanup. It holds approximately 3 pickup truck loads of yard debris, saving multiple trips to the Duval County yard waste drop-off. Remember that yard waste is lighter than construction debris, so you will likely hit the volume limit before the 3,000-pound weight limit.
+                  Florida&apos;s growing season produces a significant amount of yard waste. The 10 yard dumpster works well for trimming projects, bush removal, small tree limbs, sod removal, and general landscaping cleanup. It holds approximately 3 pickup truck loads of yard debris, replacing multiple trips to a yard-waste drop-off. Yard waste is lighter than construction debris, so most projects hit the volume limit before the 2,000-pound weight limit.
                 </p>
               </div>
 
@@ -822,7 +825,7 @@ function DumpsterSizePage({
               What Is a 20 Yard Roll-Off Dumpster?
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              A 20 yard dumpster is the largest standard roll-off container available for residential rental in Jacksonville, FL. It holds 20 cubic yards of debris,equivalent to approximately 7 pickup truck loads or 120-140 large contractor trash bags. This is the size contractors reach for on construction jobs, whole-house cleanouts, and major renovation projects where smaller containers would need to be swapped mid-project.
+              A 20 yard dumpster is the largest standard roll-off container offered for residential rental. It holds 20 cubic yards of debris, equivalent to approximately 7 pickup truck loads or 120 to 140 large contractor trash bags. This is the size contractors reach for on construction jobs, whole-house cleanouts, and major renovation projects where smaller containers would need to be swapped mid-project.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
               To visualize 20 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 5.8 feet high,roughly the length of a mid-size sedan with walls just under 6 feet tall. Despite being our largest size, the 20 yard dumpster shares the same footprint as our <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline" title="15 Yard Dumpster Rental">15 yard dumpster</Link>,the extra capacity comes from the taller sidewalls, not a wider or longer frame. This means it fits in the same driveway space while holding 33% more debris.
@@ -894,26 +897,26 @@ function DumpsterSizePage({
 
             <h3 className="text-2xl font-bold text-secondary mb-4">Will a 20 Yard Dumpster Fit in My Driveway?</h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-4">
-              In most Jacksonville neighborhoods,yes. The 20 yard dumpster requires the same 14-foot length and 7.5-foot width as the 15 yard, so if a 15 yard fits in your driveway, a 20 yard will too. The only additional consideration is overhead clearance: the 5.8-foot wall height means the container itself clears most garage doors, but our roll-off truck needs approximately <strong className="text-secondary">22 feet of vertical clearance</strong> for safe delivery and pickup.
+              In most cases, yes. The 20 yard dumpster shares the same 14-foot length and 7.5-foot width as the 15 yard, so if a 15-yard fits in your driveway, a 20-yard will too. The main consideration is overhead clearance: the 5.8-foot wall height clears most garage doors, but the roll-off truck needs roughly <strong className="text-secondary">22 feet of vertical clearance</strong> for safe delivery and pickup.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              <strong className="text-secondary">Jacksonville-specific tip:</strong> Watch for low-hanging oak branches, especially in established neighborhoods like Riverside, Avondale, and San Marco. If you&apos;re unsure about clearance, send us a photo of your driveway and we&apos;ll confirm fit before scheduling delivery. For homes without driveways or with tight access, we can often place the container on the street with a City of Jacksonville right-of-way permit,call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> and we&apos;ll handle the details.
+              <strong className="text-secondary">Driveway tip:</strong> Watch for low-hanging oak branches, especially in older established neighborhoods. If you are unsure about clearance, send a photo of your driveway and 904 Dumpster will confirm fit before scheduling delivery. For homes without driveways or with tight access, the container can often be placed on the street with a city right-of-way permit. Call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> and the team will handle the details.
             </p>
           </div>
         </section>
       )}
 
-      {/* 20-Yard Specific: Cost in Jacksonville */}
+      {/* 20-Yard Specific: Cost */}
       {size === '20' && (
         <section className="py-20 lg:py-28 bg-gray-50">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
-              20 Yard Dumpster Rental Cost in Jacksonville
+              20 Yard Dumpster Rental Cost
             </h2>
 
             <h3 className="text-2xl font-bold text-secondary mb-4">What&apos;s Included in the $399 Flat Rate</h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 20 yard dumpster rental in Jacksonville, FL costs $399 at 904 Dumpster. This flat-rate price includes delivery, a 5-day rental period, pickup, and disposal of up to 2 tons (4,000 lbs). At $18.75 per cubic yard, the 20 yard is the most cost-efficient size for large projects,compared to $27.50/yard for the 10-yard and $21.67/yard for the 15-yard.
+              A 20 yard dumpster rental costs <strong>$399</strong> at 904 Dumpster. The flat rate includes delivery, a 5-day rental, pickup, and disposal of up to 2 tons. At $19.95 per cubic yard, the 20-yard is the most cost-efficient size offered, compared with roughly $29.90 per cubic yard on the 10-yard and $23.27 on the 15-yard. National guides such as Hometown Dumpster Rental put the same size between $350 and $650, putting 904 Dumpster at the low end of the national range.
             </p>
 
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg mb-8">
@@ -967,10 +970,10 @@ function DumpsterSizePage({
 
             <h3 className="text-2xl font-bold text-secondary mb-4">904 Dumpster vs. National Providers</h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              National dumpster brokers like Budget Dumpster and Waste Management advertise 20 yard rentals starting at $350-$450 in the Jacksonville market,but the final invoice often tells a different story. After fuel surcharges ($25-$50), environmental fees ($15-$30), and administrative charges ($20-$35), the average 20 yard rental from a national provider lands between $450 and $550. With 904 Dumpster, $399 is the total price,no add-ons, no surprises.
+              National dumpster brokers like Budget Dumpster and Waste Management advertise 20 yard rentals starting at $350 to $450, but the final invoice often tells a different story. After fuel surcharges ($25 to $50), environmental fees ($15 to $30), and administrative charges ($20 to $35), the average 20 yard rental from a national provider lands between $450 and $550. With 904 Dumpster, $399 is the total price. No add-ons, no surprises.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              <strong className="text-secondary">20 yard dumpster vs. hauling it yourself:</strong> A single trip to Trail Ridge Landfill costs approximately $50-$75 in disposal fees plus fuel and 1-2 hours of your time. Our 20 yard dumpster holds 7 pickup truck loads, meaning you would spend $350-$525 in dump fees alone,not counting gas, vehicle wear, and 10-14 hours of driving and unloading. At $399 all-in with delivery to your driveway, renting a 20 yard dumpster saves the average Jacksonville homeowner $200+ and an entire weekend of work.
+              <strong className="text-secondary">20 yard dumpster vs. hauling it yourself:</strong> A single landfill trip costs approximately $50 to $75 in disposal fees plus fuel and 1 to 2 hours of your time. The 20 yard holds about 7 pickup truck loads, meaning you would spend $350 to $525 in dump fees alone, not counting gas, vehicle wear, and 10 to 14 hours of driving and unloading. At $399 all-in with delivery to your driveway, renting a 20 yard dumpster saves the average homeowner $200 or more and an entire weekend of work.
             </p>
             <div className="mt-6">
               <Link href="/dumpster-rental-pricing-jacksonville" className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all" title="Dumpster Rental Pricing Jacksonville">
@@ -989,7 +992,7 @@ function DumpsterSizePage({
               What Can You Put in a 20 Yard Dumpster?
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 20 yard dumpster accepts most common residential and construction materials. Because the 20 yard handles the biggest projects, it is frequently loaded with a mix of heavy construction debris and general household items. Here is what you can,and cannot,place in a 20 yard roll-off container in Jacksonville.
+              A 20 yard dumpster accepts most common residential and construction materials. Because the 20 yard handles the biggest projects, it is frequently loaded with a mix of heavy construction debris and general household items. Here is what you can, and cannot, place in a 20 yard roll-off container.
             </p>
 
             <div className="grid md:grid-cols-2 gap-8 mb-8">
@@ -1112,7 +1115,7 @@ function DumpsterSizePage({
                   Clearing an entire home,whether you&apos;re preparing a property for sale, managing an estate after a loved one passes, or gutting a house before a full renovation,generates an enormous volume of debris. Furniture, clothing, kitchenware, electronics, and decades of accumulated belongings fill up smaller dumpsters quickly.
                 </p>
                 <p className="text-gray-600">
-                  The 20 yard dumpster holds the contents of most 3-4 bedroom Jacksonville homes in a single load, eliminating the cost and delay of ordering a second container. For larger estates or hoarder cleanouts, ask about back-to-back scheduling.
+                  The 20 yard dumpster holds the contents of most 3 to 4 bedroom homes in a single load, eliminating the cost and delay of ordering a second container. For larger estates or hoarder cleanouts, ask about back-to-back scheduling.
                 </p>
               </div>
 
@@ -1142,7 +1145,7 @@ function DumpsterSizePage({
                   Tearing down a large deck, removing a shed, demolishing interior walls, or gutting a garage generates heavy, bulky debris that smaller dumpsters cannot handle efficiently. The 20 yard&apos;s 5.8-foot walls accommodate long lumber, plywood sheets, and stacked drywall without overflowing.
                 </p>
                 <p className="text-gray-600">
-                  For full structural demolition projects in Jacksonville, our <Link href="/demolition-services-jacksonville" className="text-primary hover:underline" title="Demolition Services Jacksonville">demolition services</Link> team can handle the teardown and haul-away,or you can rent the dumpster and manage the demo yourself.
+                  For full structural demolition projects, the <Link href="/demolition-services-jacksonville" className="text-primary hover:underline" title="Demolition Services Jacksonville">demolition services team</Link> can handle the teardown and haul-away, or you can rent the dumpster and manage the demo yourself.
                 </p>
               </div>
 
@@ -1240,7 +1243,7 @@ function DumpsterSizePage({
         <section className="py-20 lg:py-28 bg-gray-50">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
-              How to Rent a 20 Yard Dumpster in Jacksonville
+              How to Rent a 20 Yard Dumpster
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
               Renting a 20 yard dumpster from 904 Dumpster is a straightforward, four-step process. Most orders are confirmed within minutes, and same-day delivery is available when you book before noon.
@@ -1378,7 +1381,7 @@ function DumpsterSizePage({
               What Is a 15 Yard Dumpster?
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              A 15 yard dumpster is a mid-size roll-off container that holds 15 cubic yards of debris,equivalent to approximately 5-6 pickup truck loads or 80-100 large contractor trash bags. It is the most popular dumpster size for residential projects in Jacksonville, FL, striking the ideal balance between capacity and driveway footprint for roofing jobs, kitchen remodels, and multi-room cleanouts.
+              A 15 yard dumpster is a mid-size roll-off container that holds 15 cubic yards of debris, equivalent to approximately 5 to 6 pickup truck loads or 80 to 100 large contractor trash bags. It is the most popular dumpster size for residential projects, striking the ideal balance between capacity and driveway footprint for roofing jobs, kitchen remodels, and multi-room cleanouts.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
               To visualize 15 cubic yards, imagine a container 14 feet long, 7.5 feet wide, and 4.5 feet high,roughly the same footprint as a large SUV. The 15 yard sits between our <Link href="/10-yard-dumpster-rental" className="text-primary hover:underline" title="10 Yard Dumpster Rental">10 yard dumpster</Link> ($299) and our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> ($399), offering 50% more capacity than the 10 yard for only $50 more.
@@ -1398,7 +1401,7 @@ function DumpsterSizePage({
               15 Yard Dumpster Dimensions &amp; Size
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              A 15 yard dumpster measures 14 feet long by 7.5 feet wide by 4.5 feet high. The container fits within a standard residential driveway without overhanging onto the sidewalk,a common cause for city citations in neighborhoods like Atlantic Beach and Downtown Jacksonville. At 4.5 feet tall, the walls are low enough to toss heavy debris over the side without needing a ladder, but high enough to contain bulky items like appliances and cabinets.
+              A 15 yard dumpster measures 14 feet long by 7.5 feet wide by 4.5 feet high. The container fits within a standard residential driveway without overhanging onto the sidewalk, which is a common cause of municipal placement citations. At 4.5 feet tall, the walls are low enough to toss heavy debris over the side without a ladder, but high enough to contain bulky items like appliances and cabinets.
             </p>
 
             <div className="bg-gray-50 rounded-2xl overflow-hidden mb-8">
@@ -1589,7 +1592,7 @@ function DumpsterSizePage({
                 How Much Can a 15-Yard Dumpster Hold?
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Most homeowners struggle to visualize &quot;cubic yards.&quot; Here&apos;s how to picture it for your Jacksonville project.
+                Most homeowners struggle to visualize &quot;cubic yards.&quot; Here&apos;s how to picture it for your project.
               </p>
             </div>
 
@@ -1619,7 +1622,7 @@ function DumpsterSizePage({
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-secondary mb-2">25-30 Roofing Squares</h3>
-                <p className="text-gray-600">Handles 2,500-3,000 sq ft of asphalt shingles from a typical Jacksonville home roof.</p>
+                <p className="text-gray-600">Handles 2,500 to 3,000 sq ft of asphalt shingles from a typical residential roof.</p>
               </div>
 
               <div className="bg-gray-50 rounded-2xl p-8 text-center">

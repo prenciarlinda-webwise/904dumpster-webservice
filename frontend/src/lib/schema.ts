@@ -241,6 +241,10 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
     name: `${size} Yard Dumpster Rental`,
     description: `${size} cubic yard roll-off dumpster. Dimensions: ${dims.length}' x ${dims.width}' x ${dims.height}'. Holds approximately ${dumpsterData.truckLoadsEquivalent} pickup truck loads. Perfect for ${size === '10' ? 'small cleanouts and garage projects' : size === '15' ? 'roofing projects and kitchen remodels' : 'large renovations and construction jobs'}.`,
     image: `https://www.904dumpster.com/images/${size}-yard-dumpster.jpg`,
+    sku: `904D-${size}YD`,
+    mpn: `904D-${size}YD-RO`,
+    category: 'Roll-Off Dumpster Rental',
+    itemCondition: 'https://schema.org/NewCondition',
     brand: {
       '@type': 'Brand',
       name: BUSINESS.name,
@@ -258,12 +262,47 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
       priceCurrency: 'USD',
       priceValidUntil: priceValidUntil,
       availability: 'https://schema.org/InStock',
+      itemCondition: 'https://schema.org/NewCondition',
+      url: `https://www.904dumpster.com/${size}-yard-dumpster-rental`,
       seller: {
         '@type': 'Organization',
         '@id': 'https://www.904dumpster.com/#organization',
         name: BUSINESS.name,
       },
       areaServed: generateServiceAreaSchema(),
+      shippingDetails: {
+        '@type': 'OfferShippingDetails',
+        shippingRate: {
+          '@type': 'MonetaryAmount',
+          value: '0',
+          currency: 'USD',
+        },
+        shippingDestination: {
+          '@type': 'DefinedRegion',
+          addressCountry: 'US',
+          addressRegion: 'FL',
+        },
+        deliveryTime: {
+          '@type': 'ShippingDeliveryTime',
+          handlingTime: {
+            '@type': 'QuantitativeValue',
+            minValue: 0,
+            maxValue: 0,
+            unitCode: 'DAY',
+          },
+          transitTime: {
+            '@type': 'QuantitativeValue',
+            minValue: 0,
+            maxValue: 1,
+            unitCode: 'DAY',
+          },
+        },
+      },
+      hasMerchantReturnPolicy: {
+        '@type': 'MerchantReturnPolicy',
+        applicableCountry: 'US',
+        returnPolicyCategory: 'https://schema.org/MerchantReturnNotPermitted',
+      },
     },
     additionalProperty: [
       {
