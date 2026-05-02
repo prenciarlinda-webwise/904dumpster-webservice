@@ -215,7 +215,7 @@ export default function DumpstersForMovingProjectsPage() {
               <p className="text-gray-600 text-lg mb-6">
                 Most people are surprised by how much stuff they have accumulated over the years.
                 Old furniture, broken appliances, outdated electronics, clothes that no longer fit,
-                and boxes of forgotten items all add up quickly. A dumpster gives you one easy
+                and boxes of forgotten items all add up quickly. A <Link href="/" className="text-primary hover:underline">Jacksonville FL dumpster rental</Link> gives you one easy
                 solution for getting rid of it all so you can start fresh in your new home.
               </p>
               <ul className="space-y-4">

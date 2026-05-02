@@ -88,9 +88,9 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 lg:px-6 py-12">
           <div className="flex flex-col lg:flex-row items-center justify-between gap-6">
             <div>
-              <h3 className="text-2xl lg:text-3xl font-bold mb-2">
+              <p className="text-2xl lg:text-3xl font-bold mb-2">
                 Need a Dumpster?
-              </h3>
+              </p>
               <p className="text-white/60">
                 Get a free quote today - no obligation.
               </p>
@@ -199,9 +199,9 @@ export default function Footer() {
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
               {Object.values(SITEMAP).map((section) => (
                 <div key={section.title}>
-                  <h3 className="text-sm font-bold uppercase tracking-wider text-white/40 mb-4">
+                  <div className="text-sm font-bold uppercase tracking-wider text-white/40 mb-4">
                     {section.title}
-                  </h3>
+                  </div>
                   <ul className="space-y-2">
                     {section.links.map((link) => (
                       <li key={link.href}>

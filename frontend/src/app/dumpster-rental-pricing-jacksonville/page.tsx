@@ -85,7 +85,7 @@ export default function PricingPage() {
             Dumpster Rental <span className="text-primary">Pricing</span>
           </h1>
           <p className="text-xl text-white/70 max-w-2xl mx-auto">
-            Transparent, all-inclusive pricing with no hidden fees. See exactly what you will pay
+            Transparent, all-inclusive <Link href="/" className="text-white underline decoration-primary/60 hover:decoration-primary">dumpster rental Jacksonville FL</Link> pricing with no hidden fees. See exactly what you will pay
             before you book.
           </p>
         </div>
@@ -247,6 +247,34 @@ export default function PricingPage() {
                 </Link>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Booking Iframe */}
+      <section id="book" className="py-20 lg:py-28 bg-white">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-10">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Reserve Online
+            </span>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-4">
+              Book Your Jacksonville Dumpster Rental
+            </h2>
+            <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+              Real-time availability, transparent pricing, instant confirmation.
+            </p>
+          </div>
+          <div className="relative w-full h-screen rounded-lg overflow-hidden">
+            <iframe
+              src="https://app.icans.ai/customer-portal/904dumpster/book/"
+              id="booking-iframe"
+              loading="lazy"
+              title="Dumpster Booking"
+              allowFullScreen
+              referrerPolicy="no-referrer"
+              className="w-full h-full border-0 rounded-lg"
+            />
           </div>
         </div>
       </section>

@@ -215,7 +215,7 @@ export default function DumpstersForLandscapingProjectsPage() {
               <p className="text-gray-600 text-lg mb-6">
                 A roll-off dumpster placed right in your driveway gives you a convenient spot to
                 toss everything as you work. No more loading your truck and driving to the dump
-                multiple times. Just fill the dumpster and we handle the rest, so you can focus
+                multiple times. With <Link href="/" className="text-primary hover:underline">local dumpster rental in Jacksonville</Link>, you just fill the container and we handle the rest, so you can focus
                 on making your yard look great.
               </p>
               <ul className="space-y-4">

@@ -156,8 +156,7 @@ export default function DumpstersForConstructionProjectsPage() {
                 Why Contractors Choose 904 Dumpster
               </h2>
               <p className="text-gray-600 text-lg mb-6">
-                We know that on a construction site, time is money. Our dumpsters are delivered on
-                schedule, our weight limits handle heavy construction debris, and our flexible
+                On a construction site, time is money. Our <Link href="/" className="text-primary hover:underline">Jacksonville dumpster rental</Link> service delivers on schedule, our weight limits handle heavy construction debris, and our flexible
                 rental periods work with your project timeline.
               </p>
               <ul className="space-y-4">

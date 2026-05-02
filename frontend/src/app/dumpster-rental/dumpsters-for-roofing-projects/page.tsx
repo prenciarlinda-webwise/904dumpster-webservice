@@ -94,7 +94,7 @@ export default function DumpstersForRoofingProjectsPage() {
               <span className="text-primary">Jacksonville, FL</span>
             </h1>
             <p className="text-xl text-white/70 mb-8">
-              The right dumpster makes your roofing project easier. Our 15-yard dumpsters are the
+              The right <Link href="/" className="text-white underline decoration-primary/60 hover:decoration-primary">dumpster rental in Jacksonville</Link> makes your roofing project easier. Our 15-yard dumpsters are the
               most popular choice for residential roof replacements, handling shingles, underlayment,
               and debris with ease. Same-day delivery available.
             </p>

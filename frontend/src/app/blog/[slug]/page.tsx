@@ -724,7 +724,7 @@ export default async function BlogPostPage({
               <div className="lg:sticky lg:top-24 space-y-6">
                 {/* Book Online CTA - Primary */}
                 <div className="bg-primary rounded-2xl p-6 text-white">
-                  <h3 className="text-xl font-bold text-white mb-3">Book Online Now</h3>
+                  <p className="text-xl font-bold text-white mb-3">Book Online Now</p>
                   <p className="text-white/80 text-sm mb-4">
                     Dumpster rentals from $299. Junk removal also available. Same-day delivery.
                   </p>
@@ -750,7 +750,7 @@ export default async function BlogPostPage({
 
                 {/* Our Services Quick Links */}
                 <div className="bg-gray-50 rounded-2xl p-6">
-                  <h3 className="text-lg font-bold text-secondary mb-4">Our Services</h3>
+                  <p className="text-lg font-bold text-secondary mb-4">Our Services</p>
                   <div className="space-y-3">
                     <Link
                       href="/10-yard-dumpster-rental"
@@ -790,7 +790,7 @@ export default async function BlogPostPage({
                 {/* Recent Posts */}
                 {recentPosts.length > 0 && (
                   <div className="bg-gray-50 rounded-2xl p-6">
-                    <h3 className="text-lg font-bold text-secondary mb-4">Recent Articles</h3>
+                    <p className="text-lg font-bold text-secondary mb-4">Recent Articles</p>
                     <div className="space-y-4">
                       {recentPosts.map((recentPost) => (
                         <Link
@@ -799,9 +799,9 @@ export default async function BlogPostPage({
                           className="block group"
                           title={recentPost.title}
                         >
-                          <h4 className="font-semibold text-secondary group-hover:text-primary transition-colors mb-1 text-sm">
+                          <span className="block font-semibold text-secondary group-hover:text-primary transition-colors mb-1 text-sm">
                             {recentPost.title}
-                          </h4>
+                          </span>
                           <span className="text-xs text-gray-500">{recentPost.readTime}</span>
                         </Link>
                       ))}

@@ -65,3 +65,4 @@ logs/
 
 # SEO keyword research CSV files
 *.csv
+info_non_local_non_branded.csv
