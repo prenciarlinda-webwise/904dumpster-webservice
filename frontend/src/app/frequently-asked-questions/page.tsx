@@ -5,11 +5,33 @@ import { BUSINESS } from '@/lib/constants'
 import { generateFAQSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Dumpster Rental FAQ | Jacksonville FL Questions & Answers',
+  title: 'Dumpster Rental FAQ - Jacksonville FL Questions Answered',
   description:
     'Frequently asked questions about dumpster rental in Jacksonville FL. Dumpster sizes, dimensions, pricing, what you can throw away, permits, delivery areas, and more.',
   alternates: {
     canonical: 'https://www.904dumpster.com/frequently-asked-questions',
+  },
+  openGraph: {
+    title: 'Dumpster Rental FAQ - 904 Dumpster Jacksonville FL',
+    description: 'Answers to common questions about dumpster sizing, pricing, permits, delivery, and what you can throw away.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/frequently-asked-questions',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: '904 Dumpster FAQ on dumpster rental in Jacksonville FL',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Dumpster Rental FAQ - 904 Dumpster',
+    description: 'Common questions on dumpster sizing, pricing, permits, and delivery in Jacksonville FL.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 

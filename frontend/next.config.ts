@@ -53,6 +53,17 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       // ========================================================================
+      // SLUG MIGRATIONS (localized service URLs - "/[service]-jacksonville-fl")
+      // ========================================================================
+      { source: '/construction-dumpster-rental', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/construction-dumpster-rental-jacksonville', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/residential-dumpster-rental', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/commercial-dumpster-rental', destination: '/commercial-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/concrete-disposal-dumpster', destination: '/concrete-disposal-dumpster-jacksonville-fl', permanent: true },
+      { source: '/junk-removal-jacksonville', destination: '/junk-removal-jacksonville-fl', permanent: true },
+      { source: '/demolition-services-jacksonville', destination: '/demolition-services-jacksonville-fl', permanent: true },
+
+      // ========================================================================
       // SITEMAP & WORDPRESS ARTIFACTS
       // ========================================================================
       { source: '/sitemap_index.xml', destination: '/sitemap.xml', permanent: true },
@@ -128,46 +139,46 @@ const nextConfig: NextConfig = {
       // ========================================================================
       // COMMERCIAL DUMPSTER
       // ========================================================================
-      { source: '/commercial-dumpster-rental-guide', destination: '/commercial-dumpster-rental', permanent: true },
-      { source: '/commercial-dumpster-rentals-jacksonville', destination: '/commercial-dumpster-rental', permanent: true },
+      { source: '/commercial-dumpster-rental-guide', destination: '/commercial-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/commercial-dumpster-rentals-jacksonville', destination: '/commercial-dumpster-rental-jacksonville-fl', permanent: true },
 
       // ========================================================================
       // CONSTRUCTION DUMPSTER
       // ========================================================================
-      { source: '/construction-dumpster-rental-your-ultimate-guide-to-hassle-free-cleanup', destination: '/construction-dumpster-rental', permanent: true },
-      { source: '/construction-dumpster-rental-fleming-island-fl', destination: '/construction-dumpster-rental', permanent: true },
-      { source: '/category/construction-cleanup-tips', destination: '/construction-dumpster-rental', permanent: true },
-      { source: '/tag/construction-dumpster-rental', destination: '/construction-dumpster-rental', permanent: true },
-      { source: '/post-construction-cleanup-checklist-what-to-do-before-returning-to-the-site', destination: '/construction-dumpster-rental', permanent: true },
+      { source: '/construction-dumpster-rental-your-ultimate-guide-to-hassle-free-cleanup', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/construction-dumpster-rental-fleming-island-fl', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/category/construction-cleanup-tips', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/tag/construction-dumpster-rental', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/post-construction-cleanup-checklist-what-to-do-before-returning-to-the-site', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
 
       // ========================================================================
       // RESIDENTIAL DUMPSTER
       // ========================================================================
-      { source: '/residential-dumpster-rentals-made-easy-a-complete-overview', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/residential-dumpster-rental-jacksonville-home-cleanup', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/residential-dumpster-rental-jacksonville', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/residential-dumpster-rental-guide', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/tag/residential-dumpster-rental', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/moving-cleanup-dumpster-jacksonville', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/tag/moving-cleanup-dumpster-jacksonville', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/jacksonville-spring-cleaning-dumpster', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/tag/jacksonville-spring-cleaning-with-a-dumpster', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/jacksonville-dumpster-rentals-storm-yard-cleanup', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/dumpster-rental/dumpsters-for-property-owners', destination: '/residential-dumpster-rental', permanent: true },
-      { source: '/dumpster-rental/dumpsters-for-home-cleanouts', destination: '/residential-dumpster-rental', permanent: true },
+      { source: '/residential-dumpster-rentals-made-easy-a-complete-overview', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/residential-dumpster-rental-jacksonville-home-cleanup', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/residential-dumpster-rental-jacksonville', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/residential-dumpster-rental-guide', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/tag/residential-dumpster-rental', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/moving-cleanup-dumpster-jacksonville', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/tag/moving-cleanup-dumpster-jacksonville', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/jacksonville-spring-cleaning-dumpster', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/tag/jacksonville-spring-cleaning-with-a-dumpster', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/jacksonville-dumpster-rentals-storm-yard-cleanup', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-property-owners', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-home-cleanouts', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
 
       // ========================================================================
       // JUNK REMOVAL
       // ========================================================================
-      { source: '/junk-removal', destination: '/junk-removal-jacksonville', permanent: true },
-      { source: '/reliable-junk-removal-services', destination: '/junk-removal-jacksonville', permanent: true },
-      { source: '/dumpster-vs-junk-removal-jacksonville', destination: '/junk-removal-jacksonville', permanent: true },
-      { source: '/tag/junk-removal-service', destination: '/junk-removal-jacksonville', permanent: true },
+      { source: '/junk-removal', destination: '/junk-removal-jacksonville-fl', permanent: true },
+      { source: '/reliable-junk-removal-services', destination: '/junk-removal-jacksonville-fl', permanent: true },
+      { source: '/dumpster-vs-junk-removal-jacksonville', destination: '/junk-removal-jacksonville-fl', permanent: true },
+      { source: '/tag/junk-removal-service', destination: '/junk-removal-jacksonville-fl', permanent: true },
 
       // ========================================================================
       // DEMOLITION
       // ========================================================================
-      { source: '/demolition-services', destination: '/demolition-services-jacksonville', permanent: true },
+      { source: '/demolition-services', destination: '/demolition-services-jacksonville-fl', permanent: true },
 
       // ========================================================================
       // PRICING
@@ -289,7 +300,6 @@ const nextConfig: NextConfig = {
   { source: '/services/20-yard-dumpster-rental-up-to-7-days', destination: '/20-yard-dumpster-rental', permanent: true },
   { source: '/services/15-yard-dumpster-rental-jacksonvile-fl', destination: '/15-yard-dumpster-rental', permanent: true },
   { source: '/locations-dumpster-rental-jacksonville-fl-1', destination: '/locations', permanent: true },
-  { source: '/residential-dumpster-rental-jacksonville-fl', destination: '/residential-dumpster-rental', permanent: true },
   { source: '/dumpster-rental-services', destination: '/', permanent: true },
   { source: '/understanding-roll-off-dumpster-sizes-for-jacksonville-projects', destination: '/dumpster-size-guide', permanent: true },
   { source: '/understanding-roll-off-dumpster-sizes-for-jacksonville-projects/', destination: '/dumpster-size-guide', permanent: true },
@@ -301,10 +311,10 @@ const nextConfig: NextConfig = {
   // ========================================================================
   { source: '/shop/feed', destination: '/', permanent: true },
   { source: '/cheap-dumpster-rental-smart-ways-to-save-on-waste-disposal/feed', destination: '/dumpster-rental-pricing-jacksonville', permanent: true },
-  { source: '/construction-dumpster-rental-your-ultimate-guide-to-hassle-free-cleanup/feed', destination: '/construction-dumpster-rental', permanent: true },
+  { source: '/construction-dumpster-rental-your-ultimate-guide-to-hassle-free-cleanup/feed', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
   { source: '/dumpster-rental-in-jacksonville-fl-what-you-need-to-know/feed', destination: '/', permanent: true },
   { source: '/affordable-dumpster-rental-in-jacksonville-fl-everything-you-need-to-know/feed', destination: '/dumpster-rental-pricing-jacksonville', permanent: true },
-  { source: '/residential-dumpster-rentals-made-easy-a-complete-overview/feed', destination: '/residential-dumpster-rental', permanent: true },
+  { source: '/residential-dumpster-rentals-made-easy-a-complete-overview/feed', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
   { source: '/how-to-prepare-for-dumpster-delivery-jacksonville', destination: '/frequently-asked-questions', permanent: true },
   { source: '/dumpster-rental-in-jacksonville-fl-guide', destination: '/', permanent: true },
 

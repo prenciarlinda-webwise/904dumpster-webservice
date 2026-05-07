@@ -10,6 +10,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.904dumpster.com/terms-of-service',
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  openGraph: {
+    title: 'Terms of Service - 904 Dumpster',
+    description: 'Rental agreement, policies, and conditions for 904 Dumpster services in Jacksonville FL.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/terms-of-service',
+    siteName: '904 Dumpster',
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Terms of Service - 904 Dumpster',
+    description: 'Rental agreement, policies, and conditions for 904 Dumpster services.',
+  },
 }
 
 export default function TermsOfServicePage() {

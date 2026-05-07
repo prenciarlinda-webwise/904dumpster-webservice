@@ -206,13 +206,18 @@ export default async function DynamicPage({
     }
 
     // Custom Junk Removal Page
-    if (slug === 'junk-removal-jacksonville') {
+    if (slug === 'junk-removal-jacksonville-fl') {
       return <JunkRemovalPage service={service} />
     }
 
     // Custom Demolition Services Page
-    if (slug === 'demolition-services-jacksonville') {
+    if (slug === 'demolition-services-jacksonville-fl') {
       return <DemolitionServicesPage />
+    }
+
+    // Custom Construction Dumpster Rental Page
+    if (slug === 'construction-dumpster-rental-jacksonville-fl') {
+      return <ConstructionDumpsterPage service={service} />
     }
 
     // For other custom pages, render a basic template for now
@@ -680,7 +685,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro Tip:</strong> After delivering thousands of 10 yard dumpsters across Jacksonville, we find that most garage cleanouts fill about 60-70% of the container. If you think your project is borderline between a 10 and 15 yard, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>,we can help you choose the right size and avoid paying for capacity you don&apos;t need. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link> where we do all the heavy lifting.
+                <strong className="text-secondary">Pro Tip:</strong> After delivering thousands of 10 yard dumpsters across Jacksonville, we find that most garage cleanouts fill about 60-70% of the container. If you think your project is borderline between a 10 and 15 yard, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a>,we can help you choose the right size and avoid paying for capacity you don&apos;t need. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville-fl" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link> where we do all the heavy lifting.
               </p>
             </div>
           </div>
@@ -728,7 +733,7 @@ function DumpsterSizePage({
               <div className="bg-white rounded-2xl p-8 shadow-sm">
                 <h3 className="text-xl font-bold text-secondary mb-4">Estate Cleanouts &amp; Moving</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  When cleaning out 1-2 rooms of an estate or preparing a home for sale, the 10 yard dumpster provides enough capacity without overwhelming the driveway. It is particularly popular with <Link href="/residential-dumpster-rental" className="text-primary hover:underline" title="Residential Dumpster Rental">residential customers</Link> in Mandarin and San Marco who need to clear furniture, clothing, and household items from a few rooms. For whole-house estate cleanouts, our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> is a better value.
+                  When cleaning out 1-2 rooms of an estate or preparing a home for sale, the 10 yard dumpster provides enough capacity without overwhelming the driveway. It is particularly popular with <Link href="/residential-dumpster-rental-jacksonville-fl" className="text-primary hover:underline" title="Residential Dumpster Rental">residential customers</Link> in Mandarin and San Marco who need to clear furniture, clothing, and household items from a few rooms. For whole-house estate cleanouts, our <Link href="/20-yard-dumpster-rental" className="text-primary hover:underline" title="20 Yard Dumpster Rental">20 yard dumpster</Link> is a better value.
                 </p>
               </div>
             </div>
@@ -1080,7 +1085,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro tip for heavy loads:</strong> The 20 yard dumpster has a 2-ton (4,000 lb) weight limit. Construction debris like drywall and lumber is relatively light by volume,you can typically fill the entire container without exceeding the weight limit. However, if you are disposing of concrete, brick, stone, or dirt, these materials weigh significantly more per cubic yard. For heavy debris projects, consider our <Link href="/concrete-disposal-dumpster" className="text-primary hover:underline" title="Concrete Disposal Dumpster">concrete disposal dumpster</Link> or call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss the best approach.
+                <strong className="text-secondary">Pro tip for heavy loads:</strong> The 20 yard dumpster has a 2-ton (4,000 lb) weight limit. Construction debris like drywall and lumber is relatively light by volume,you can typically fill the entire container without exceeding the weight limit. However, if you are disposing of concrete, brick, stone, or dirt, these materials weigh significantly more per cubic yard. For heavy debris projects, consider our <Link href="/concrete-disposal-dumpster-jacksonville-fl" className="text-primary hover:underline" title="Concrete Disposal Dumpster">concrete disposal dumpster</Link> or call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss the best approach.
               </p>
             </div>
           </div>
@@ -1145,7 +1150,7 @@ function DumpsterSizePage({
                   Tearing down a large deck, removing a shed, demolishing interior walls, or gutting a garage generates heavy, bulky debris that smaller dumpsters cannot handle efficiently. The 20 yard&apos;s 5.8-foot walls accommodate long lumber, plywood sheets, and stacked drywall without overflowing.
                 </p>
                 <p className="text-gray-600">
-                  For full structural demolition projects, the <Link href="/demolition-services-jacksonville" className="text-primary hover:underline" title="Demolition Services Jacksonville">demolition services team</Link> can handle the teardown and haul-away, or you can rent the dumpster and manage the demo yourself.
+                  For full structural demolition projects, the <Link href="/demolition-services-jacksonville-fl" className="text-primary hover:underline" title="Demolition Services Jacksonville">demolition services team</Link> can handle the teardown and haul-away, or you can rent the dumpster and manage the demo yourself.
                 </p>
               </div>
 
@@ -1509,7 +1514,7 @@ function DumpsterSizePage({
 
             <div className="bg-primary/5 border border-primary/20 rounded-2xl p-6">
               <p className="text-gray-700">
-                <strong className="text-secondary">Pro Tip:</strong> For roofing projects, shingles are deceptively heavy,one &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs. A 15 yard dumpster holds 25-30 squares within the 1.5-ton weight limit. If you have architectural shingles or a roof larger than 3,000 sq ft, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss whether you&apos;ll need a weight limit adjustment. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link>.
+                <strong className="text-secondary">Pro Tip:</strong> For roofing projects, shingles are deceptively heavy,one &quot;square&quot; (100 sq ft) of three-tab shingles weighs approximately 250 lbs. A 15 yard dumpster holds 25-30 squares within the 1.5-ton weight limit. If you have architectural shingles or a roof larger than 3,000 sq ft, call us at <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary font-semibold" title="Call 904 Dumpster">{BUSINESS.phone}</a> to discuss whether you&apos;ll need a weight limit adjustment. If you&apos;d rather not load it yourself, check out our <Link href="/junk-removal-jacksonville-fl" className="text-primary hover:underline" title="Junk Removal Jacksonville">junk removal service</Link>.
               </p>
             </div>
           </div>
@@ -2266,7 +2271,7 @@ function DumpsterSizePage({
             Helpful Resources
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <Link href="/residential-dumpster-rental" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Residential Dumpster Rental">
+            <Link href="/residential-dumpster-rental-jacksonville-fl" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Residential Dumpster Rental">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Residential Dumpster Rental</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Dumpsters for homeowners &amp; DIY projects</p>
             </Link>
@@ -2282,7 +2287,7 @@ function DumpsterSizePage({
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Pricing &amp; Booking</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">View all sizes and book online</p>
             </Link>
-            <Link href="/junk-removal-jacksonville" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Junk Removal Jacksonville">
+            <Link href="/junk-removal-jacksonville-fl" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Junk Removal Jacksonville">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Junk Removal</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">We do the heavy lifting for you</p>
             </Link>
@@ -2294,7 +2299,7 @@ function DumpsterSizePage({
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">All FAQs</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Answers to common questions</p>
             </Link>
-            <Link href="/concrete-disposal-dumpster" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Concrete Disposal Dumpster">
+            <Link href="/concrete-disposal-dumpster-jacksonville-fl" className="group bg-gray-50 rounded-xl p-6 hover:bg-primary hover:text-white transition-all" title="Concrete Disposal Dumpster">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Concrete Disposal</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Heavy debris &amp; concrete removal</p>
             </Link>
@@ -2785,7 +2790,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Permit Guide</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Jacksonville permit requirements</p>
             </Link>
-            <Link href="/residential-dumpster-rental" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all" title="Residential Dumpster Rental">
+            <Link href="/residential-dumpster-rental-jacksonville-fl" className="group bg-white rounded-xl p-6 hover:bg-primary transition-all" title="Residential Dumpster Rental">
               <h3 className="font-bold text-secondary group-hover:text-white mb-2">Residential Services</h3>
               <p className="text-sm text-gray-600 group-hover:text-white/80">Home cleanouts & renovations</p>
             </Link>
@@ -3083,7 +3088,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
             generateBreadcrumbSchema([
               { name: 'Home', url: 'https://www.904dumpster.com' },
               { name: 'Services', url: 'https://www.904dumpster.com' },
-              { name: 'Junk Removal Jacksonville', url: 'https://www.904dumpster.com/junk-removal-jacksonville' },
+              { name: 'Junk Removal Jacksonville', url: 'https://www.904dumpster.com/junk-removal-jacksonville-fl' },
             ])
           ),
         }}
@@ -3409,11 +3414,530 @@ function DemolitionServicesPage() {
             generateBreadcrumbSchema([
               { name: 'Home', url: 'https://www.904dumpster.com' },
               { name: 'Services', url: 'https://www.904dumpster.com' },
-              { name: 'Demolition Services', url: 'https://www.904dumpster.com/demolition-services-jacksonville' },
+              { name: 'Demolition Services', url: 'https://www.904dumpster.com/demolition-services-jacksonville-fl' },
             ])
           ),
         }}
       />
+    </div>
+  )
+}
+
+// Construction Dumpster Rental Page Component - localized for "construction dumpster rental jacksonville"
+function ConstructionDumpsterPage({ service }: { service: ServicePage }) {
+  const constructionSizes = [
+    {
+      size: '15 Yard',
+      slug: '/15-yard-dumpster-rental',
+      price: 349,
+      tons: 1.5,
+      best: 'Single-room remodels, kitchen tear-outs, and roofing tear-offs (25 to 30 squares of shingles).',
+    },
+    {
+      size: '20 Yard',
+      slug: '/20-yard-dumpster-rental',
+      price: 399,
+      tons: 2,
+      best: 'Whole-home renovations, framing debris, multi-trade builds, and large commercial buildouts.',
+    },
+    {
+      size: '10 Yard',
+      slug: '/10-yard-dumpster-rental',
+      price: 299,
+      tons: 1,
+      best: 'Small renovation jobs, concrete or brick punch-outs, and dense debris where weight matters more than volume.',
+    },
+  ]
+
+  return (
+    <div className="min-h-screen">
+      {/* Hero */}
+      <section className="relative py-20 lg:py-28 bg-secondary overflow-hidden">
+        <div className="absolute inset-0 opacity-10">
+          <div className="absolute top-10 right-10 w-40 h-40 border border-white rounded-full" />
+          <div className="absolute bottom-10 left-10 w-60 h-60 border border-white rounded-full" />
+        </div>
+
+        <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
+          <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
+            <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+            <span>/</span>
+            <span className="text-white">Construction Dumpster Rental</span>
+          </nav>
+
+          <div className="grid lg:grid-cols-2 gap-12 items-start">
+            <div>
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-3">
+                Construction Dumpster Rental{' '}
+                <span className="text-primary">Jacksonville</span>
+              </h1>
+              <p className="text-sm text-white/50 uppercase tracking-wider mb-6">
+                Job-site roll-offs &bull; from $349 &bull; same-day delivery
+              </p>
+              <p className="text-xl text-white/70 mb-8 leading-relaxed">
+                Heavy-duty 10, 15, and 20-yard roll-offs for Jacksonville job sites, renovations, and roofing tear-offs. Same-day delivery, contractor pricing on multiple containers, and on-call swap-outs that keep your crew working.
+              </p>
+              <div className="flex flex-col sm:flex-row gap-4">
+                <a
+                  href="https://app.icans.ai/customer-portal/904dumpster/book/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title="Book a Construction Dumpster Online"
+                  className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
+                >
+                  Book a Dumpster
+                  <ArrowRight className="w-5 h-5" />
+                </a>
+                <a
+                  href={`tel:${BUSINESS.phoneRaw}`}
+                  title="Call 904 Dumpster"
+                  className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
+                >
+                  <Phone className="w-5 h-5" />
+                  Contractor Pricing: {BUSINESS.phone}
+                </a>
+              </div>
+            </div>
+
+            {/* Trust card */}
+            <div className="bg-white rounded-3xl p-8 shadow-2xl">
+              <div className="text-sm font-bold text-primary uppercase tracking-wider mb-4">
+                Why Contractors Pick 904 Dumpster
+              </div>
+              <ul className="space-y-3 text-gray-700">
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+                  <span><strong>$349 to $399 flat rate</strong> with delivery, pickup, and disposal included. National averages run $400 to $750.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+                  <span><strong>Contractor volume pricing</strong> on 3 or more containers per month, with net-30 billing on active accounts.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+                  <span><strong>Same-day swap-outs</strong>. The team hauls a full container and drops a fresh empty the same day.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+                  <span><strong>Locally owned since 2016</strong>. Real dispatch in Jacksonville, not a national broker call center.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
+                  <span><strong>Driveway protection boards</strong> on every drop, every time, at no extra cost.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* AEO answer paragraph */}
+      <section className="py-16 bg-white">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6">
+          <h2 className="text-2xl md:text-3xl font-black text-secondary mb-4">
+            How Much Is a Construction Dumpster in Jacksonville?
+          </h2>
+          <p className="text-gray-700 text-lg leading-relaxed mb-4">
+            A construction dumpster from 904 Dumpster starts at <strong>$349</strong> for the 15-yard and <strong>$399</strong> for the 20-yard, all-inclusive of delivery, pickup, 5 days on site, and 1.5 to 2 tons of disposal at Trail Ridge Landfill. Contractor pricing applies once you run 3 or more containers per month.
+          </p>
+          <p className="text-gray-700 text-lg leading-relaxed">
+            For comparison, national waste guides put the average construction roll-off in the U.S. at $400 to $750 per haul, and brokers operating in the Jacksonville market often start near $400 before adding fuel surcharges, environmental fees, and per-ton overage. The 904 Dumpster flat rate is the total. No add-ons, no broker markup, and no surprise invoice the week after the project closes.
+          </p>
+        </div>
+      </section>
+
+      {/* Construction Dumpster Sizes */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="max-w-3xl mb-12">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-3">
+              Construction Dumpster Sizes
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Choosing the Right Size for the Job
+            </h2>
+            <p className="text-gray-600 text-lg">
+              Most Jacksonville construction projects pick the 15 or 20-yard. The 10-yard exists specifically for dense, heavy debris where weight (not volume) is the limiting factor.
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {constructionSizes.map((s) => (
+              <Link
+                key={s.size}
+                href={s.slug}
+                className="group block bg-white rounded-2xl p-6 border border-gray-200 hover:border-primary hover:shadow-lg transition-all"
+                title={`${s.size} Construction Dumpster`}
+              >
+                <div className="flex items-baseline justify-between mb-3">
+                  <span className="text-xl font-black text-secondary group-hover:text-primary transition-colors">{s.size}</span>
+                  <span className="text-2xl font-black text-primary">${s.price}</span>
+                </div>
+                <div className="text-sm text-gray-500 mb-3">{s.tons} ton{s.tons !== 1 ? 's' : ''} included &bull; 5-day rental</div>
+                <p className="text-gray-700 mb-4">{s.best}</p>
+                <span className="inline-flex items-center gap-1 text-sm font-bold text-primary group-hover:gap-2 transition-all">
+                  See full specs <ArrowRight className="w-4 h-4" />
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* What Goes In a Construction Dumpster */}
+      <section className="py-16 bg-white">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6">
+          <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
+            What Goes In a Construction Dumpster
+          </h2>
+          <p className="text-gray-700 text-lg leading-relaxed mb-8">
+            Construction roll-offs are built for mixed-debris loading. On a typical Jacksonville renovation, you can fill the same container with framing scraps from a kitchen demo on Monday, drywall and tile from rough-in on Wednesday, and roofing shingles on Friday. The list below covers what you can mix and what has to be routed elsewhere.
+          </p>
+
+          <div className="grid md:grid-cols-2 gap-6">
+            <div className="bg-green-50 rounded-2xl p-6">
+              <div className="flex items-center gap-2 text-green-800 font-bold mb-4">
+                <CheckCircle2 className="w-5 h-5" /> Accepted on the jobsite
+              </div>
+              <ul className="space-y-2 text-gray-700 text-base">
+                <li>Lumber, framing scraps, plywood, OSB</li>
+                <li>Drywall, plaster, joint compound</li>
+                <li>Flooring (tile, laminate, hardwood, vinyl, carpet)</li>
+                <li>Cabinets, countertops, vanities</li>
+                <li>Roofing shingles and underlayment</li>
+                <li>Brick, block, mortar, small concrete loads</li>
+                <li>Insulation, siding, soffit, fascia</li>
+                <li>General jobsite trash and packaging</li>
+              </ul>
+            </div>
+            <div className="bg-red-50 rounded-2xl p-6">
+              <div className="flex items-center gap-2 text-red-800 font-bold mb-4">
+                Prohibited (route elsewhere)
+              </div>
+              <ul className="space-y-2 text-gray-700 text-base">
+                <li>Wet paint (must be dried with kitty litter)</li>
+                <li>Solvents and other hazardous chemicals</li>
+                <li>Lead-acid and lithium batteries</li>
+                <li>Tires, full or shredded</li>
+                <li>Refrigerators, freezers, AC units (freon)</li>
+                <li>Electronics: TVs, computers, monitors</li>
+                <li>Asbestos and asbestos-suspect materials</li>
+                <li>Medical and biohazard waste</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Best Construction Dumpster Rental in Jacksonville - Local knowledge + Map */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 lg:px-6">
+          <div className="grid lg:grid-cols-2 gap-12 items-start">
+            <div>
+              <h3 className="text-2xl md:text-3xl font-black text-secondary mb-6">
+                Best Construction Dumpster Rental in Jacksonville
+              </h3>
+              <p className="text-gray-700 text-lg leading-relaxed mb-4">
+                Jacksonville runs one of the busiest construction markets in the Southeast. New residential growth in St. Johns County and Nocatee, commercial buildouts along Southside and the I-295 beltway, and steady reroofing demand across Duval County all generate a heavy stream of jobsite debris. The{' '}
+                <a
+                  href="https://www.coj.net/"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  className="text-primary hover:underline"
+                  title="City of Jacksonville"
+                >
+                  City of Jacksonville
+                </a>{' '}
+                issues thousands of building permits each year through its Development Services Department, and most of that debris is routed to Trail Ridge Landfill, the city-licensed disposal facility off New World Avenue.
+              </p>
+              <p className="text-gray-700 text-lg leading-relaxed mb-4">
+                The{' '}
+                <a
+                  href="https://www.floridabuilding.org/"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  className="text-primary hover:underline"
+                  title="Florida Building Code"
+                >
+                  Florida Building Code
+                </a>{' '}
+                and OSHA jobsite standards both require waste be contained and removed regularly, which is where a properly sized roll-off pays for itself: one $349 to $399 container replaces three to seven landfill trips, plus the time and fuel to make them. 904 Dumpster has delivered construction roll-offs across Duval, St. Johns, Clay, and Nassau counties since 2016, working with general contractors, roofers, and remodelers who need on-time drops, same-day swap-outs, and a flat invoice with no broker markup.
+              </p>
+              <p className="text-gray-700 text-lg leading-relaxed">
+                For long-running jobsites, ask about recurring delivery, dedicated dispatch, and net-30 billing. For one-off renovations, the same flat-rate pricing and same-day delivery apply without any contractor account setup.
+              </p>
+            </div>
+
+            <div className="bg-white rounded-3xl overflow-hidden shadow-lg h-[500px] lg:h-[600px]">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d882378.2701757269!2d-82.33537777880585!3d30.243061145835284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db642a87e4a74b%3A0x1adfa8130de0c999!2s904%20Dumpster%20-%20Dumpster%20Rental%20Jacksonville!5e0!3m2!1sen!2s!4v1766570595183!5m2!1sen!2s"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="904 Dumpster - Construction Dumpster Rental Service Area in Jacksonville FL"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      {service.faqs && service.faqs.length > 0 && (
+        <section className="py-16 lg:py-20 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-12">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-3">
+                Common Questions
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                Construction Dumpster Rental FAQ
+              </h2>
+            </div>
+
+            <div className="space-y-4">
+              {service.faqs.map((faq, i) => (
+                <details
+                  key={i}
+                  className="group bg-gray-50 rounded-2xl p-6 border border-gray-100"
+                >
+                  <summary className="cursor-pointer list-none flex items-center justify-between gap-4">
+                    <h3 className="font-bold text-secondary text-lg">{faq.question}</h3>
+                    <span className="flex-shrink-0 w-6 h-6 rounded-full bg-white border border-gray-200 flex items-center justify-center text-primary text-xl group-open:rotate-45 transition-transform">+</span>
+                  </summary>
+                  <p className="mt-4 text-gray-600 leading-relaxed">{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+
+            <div className="text-center mt-10">
+              <p className="text-gray-500 mb-4">Still planning the project?</p>
+              <a
+                href={`tel:${BUSINESS.phoneRaw}`}
+                className="inline-flex items-center gap-2 text-secondary font-bold"
+                title="Call 904 Dumpster for contractor pricing"
+              >
+                <Phone className="w-4 h-4" />
+                Call us for sizing or contractor pricing: {BUSINESS.phone}
+              </a>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Final CTA */}
+      <section className="py-16 lg:py-20 bg-primary text-white">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">
+          <p className="text-3xl md:text-4xl font-black mb-4">
+            Need a Construction Dumpster in Jacksonville This Week?
+          </p>
+          <p className="text-white/80 text-lg mb-8 max-w-2xl mx-auto">
+            Same-day delivery is available across Duval, St. Johns, Clay, and Nassau counties when you book before noon.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <a
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Book a Construction Dumpster Online"
+              className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
+            >
+              Book Online
+              <ArrowRight className="w-5 h-5" />
+            </a>
+            <a
+              href={`tel:${BUSINESS.phoneRaw}`}
+              title="Call 904 Dumpster"
+              className="inline-flex items-center justify-center gap-2 bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-xl hover:bg-white hover:text-primary transition-all"
+            >
+              <Phone className="w-5 h-5" />
+              {BUSINESS.phone}
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Schemas */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Service',
+            '@id': 'https://www.904dumpster.com/construction-dumpster-rental-jacksonville-fl#service',
+            name: 'Construction Dumpster Rental Jacksonville',
+            description: service.description,
+            url: 'https://www.904dumpster.com/construction-dumpster-rental-jacksonville-fl',
+            serviceType: 'Construction Dumpster Rental',
+            category: 'Roll-Off Dumpster Rental',
+            provider: {
+              '@type': 'LocalBusiness',
+              '@id': 'https://www.904dumpster.com/#localbusiness',
+              name: BUSINESS.name,
+              telephone: BUSINESS.phoneE164,
+              url: 'https://www.904dumpster.com',
+            },
+            audience: [
+              { '@type': 'Audience', audienceType: 'General Contractor' },
+              { '@type': 'Audience', audienceType: 'Roofer' },
+              { '@type': 'Audience', audienceType: 'Remodeler' },
+              { '@type': 'Audience', audienceType: 'Homeowner' },
+            ],
+            knowsAbout: [
+              'Construction dumpster rental Jacksonville',
+              'Roll-off dumpster rental Jacksonville FL',
+              'Construction debris removal Northeast Florida',
+              'Contractor dumpster pricing',
+              'Roofing dumpster rental Jacksonville',
+              'Job site dumpster service',
+              'Same-day construction dumpster delivery',
+              'Construction dumpster sizes (10, 15, 20 yard)',
+              'Trail Ridge Landfill construction debris disposal',
+            ],
+            areaServed: [
+              {
+                '@type': 'City',
+                name: 'Jacksonville',
+                '@id': 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'St. Augustine',
+                '@id': 'https://en.wikipedia.org/wiki/St._Augustine,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Orange Park',
+                '@id': 'https://en.wikipedia.org/wiki/Orange_Park,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Ponte Vedra Beach',
+                '@id': 'https://en.wikipedia.org/wiki/Ponte_Vedra_Beach,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Jacksonville Beach',
+                '@id': 'https://en.wikipedia.org/wiki/Jacksonville_Beach,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Atlantic Beach',
+                '@id': 'https://en.wikipedia.org/wiki/Atlantic_Beach,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Neptune Beach',
+                '@id': 'https://en.wikipedia.org/wiki/Neptune_Beach,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Middleburg',
+                '@id': 'https://en.wikipedia.org/wiki/Middleburg,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Fleming Island',
+                '@id': 'https://en.wikipedia.org/wiki/Fleming_Island,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Green Cove Springs',
+                '@id': 'https://en.wikipedia.org/wiki/Green_Cove_Springs,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'City',
+                name: 'Fernandina Beach',
+                '@id': 'https://en.wikipedia.org/wiki/Fernandina_Beach,_Florida',
+                containedInPlace: { '@type': 'State', name: 'Florida' },
+              },
+              {
+                '@type': 'AdministrativeArea',
+                name: 'Duval County, Florida',
+                '@id': 'https://en.wikipedia.org/wiki/Duval_County,_Florida',
+              },
+              {
+                '@type': 'AdministrativeArea',
+                name: 'St. Johns County, Florida',
+                '@id': 'https://en.wikipedia.org/wiki/St._Johns_County,_Florida',
+              },
+              {
+                '@type': 'AdministrativeArea',
+                name: 'Clay County, Florida',
+                '@id': 'https://en.wikipedia.org/wiki/Clay_County,_Florida',
+              },
+              {
+                '@type': 'AdministrativeArea',
+                name: 'Nassau County, Florida',
+                '@id': 'https://en.wikipedia.org/wiki/Nassau_County,_Florida',
+              },
+            ],
+            aggregateRating: {
+              '@type': 'AggregateRating',
+              ratingValue: REVIEWS.rating,
+              reviewCount: REVIEWS.count,
+              bestRating: REVIEWS.bestRating,
+              worstRating: REVIEWS.worstRating,
+            },
+            hasOfferCatalog: {
+              '@type': 'OfferCatalog',
+              name: 'Construction Dumpster Sizes',
+              itemListElement: [
+                {
+                  '@type': 'Offer',
+                  itemOffered: { '@type': 'Service', name: '15 Yard Construction Dumpster', url: 'https://www.904dumpster.com/15-yard-dumpster-rental' },
+                  price: '349',
+                  priceCurrency: 'USD',
+                },
+                {
+                  '@type': 'Offer',
+                  itemOffered: { '@type': 'Service', name: '20 Yard Construction Dumpster', url: 'https://www.904dumpster.com/20-yard-dumpster-rental' },
+                  price: '399',
+                  priceCurrency: 'USD',
+                },
+                {
+                  '@type': 'Offer',
+                  itemOffered: { '@type': 'Service', name: '10 Yard Construction Dumpster', url: 'https://www.904dumpster.com/10-yard-dumpster-rental' },
+                  price: '299',
+                  priceCurrency: 'USD',
+                },
+              ],
+            },
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            generateBreadcrumbSchema([
+              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Services', url: 'https://www.904dumpster.com' },
+              { name: 'Construction Dumpster Rental', url: 'https://www.904dumpster.com/construction-dumpster-rental-jacksonville-fl' },
+            ])
+          ),
+        }}
+      />
+      {service.faqs && service.faqs.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(generateFAQSchema(service.faqs)),
+          }}
+        />
+      )}
     </div>
   )
 }

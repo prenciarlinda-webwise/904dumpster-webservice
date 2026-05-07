@@ -26,7 +26,22 @@ export const metadata: Metadata = {
       'Construction dumpster rental in Jacksonville FL. Heavy-duty roll-off containers for job sites.',
     type: 'website',
     url: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-construction-projects',
-    siteName: '904 Dumpster - Dumpster Rental Jacksonville',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Construction dumpster rental in Jacksonville FL for job sites and renovations',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Construction Dumpster Rental Jacksonville FL',
+    description: 'Heavy-duty roll-off containers for job sites, renovations, and new builds in Jacksonville FL.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 
@@ -55,7 +70,7 @@ const idealFor = [
 const relatedServices = [
   {
     title: 'Construction Dumpster Rental',
-    href: '/construction-dumpster-rental',
+    href: '/construction-dumpster-rental-jacksonville-fl',
     description: 'Full details on our construction services',
   },
   {
@@ -65,7 +80,7 @@ const relatedServices = [
   },
   {
     title: 'Demolition Services',
-    href: '/demolition-services-jacksonville',
+    href: '/demolition-services-jacksonville-fl',
     description: 'Professional demolition with debris removal',
   },
 ]
@@ -109,7 +124,7 @@ export default function DumpstersForConstructionProjectsPage() {
                 <ArrowRight className="w-5 h-5" />
               </a>
               <Link
-                href="/construction-dumpster-rental"
+                href="/construction-dumpster-rental-jacksonville-fl"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
                 Construction Services

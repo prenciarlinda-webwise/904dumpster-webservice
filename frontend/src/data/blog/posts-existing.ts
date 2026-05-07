@@ -406,7 +406,7 @@ While many homeowners successfully complete cleanouts themselves, some situation
 - **Time-sensitive sales** that need quick turnaround
 - **Physical limitations** that prevent heavy lifting
 
-For projects where you need hands-on help, our [junk removal service](/junk-removal-jacksonville) handles all the heavy lifting for you. We also offer full [demolition services](/demolition-services-jacksonville) if structural removal is part of your cleanout.
+For projects where you need hands-on help, our [junk removal service](/junk-removal-jacksonville-fl) handles all the heavy lifting for you. We also offer full [demolition services](/demolition-services-jacksonville-fl) if structural removal is part of your cleanout.
 
 ## Frequently Asked Questions
 
@@ -517,7 +517,7 @@ Different countertop materials have different disposal requirements:
 - **Granite/Quartz**: Heavy but disposable in dumpster (watch weight limits)
 - **Solid surface (Corian)**: Can be recycled by some facilities
 
-For granite and stone countertop disposal, our [concrete disposal dumpster](/concrete-disposal-dumpster) is rated for heavy materials.
+For granite and stone countertop disposal, our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) is rated for heavy materials.
 
 ### Cabinets
 
@@ -725,7 +725,7 @@ The 15-yard and 20-yard dumpsters share the same 14' x 7.5' footprint. The 20-ya
 
 ### Can I put heavy materials like concrete in a dumpster?
 
-Yes, but be careful with weight limits. Concrete weighs approximately 150 lbs per cubic foot and can exceed weight limits quickly. For [concrete-only loads](/concrete-disposal-dumpster), call us at (904) 240-5598 for heavy debris pricing.
+Yes, but be careful with weight limits. Concrete weighs approximately 150 lbs per cubic foot and can exceed weight limits quickly. For [concrete-only loads](/concrete-disposal-dumpster-jacksonville-fl), call us at (904) 240-5598 for heavy debris pricing.
 
 ## When to Call Us
 
@@ -892,7 +892,7 @@ Yes, mattresses are accepted in all 904 Dumpster roll-off containers. Place them
 
 ### Can I put concrete or brick in a dumpster?
 
-Yes, but be mindful of weight limits. Concrete weighs approximately 150 lbs per cubic foot. A [10-yard dumpster](/10-yard-dumpster-rental) loaded with concrete can quickly exceed the 1-ton weight limit. For concrete-only loads, we offer a [concrete disposal dumpster](/concrete-disposal-dumpster) with appropriate weight allowances.
+Yes, but be mindful of weight limits. Concrete weighs approximately 150 lbs per cubic foot. A [10-yard dumpster](/10-yard-dumpster-rental) loaded with concrete can quickly exceed the 1-ton weight limit. For concrete-only loads, we offer a [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) with appropriate weight allowances.
 
 ### What happens if prohibited items are found in my dumpster?
 
@@ -1094,7 +1094,7 @@ Before your project, review our guide on [what items cannot go in a dumpster](/b
 
 Demolition debris in Jacksonville requires a [15-yard](/15-yard-dumpster-rental) ($349) or [20-yard dumpster](/20-yard-dumpster-rental) ($399), depending on the project scope. Interior demo (gutting rooms, removing walls) typically fits in a 15-yard, while exterior demo (decks, sheds, structural teardown) needs a 20-yard or multiple containers. Heavy materials like concrete and brick must be separated from general debris to manage weight limits. Jacksonville requires a demolition permit for any structure over 120 square feet.
 
-904 Dumpster has supported [demolition projects](/demolition-services-jacksonville) across Northeast Florida since 2016, from single-room gut jobs to full structure teardowns. Here is how to handle debris disposal properly.
+904 Dumpster has supported [demolition projects](/demolition-services-jacksonville-fl) across Northeast Florida since 2016, from single-room gut jobs to full structure teardowns. Here is how to handle debris disposal properly.
 
 ## Types of Demolition Debris
 
@@ -1138,7 +1138,7 @@ For decks, sheds, or outbuildings:
 For complete building demolition:
 - **Multiple [20-yard dumpsters](/20-yard-dumpster-rental)**: Scheduled swap-outs
 - **Heavy debris dumpster**: Separate container for concrete/masonry
-- Consider 904 Dumpster's full [demolition services](/demolition-services-jacksonville)
+- Consider 904 Dumpster's full [demolition services](/demolition-services-jacksonville-fl)
 
 Not sure which size? Check our [complete dumpster size guide](/blog/how-to-choose-right-dumpster-size) for detailed comparisons.
 
@@ -1215,13 +1215,13 @@ Demolition sites must prevent sediment runoff:
 | Deck removal (250+ sq ft) | [15-Yard](/15-yard-dumpster-rental) | $349 | Pressure-treated wood accepted |
 | Shed or outbuilding | [20-Yard](/20-yard-dumpster-rental) | $399 | Handles structural lumber |
 | Full structure demo | Multiple [20-Yard](/20-yard-dumpster-rental) | $399 each | Schedule swap-outs |
-| Concrete/masonry only | [Concrete Dumpster](/concrete-disposal-dumpster) | Call | Heavy debris pricing |
+| Concrete/masonry only | [Concrete Dumpster](/concrete-disposal-dumpster-jacksonville-fl) | Call | Heavy debris pricing |
 
 ## Frequently Asked Questions
 
 ### What size dumpster do I need for a demolition project?
 
-For interior [demolition](/demolition-services-jacksonville) (gutting one room), a [15-yard dumpster](/15-yard-dumpster-rental) ($349) is typically sufficient. For exterior demolition (decks, sheds, multiple rooms), a [20-yard dumpster](/20-yard-dumpster-rental) ($399) provides the volume needed for bulky structural debris. Full structure demolitions require multiple containers with scheduled swap-outs.
+For interior [demolition](/demolition-services-jacksonville-fl) (gutting one room), a [15-yard dumpster](/15-yard-dumpster-rental) ($349) is typically sufficient. For exterior demolition (decks, sheds, multiple rooms), a [20-yard dumpster](/20-yard-dumpster-rental) ($399) provides the volume needed for bulky structural debris. Full structure demolitions require multiple containers with scheduled swap-outs.
 
 ### Do I need a permit for demolition in Jacksonville?
 
@@ -1229,15 +1229,15 @@ Yes, Jacksonville/Duval County requires a demolition permit for any structure ov
 
 ### Can I put concrete and brick in a regular dumpster?
 
-Yes, but concrete and brick are extremely heavy (approximately 150 lbs per cubic foot). Keep heavy materials separate from general debris when possible, and be mindful of weight limits. For concrete-only loads like driveway or patio demolition, our [concrete disposal dumpster](/concrete-disposal-dumpster) offers appropriate weight allowances.
+Yes, but concrete and brick are extremely heavy (approximately 150 lbs per cubic foot). Keep heavy materials separate from general debris when possible, and be mindful of weight limits. For concrete-only loads like driveway or patio demolition, our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) offers appropriate weight allowances.
 
 ### Does 904 Dumpster offer full demolition services?
 
-Yes, our [demolition services](/demolition-services-jacksonville) team handles commercial, residential, and interior demolition throughout Jacksonville. We manage the entire process, from permits to debris hauling. Call (904) 240-5598 for a free demolition estimate.
+Yes, our [demolition services](/demolition-services-jacksonville-fl) team handles commercial, residential, and interior demolition throughout Jacksonville. We manage the entire process, from permits to debris hauling. Call (904) 240-5598 for a free demolition estimate.
 
 ## Working with 904 Dumpster on Demolition Projects
 
-We support demolition projects throughout Jacksonville with flexible scheduling, heavy debris containers, full [demolition services](/demolition-services-jacksonville), and [permit guidance](/blog/jacksonville-dumpster-permit-guide).
+We support demolition projects throughout Jacksonville with flexible scheduling, heavy debris containers, full [demolition services](/demolition-services-jacksonville-fl), and [permit guidance](/blog/jacksonville-dumpster-permit-guide).
 
 We serve all of Northeast Florida including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl).
 

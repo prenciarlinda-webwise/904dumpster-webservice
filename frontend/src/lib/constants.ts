@@ -50,9 +50,9 @@ export const REVIEWS = {
 
 // Column A: Services (Main offerings)
 export const SERVICES_MAIN = [
-  { label: 'Dumpster Rental', href: '/residential-dumpster-rental', description: 'Roll-off containers for any project' },
-  { label: 'Junk Removal', href: '/junk-removal-jacksonville', description: 'We do all the heavy lifting' },
-  { label: 'Demolition Services', href: '/demolition-services-jacksonville', description: 'Professional demo services' },
+  { label: 'Dumpster Rental', href: '/residential-dumpster-rental-jacksonville-fl', description: 'Roll-off containers for any project' },
+  { label: 'Junk Removal', href: '/junk-removal-jacksonville-fl', description: 'We do all the heavy lifting' },
+  { label: 'Demolition Services', href: '/demolition-services-jacksonville-fl', description: 'Professional demo services' },
 ] as const
 
 // Column B: Dumpster Sizes
@@ -65,10 +65,10 @@ export const SERVICES_BY_SIZE = [
 
 // Column C: Appropriate For (Use cases)
 export const SERVICES_APPROPRIATE_FOR = [
-  { label: 'Homeowners', href: '/residential-dumpster-rental', description: 'DIY projects & cleanouts' },
-  { label: 'Contractors', href: '/construction-dumpster-rental', description: 'Job site waste management' },
-  { label: 'Businesses', href: '/commercial-dumpster-rental', description: 'Commercial waste solutions' },
-  { label: 'Concrete & Heavy Debris', href: '/concrete-disposal-dumpster', description: 'Brick, stone & dirt removal' },
+  { label: 'Homeowners', href: '/residential-dumpster-rental-jacksonville-fl', description: 'DIY projects & cleanouts' },
+  { label: 'Contractors', href: '/construction-dumpster-rental-jacksonville-fl', description: 'Job site waste management' },
+  { label: 'Businesses', href: '/commercial-dumpster-rental-jacksonville-fl', description: 'Commercial waste solutions' },
+  { label: 'Concrete & Heavy Debris', href: '/concrete-disposal-dumpster-jacksonville-fl', description: 'Brick, stone & dirt removal' },
 ] as const
 
 // Legacy exports for backwards compatibility
@@ -81,25 +81,25 @@ export const SERVICES_BY_USER = SERVICES_APPROPRIATE_FOR
 
 // Jacksonville Core
 export const LOCATIONS_JAX_CORE = [
-  { label: 'Jacksonville', href: '/' },
-  { label: 'Jacksonville Beach', href: '/dumpster-rental-jacksonville-beach-fl' },
-  { label: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl' },
-  { label: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl' },
+  { label: 'Jacksonville, FL', href: '/' },
+  { label: 'Jacksonville Beach, FL', href: '/dumpster-rental-jacksonville-beach-fl' },
+  { label: 'Atlantic Beach, FL', href: '/dumpster-rental-atlantic-beach-fl' },
+  { label: 'Neptune Beach, FL', href: '/dumpster-rental-neptune-beach-fl' },
 ] as const
 
 // St. Johns & South
 export const LOCATIONS_ST_JOHNS = [
-  { label: 'St. Augustine', href: '/dumpster-rental-st-augustine-fl' },
-  { label: 'Ponte Vedra Beach', href: '/dumpster-rental-ponte-vedra-fl' },
+  { label: 'St. Augustine, FL', href: '/dumpster-rental-st-augustine-fl' },
+  { label: 'Ponte Vedra Beach, FL', href: '/dumpster-rental-ponte-vedra-fl' },
 ] as const
 
 // Clay & Nassau
 export const LOCATIONS_CLAY_NASSAU = [
-  { label: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
-  { label: 'Fleming Island', href: '/dumpster-rental-fleming-island-fl' },
-  { label: 'Green Cove Springs', href: '/dumpster-rental-green-cove-springs-fl' },
-  { label: 'Middleburg', href: '/dumpster-rental-middleburg-fl' },
-  { label: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl' },
+  { label: 'Orange Park, FL', href: '/dumpster-rental-orange-park-fl' },
+  { label: 'Fleming Island, FL', href: '/dumpster-rental-fleming-island-fl' },
+  { label: 'Green Cove Springs, FL', href: '/dumpster-rental-green-cove-springs-fl' },
+  { label: 'Middleburg, FL', href: '/dumpster-rental-middleburg-fl' },
+  { label: 'Fernandina Beach, FL', href: '/dumpster-rental-fernandina-beach-fl' },
 ] as const
 
 // =============================================================================
@@ -133,16 +133,16 @@ export const FOOTER_SERVICES = [
   { label: '10 Yard Dumpster', href: '/10-yard-dumpster-rental' },
   { label: '15 Yard Dumpster', href: '/15-yard-dumpster-rental' },
   { label: '20 Yard Dumpster', href: '/20-yard-dumpster-rental' },
-  { label: 'Junk Removal', href: '/junk-removal-jacksonville' },
-  { label: 'Demolition Services', href: '/demolition-services-jacksonville' },
+  { label: 'Junk Removal', href: '/junk-removal-jacksonville-fl' },
+  { label: 'Demolition Services', href: '/demolition-services-jacksonville-fl' },
 ] as const
 
 export const FOOTER_LOCATIONS = [
-  { label: 'Jacksonville', href: '/' },
-  { label: 'St. Augustine', href: '/dumpster-rental-st-augustine-fl' },
-  { label: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
-  { label: 'Ponte Vedra Beach', href: '/dumpster-rental-ponte-vedra-fl' },
-  { label: 'Jacksonville Beach', href: '/dumpster-rental-jacksonville-beach-fl' },
+  { label: 'Jacksonville, FL', href: '/' },
+  { label: 'St. Augustine, FL', href: '/dumpster-rental-st-augustine-fl' },
+  { label: 'Orange Park, FL', href: '/dumpster-rental-orange-park-fl' },
+  { label: 'Ponte Vedra Beach, FL', href: '/dumpster-rental-ponte-vedra-fl' },
+  { label: 'Jacksonville Beach, FL', href: '/dumpster-rental-jacksonville-beach-fl' },
 ] as const
 
 export const FOOTER_COMPANY = [

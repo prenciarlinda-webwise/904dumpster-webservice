@@ -31,7 +31,7 @@ Understanding what debris your porch project will generate helps you choose the 
 
 If you are converting an existing open patio or replacing an old screened porch, demolition is the first phase. Old concrete pads, cracked pavers, deteriorated wood framing, rusted aluminum frames, torn screening, damaged railings, and rotting deck boards all have to go. In older Jacksonville homes, especially in neighborhoods like Riverside, San Marco, and Murray Hill, existing porch structures may include multiple layers of materials added over the decades. You might find old lattice panels, layers of paint-covered trim, and outdated roofing materials underneath what is visible.
 
-Concrete removal from an existing patio slab creates some of the heaviest waste. If your project involves breaking up a concrete pad for new footings or a different layout, consider our [concrete disposal dumpster](/concrete-disposal-dumpster) option, which is designed specifically for heavy materials.
+Concrete removal from an existing patio slab creates some of the heaviest waste. If your project involves breaking up a concrete pad for new footings or a different layout, consider our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option, which is designed specifically for heavy materials.
 
 ### Packaging and New Material Waste
 
@@ -92,7 +92,7 @@ Older screen porches in Jacksonville often have aluminum frames that have corrod
 
 ### Adding a Screened Porch to a New Construction Home
 
-New construction porches generate less demolition waste but more packaging and material scraps. Builders in growing Jacksonville communities frequently use roll-off dumpsters for the duration of the build. Our [construction dumpster rental](/construction-dumpster-rental) service is set up for exactly this scenario with flexible rental periods and straightforward pricing.
+New construction porches generate less demolition waste but more packaging and material scraps. Builders in growing Jacksonville communities frequently use roll-off dumpsters for the duration of the build. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service is set up for exactly this scenario with flexible rental periods and straightforward pricing.
 
 ## Items That Cannot Go in the Dumpster
 
@@ -243,7 +243,7 @@ Roof work is loud. If you work from home, plan to work elsewhere or use noise-ca
 
 ### Arrange Waste Disposal Before Work Begins
 
-Your roofing contractor may provide their own dumpster, or they may ask you to arrange one. Either way, confirm the waste disposal plan before the first day of work. Having a [residential dumpster rental](/residential-dumpster-rental) or [construction dumpster rental](/construction-dumpster-rental) on-site from day one prevents debris from piling up on your lawn.
+Your roofing contractor may provide their own dumpster, or they may ask you to arrange one. Either way, confirm the waste disposal plan before the first day of work. Having a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) or [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) on-site from day one prevents debris from piling up on your lawn.
 
 ## Roofing Waste Disposal in Jacksonville
 
@@ -355,7 +355,7 @@ Hang plastic sheeting over doorways to contain dust, especially during tile remo
 
 ### Have the Dumpster Ready Before Work Starts
 
-The biggest waste management mistake in flooring projects is not having a disposal plan in place on day one. Flooring debris piles up fast. Within the first hour of tile removal, you can have hundreds of pounds of material that needs to go somewhere. Having a [residential dumpster rental](/residential-dumpster-rental) in your driveway before the first tile is pulled saves time and keeps the work area clear.
+The biggest waste management mistake in flooring projects is not having a disposal plan in place on day one. Flooring debris piles up fast. Within the first hour of tile removal, you can have hundreds of pounds of material that needs to go somewhere. Having a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) in your driveway before the first tile is pulled saves time and keeps the work area clear.
 
 ### Know What Is Under the Floor
 
@@ -515,7 +515,7 @@ Schedule dumpster delivery for the day demolition begins. Code correction projec
 
 ### Plan for Multiple Loads If Necessary
 
-Large violation correction projects may require more than one dumpster load, especially if the project involves heavy materials like concrete or tile combined with lighter construction debris. Our [construction dumpster rental](/construction-dumpster-rental) service is designed for exactly these types of multi-phase projects.
+Large violation correction projects may require more than one dumpster load, especially if the project involves heavy materials like concrete or tile combined with lighter construction debris. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service is designed for exactly these types of multi-phase projects.
 
 ## Working with Jacksonville Code Enforcement
 
@@ -630,7 +630,7 @@ A complete laundry renovation that includes plumbing relocation, new flooring, n
 
 ### Schedule the Dumpster Before Demo Day
 
-The most important waste planning step is having a dumpster on-site before demolition begins. Bathroom and laundry demolition is fast. A two-person crew can gut a bathroom in half a day, and you do not want hundreds of pounds of tile and fixtures sitting in your garage or driveway waiting for a container. A [residential dumpster rental](/residential-dumpster-rental) from 904 Dumpster can be delivered same-day or next-day in most of the Jacksonville area.
+The most important waste planning step is having a dumpster on-site before demolition begins. Bathroom and laundry demolition is fast. A two-person crew can gut a bathroom in half a day, and you do not want hundreds of pounds of tile and fixtures sitting in your garage or driveway waiting for a container. A [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) from 904 Dumpster can be delivered same-day or next-day in most of the Jacksonville area.
 
 ### Sort Salvageable Items First
 
@@ -723,7 +723,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ### Dumpster Rental for Multiple Appliances
 
-If you are replacing multiple appliances during a kitchen renovation, home cleanout, or property flip, a [residential dumpster rental](/residential-dumpster-rental) is the most efficient option. You can load appliances into the dumpster along with other renovation debris, old cabinets, flooring, and general junk. Most household appliances, including dishwashers, ovens, washing machines, dryers, and water heaters, can go in a standard roll-off dumpster.
+If you are replacing multiple appliances during a kitchen renovation, home cleanout, or property flip, a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) is the most efficient option. You can load appliances into the dumpster along with other renovation debris, old cabinets, flooring, and general junk. Most household appliances, including dishwashers, ovens, washing machines, dryers, and water heaters, can go in a standard roll-off dumpster.
 
 A [10-yard dumpster](/10-yard-dumpster-rental) can hold several large appliances along with other household waste. If you are doing a full kitchen or laundry room renovation with additional debris, a [15-yard](/15-yard-dumpster-rental) or [20-yard dumpster](/20-yard-dumpster-rental) gives you room for appliances plus all the renovation waste.
 
@@ -781,7 +781,7 @@ Appliance disposal often happens as part of a larger renovation. When you are gu
 
 For kitchen renovations, expect to dispose of a refrigerator (after refrigerant recovery), dishwasher, oven or range, microwave, and possibly a garbage disposal and range hood. Combined with cabinet and countertop demolition debris, a [15-yard dumpster](/15-yard-dumpster-rental) handles most full kitchen renovations.
 
-For property cleanouts and whole-house renovations, our [junk removal services in Jacksonville](/junk-removal-jacksonville) can help when you need more than just a container. Whether you are clearing out a rental property, flipping a house, or helping a family member downsize, we can help you find the right solution.
+For property cleanouts and whole-house renovations, our [junk removal services in Jacksonville](/junk-removal-jacksonville-fl) can help when you need more than just a container. Whether you are clearing out a rental property, flipping a house, or helping a family member downsize, we can help you find the right solution.
 
 ## Cost Comparison for Appliance Disposal
 
@@ -1048,7 +1048,7 @@ The Salvation Army, Goodwill, and Habitat for Humanity ReStore all accept furnit
 
 ### Dispose of It
 
-For furniture that is broken, stained, or otherwise not suitable for selling or donation, disposal is the answer. A [residential dumpster rental](/residential-dumpster-rental) is the easiest way to handle old sofa disposal, mattress removal, and bulk furniture disposal all at once. Learn more in our guide on [how to dispose of old furniture](/blog/how-to-dispose-of-old-furniture-guide).
+For furniture that is broken, stained, or otherwise not suitable for selling or donation, disposal is the answer. A [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) is the easiest way to handle old sofa disposal, mattress removal, and bulk furniture disposal all at once. Learn more in our guide on [how to dispose of old furniture](/blog/how-to-dispose-of-old-furniture-guide).
 
 ### Can I Leave Furniture on the Curb?
 
@@ -1093,7 +1093,7 @@ For most Jacksonville families preparing for a move, a [15-yard dumpster](/15-ya
 
 Whether you are moving from [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), or anywhere else in Northeast Florida, we deliver dumpsters for pre-move cleanouts with the same flat-rate pricing. Many people moving out of the area want to leave the old home clean and empty, and a dumpster makes that possible without spending your last days in town making landfill runs.
 
-For larger cleanout projects, our [junk removal service in Jacksonville](/junk-removal-jacksonville) provides additional support when you need help with the heavy lifting.
+For larger cleanout projects, our [junk removal service in Jacksonville](/junk-removal-jacksonville-fl) provides additional support when you need help with the heavy lifting.
 
 [Book a dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for full details.
 
@@ -1135,7 +1135,7 @@ Hazardous materials like paint, chemicals, batteries, propane tanks, and refrige
     author: '904 Dumpster',
     publishedDate: '2026-04-27',
     readTime: '10 min read',
-    featuredImage: '/images/junk-removal-jacksonville-vs-dumpster.png',
+    featuredImage: '/images/junk-removal-jacksonville-fl-vs-dumpster.png',
     tags: ['junk removal', 'junk pods', 'take it away dumpster rental', 'dumpster rental and removal', 'remove and dispose', 'whole house junk removal', 'budget roll off', 'dumpster rental vs junk removal'],
     status: 'published' as const,
     relatedSlugs: ['roll-off-dumpster-rental-complete-guide', 'how-to-choose-right-dumpster-size'],
@@ -1188,7 +1188,7 @@ A junk removal service sends a crew to your property. They show up, load everyth
 
 ### Renovation and Construction Projects
 
-If you are doing a kitchen remodel, bathroom renovation, flooring replacement, or any [construction project](/construction-dumpster-rental), a dumpster rental is almost always the better choice. Renovation debris is generated over days or weeks as work progresses. Having a container on-site lets contractors and DIY homeowners toss debris throughout the project without scheduling multiple pickups. This is the standard approach for every professional contractor in the Jacksonville area.
+If you are doing a kitchen remodel, bathroom renovation, flooring replacement, or any [construction project](/construction-dumpster-rental-jacksonville-fl), a dumpster rental is almost always the better choice. Renovation debris is generated over days or weeks as work progresses. Having a container on-site lets contractors and DIY homeowners toss debris throughout the project without scheduling multiple pickups. This is the standard approach for every professional contractor in the Jacksonville area.
 
 ### Large Home Cleanouts
 
@@ -1258,7 +1258,7 @@ Let us compare actual costs for common Jacksonville projects.
 
 Sometimes the best approach combines both options. Rent a dumpster for the bulk of the debris and hire help only for the heaviest or most awkward items. Many Jacksonville homeowners rent a [15-yard dumpster](/15-yard-dumpster-rental), handle most of the loading themselves, and hire a couple of helpers for a few hours to move the heaviest pieces. This gives you the cost savings of a dumpster rental with targeted labor assistance where you need it most.
 
-904 Dumpster also offers [junk removal services in Jacksonville](/junk-removal-jacksonville) for situations where you need the labor handled for you. And for projects where the debris is heavy construction material like concrete, we provide [demolition services in Jacksonville](/demolition-services-jacksonville) to handle the complete process.
+904 Dumpster also offers [junk removal services in Jacksonville](/junk-removal-jacksonville-fl) for situations where you need the labor handled for you. And for projects where the debris is heavy construction material like concrete, we provide [demolition services in Jacksonville](/demolition-services-jacksonville-fl) to handle the complete process.
 
 ## Choosing the Right Option for Your Project
 
@@ -1391,13 +1391,13 @@ Concrete pavers in good condition can be sold or given away, just like decorativ
 
 For broken, cracked, or mismatched pavers that cannot be reused, disposal options include:
 
-- **Dumpster rental:** Our [concrete disposal dumpster](/concrete-disposal-dumpster) option is designed for heavy materials like pavers, concrete, and stone. Weight limits apply, so discuss your estimated volume with us when booking.
+- **Dumpster rental:** Our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option is designed for heavy materials like pavers, concrete, and stone. Weight limits apply, so discuss your estimated volume with us when booking.
 - **Concrete recycling:** Where to recycle old concrete is a great question. Several facilities in the Jacksonville area accept clean concrete for recycling into aggregate and road base material. Recycling is both environmentally responsible and sometimes cheaper than landfill disposal.
 - **Landfill:** Trail Ridge Landfill accepts concrete and pavers at standard tipping rates.
 
 ### Where to Recycle Old Concrete
 
-Jacksonville has facilities that accept old concrete for recycling. Recycled concrete is crushed and used as aggregate for road base, fill material, and new concrete production. This is one of the most sustainable disposal options for concrete waste from landscaping and [construction projects](/construction-dumpster-rental). Check our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for information on local recycling facilities and what materials they accept.
+Jacksonville has facilities that accept old concrete for recycling. Recycled concrete is crushed and used as aggregate for road base, fill material, and new concrete production. This is one of the most sustainable disposal options for concrete waste from landscaping and [construction projects](/construction-dumpster-rental-jacksonville-fl). Check our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for information on local recycling facilities and what materials they accept.
 
 ## Weight Considerations for Landscaping Material Disposal
 

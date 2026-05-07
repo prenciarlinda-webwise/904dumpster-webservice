@@ -19,7 +19,7 @@ export const POSTS_1_TO_5: BlogPost[] = [
     content: `
 ## How Much Does a Dumpster Rental Cost in St. Augustine FL?
 
-The cost of [renting a dumpster](/residential-dumpster-rental) in St. Augustine, FL ranges between $449 and $499 depending on the size you choose. 904 Dumpster offers flat-rate pricing on 15 and 20-yard roll-off dumpsters with delivery throughout the St. Augustine area. Every price includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges.
+The cost of [renting a dumpster](/residential-dumpster-rental-jacksonville-fl) in St. Augustine, FL ranges between $449 and $499 depending on the size you choose. 904 Dumpster offers flat-rate pricing on 15 and 20-yard roll-off dumpsters with delivery throughout the St. Augustine area. Every price includes delivery, pickup, disposal fees, and a 5-day rental period with no hidden charges.
 
 Whether you are renovating a historic home in the Lincolnville neighborhood, clearing hurricane debris from your property on Anastasia Island, or managing a construction project along US-1 South, understanding what you will actually pay for a dumpster rental is the first step to staying on budget. This guide breaks down every cost factor so you can make the right decision for your project.
 
@@ -54,7 +54,7 @@ Size is the biggest cost factor. A [15-yard dumpster](/15-yard-dumpster-rental) 
 
 ### Debris Type
 
-Standard household and construction debris is included in the base price. However, certain materials cost more to dispose of due to landfill tipping fees in St. Johns County. Heavy materials like concrete, brick, and dirt may incur overage charges if you exceed the weight limit. If your project involves concrete removal, check out our [concrete disposal dumpster](/concrete-disposal-dumpster) option designed for heavy materials.
+Standard household and construction debris is included in the base price. However, certain materials cost more to dispose of due to landfill tipping fees in St. Johns County. Heavy materials like concrete, brick, and dirt may incur overage charges if you exceed the weight limit. If your project involves concrete removal, check out our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option designed for heavy materials.
 
 ### Rental Duration
 
@@ -93,7 +93,7 @@ Coastal St. Augustine properties along A1A frequently deal with storm debris, fa
 
 ### New Construction (Nocatee, Silverleaf, Twin Creeks)
 
-The growth areas west and south of St. Augustine proper, including the massive Nocatee and Silverleaf developments, generate substantial construction waste. Contractors building in zip codes 32081 and 32259 typically need 20-yard dumpsters and schedule recurring swaps every 5 to 7 days. Our [construction dumpster rental](/construction-dumpster-rental) page has details on contractor accounts and volume pricing.
+The growth areas west and south of St. Augustine proper, including the massive Nocatee and Silverleaf developments, generate substantial construction waste. Contractors building in zip codes 32081 and 32259 typically need 20-yard dumpsters and schedule recurring swaps every 5 to 7 days. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) page has details on contractor accounts and volume pricing.
 
 ### Garage and Estate Cleanouts
 
@@ -175,7 +175,7 @@ In most cases, yes. National brokers like Waste Management Bagster or 1-800-GOT-
     content: `
 ## The Ultimate Spring Cleaning Decluttering Guide for Jacksonville Homeowners
 
-Learning [how to declutter your home](/residential-dumpster-rental) starts with a room-by-room plan for what stays, what gets donated, and what goes straight into a dumpster. 904 Dumpster helps Jacksonville homeowners deep-clean and declutter their entire home in a single weekend with the right strategy and a dumpster in the driveway for the heavy stuff that the garbage truck will not take.
+Learning [how to declutter your home](/residential-dumpster-rental-jacksonville-fl) starts with a room-by-room plan for what stays, what gets donated, and what goes straight into a dumpster. 904 Dumpster helps Jacksonville homeowners deep-clean and declutter their entire home in a single weekend with the right strategy and a dumpster in the driveway for the heavy stuff that the garbage truck will not take.
 
 Jacksonville's mild spring weather, typically in the low 70s from March through May, gives you the perfect window to open up the house, air things out, and sort through years of accumulated stuff before the summer heat and humidity set in. This guide walks you through every room with specific tips for Jacksonville homes, where mold, humidity damage, and outdoor debris are constant concerns.
 
@@ -385,7 +385,7 @@ March through early May is the ideal window. Temperatures are comfortable in the
 
 - [Complete Guide to Home Cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
-- [Residential Dumpster Rental](/residential-dumpster-rental)
+- [Residential Dumpster Rental](/residential-dumpster-rental-jacksonville-fl)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
   },
@@ -400,14 +400,14 @@ March through early May is the ideal window. Temperatures are comfortable in the
     author: '904 Dumpster',
     publishedDate: '2026-03-01',
     readTime: '8 min read',
-    featuredImage: '/images/residential-dumpster-rental.jpg',
+    featuredImage: '/images/residential-dumpster-rental-jacksonville-fl.jpg',
     tags: ['bathroom renovation debris', 'bathroom remodel dumpster', 'tile disposal', 'bathroom demolition waste', 'diy bathroom remodel', 'how to remodel a bathroom'],
     status: 'published' as const,
     relatedSlugs: ['kitchen-renovation-debris-disposal', 'how-to-choose-right-dumpster-size'],
     content: `
 ## How to Handle Bathroom Renovation Waste and Debris
 
-Whether you are tackling a [DIY bathroom remodel](/residential-dumpster-rental) or a full contractor-led renovation, the project generates between 500 and 2,000 pounds of debris. 904 Dumpster recommends a 10-yard dumpster for most single-bathroom remodels, while a 15-yard is the safer choice if you are gutting the entire room down to the studs. Knowing what waste to expect and how to dispose of it properly saves you time, money, and the headache of multiple dump runs.
+Whether you are tackling a [DIY bathroom remodel](/residential-dumpster-rental-jacksonville-fl) or a full contractor-led renovation, the project generates between 500 and 2,000 pounds of debris. 904 Dumpster recommends a 10-yard dumpster for most single-bathroom remodels, while a 15-yard is the safer choice if you are gutting the entire room down to the studs. Knowing what waste to expect and how to dispose of it properly saves you time, money, and the headache of multiple dump runs.
 
 Bathroom remodels are one of the most popular home improvement projects in Jacksonville, FL. Whether you are updating a guest bathroom in your San Marco bungalow, gutting the master bath in a Mandarin home, or renovating rental property bathrooms in the Arlington or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
 
@@ -472,7 +472,7 @@ The right dumpster size depends on whether you are doing a cosmetic refresh or a
 
 ### Multi-Bathroom Renovation
 
-If you are renovating two or more bathrooms simultaneously, which is common when flipping houses in Jacksonville's active real estate market, go with a 20-yard dumpster. Contractors working on multi-unit properties in Jacksonville can also ask about our [commercial dumpster rental](/commercial-dumpster-rental) options with scheduled swaps.
+If you are renovating two or more bathrooms simultaneously, which is common when flipping houses in Jacksonville's active real estate market, go with a 20-yard dumpster. Contractors working on multi-unit properties in Jacksonville can also ask about our [commercial dumpster rental](/commercial-dumpster-rental-jacksonville-fl) options with scheduled swaps.
 
 > REVIEW: "Great company to work with. Professional, on time, and best price in Jax" - Velibor Ivanic, Google Review
 
@@ -557,7 +557,7 @@ Many homes in established Jacksonville neighborhoods like San Marco (32207), Avo
 
 A standard bathroom renovation in Jacksonville typically costs $8,000 to $25,000 with a contractor. DIY homeowners can save 40-60% on labor but should be realistic about plumbing and electrical work, which requires permits in Duval County. The demolition and debris removal are the easiest parts to DIY, even if you hire out the skilled trades.
 
-If you are handling demolition yourself, our [residential dumpster rental](/residential-dumpster-rental) service is designed for homeowners. We deliver the dumpster to your driveway, you fill it at your own pace during your 5-day rental, and we pick it up when you are done.
+If you are handling demolition yourself, our [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) service is designed for homeowners. We deliver the dumpster to your driveway, you fill it at your own pace during your 5-day rental, and we pick it up when you are done.
 
 ## Frequently Asked Questions
 
@@ -585,7 +585,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
 
 - [Kitchen Renovation Debris Disposal](/blog/kitchen-renovation-debris-disposal-guide)
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
-- [Construction Dumpster Rental](/construction-dumpster-rental)
+- [Construction Dumpster Rental](/construction-dumpster-rental-jacksonville-fl)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
   },
@@ -607,7 +607,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     content: `
 ## Dumpster Rental Pricing in Orange Park FL for 2026
 
-Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental) in Orange Park, FL? Prices range from $409 to $459 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
+Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental-jacksonville-fl) in Orange Park, FL? Prices range from $409 to $459 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
 
 Orange Park is one of the busiest areas we serve in Clay County. Homeowners along Kingsley Avenue, contractors building in the Oakleaf Plantation communities, and property managers in the apartment complexes near the Orange Park Mall all need affordable, reliable dumpster rental. This guide breaks down exactly what you will pay, what affects the price, and how to get the best value for your project.
 
@@ -661,7 +661,7 @@ Oakleaf is one of the largest master-planned communities in Clay County. Homeown
 
 ### Lakeside and Argyle Forest (32065)
 
-The growing communities along Blanding Boulevard south of I-295 see heavy contractor activity. New home construction, additions, and remodels generate consistent demand for [construction dumpster rentals](/construction-dumpster-rental) in these zip codes.
+The growing communities along Blanding Boulevard south of I-295 see heavy contractor activity. New home construction, additions, and remodels generate consistent demand for [construction dumpster rentals](/construction-dumpster-rental-jacksonville-fl) in these zip codes.
 
 ### Fleming Island (32003)
 
@@ -968,7 +968,7 @@ Yes. A 10-yard dumpster is the ideal size for most standard two-car garage clean
 
 ### How much weight can you put in a 10-yard dumpster?
 
-A 10-yard dumpster from 904 Dumpster has a weight limit of 1 ton (2,000 pounds). This is sufficient for most household junk, furniture, and light construction debris. Heavy materials like concrete, brick, and dirt fill the weight limit before filling the volume, so projects involving those materials may need a [concrete disposal dumpster](/concrete-disposal-dumpster) or a larger container.
+A 10-yard dumpster from 904 Dumpster has a weight limit of 1 ton (2,000 pounds). This is sufficient for most household junk, furniture, and light construction debris. Heavy materials like concrete, brick, and dirt fill the weight limit before filling the volume, so projects involving those materials may need a [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) or a larger container.
 
 ### Can I put appliances in a 10-yard dumpster?
 

@@ -11,6 +11,28 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.904dumpster.com/rules/prohibited-items-list',
   },
+  openGraph: {
+    title: 'Prohibited Items - 904 Dumpster Jacksonville FL',
+    description: 'Items that cannot go in a dumpster: hazardous materials, electronics, tires, and items requiring special disposal.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/rules/prohibited-items-list',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Prohibited items that cannot go in a 904 Dumpster roll-off',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Prohibited Items - 904 Dumpster',
+    description: 'Items that cannot go in a dumpster: hazardous materials, electronics, tires, and special-handling waste.',
+    images: ['/images/main-hero-dumpster.jpeg'],
+  },
 }
 
 export default function ProhibitedItemsPage() {

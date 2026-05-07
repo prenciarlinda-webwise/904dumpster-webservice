@@ -18,11 +18,33 @@ import { BUSINESS } from '@/lib/constants'
 import { generateAboutPageSchema, generateBreadcrumbSchema, generateOrganizationSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'About Us',
+  title: 'About 904 Dumpster - Locally Owned Jacksonville FL',
   description:
     'Learn about 904 Dumpster, Jacksonville\'s locally owned dumpster rental company serving Northeast Florida since 2016. Fully insured, 2,000+ deliveries completed.',
   alternates: {
     canonical: 'https://www.904dumpster.com/about',
+  },
+  openGraph: {
+    title: 'About 904 Dumpster - Locally Owned Since 2016',
+    description: 'Founded by Dionis (Danny) in 2016, 904 Dumpster has completed 2,000+ deliveries across Jacksonville and Northeast Florida.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/about',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: '904 Dumpster owner and roll-off container in Jacksonville FL',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'About 904 Dumpster - Locally Owned Since 2016',
+    description: 'Locally owned dumpster rental in Jacksonville FL. 2,000+ deliveries since 2016.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 

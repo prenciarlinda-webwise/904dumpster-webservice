@@ -19,7 +19,7 @@ export const POSTS_11_TO_15: BlogPost[] = [
     content: `
 ## How to Handle an Estate Cleanout in Jacksonville
 
-An estate cleanout is one of the most emotionally and physically demanding tasks a family can face. Whether you are clearing out a loved one's home after they have passed away, helping aging parents downsize, or preparing an inherited property for sale, the process involves sorting through decades of belongings, making tough decisions about what to keep, and disposing of everything else. With a [residential dumpster rental](/residential-dumpster-rental) from 904 Dumpster and a well-planned approach, Jacksonville families can turn a weeks-long ordeal into a manageable project you can finish in a single weekend.
+An estate cleanout is one of the most emotionally and physically demanding tasks a family can face. Whether you are clearing out a loved one's home after they have passed away, helping aging parents downsize, or preparing an inherited property for sale, the process involves sorting through decades of belongings, making tough decisions about what to keep, and disposing of everything else. With a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) from 904 Dumpster and a well-planned approach, Jacksonville families can turn a weeks-long ordeal into a manageable project you can finish in a single weekend.
 
 ## Why Estate Cleanouts Are Different from Regular Cleanouts
 
@@ -68,7 +68,7 @@ For donations, The Salvation Army and Goodwill both offer pickup services in Jac
 
 ### Step 5: Rent a Dumpster for Everything Else
 
-After sorting, selling, and donating, you will still have a significant amount of material that needs to go. This is where a [residential dumpster rental](/residential-dumpster-rental) makes all the difference. Instead of making dozens of trips to the Trail Ridge Landfill or trying to stuff everything into curbside trash bins over several weeks, you can load everything into a dumpster parked in the driveway and have it hauled away in one trip.
+After sorting, selling, and donating, you will still have a significant amount of material that needs to go. This is where a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) makes all the difference. Instead of making dozens of trips to the Trail Ridge Landfill or trying to stuff everything into curbside trash bins over several weeks, you can load everything into a dumpster parked in the driveway and have it hauled away in one trip.
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
@@ -181,7 +181,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
     content: `
 ## What You Can Actually Recycle from Your Jacksonville Project
 
-If you are doing a renovation, demolition, or construction project in Jacksonville, a surprising amount of the debris you generate can be recycled instead of going straight to the landfill. With a [construction dumpster rental](/construction-dumpster-rental) from 904 Dumpster, you can sort recyclable materials like metal, concrete, clean lumber, cardboard, asphalt shingles, and drywall at local facilities. Separating recyclable materials from general waste can lower your disposal costs, reduce your environmental footprint, and keep usable materials in circulation throughout Northeast Florida's construction industry.
+If you are doing a renovation, demolition, or construction project in Jacksonville, a surprising amount of the debris you generate can be recycled instead of going straight to the landfill. With a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) from 904 Dumpster, you can sort recyclable materials like metal, concrete, clean lumber, cardboard, asphalt shingles, and drywall at local facilities. Separating recyclable materials from general waste can lower your disposal costs, reduce your environmental footprint, and keep usable materials in circulation throughout Northeast Florida's construction industry.
 
 ## Why Construction Recycling Matters in Jacksonville
 
@@ -213,7 +213,7 @@ SA Recycling at 2600 Talleyrand Avenue (32206) and Trademark Metals Recycling on
 
 Concrete is one of the easiest construction materials to recycle. Crushed concrete is widely used as road base, fill material, and aggregate in new concrete production. Jacksonville has several facilities that accept clean concrete, including brick, block, and stone.
 
-If you are demolishing a driveway, sidewalk, patio, or foundation, the concrete can be separated from other debris and taken to a concrete recycling facility. Our [concrete disposal dumpster](/concrete-disposal-dumpster) service is designed specifically for this type of heavy material.
+If you are demolishing a driveway, sidewalk, patio, or foundation, the concrete can be separated from other debris and taken to a concrete recycling facility. Our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) service is designed specifically for this type of heavy material.
 
 | Material | Recyclable? | Where to Recycle in Jacksonville | Notes |
 |----------|-------------|--------------------------------|-------|
@@ -249,7 +249,7 @@ Every construction and renovation project generates cardboard. Appliance boxes, 
 
 The most effective way to recycle construction materials is to separate them as you work rather than trying to sort through a mixed pile later. For larger projects, consider using multiple containers:
 
-**Dumpster for general debris.** Your main [construction dumpster rental](/construction-dumpster-rental) handles mixed debris that cannot be easily separated, including damaged materials, insulation, mixed wood, and general trash.
+**Dumpster for general debris.** Your main [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) handles mixed debris that cannot be easily separated, including damaged materials, insulation, mixed wood, and general trash.
 
 **Separate pile or container for metals.** Even a simple tarp or designated area works. Metals have the most value and are the easiest to keep separate.
 
@@ -293,7 +293,7 @@ When you rent a dumpster from 904 Dumpster, our flat-rate pricing includes dispo
 
 First, concrete and masonry are extremely heavy. A small amount of concrete can push your dumpster close to its weight limit. By handling concrete separately, you free up capacity in your dumpster for lighter, bulkier items.
 
-Second, keeping loads clean and sorted ensures materials reach the right facility. When you order a [concrete disposal dumpster](/concrete-disposal-dumpster), for example, we route that load specifically to a concrete recycling facility rather than a landfill.
+Second, keeping loads clean and sorted ensures materials reach the right facility. When you order a [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl), for example, we route that load specifically to a concrete recycling facility rather than a landfill.
 
 We serve contractors and homeowners across Jacksonville including neighborhoods in 32202, 32204, 32205, 32207, 32210, 32211, 32216, 32225, 32246, and all surrounding areas. Whether your project is in Riverside, Mandarin, the Southside, or Arlington, we deliver the right size dumpster to your job site.
 
@@ -306,7 +306,7 @@ If you are a contractor in Jacksonville managing several jobs at once, developin
 - **Use a dedicated concrete hauler** for demo projects that generate significant masonry waste.
 - **Track your recycling.** Many commercial clients and property managers in Jacksonville now ask for recycling documentation.
 
-For ongoing dumpster needs, our [commercial dumpster rental](/commercial-dumpster-rental) service provides scheduled deliveries and pickups to keep your projects moving. Learn more about working with us in our [contractor dumpster rental guide](/blog/contractor-dumpster-rental-jacksonville).
+For ongoing dumpster needs, our [commercial dumpster rental](/commercial-dumpster-rental-jacksonville-fl) service provides scheduled deliveries and pickups to keep your projects moving. Learn more about working with us in our [contractor dumpster rental guide](/blog/contractor-dumpster-rental-jacksonville).
 
 ## Frequently Asked Questions
 
@@ -335,7 +335,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
 - [Yard Waste and Landscaping Debris Disposal in Northeast Florida](/blog/yard-waste-landscaping-debris-disposal-northeast-florida)
 - [Managing Roofing Project Waste](/blog/roofing-project-waste-management)
-- [Construction Dumpster Rental](/construction-dumpster-rental)
+- [Construction Dumpster Rental](/construction-dumpster-rental-jacksonville-fl)
 `,
   },
   // Post 13
@@ -421,7 +421,7 @@ Amelia Island is a major vacation rental market. Property owners frequently upda
 
 ### New Construction in Yulee and Wildlight
 
-The Yulee area and the Wildlight development along A1A have seen rapid residential growth. Builders and contractors working on new construction in these communities generate significant debris including lumber scraps, drywall offcuts, packaging, and concrete waste. Our [construction dumpster rental](/construction-dumpster-rental) service supports both residential builders and commercial contractors throughout Nassau County.
+The Yulee area and the Wildlight development along A1A have seen rapid residential growth. Builders and contractors working on new construction in these communities generate significant debris including lumber scraps, drywall offcuts, packaging, and concrete waste. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service supports both residential builders and commercial contractors throughout Nassau County.
 
 > REVIEW: "I use 904 dumpsters for two of my projects, they delivered on time both drop off and pick up. Best on market." - e bixi, Google Review
 
@@ -530,7 +530,7 @@ No permit is needed if the dumpster is placed on your private property such as a
     content: `
 ## How to Tear Down a Shed, Deck, or Fence Yourself
 
-Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville) from 904 Dumpster in your driveway, most Jacksonville homeowners can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
+Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville-fl) from 904 Dumpster in your driveway, most Jacksonville homeowners can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
 
 ## Before You Start: Planning Your Teardown
 
@@ -674,7 +674,7 @@ Demolition work is inherently more dangerous than construction because you are d
 - **Watch for nails.** Exposed nails are the most common injury source in demolition. Bend nails flat as you remove boards, and wear boots with puncture-resistant soles.
 - **Work from top to bottom.** Always remove the roof before walls, decking before framing. This prevents unsupported structures from collapsing on you.
 - **Stay hydrated.** Jacksonville's heat and humidity make outdoor physical labor especially demanding from April through October. Take breaks every 30 to 45 minutes and drink water constantly.
-- **Know when to call a professional.** If the structure is attached to your home, involves concrete block or masonry, or shows signs of structural compromise, consider hiring a [demolition service](/demolition-services-jacksonville) instead of tackling it yourself.
+- **Know when to call a professional.** If the structure is attached to your home, involves concrete block or masonry, or shows signs of structural compromise, consider hiring a [demolition service](/demolition-services-jacksonville-fl) instead of tackling it yourself.
 
 ## Renting the Right Dumpster for Your Demolition Project
 
@@ -708,14 +708,14 @@ Renting a dumpster is the most cost-effective option for most homeowners. A 10-y
 
 ### Should I demolish my structure myself or hire a contractor?
 
-For simple wood-framed sheds, basic decks, and fences, DIY demolition is straightforward and saves $500 to $2,000 in labor costs. Hire a professional for structures that involve masonry, are attached to your home, have utility connections, or are larger than you are comfortable handling safely. Our [demolition services](/demolition-services-jacksonville) page covers what we offer for larger projects.
+For simple wood-framed sheds, basic decks, and fences, DIY demolition is straightforward and saves $500 to $2,000 in labor costs. Hire a professional for structures that involve masonry, are attached to your home, have utility connections, or are larger than you are comfortable handling safely. Our [demolition services](/demolition-services-jacksonville-fl) page covers what we offer for larger projects.
 
 ## Related Resources
 
 - [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
 - [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
-- [Demolition Services in Jacksonville](/demolition-services-jacksonville)
+- [Demolition Services in Jacksonville](/demolition-services-jacksonville-fl)
 `,
   },
   // Post 15
@@ -856,7 +856,7 @@ Getting the most out of your 15-yard rental means loading it strategically:
 
 **Watch the weight with heavy materials.** Roofing shingles, tile, and concrete are dense. You may hit the 1.5-ton weight limit before filling the dumpster by volume. If your project involves heavy materials mixed with lighter debris, load the heavy items first so you can gauge where you stand.
 
-For projects involving concrete, brick, or stone specifically, our [concrete disposal dumpster service](/concrete-disposal-dumpster) is designed for those heavy loads.
+For projects involving concrete, brick, or stone specifically, our [concrete disposal dumpster service](/concrete-disposal-dumpster-jacksonville-fl) is designed for those heavy loads.
 
 > REVIEW: "Fast and reliable. Best in Jacksonville area" - Dorian Allmeta, Google Review
 

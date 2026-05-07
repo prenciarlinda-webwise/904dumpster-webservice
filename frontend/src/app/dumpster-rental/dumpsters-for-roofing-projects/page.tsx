@@ -26,7 +26,22 @@ export const metadata: Metadata = {
       'Rent a dumpster for your roofing project in Jacksonville FL. 15-yard dumpsters are perfect for shingle removal.',
     type: 'website',
     url: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-roofing-projects',
-    siteName: '904 Dumpster - Dumpster Rental Jacksonville',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Roofing dumpster rental in Jacksonville FL for shingle and tear-off debris',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Roofing Dumpster Rental Jacksonville FL',
+    description: '15-yard roll-off containers built for shingle tear-offs and roofing debris in Jacksonville.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 
@@ -65,7 +80,7 @@ const relatedServices = [
   },
   {
     title: 'Construction Dumpster',
-    href: '/construction-dumpster-rental',
+    href: '/construction-dumpster-rental-jacksonville-fl',
     description: 'Heavy-duty containers for job sites',
   },
 ]

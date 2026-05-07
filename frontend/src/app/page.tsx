@@ -156,6 +156,7 @@ const localBusinessSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
   '@id': 'https://www.904dumpster.com/#localbusiness',
+  additionalType: 'https://en.wikipedia.org/wiki/Dumpster',
   // IMPORTANT: Match GBP name exactly for Local Pack ranking
   name: '904 Dumpster - Dumpster Rental Jacksonville',
   // BROKER KILLER: Emphasize local ownership - Google's Helpful Content update prioritizes local expertise
@@ -392,72 +393,6 @@ const localBusinessSchema = {
   },
 }
 
-// Service Schema - Primary service offering with pricing
-const serviceSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Service',
-  serviceType: 'Dumpster Rental',
-  name: 'Dumpster Rental Jacksonville FL',
-  description: 'Roll-off dumpster rental service in Jacksonville, FL. 10, 15, and 20-yard containers available with same-day delivery. All rentals include delivery, pickup, disposal, and rental period.',
-  provider: {
-    '@type': 'LocalBusiness',
-    name: '904 Dumpster',
-    '@id': 'https://www.904dumpster.com/#localbusiness',
-  },
-  areaServed: [
-    { '@type': 'City', name: 'Jacksonville', containedInPlace: { '@type': 'State', name: 'Florida' } },
-    { '@type': 'AdministrativeArea', name: 'Duval County' },
-    { '@type': 'AdministrativeArea', name: 'St. Johns County' },
-    { '@type': 'AdministrativeArea', name: 'Clay County' },
-    { '@type': 'AdministrativeArea', name: 'Nassau County' },
-  ],
-  hasOfferCatalog: {
-    '@type': 'OfferCatalog',
-    name: 'Dumpster Sizes',
-    itemListElement: [
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: '10 Yard Dumpster Rental',
-          description: '12ft x 7.5ft x 3.6ft roll-off container. Holds 1 ton. 3-day rental. Ideal for garage cleanouts and small renovations.',
-          url: 'https://www.904dumpster.com/10-yard-dumpster-rental',
-        },
-        price: '299',
-        priceCurrency: 'USD',
-        availability: 'https://schema.org/InStock',
-        areaServed: { '@type': 'City', name: 'Jacksonville' },
-      },
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: '15 Yard Dumpster Rental',
-          description: '14ft x 7.5ft x 4.5ft roll-off container. Holds 1.5 tons. Perfect for roofing and kitchen remodels.',
-          url: 'https://www.904dumpster.com/15-yard-dumpster-rental',
-        },
-        price: '349',
-        priceCurrency: 'USD',
-        availability: 'https://schema.org/InStock',
-        areaServed: { '@type': 'City', name: 'Jacksonville' },
-      },
-      {
-        '@type': 'Offer',
-        itemOffered: {
-          '@type': 'Service',
-          name: '20 Yard Dumpster Rental',
-          description: '14ft x 7.5ft x 5.8ft roll-off container. Holds 2 tons. Best for large renovations and construction.',
-          url: 'https://www.904dumpster.com/20-yard-dumpster-rental',
-        },
-        price: '399',
-        priceCurrency: 'USD',
-        availability: 'https://schema.org/InStock',
-        areaServed: { '@type': 'City', name: 'Jacksonville' },
-      },
-    ],
-  },
-}
-
 export default function HomePage() {
   return (
     <>
@@ -476,11 +411,6 @@ export default function HomePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
-      />
-      {/* Service Schema with pricing for rich results */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
       />
 
       <div className="min-h-screen -mt-16 lg:-mt-32">
@@ -855,7 +785,7 @@ export default function HomePage() {
                   icon: HomeIcon,
                   title: 'Home Cleanout Dumpsters',
                   desc: 'Dumpster rental for garage, attic, and estate cleanouts in Jacksonville.',
-                  href: '/residential-dumpster-rental',
+                  href: '/residential-dumpster-rental-jacksonville-fl',
                   color: 'from-blue-500 to-blue-600',
                 },
                 {
@@ -873,11 +803,39 @@ export default function HomePage() {
                   color: 'from-red-500 to-red-600',
                 },
                 {
-                  icon: Users,
-                  title: 'Property Manager Dumpsters',
-                  desc: 'Fast turnarounds for rental properties. Recurring dumpster service available.',
-                  href: '/residential-dumpster-rental',
+                  icon: Truck,
+                  title: 'Moving Cleanout Dumpsters',
+                  desc: 'Declutter before you pack. Dumpster rental for whole-house moves and downsizing.',
+                  href: '/dumpster-rental/dumpsters-for-moving-projects',
                   color: 'from-purple-500 to-purple-600',
+                },
+                {
+                  icon: Building2,
+                  title: 'Commercial Dumpster Rental',
+                  desc: 'Roll-off containers for retail, office, and property management projects in Jacksonville.',
+                  href: '/commercial-dumpster-rental-jacksonville-fl',
+                  color: 'from-emerald-500 to-emerald-600',
+                },
+                {
+                  icon: Zap,
+                  title: 'Demolition Services',
+                  desc: 'Full-service demolition with hauling for sheds, decks, garages, and interior tear-outs.',
+                  href: '/demolition-services-jacksonville-fl',
+                  color: 'from-amber-500 to-amber-600',
+                },
+                {
+                  icon: HomeIcon,
+                  title: 'Landscaping Debris Dumpsters',
+                  desc: 'Yard waste, sod, brush, and tree trimming hauled away across Jacksonville.',
+                  href: '/dumpster-rental/dumpsters-for-landscaping-projects',
+                  color: 'from-lime-500 to-lime-600',
+                },
+                {
+                  icon: Users,
+                  title: 'Full-Service Junk Removal',
+                  desc: 'We do the heavy lifting. Furniture, appliances, and estate cleanouts in Jacksonville FL.',
+                  href: '/junk-removal-jacksonville-fl',
+                  color: 'from-pink-500 to-pink-600',
                 },
               ].map((item, i) => (
                 <Link
@@ -1025,32 +983,33 @@ export default function HomePage() {
               <h3 className="text-2xl md:text-3xl font-black text-secondary mb-6">Jacksonville Neighborhoods We Serve</h3>
               <div className="grid md:grid-cols-3 gap-6 text-gray-600 leading-relaxed">
                 <p>
-                  From Riverside home renovations to{' '}
-                  <Link href="/dumpster-rental-arlington-fl" title="Dumpster Rental Arlington FL" className="text-primary hover:underline">Arlington</Link> estate
-                  cleanouts, 904 Dumpster delivers across every Duval County neighborhood. Homeowners
+                  From Riverside home renovations to estate cleanouts in{' '}
+                  <Link href="/dumpster-rental-arlington-fl" title="Dumpster Rental Arlington FL" className="text-primary hover:underline">Arlington, FL</Link>,
+                  904 Dumpster delivers across every Duval County neighborhood. Homeowners
                   in Mandarin and San Marco frequently rent our 15-yard container for kitchen and
                   bathroom remodels, while contractors in Southside and Baymeadows prefer the 20-yard
                   for commercial buildouts. Common ZIP codes served include 32202, 32207, 32210,
                   32216, 32218, 32223, 32225, 32246, and 32256.
                 </p>
                 <p>
-                  Beach communities including{' '}
-                  <Link href="/dumpster-rental-jacksonville-beach-fl" title="Dumpster Rental Jacksonville Beach FL" className="text-primary hover:underline">Jacksonville Beach</Link>,{' '}
-                  <Link href="/dumpster-rental-neptune-beach-fl" title="Dumpster Rental Neptune Beach FL" className="text-primary hover:underline">Neptune Beach</Link>, and{' '}
-                  <Link href="/dumpster-rental-atlantic-beach-fl" title="Dumpster Rental Atlantic Beach FL" className="text-primary hover:underline">Atlantic Beach</Link> often
-                  need containers for storm cleanup and older home renovations. In Clay County,{' '}
-                  <Link href="/dumpster-rental-orange-park-fl" title="Dumpster Rental Orange Park FL" className="text-primary hover:underline">Orange Park</Link>,{' '}
-                  <Link href="/dumpster-rental-fleming-island-fl" title="Dumpster Rental Fleming Island FL" className="text-primary hover:underline">Fleming Island</Link>, and{' '}
-                  <Link href="/dumpster-rental-middleburg-fl" title="Dumpster Rental Middleburg FL" className="text-primary hover:underline">Middleburg</Link> residents
-                  use us for land clearing and new construction debris.
+                  Beach communities count on us for storm cleanup and older home renovations:{' '}
+                  <Link href="/dumpster-rental-jacksonville-beach-fl" title="Dumpster Rental Jacksonville Beach FL" className="text-primary hover:underline">dumpster rental in Jacksonville Beach</Link>,{' '}
+                  <Link href="/dumpster-rental-neptune-beach-fl" title="Dumpster Rental Neptune Beach FL" className="text-primary hover:underline">Neptune Beach roll-off rentals</Link>, and{' '}
+                  <Link href="/dumpster-rental-atlantic-beach-fl" title="Dumpster Rental Atlantic Beach FL" className="text-primary hover:underline">Atlantic Beach FL dumpsters</Link>.
+                  In Clay County, customers book{' '}
+                  <Link href="/dumpster-rental-orange-park-fl" title="Dumpster Rental Orange Park FL" className="text-primary hover:underline">dumpster rental in Orange Park, FL</Link>,{' '}
+                  <Link href="/dumpster-rental-fleming-island-fl" title="Dumpster Rental Fleming Island FL" className="text-primary hover:underline">Fleming Island dumpster rentals</Link>,{' '}
+                  <Link href="/dumpster-rental-middleburg-fl" title="Dumpster Rental Middleburg FL" className="text-primary hover:underline">Middleburg roll-offs</Link>, and{' '}
+                  <Link href="/dumpster-rental-green-cove-springs-fl" title="Dumpster Rental Green Cove Springs FL" className="text-primary hover:underline">dumpster rental in Green Cove Springs</Link> for
+                  land clearing and new construction debris.
                 </p>
                 <p>
-                  St. Johns County customers in{' '}
-                  <Link href="/dumpster-rental-st-augustine-fl" title="Dumpster Rental St. Augustine FL" className="text-primary hover:underline">St. Augustine</Link> and{' '}
-                  <Link href="/dumpster-rental-ponte-vedra-fl" title="Dumpster Rental Ponte Vedra FL" className="text-primary hover:underline">Ponte Vedra Beach</Link> rely
-                  on us for estate cleanouts and renovation projects. In Nassau County we serve{' '}
-                  <Link href="/dumpster-rental-fernandina-beach-fl" title="Dumpster Rental Fernandina Beach FL" className="text-primary hover:underline">Fernandina Beach</Link> and Yulee for Amelia Island
-                  remodels and waterfront cleanups.
+                  St. Johns County homeowners rely on us for{' '}
+                  <Link href="/dumpster-rental-st-augustine-fl" title="Dumpster Rental St. Augustine FL" className="text-primary hover:underline">dumpster rental in St. Augustine, FL</Link> estate cleanouts and renovation projects, and{' '}
+                  <Link href="/dumpster-rental-ponte-vedra-fl" title="Dumpster Rental Ponte Vedra FL" className="text-primary hover:underline">Ponte Vedra Beach dumpster rentals</Link> for
+                  remodels and additions. In Nassau County we deliver{' '}
+                  <Link href="/dumpster-rental-fernandina-beach-fl" title="Dumpster Rental Fernandina Beach FL" className="text-primary hover:underline">dumpster rental in Fernandina Beach</Link> and Yulee for Amelia Island
+                  waterfront cleanups.
                 </p>
               </div>
             </div>

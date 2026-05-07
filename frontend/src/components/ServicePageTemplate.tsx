@@ -365,7 +365,7 @@ export function ServicePageTemplate({
                   </Link>
                 </li>
                 <li>
-                  <Link href="/dumpster-rental-ponte-vedra-beach-fl" className="text-primary hover:underline flex items-center gap-2">
+                  <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:underline flex items-center gap-2">
                     <ArrowRight className="w-4 h-4" />
                     Dumpster rental in Ponte Vedra Beach, FL
                   </Link>

@@ -18,7 +18,7 @@ export const MONTH1_POSTS_BATCH2: BlogPost[] = [
     content: `
 ## How to Clean Out Your Garage Without Losing Your Mind
 
-A garage cleanout in Jacksonville can feel overwhelming when years of accumulated stuff has taken over your parking space, but with the right plan, sorting strategy, and a [home cleanout dumpster](/residential-dumpster-rental) in your driveway, you can reclaim your garage in a single weekend. 904 Dumpster makes the process simple with same-day delivery and flat-rate pricing, so you can focus on sorting and decluttering instead of worrying about logistics. The key is working in stages so you don't burn out or make emotional decisions about what stays and what goes.
+A garage cleanout in Jacksonville can feel overwhelming when years of accumulated stuff has taken over your parking space, but with the right plan, sorting strategy, and a [home cleanout dumpster](/residential-dumpster-rental-jacksonville-fl) in your driveway, you can reclaim your garage in a single weekend. 904 Dumpster makes the process simple with same-day delivery and flat-rate pricing, so you can focus on sorting and decluttering instead of worrying about logistics. The key is working in stages so you don't burn out or make emotional decisions about what stays and what goes.
 
 If you have ever opened your garage door and felt a wave of dread wash over you, you are not alone. Across Jacksonville, homeowners are dealing with garages packed floor to ceiling with holiday decorations, broken furniture, outgrown toys, mystery boxes from the last move, and tools they forgot they owned. The average two-car garage in Northeast Florida holds somewhere between 300 and 600 square feet of potential living or working space, and most of us are wasting every inch of it on stuff we never touch.
 
@@ -155,7 +155,7 @@ The total cost of a garage cleanout in Jacksonville depends on how you approach 
 - **Donation pickup:** Free from most Jacksonville charities
 - **Total:** $300-625 for a complete DIY garage cleanout
 
-Compare that to hiring a full-service [junk removal company](/junk-removal-jacksonville), which typically charges $400 to $800 or more depending on the volume of items. The DIY approach with a dumpster rental gives you more control, more time to sort through items, and usually costs less.
+Compare that to hiring a full-service [junk removal company](/junk-removal-jacksonville-fl), which typically charges $400 to $800 or more depending on the volume of items. The DIY approach with a dumpster rental gives you more control, more time to sort through items, and usually costs less.
 
 ## Frequently Asked Questions
 
@@ -411,7 +411,7 @@ Each dumpster size includes a specific weight allowance, which is 1 ton for the 
     content: `
 ## Yard Waste and Landscaping Debris Disposal in Northeast Florida
 
-Disposing of yard waste and landscaping debris in Northeast Florida requires understanding local pickup rules, knowing when a [yard waste dumpster](/residential-dumpster-rental) makes more sense than curbside service, and choosing the right container size for your specific project. 904 Dumpster helps Jacksonville-area homeowners and landscapers handle every type of green waste, tree debris removal, and landscape debris removal efficiently, from routine yard maintenance to major landscaping overhauls.
+Disposing of yard waste and landscaping debris in Northeast Florida requires understanding local pickup rules, knowing when a [yard waste dumpster](/residential-dumpster-rental-jacksonville-fl) makes more sense than curbside service, and choosing the right container size for your specific project. 904 Dumpster helps Jacksonville-area homeowners and landscapers handle every type of green waste, tree debris removal, and landscape debris removal efficiently, from routine yard maintenance to major landscaping overhauls.
 
 Northeast Florida's subtropical climate means yards produce waste year-round. Unlike northern states where yard work pauses during winter, Jacksonville homeowners deal with a constant cycle of growth, pruning, and storm cleanup. Live oaks drop leaves and acorns through spring, palm trees shed fronds monthly, St. Augustine grass grows aggressively from March through October, and hurricane season can dump massive amounts of tree debris across properties with little warning.
 
@@ -610,7 +610,7 @@ No. You can mix yard waste with other accepted materials like construction debri
 
 ### Can I put tree stumps in a dumpster?
 
-Small tree stumps, generally under 50 pounds, can go in a dumpster. Larger stumps present both weight and space challenges. A single large stump can weigh several hundred pounds and take up a significant portion of your container. For large stump disposal, call us to discuss options, which may include our [demolition services](/demolition-services-jacksonville) for stump grinding and removal.
+Small tree stumps, generally under 50 pounds, can go in a dumpster. Larger stumps present both weight and space challenges. A single large stump can weigh several hundred pounds and take up a significant portion of your container. For large stump disposal, call us to discuss options, which may include our [demolition services](/demolition-services-jacksonville-fl) for stump grinding and removal.
 
 ### What is the best time of year for a major landscaping project in Northeast Florida?
 
@@ -641,7 +641,7 @@ Late fall through early spring, from November through March, is the ideal window
     content: `
 ## Why Jacksonville Contractors Choose 904 Dumpster
 
-Jacksonville contractors need a [construction dumpster rental](/construction-dumpster-rental) provider that shows up on time, every time, with clean containers, transparent pricing, and the flexibility to handle the unpredictable demands of construction projects. 904 Dumpster has been the go-to construction dumpster provider for general contractors, remodelers, roofers, and specialty trades across the Jacksonville metropolitan area since 2016 because we understand that your jobsite schedule depends on reliable waste removal.
+Jacksonville contractors need a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) provider that shows up on time, every time, with clean containers, transparent pricing, and the flexibility to handle the unpredictable demands of construction projects. 904 Dumpster has been the go-to construction dumpster provider for general contractors, remodelers, roofers, and specialty trades across the Jacksonville metropolitan area since 2016 because we understand that your jobsite schedule depends on reliable waste removal.
 
 When you are managing a construction project, delays cost money. A dumpster that does not show up on time delays your crew. A container that fills up with no quick swap available forces workers to stack debris on the ground, creating safety hazards and code violations. A hauler that hits you with surprise fees after the job throws off your profit margins. These are the problems that Jacksonville contractors face when they work with the wrong dumpster company, and they are exactly the problems we built our business to solve.
 
@@ -673,7 +673,7 @@ For contractors running several jobsites simultaneously across Jacksonville, we 
 
 ## Construction Waste Types and Guidelines
 
-Knowing what goes in the dumpster and what does not helps your crew load efficiently and avoids potential issues at the disposal facility. Our [construction dumpster rental](/construction-dumpster-rental) service accepts the vast majority of construction and demolition waste.
+Knowing what goes in the dumpster and what does not helps your crew load efficiently and avoids potential issues at the disposal facility. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service accepts the vast majority of construction and demolition waste.
 
 ### Accepted Construction Materials
 
@@ -687,7 +687,7 @@ Knowing what goes in the dumpster and what does not helps your crew load efficie
 
 ### Materials Requiring Special Handling
 
-- **Concrete and heavy masonry:** Accepted but subject to weight limits. If your project produces large amounts of concrete, consider our [concrete disposal dumpster](/concrete-disposal-dumpster) service, which is designed for heavy loads.
+- **Concrete and heavy masonry:** Accepted but subject to weight limits. If your project produces large amounts of concrete, consider our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) service, which is designed for heavy loads.
 - **Roofing shingles:** Multiple layers of shingles from a tear-off are extremely heavy. Our guide on [managing roofing project waste](/blog/roofing-project-waste-management) covers sizing and weight considerations specific to roofing jobs.
 
 ### Prohibited Materials on Construction Sites
@@ -850,10 +850,10 @@ Street placement is possible in some Jacksonville locations, depending on local 
 
 ## Related Resources
 
-- [Construction Dumpster Rental in Jacksonville](/construction-dumpster-rental)
+- [Construction Dumpster Rental in Jacksonville](/construction-dumpster-rental-jacksonville-fl)
 - [Managing Roofing Project Waste in Northeast Florida](/blog/roofing-project-waste-management)
 - [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
-- [Concrete Disposal Dumpster Service](/concrete-disposal-dumpster)
+- [Concrete Disposal Dumpster Service](/concrete-disposal-dumpster-jacksonville-fl)
     `,
   },
   {
@@ -899,7 +899,7 @@ The [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long by 7.5 fe
 
 The [20-yard dumpster](/20-yard-dumpster-rental) measures 14 feet long by 7.5 feet wide by 5.8 feet tall and holds up to 2 tons. This is the largest container we offer and handles major projects with ease.
 
-**Best for:** Major home renovations, teardown projects, new construction debris, estate cleanouts, and large-scale [demolition projects](/demolition-services-jacksonville).
+**Best for:** Major home renovations, teardown projects, new construction debris, estate cleanouts, and large-scale [demolition projects](/demolition-services-jacksonville-fl).
 
 > REVIEW: "Very quick service and Dionis was very communicative and very helpful. Would definitely recommend and order again" - Kevin, Google Review
 
@@ -937,7 +937,7 @@ Atlantic Beach has experienced a significant renovation boom in recent years. Ol
 - **Whole-house teardowns and rebuilds** replacing outdated structures with new construction
 - **Impact window installation** for hurricane protection, which involves removing all existing windows
 
-For major renovation projects, our [residential dumpster rental](/residential-dumpster-rental) service provides the flexibility and capacity Atlantic Beach homeowners need. For complete kitchen remodel waste management, check out our [kitchen renovation debris disposal guide](/blog/kitchen-renovation-debris-disposal-guide).
+For major renovation projects, our [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) service provides the flexibility and capacity Atlantic Beach homeowners need. For complete kitchen remodel waste management, check out our [kitchen renovation debris disposal guide](/blog/kitchen-renovation-debris-disposal-guide).
 
 > REVIEW: "Fast and reliable. Best in Jacksonville area" - Dorian Allmeta, Google Review
 
@@ -995,7 +995,7 @@ The same national brokers that advertise heavily in Jacksonville also target Atl
 
 ### Dumpster Rental vs Junk Removal
 
-For some Atlantic Beach projects, particularly whole-house cleanouts or estate cleanouts where you need help with the physical labor of removing items, our [junk removal service](/junk-removal-jacksonville) may be a better fit than a dumpster rental. With junk removal, our crew does the lifting and loading for you.
+For some Atlantic Beach projects, particularly whole-house cleanouts or estate cleanouts where you need help with the physical labor of removing items, our [junk removal service](/junk-removal-jacksonville-fl) may be a better fit than a dumpster rental. With junk removal, our crew does the lifting and loading for you.
 
 However, for renovation projects, construction debris, and situations where you are already doing the physical work and just need a place to put the waste, a dumpster rental is more cost-effective. You load at your own pace over the 5-day rental period, and you control what goes in.
 
@@ -1062,7 +1062,7 @@ Absolutely. Teardown and rebuild projects are increasingly common in Atlantic Be
 
 ### What if my project produces heavy materials like concrete or tile?
 
-Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-yard includes 1 ton, the 15-yard includes 1.5 tons, and the 20-yard includes 2 tons. Concrete, tile, and stone are among the heaviest construction materials, so be mindful of weight when loading. If your project is primarily heavy material, contact us to discuss options including our [concrete disposal service](/concrete-disposal-dumpster).
+Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-yard includes 1 ton, the 15-yard includes 1.5 tons, and the 20-yard includes 2 tons. Concrete, tile, and stone are among the heaviest construction materials, so be mindful of weight when loading. If your project is primarily heavy material, contact us to discuss options including our [concrete disposal service](/concrete-disposal-dumpster-jacksonville-fl).
 
 ## Related Resources
 

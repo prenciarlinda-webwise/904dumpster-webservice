@@ -18,6 +18,40 @@ interface BreadcrumbItem {
   url: string
 }
 
+// Shared sameAs profile URLs (single source of truth for entity disambiguation)
+const SAMEAS_URLS = [
+  'https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/',
+  'https://www.yelp.com/biz/904-dumpsters-jacksonville',
+  'https://www.instagram.com/904dumpsters/',
+  'https://www.tiktok.com/@904dumpsters',
+  'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
+]
+
+// Wikipedia URLs for cities and counties served. Used as @id refs on City/AdministrativeArea
+// schema objects so search engines can disambiguate the entities served.
+const CITY_WIKIPEDIA_URLS: Record<string, string> = {
+  Jacksonville: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
+  'St. Augustine': 'https://en.wikipedia.org/wiki/St._Augustine,_Florida',
+  'Atlantic Beach': 'https://en.wikipedia.org/wiki/Atlantic_Beach,_Florida',
+  'Neptune Beach': 'https://en.wikipedia.org/wiki/Neptune_Beach,_Florida',
+  'Jacksonville Beach': 'https://en.wikipedia.org/wiki/Jacksonville_Beach,_Florida',
+  'Ponte Vedra Beach': 'https://en.wikipedia.org/wiki/Ponte_Vedra_Beach,_Florida',
+  'Ponte Vedra': 'https://en.wikipedia.org/wiki/Ponte_Vedra_Beach,_Florida',
+  'Orange Park': 'https://en.wikipedia.org/wiki/Orange_Park,_Florida',
+  'Fleming Island': 'https://en.wikipedia.org/wiki/Fleming_Island,_Florida',
+  Middleburg: 'https://en.wikipedia.org/wiki/Middleburg,_Florida',
+  'Green Cove Springs': 'https://en.wikipedia.org/wiki/Green_Cove_Springs,_Florida',
+  'Fernandina Beach': 'https://en.wikipedia.org/wiki/Fernandina_Beach,_Florida',
+  Arlington: 'https://en.wikipedia.org/wiki/Arlington,_Jacksonville',
+}
+
+const COUNTY_WIKIPEDIA_URLS: Record<string, string> = {
+  Duval: 'https://en.wikipedia.org/wiki/Duval_County,_Florida',
+  'St. Johns': 'https://en.wikipedia.org/wiki/St._Johns_County,_Florida',
+  Clay: 'https://en.wikipedia.org/wiki/Clay_County,_Florida',
+  Nassau: 'https://en.wikipedia.org/wiki/Nassau_County,_Florida',
+}
+
 // ============================================================================
 // SITE-WIDE SCHEMAS (for layout.tsx)
 // ============================================================================
@@ -106,27 +140,39 @@ export function generateOrganizationSchema() {
   }
 }
 
-// Generate ServiceArea schema with neighborhood GeoCoordinates
+// Generate ServiceArea schema with neighborhood GeoCoordinates and Wikipedia @id refs
+// for entity disambiguation. Each city/county references its Wikipedia entity so search
+// engines can match the served-area to the canonical place entity.
 export function generateServiceAreaSchema() {
-  return LOCATIONS.map((location) => ({
-    '@type': 'City',
-    name: location.city,
-    address: {
-      '@type': 'PostalAddress',
-      addressLocality: location.city,
-      addressRegion: location.state,
-      addressCountry: 'US',
-    },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: location.geo.latitude,
-      longitude: location.geo.longitude,
-    },
-    containedInPlace: {
-      '@type': 'AdministrativeArea',
-      name: `${location.county} County`,
-    },
-  }))
+  return LOCATIONS.map((location) => {
+    const cityWiki = CITY_WIKIPEDIA_URLS[location.city]
+    const countyWiki = COUNTY_WIKIPEDIA_URLS[location.county]
+    const cityObj: Record<string, unknown> = {
+      '@type': 'City',
+      name: location.city,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: location.city,
+        addressRegion: location.state,
+        addressCountry: 'US',
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: location.geo.latitude,
+        longitude: location.geo.longitude,
+      },
+      containedInPlace: {
+        '@type': 'AdministrativeArea',
+        name: `${location.county} County`,
+        ...(countyWiki ? { '@id': countyWiki, sameAs: countyWiki } : {}),
+      },
+    }
+    if (cityWiki) {
+      cityObj['@id'] = cityWiki
+      cityObj.sameAs = cityWiki
+    }
+    return cityObj
+  })
 }
 
 // Generate enhanced LocalBusiness schema with all neighborhoods
@@ -270,39 +316,6 @@ export function generateDumpsterProductSchema(size: '10' | '15' | '20') {
         name: BUSINESS.name,
       },
       areaServed: generateServiceAreaSchema(),
-      shippingDetails: {
-        '@type': 'OfferShippingDetails',
-        shippingRate: {
-          '@type': 'MonetaryAmount',
-          value: '0',
-          currency: 'USD',
-        },
-        shippingDestination: {
-          '@type': 'DefinedRegion',
-          addressCountry: 'US',
-          addressRegion: 'FL',
-        },
-        deliveryTime: {
-          '@type': 'ShippingDeliveryTime',
-          handlingTime: {
-            '@type': 'QuantitativeValue',
-            minValue: 0,
-            maxValue: 0,
-            unitCode: 'DAY',
-          },
-          transitTime: {
-            '@type': 'QuantitativeValue',
-            minValue: 0,
-            maxValue: 1,
-            unitCode: 'DAY',
-          },
-        },
-      },
-      hasMerchantReturnPolicy: {
-        '@type': 'MerchantReturnPolicy',
-        applicableCountry: 'US',
-        returnPolicyCategory: 'https://schema.org/MerchantReturnNotPermitted',
-      },
     },
     additionalProperty: [
       {
@@ -389,7 +402,7 @@ export function generateDumpsterHowToSchema(size: '10' | '15' | '20') {
 export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
   return {
     '@context': 'https://schema.org',
-    '@type': ['LocalBusiness', 'HomeAndConstructionBusiness'],
+    '@type': 'LocalBusiness',
     '@id': 'https://www.904dumpster.com/#localbusiness',
     name: '904 Dumpster',
     description: `Professional ${size} yard dumpster rental in Jacksonville FL. Same-day delivery, transparent pricing, locally owned since 2016.`,
@@ -476,6 +489,11 @@ export function generateServiceSchema(
       '@id': 'https://www.904dumpster.com/#organization',
       name: BUSINESS.name,
       telephone: BUSINESS.phone,
+      sameAs: SAMEAS_URLS,
+    },
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['#answer-intro', '#faq-section'],
     },
   }
 
@@ -513,6 +531,31 @@ export function generateLocationServiceSchema(
   // Parse service radius (e.g., "15 miles" -> 15)
   const radiusMiles = parseInt(serviceRadius) || 15
   const radiusMeters = radiusMiles * 1609.34 // Convert miles to meters
+  const cityWiki = CITY_WIKIPEDIA_URLS[locationName]
+  const countyWiki = COUNTY_WIKIPEDIA_URLS[county]
+
+  // areaServed combines a precise GeoCircle (for radius coverage) with a named City
+  // entity (for Wikipedia disambiguation). Search engines match the served city
+  // to its canonical entity via the @id ref.
+  const cityEntity: Record<string, unknown> = {
+    '@type': 'City',
+    name: locationName,
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: locationName,
+      addressRegion: 'FL',
+      addressCountry: 'US',
+    },
+    containedInPlace: {
+      '@type': 'AdministrativeArea',
+      name: `${county} County`,
+      ...(countyWiki ? { '@id': countyWiki, sameAs: countyWiki } : {}),
+    },
+  }
+  if (cityWiki) {
+    cityEntity['@id'] = cityWiki
+    cityEntity.sameAs = cityWiki
+  }
 
   return {
     '@context': 'https://schema.org',
@@ -527,6 +570,7 @@ export function generateLocationServiceSchema(
       '@id': 'https://www.904dumpster.com/#organization',
       name: BUSINESS.name,
       telephone: BUSINESS.phone,
+      sameAs: SAMEAS_URLS,
       address: {
         '@type': 'PostalAddress',
         streetAddress: '2797 Anniston Rd',
@@ -536,15 +580,22 @@ export function generateLocationServiceSchema(
         addressCountry: 'US',
       },
     },
-    areaServed: {
-      '@type': 'GeoCircle',
-      geoMidpoint: {
-        '@type': 'GeoCoordinates',
-        latitude: geo.latitude,
-        longitude: geo.longitude,
-      },
-      geoRadius: radiusMeters,
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['#answer-intro', '#faq-section'],
     },
+    areaServed: [
+      {
+        '@type': 'GeoCircle',
+        geoMidpoint: {
+          '@type': 'GeoCoordinates',
+          latitude: geo.latitude,
+          longitude: geo.longitude,
+        },
+        geoRadius: radiusMeters,
+      },
+      cityEntity,
+    ],
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
       name: `Dumpster Rental Services in ${locationName}`,
@@ -930,7 +981,7 @@ export function generateSiteNavigationSchema() {
       {
         '@type': 'SiteNavigationElement',
         name: 'Services',
-        url: 'https://www.904dumpster.com/residential-dumpster-rental',
+        url: 'https://www.904dumpster.com/residential-dumpster-rental-jacksonville-fl',
       },
       {
         '@type': 'SiteNavigationElement',

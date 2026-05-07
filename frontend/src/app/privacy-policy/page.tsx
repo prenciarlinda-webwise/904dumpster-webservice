@@ -10,6 +10,23 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.904dumpster.com/privacy-policy',
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  openGraph: {
+    title: 'Privacy Policy - 904 Dumpster',
+    description: 'How 904 Dumpster collects, uses, and protects customer information.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/privacy-policy',
+    siteName: '904 Dumpster',
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Privacy Policy - 904 Dumpster',
+    description: 'How 904 Dumpster collects, uses, and protects customer information.',
+  },
 }
 
 export default function PrivacyPolicyPage() {

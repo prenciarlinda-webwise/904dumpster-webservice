@@ -6,11 +6,33 @@ import { defaultPricing, priceValidUntil } from '@/data/pricing-helpers'
 import { generatePricingItemListSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Prices Jacksonville FL',
+  title: 'Dumpster Rental Prices Jacksonville FL - 904 Dumpster',
   description:
     'Dumpster rental prices in Jacksonville FL. 10-yard from $299, 15-yard from $349, 20-yard from $399. Rental period included. No hidden fees.',
   alternates: {
     canonical: 'https://www.904dumpster.com/dumpster-rental-pricing-jacksonville',
+  },
+  openGraph: {
+    title: 'Dumpster Rental Prices Jacksonville FL - 904 Dumpster',
+    description: 'Transparent dumpster rental pricing in Jacksonville FL. 10-yard $299, 15-yard $349, 20-yard $399. Delivery, pickup, and disposal included.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/dumpster-rental-pricing-jacksonville',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Dumpster rental pricing in Jacksonville FL from $299',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Dumpster Rental Prices Jacksonville FL - 904 Dumpster',
+    description: 'Transparent pricing: 10-yard $299, 15-yard $349, 20-yard $399. No hidden fees.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 
@@ -410,7 +432,7 @@ export default function PricingPage() {
               <h3 className="font-bold text-secondary mb-4">Explore Our Services</h3>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/residential-dumpster-rental" className="text-primary hover:underline flex items-center gap-2">
+                  <Link href="/residential-dumpster-rental-jacksonville-fl" className="text-primary hover:underline flex items-center gap-2">
                     <ArrowRight className="w-4 h-4" />
                     Residential dumpster rental in Jacksonville
                   </Link>
@@ -453,7 +475,7 @@ export default function PricingPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/dumpster-rental-ponte-vedra-beach-fl" className="text-primary hover:underline flex items-center gap-2">
+                  <Link href="/dumpster-rental-ponte-vedra-fl" className="text-primary hover:underline flex items-center gap-2">
                     <ArrowRight className="w-4 h-4" />
                     Dumpster rental in Ponte Vedra Beach, FL
                   </Link>

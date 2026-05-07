@@ -26,7 +26,22 @@ export const metadata: Metadata = {
       'Landscaping dumpster rental in Jacksonville FL. Yard waste and landscape debris disposal.',
     type: 'website',
     url: 'https://www.904dumpster.com/dumpster-rental/dumpsters-for-landscaping-projects',
-    siteName: '904 Dumpster - Dumpster Rental Jacksonville',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Landscaping dumpster rental in Jacksonville FL for yard waste and tree debris',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Landscaping Dumpster Rental Jacksonville FL',
+    description: 'Yard waste, sod, brush, and tree debris hauled away. Same-day delivery in Jacksonville.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 
@@ -88,7 +103,7 @@ const faqs = [
 const relatedServices = [
   {
     title: 'Junk Removal',
-    href: '/junk-removal-jacksonville',
+    href: '/junk-removal-jacksonville-fl',
     description: 'Let us haul away your yard waste and debris',
   },
   {
@@ -105,18 +120,18 @@ const relatedServices = [
 
 const blogPosts = [
   {
-    title: 'What Size Dumpster Do I Need?',
-    href: '/blog/what-size-dumpster-do-i-need',
+    title: 'How to Choose the Right Dumpster Size',
+    href: '/blog/how-to-choose-right-dumpster-size',
     description: 'A complete guide to choosing the right dumpster size',
   },
   {
     title: 'Yard Waste Disposal Guide',
-    href: '/blog/yard-waste-disposal-guide',
+    href: '/blog/yard-waste-disposal-guide-what-goes-where',
     description: 'How to properly dispose of landscaping debris',
   },
   {
-    title: 'Dumpster Rental Pricing Guide',
-    href: '/blog/dumpster-rental-pricing-guide',
+    title: 'Dumpster Rental Cost and Pricing Guide',
+    href: '/blog/dumpster-rental-cost-complete-pricing-guide',
     description: 'Everything you need to know about dumpster costs',
   },
 ]

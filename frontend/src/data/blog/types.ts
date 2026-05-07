@@ -16,6 +16,7 @@ export interface BlogPost {
   updatedDate?: string
   readTime: string
   featuredImage?: string
+  featuredImageAlt?: string
   content: string
   tags: string[]
   status: 'published' | 'scheduled' | 'draft'

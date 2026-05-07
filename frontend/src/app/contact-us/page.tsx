@@ -5,11 +5,33 @@ import { BUSINESS } from '@/lib/constants'
 import { generateContactPageSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Contact Us',
+  title: 'Contact 904 Dumpster - Jacksonville FL Dumpster Rental',
   description:
     'Contact 904 Dumpster for a free dumpster rental quote in Jacksonville FL. Call (904) 240-5598. Same-day delivery available.',
   alternates: {
     canonical: 'https://www.904dumpster.com/contact-us',
+  },
+  openGraph: {
+    title: 'Contact 904 Dumpster - Jacksonville FL',
+    description: 'Free quote on dumpster rental in Jacksonville FL. Call or book online for same-day delivery.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/contact-us',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: 'Contact 904 Dumpster for roll-off rental in Jacksonville FL',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Contact 904 Dumpster - Jacksonville FL',
+    description: 'Free quote on dumpster rental in Jacksonville FL. Same-day delivery available.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 

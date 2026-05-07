@@ -82,7 +82,7 @@ Volume is only half the equation. Every dumpster also has a weight limit, and ex
 - **Concrete and masonry**: about 2,000+ lbs per cubic yard
 - **Roofing shingles**: about 750-1,000 lbs per cubic yard
 
-If your project involves heavy materials like concrete, tile, or brick, you may need a specialized [concrete disposal dumpster](/concrete-disposal-dumpster) or should plan to fill the container only partially to stay within weight limits. For more details on what materials are accepted, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+If your project involves heavy materials like concrete, tile, or brick, you may need a specialized [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) or should plan to fill the container only partially to stay within weight limits. For more details on what materials are accepted, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
 
 ### Dumpster Sizes for Your Project
 
@@ -138,7 +138,7 @@ For a single-room renovation like a bathroom or kitchen, a [10-yard dumpster](/1
 
 ### Can I put heavy materials like concrete in a regular dumpster?
 
-Small amounts of concrete mixed with other debris are generally fine, but large volumes of concrete, brick, or stone should go in a dedicated [concrete disposal dumpster](/concrete-disposal-dumpster). These materials are extremely heavy and can exceed standard weight limits quickly.
+Small amounts of concrete mixed with other debris are generally fine, but large volumes of concrete, brick, or stone should go in a dedicated [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl). These materials are extremely heavy and can exceed standard weight limits quickly.
 
 ### What if I fill my dumpster and still have more debris?
 
@@ -171,7 +171,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 A standard two-car garage conversion in Jacksonville generates between 8 and 15 cubic yards of waste depending on the scope of work involved. That is more than most homeowners expect, and it accumulates fast. Without a plan for debris removal, waste piles up in your driveway or yard, slows down the work, creates safety hazards, and can even violate City of Jacksonville code enforcement rules about debris storage.
 
-By having a [residential dumpster rental](/residential-dumpster-rental) on-site from day one, your contractor or work crew can load debris as it is generated. This keeps the workspace clean, makes inspections easier, and prevents the frustrating cycle of stopping work to haul loads to the dump.
+By having a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) on-site from day one, your contractor or work crew can load debris as it is generated. This keeps the workspace clean, makes inspections easier, and prevents the frustrating cycle of stopping work to haul loads to the dump.
 
 ## Garage Conversion Permits and What They Mean for Your Timeline
 
@@ -200,7 +200,7 @@ This initial cleanout alone can fill a [10-yard dumpster](/10-yard-dumpster-rent
 Once the garage is empty, the conversion work begins with demolition. This is the most waste-intensive phase and produces the heaviest debris. Common demolition tasks include:
 
 - **Garage door removal:** A standard two-car garage door weighs 150 to 300 pounds. The door, tracks, springs, and hardware all need disposal.
-- **Concrete floor modification:** If the garage floor slopes toward the driveway (as most do for drainage), it may need leveling. Breaking up and removing sections of concrete creates extremely heavy waste. Consider a [concrete disposal dumpster](/concrete-disposal-dumpster) if significant concrete work is involved.
+- **Concrete floor modification:** If the garage floor slopes toward the driveway (as most do for drainage), it may need leveling. Breaking up and removing sections of concrete creates extremely heavy waste. Consider a [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) if significant concrete work is involved.
 - **Existing wall removal or modification:** Interior walls between the garage and the house may be opened up or reconfigured. This produces drywall, framing lumber, and insulation waste.
 - **Old electrical and plumbing removal:** Outdated wiring, junction boxes, and any existing plumbing fixtures generate smaller but still notable waste.
 
@@ -265,7 +265,7 @@ Have the dumpster on-site before demolition begins. This way, debris goes direct
 
 ### Separate Heavy Materials
 
-If your conversion involves breaking up concrete, keep that material separate from general construction debris. Concrete is extremely heavy, about 2,000 pounds per cubic yard, and mixing it with lighter materials can cause weight limit issues. Ask about our [concrete disposal dumpster](/concrete-disposal-dumpster) option for heavy materials.
+If your conversion involves breaking up concrete, keep that material separate from general construction debris. Concrete is extremely heavy, about 2,000 pounds per cubic yard, and mixing it with lighter materials can cause weight limit issues. Ask about our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option for heavy materials.
 
 ### Plan for Multiple Phases
 
@@ -694,7 +694,7 @@ Deck demolition waste comes in awkward sizes. Full-length deck boards can be 8 t
 
 Deck support posts are typically set in concrete footings below ground level. Removing these footings creates heavy waste. A single concrete footing can weigh 100 to 300 pounds depending on size. A deck with 8 to 12 footings could produce 1,000 to 3,000 pounds of concrete waste.
 
-If you are replacing the deck, your contractor may be able to reuse existing footings if they are in good condition and properly positioned. This saves significant labor and waste. If the footings need to come out, consider our [concrete disposal dumpster](/concrete-disposal-dumpster) option for the heavy material, keeping it separate from the lighter wood waste.
+If you are replacing the deck, your contractor may be able to reuse existing footings if they are in good condition and properly positioned. This saves significant labor and waste. If the footings need to come out, consider our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option for the heavy material, keeping it separate from the lighter wood waste.
 
 ## Deck Maintenance Waste vs. Full Replacement
 
@@ -780,9 +780,9 @@ Large furniture is the most common disposal challenge during attic and basement 
 
 **Curbside pickup:** The City of Jacksonville offers bulk waste pickup for residents, but there are limitations on frequency and the types of items accepted. The wait time can be days to weeks depending on demand. This works for a single piece of furniture but is impractical for a full attic or basement cleanout.
 
-**Dumpster rental:** A [residential dumpster rental](/residential-dumpster-rental) is the most efficient option when you have multiple large items to dispose of. Old sofas, dressers, bookshelves, desks, bed frames, and mattresses all go directly into the container. For most attic and basement cleanouts, a [10-yard dumpster](/10-yard-dumpster-rental) or [15-yard dumpster](/15-yard-dumpster-rental) provides enough capacity. For more guidance on furniture disposal specifically, read our [guide to disposing of old furniture](/blog/how-to-dispose-of-old-furniture-guide).
+**Dumpster rental:** A [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) is the most efficient option when you have multiple large items to dispose of. Old sofas, dressers, bookshelves, desks, bed frames, and mattresses all go directly into the container. For most attic and basement cleanouts, a [10-yard dumpster](/10-yard-dumpster-rental) or [15-yard dumpster](/15-yard-dumpster-rental) provides enough capacity. For more guidance on furniture disposal specifically, read our [guide to disposing of old furniture](/blog/how-to-dispose-of-old-furniture-guide).
 
-**Junk removal service:** If you do not want to do the loading yourself, our [junk removal service in Jacksonville](/junk-removal-jacksonville) handles the heavy lifting for you.
+**Junk removal service:** If you do not want to do the loading yourself, our [junk removal service in Jacksonville](/junk-removal-jacksonville-fl) handles the heavy lifting for you.
 
 | Disposal Method | Best For | Typical Cost | Wait Time |
 |----------------|---------|-------------|-----------|
@@ -860,7 +860,7 @@ For help choosing, read our [how to choose the right dumpster size](/blog/how-to
 
 ### How do I get rid of large furniture items in Jacksonville?
 
-You have several options: donate to Habitat for Humanity ReStore or Goodwill for items in good condition, schedule a City of Jacksonville bulk pickup, rent a dumpster and load items yourself, or use a [junk removal service](/junk-removal-jacksonville). A dumpster rental is the most practical option for multiple large items.
+You have several options: donate to Habitat for Humanity ReStore or Goodwill for items in good condition, schedule a City of Jacksonville bulk pickup, rent a dumpster and load items yourself, or use a [junk removal service](/junk-removal-jacksonville-fl). A dumpster rental is the most practical option for multiple large items.
 
 ### Where can I take old furniture to dump it?
 
@@ -976,7 +976,7 @@ During major cleanout and renovation projects, consider these steps:
 2. Sort latex from oil-based (check the label or the cleanup instructions on the can)
 3. Set aside oil-based paint for the HHW facility
 4. Dry out latex paint using the methods above
-5. Load dried paint cans in your [dumpster rental](/residential-dumpster-rental) along with other renovation debris
+5. Load dried paint cans in your [dumpster rental](/residential-dumpster-rental-jacksonville-fl) along with other renovation debris
 
 ### Dumpster Sizes for Your Project
 
@@ -1004,7 +1004,7 @@ While you are dealing with old paint, you may discover other hazardous materials
 
 If you are a contractor or business generating larger quantities of paint waste in Jacksonville, the disposal rules are different from residential. Commercial paint waste may require manifested hazardous waste pickup through a licensed hauler. Contact the Florida Department of Environmental Protection or a commercial waste management company for guidance on commercial quantities.
 
-For the non-paint waste from your commercial projects, we offer [commercial dumpster rentals](/commercial-dumpster-rental) with the same flat-rate pricing and reliable service throughout Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and all of Northeast Florida.
+For the non-paint waste from your commercial projects, we offer [commercial dumpster rentals](/commercial-dumpster-rental-jacksonville-fl) with the same flat-rate pricing and reliable service throughout Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and all of Northeast Florida.
 
 ## Frequently Asked Questions
 
@@ -1030,7 +1030,7 @@ No. Even latex paint should not be poured down drains. It can clog pipes and con
 
 ### What if I have a large amount of old paint from a renovation?
 
-For major renovation projects that generate multiple gallons of old paint, schedule a trip to the HHW facility for oil-based products and dry out latex paint in batches. If you are also clearing out other renovation debris, a [dumpster rental](/residential-dumpster-rental) handles everything else while you deal with the paint separately.
+For major renovation projects that generate multiple gallons of old paint, schedule a trip to the HHW facility for oil-based products and dry out latex paint in batches. If you are also clearing out other renovation debris, a [dumpster rental](/residential-dumpster-rental-jacksonville-fl) handles everything else while you deal with the paint separately.
 `,
   },
   // Post 43
@@ -1106,7 +1106,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is our largest option and handles
 **Best for:**
 - Whole house cleanouts
 - Large renovation projects
-- [Construction debris](/construction-dumpster-rental)
+- [Construction debris](/construction-dumpster-rental-jacksonville-fl)
 - Moving cleanouts
 
 ### Dumpster Sizes for Your Project
@@ -1182,7 +1182,7 @@ Certain materials cannot go in a roll-off dumpster:
 - Medical waste
 - Appliances containing refrigerant (must be evacuated first)
 
-For the complete list, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster). If you have paint to dispose of, see our [Jacksonville paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville).
+For the complete list, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster). If you have paint to dispose of, see our [Jacksonville paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville).
 
 ## Tips for First-Time Dumpster Renters
 
@@ -1238,7 +1238,7 @@ Each dumpster size comes with a generous weight allowance. For general household
 
 ### Is renting a dumpster better than hiring junk removal?
 
-It depends on your situation. A dumpster rental is more affordable if you are willing to do the loading yourself and you have time to fill it over several days. [Junk removal](/junk-removal-jacksonville) is better if you want someone else to do all the heavy lifting and you need the items gone immediately. Many customers use both: a dumpster for the bulk of the project and junk removal for the heaviest or most awkward items.
+It depends on your situation. A dumpster rental is more affordable if you are willing to do the loading yourself and you have time to fill it over several days. [Junk removal](/junk-removal-jacksonville-fl) is better if you want someone else to do all the heavy lifting and you need the items gone immediately. Many customers use both: a dumpster for the bulk of the project and junk removal for the heaviest or most awkward items.
 
 ### What happens if I need a different size after delivery?
 
@@ -1315,7 +1315,7 @@ Summer is the perfect time for a garage cleanout. You need the space for vehicle
 
 The average Jacksonville garage cleanout produces 5 to 10 cubic yards of waste. Old paint cans, broken tools, rusted equipment, outdated holiday decorations, and boxes of items you forgot you had all need somewhere to go. Our [garage cleanout guide](/blog/garage-cleanout-guide-jacksonville) walks through the entire process.
 
-**Important paint note:** If you find old paint during your garage cleanout, remember that liquid paint cannot go in a dumpster. See our [Jacksonville paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) for proper disposal locations.
+**Important paint note:** If you find old paint during your garage cleanout, remember that liquid paint cannot go in a dumpster. See our [Jacksonville paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville) for proper disposal locations.
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
@@ -1401,9 +1401,9 @@ Yes. Branches, leaves, shrubs, mulch, and general yard debris are all accepted i
   // Post 45
   {
     slug: 'commercial-dumpster-rental-business-waste-guide',
-    title: 'Commercial Dumpster Rental: Business Waste Management Guide',
-    metaTitle: 'Commercial Dumpster Rental Jacksonville FL - Business Waste Guide',
-    metaDescription: 'Need a commercial dumpster rental in Jacksonville? Learn about roll-off dumpster sizes, business waste management options, pricing, and how to choose the right service for your company.',
+    title: 'Commercial Roll-Off Dumpster Guide for Jacksonville Businesses',
+    metaTitle: 'Roll-Off Dumpsters for Jacksonville Businesses - Sizing & Planning Guide',
+    metaDescription: 'Sizing, scheduling, and planning a roll-off dumpster for Jacksonville business projects. Learn the difference between temporary roll-offs and permanent containers, and which size fits your project.',
     excerpt: 'Jacksonville businesses generate waste from renovations, cleanouts, construction, and daily operations. This guide covers commercial dumpster rental options, sizing, and waste management planning for local businesses.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
@@ -1414,9 +1414,9 @@ Yes. Branches, leaves, shrubs, mulch, and general yard debris are all accepted i
     status: 'published' as const,
     relatedSlugs: ['dumpster-rental-for-homeowners-first-time-guide', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
-## Commercial Dumpster Rental: Business Waste Management Guide
+## Commercial Roll-Off Dumpster Guide for Jacksonville Businesses
 
-Jacksonville's business community generates an enormous amount of waste every day. From retail stores clearing inventory to contractors hauling construction debris, from property managers handling tenant turnovers to restaurants managing renovations, commercial waste disposal is a constant need. If your business requires temporary, project-based waste removal, a commercial roll-off dumpster rental provides the flexibility and capacity that standard permanent dumpsters cannot match.
+Jacksonville's business community generates an enormous amount of waste every day. From retail stores clearing inventory to contractors hauling construction debris, from property managers handling tenant turnovers to restaurants managing renovations, commercial waste disposal is a constant need. If your business requires temporary, project-based waste removal, a roll-off dumpster provides the flexibility and capacity that standard permanent containers cannot match. This guide covers sizing, planning, and project workflows. For pricing and booking, see our [commercial dumpster rental in Jacksonville FL](/commercial-dumpster-rental-jacksonville-fl) page.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1437,7 +1437,7 @@ Roll-off dumpsters are the 10-yard, 15-yard, and 20-yard containers that get del
 - Inventory disposal and warehouse cleanouts
 - Property management turnovers
 - Seasonal cleanups and large-scale decluttering
-- [Demolition projects](/demolition-services-jacksonville)
+- [Demolition projects](/demolition-services-jacksonville-fl)
 - Storm damage cleanup
 
 This guide focuses on roll-off dumpster rentals for commercial and business use, which is our specialty.
@@ -1476,7 +1476,7 @@ The [20-yard dumpster](/20-yard-dumpster-rental) is our largest option and handl
 - Full commercial space renovation
 - Large warehouse cleanouts
 - Construction site debris
-- [Commercial construction projects](/construction-dumpster-rental)
+- [Commercial construction projects](/construction-dumpster-rental-jacksonville-fl)
 
 ### Dumpster Sizes for Your Project
 
@@ -1498,9 +1498,9 @@ Many Jacksonville property management companies schedule regular dumpster rental
 
 General contractors, remodeling companies, and specialty trades generate debris on every job site. Having a dedicated roll-off dumpster on-site keeps the work area clean, makes inspections easier, and prevents debris from spilling onto neighboring properties.
 
-For construction projects, the type of debris matters as much as the volume. General construction waste (wood, drywall, insulation) is lighter per cubic yard than demolition waste (concrete, tile, masonry). If your project involves heavy materials like concrete or brick, talk to us about our [concrete disposal dumpster](/concrete-disposal-dumpster) option or weight allowances for standard containers.
+For construction projects, the type of debris matters as much as the volume. General construction waste (wood, drywall, insulation) is lighter per cubic yard than demolition waste (concrete, tile, masonry). If your project involves heavy materials like concrete or brick, talk to us about our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option or weight allowances for standard containers.
 
-Our [construction dumpster rental](/construction-dumpster-rental) service is designed for the unique needs of job sites including flexible scheduling, swap-outs when containers are full, and multi-container delivery for larger projects.
+Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service is designed for the unique needs of job sites including flexible scheduling, swap-outs when containers are full, and multi-container delivery for larger projects.
 
 ### Retail and Restaurant Businesses
 
@@ -1579,7 +1579,7 @@ Booking is simple whether you need one dumpster or ten. [Book online 24/7](https
 
 | | | |
 |---|---|---|
-| [**Commercial Dumpster Rental** - Project-based waste removal](/commercial-dumpster-rental) | [**Construction Dumpster Rental** - Job site debris management](/construction-dumpster-rental) | [**Demolition Services** - Full-service demolition and hauling](/demolition-services-jacksonville) |
+| [**Commercial Dumpster Rental** - Project-based waste removal](/commercial-dumpster-rental-jacksonville-fl) | [**Construction Dumpster Rental** - Job site debris management](/construction-dumpster-rental-jacksonville-fl) | [**Demolition Services** - Full-service demolition and hauling](/demolition-services-jacksonville-fl) |
 
 ## Frequently Asked Questions
 

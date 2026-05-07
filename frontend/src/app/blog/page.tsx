@@ -6,11 +6,33 @@ import { getPublishedPosts } from '@/data/blog'
 import { generateBlogCollectionSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Blog',
+  title: 'Dumpster Rental Blog - 904 Dumpster Tips & Guides',
   description:
-    'Dumpster rental tips, home improvement guides, and Jacksonville waste disposal information.',
+    'Dumpster rental tips, home improvement guides, and Jacksonville waste disposal information from 904 Dumpster.',
   alternates: {
     canonical: 'https://www.904dumpster.com/blog',
+  },
+  openGraph: {
+    title: 'Dumpster Rental Blog - 904 Dumpster',
+    description: 'Tips, guides, and local Jacksonville waste disposal info on dumpster rental, home cleanouts, and renovation projects.',
+    type: 'website',
+    url: 'https://www.904dumpster.com/blog',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: '904 Dumpster blog covering dumpster rental and waste disposal',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Dumpster Rental Blog - 904 Dumpster',
+    description: 'Tips, guides, and local Jacksonville waste disposal info.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 

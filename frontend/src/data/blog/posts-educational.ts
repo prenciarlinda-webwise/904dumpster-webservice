@@ -416,7 +416,7 @@ C&D waste comes from construction, renovation, remodeling, and demolition projec
 | Whole-house renovation | [20-yard](/20-yard-dumpster-rental) | 12-20 cubic yards |
 | Small demolition project | [20-yard](/20-yard-dumpster-rental) | 15-20 cubic yards |
 
-**Key considerations:** C&D waste varies widely in weight. A dumpster full of lumber and drywall weighs much less than one full of concrete and roofing shingles. If your project involves heavy C&D materials, let us know so we can advise on the best approach. For contractor-specific guidance, visit our [construction dumpster rental](/construction-dumpster-rental) page.
+**Key considerations:** C&D waste varies widely in weight. A dumpster full of lumber and drywall weighs much less than one full of concrete and roofing shingles. If your project involves heavy C&D materials, let us know so we can advise on the best approach. For contractor-specific guidance, visit our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) page.
 
 ### 3. Yard Waste and Green Debris
 
@@ -693,7 +693,7 @@ Legal disposal is far more affordable than most people assume. A dumpster rental
 
 ### Why is construction debris so commonly dumped illegally?
 
-Construction debris is bulky and heavy, which makes it inconvenient to transport to a disposal facility, especially in personal vehicles. Some unlicensed contractors cut costs by dumping debris rather than paying for proper disposal. Hiring a reputable contractor who includes waste disposal in their project cost, or renting your own dumpster through our [construction dumpster rental](/construction-dumpster-rental) service, ensures debris is handled legally.
+Construction debris is bulky and heavy, which makes it inconvenient to transport to a disposal facility, especially in personal vehicles. Some unlicensed contractors cut costs by dumping debris rather than paying for proper disposal. Hiring a reputable contractor who includes waste disposal in their project cost, or renting your own dumpster through our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service, ensures debris is handled legally.
 
 ### How can I help reduce illegal dumping in my neighborhood?
 
@@ -878,7 +878,7 @@ For more contractor-specific guidance, check out our [construction dumpster rent
 
 ## How 904 Dumpster Supports C&D Projects
 
-We work with contractors and homeowners across Jacksonville on construction and demolition projects of all sizes. Our [construction dumpster rental](/construction-dumpster-rental) service includes:
+We work with contractors and homeowners across Jacksonville on construction and demolition projects of all sizes. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service includes:
 
 - **Flexible sizing**: [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters to match your project scope
 - **Flat-rate pricing**: $299, $349, and $399 with delivery, pickup, and disposal included

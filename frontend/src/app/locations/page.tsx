@@ -4,12 +4,32 @@ import { Phone, MapPin, ArrowRight, CheckCircle2, Truck, Clock, Shield } from 'l
 import { BUSINESS } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Service Areas - Dumpster Rental Jacksonville & Northeast Florida',
-  description: 'Professional dumpster rental serving Jacksonville, St. Augustine, Orange Park, Ponte Vedra Beach and all of Northeast Florida. Same-day delivery available.',
+  title: 'Service Areas - Dumpster Rental Northeast Florida',
+  description: 'Dumpster rental serving Jacksonville, St. Augustine, Orange Park, Ponte Vedra Beach and all of Northeast Florida. Same-day delivery available.',
+  alternates: {
+    canonical: 'https://www.904dumpster.com/locations',
+  },
   openGraph: {
     title: 'Service Areas - 904 Dumpster',
-    description: 'Professional dumpster rental serving Jacksonville and all of Northeast Florida.',
+    description: 'Roll-off dumpster rental across Duval, Clay, St. Johns, and Nassau counties.',
     type: 'website',
+    url: 'https://www.904dumpster.com/locations',
+    siteName: '904 Dumpster',
+    images: [
+      {
+        url: '/images/main-hero-dumpster.jpeg',
+        width: 1200,
+        height: 630,
+        alt: '904 Dumpster service areas across Northeast Florida',
+      },
+    ],
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Service Areas - 904 Dumpster',
+    description: 'Roll-off dumpster rental across Duval, Clay, St. Johns, and Nassau counties.',
+    images: ['/images/main-hero-dumpster.jpeg'],
   },
 }
 

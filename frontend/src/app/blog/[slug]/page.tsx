@@ -40,10 +40,10 @@ function getContextualInterlinks(post: BlogPost, allPosts: BlogPost[]): { set1: 
     { title: '10 Yard Dumpster', description: 'From $299. Small cleanouts, garage projects', href: '/10-yard-dumpster-rental', label: 'Dumpster Size' },
     { title: '15 Yard Dumpster', description: 'From $349. Renovations, roofing, remodels', href: '/15-yard-dumpster-rental', label: 'Dumpster Size' },
     { title: '20 Yard Dumpster', description: 'From $399. Large renovations, construction', href: '/20-yard-dumpster-rental', label: 'Most Popular' },
-    { title: 'Junk Removal', description: 'We load it for you. Full-service hauling', href: '/junk-removal-jacksonville', label: 'Service' },
-    { title: 'Construction Dumpster', description: 'Job site waste. Contractors welcome', href: '/construction-dumpster-rental', label: 'Service' },
-    { title: 'Concrete Disposal', description: 'Heavy materials: brick, block, asphalt', href: '/concrete-disposal-dumpster', label: 'Service' },
-    { title: 'Demolition Services', description: 'Professional demo: sheds, decks, interiors', href: '/demolition-services-jacksonville', label: 'Service' },
+    { title: 'Junk Removal', description: 'We load it for you. Full-service hauling', href: '/junk-removal-jacksonville-fl', label: 'Service' },
+    { title: 'Construction Dumpster', description: 'Job site waste. Contractors welcome', href: '/construction-dumpster-rental-jacksonville-fl', label: 'Service' },
+    { title: 'Concrete Disposal', description: 'Heavy materials: brick, block, asphalt', href: '/concrete-disposal-dumpster-jacksonville-fl', label: 'Service' },
+    { title: 'Demolition Services', description: 'Professional demo: sheds, decks, interiors', href: '/demolition-services-jacksonville-fl', label: 'Service' },
     { title: 'Dumpster Size Guide', description: 'Not sure which size? Compare all options', href: '/dumpster-size-guide', label: 'Guide' },
     { title: 'Pricing Guide', description: 'Transparent flat-rate pricing. No hidden fees', href: '/dumpster-rental-pricing-jacksonville', label: 'Pricing' },
   ]
@@ -131,6 +131,9 @@ export async function generateMetadata({
     return { title: '404 - Post Not Found' }
   }
 
+  const ogImage = post.featuredImage || '/images/main-hero-dumpster.jpeg'
+  const ogImageAlt = post.featuredImageAlt || post.title
+
   return {
     title: post.metaTitle,
     description: post.metaDescription,
@@ -142,10 +145,27 @@ export async function generateMetadata({
       title: post.title,
       description: post.metaDescription,
       type: 'article',
+      url: `https://www.904dumpster.com/blog/${slug}`,
+      siteName: '904 Dumpster',
       publishedTime: post.publishedDate,
       modifiedTime: post.updatedDate || post.publishedDate,
       authors: [post.author],
       tags: post.tags,
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: ogImageAlt,
+        },
+      ],
+      locale: 'en_US',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description: post.metaDescription,
+      images: [ogImage],
     },
   }
 }
@@ -777,7 +797,7 @@ export default async function BlogPostPage({
                       <div className="text-sm text-gray-500">Starting at $399 &bull; Large renovations</div>
                     </Link>
                     <Link
-                      href="/junk-removal-jacksonville"
+                      href="/junk-removal-jacksonville-fl"
                       className="block group bg-white rounded-xl p-4 border border-gray-200 hover:border-primary hover:shadow-md transition-all"
                       title="Junk Removal Jacksonville"
                     >
