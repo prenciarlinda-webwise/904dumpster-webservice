@@ -33,6 +33,11 @@ interface ServicePageTemplateProps {
   }[]
   showDumpsterSizes?: boolean
   ctaText?: string
+  localContent?: string
+  localContentTitle?: string
+  quickAnswer?: string
+  bodyContent?: string
+  bodyContentTitle?: string
 }
 
 export function ServicePageTemplate({
@@ -46,6 +51,11 @@ export function ServicePageTemplate({
   relatedServices,
   showDumpsterSizes = true,
   ctaText = 'Get a Free Quote',
+  localContent,
+  localContentTitle,
+  quickAnswer,
+  bodyContent,
+  bodyContentTitle,
 }: ServicePageTemplateProps) {
   return (
     <div className="min-h-screen">
@@ -101,6 +111,37 @@ export function ServicePageTemplate({
         </div>
       </section>
 
+      {/* Quick Answer (AEO + voice/Speakable target). Renders only when authored. */}
+      {quickAnswer && (
+        <section className="py-12 bg-white border-b border-gray-100">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
+              <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
+              <p className="text-base lg:text-lg text-gray-700 leading-relaxed">
+                {quickAnswer}
+              </p>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Body Content - rich, brand- and keyword-dense prose. Renders directly after Quick Answer for top-of-page content depth. */}
+      {bodyContent && (
+        <section className="py-16 lg:py-20 bg-white">
+          <div className="max-w-4xl mx-auto px-4 lg:px-6">
+            {bodyContentTitle && (
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-8 text-center">
+                {bodyContentTitle}
+              </h2>
+            )}
+            <div
+              className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-5 [&_h3]:text-2xl [&_h3]:font-black [&_h3]:text-secondary [&_h3]:mt-10 [&_h3]:mb-4 [&_a]:text-primary [&_a]:font-semibold [&_a:hover]:underline [&_strong]:text-secondary [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:space-y-2 [&_ol]:list-decimal [&_ol]:pl-6 [&_ol]:space-y-2"
+              dangerouslySetInnerHTML={{ __html: bodyContent }}
+            />
+          </div>
+        </section>
+      )}
+
       {/* Google Reviews - Compact */}
       {/* Features & Benefits */}
       <section className="py-20 lg:py-28 bg-white">
@@ -124,7 +165,7 @@ export function ServicePageTemplate({
             </div>
 
             <div className="bg-gray-50 rounded-3xl p-8">
-              <h3 className="text-xl font-bold text-secondary mb-6">Ideal For:</h3>
+              <p className="text-xl font-bold text-secondary mb-6">Ideal For</p>
               <div className="grid grid-cols-2 gap-4">
                 {idealFor.map((item, i) => (
                   <div
@@ -184,6 +225,48 @@ export function ServicePageTemplate({
           </div>
         </div>
       </section>
+
+      {/* Local Map + Jacksonville Signal. Renders BEFORE pricing so the location-anchored H2 sits above "Starting at". */}
+      {localContent && (
+        <section className="py-20 lg:py-24 bg-white border-t border-gray-100">
+          <div className="max-w-6xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-12">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                Jacksonville Headquarters
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                {localContentTitle || `${title} Service Area in Jacksonville, FL`}
+              </h2>
+            </div>
+
+            <div className="grid lg:grid-cols-5 gap-8 lg:gap-10 items-stretch">
+              <div
+                className="lg:col-span-3 space-y-5 text-gray-600 leading-relaxed"
+                dangerouslySetInnerHTML={{ __html: localContent }}
+              />
+
+              <div className="lg:col-span-2">
+                <div className="rounded-2xl overflow-hidden shadow-lg h-full min-h-[320px]">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3444.974670483613!2d-81.54286112412986!3d30.294782706665742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db642a87e4a74b%3A0x1adfa8130de0c999!2s904%20Dumpster%20-%20Dumpster%20Rental%20Jacksonville!5e0!3m2!1sen!2s!4v1778233886677!5m2!1sen!2s"
+                    width="100%"
+                    height="100%"
+                    loading="lazy"
+                    className="border-0 w-full h-full min-h-[320px]"
+                    title={`904 Dumpster ${title} - Jacksonville FL`}
+                    referrerPolicy="no-referrer-when-downgrade"
+                  />
+                </div>
+                <div className="mt-4 text-sm text-gray-600 bg-gray-50 rounded-xl p-4">
+                  <div className="font-bold text-secondary mb-1">904 Dumpster</div>
+                  <div>2797 Anniston Rd</div>
+                  <div>Jacksonville, FL 32246</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Pricing Section */}
       {pricing && (
@@ -256,7 +339,7 @@ export function ServicePageTemplate({
 
       {/* FAQs */}
       {faqs && faqs.length > 0 && (
-        <section className="py-20 lg:py-28 bg-white">
+        <section id="faq-section" className="py-20 lg:py-28 bg-white">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div className="text-center mb-16">
               <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
@@ -288,9 +371,9 @@ export function ServicePageTemplate({
         <section className="py-20 lg:py-28 bg-white">
           <div className="max-w-7xl mx-auto px-4 lg:px-6">
             <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              <p className="text-3xl md:text-4xl font-black text-secondary mb-4">
                 Related Services
-              </h2>
+              </p>
             </div>
             <div className="grid md:grid-cols-3 gap-8">
               {relatedServices.map((service, i) => (
@@ -299,9 +382,9 @@ export function ServicePageTemplate({
                   href={service.href}
                   className="group bg-gray-50 rounded-2xl p-6 hover:bg-white hover:shadow-xl transition-all"
                 >
-                  <h3 className="font-bold text-secondary mb-2 group-hover:text-primary transition-colors">
+                  <p className="font-bold text-secondary mb-2 group-hover:text-primary transition-colors">
                     {service.title}
-                  </h3>
+                  </p>
                   <p className="text-gray-500 text-sm mb-4">{service.description}</p>
                   <span className="inline-flex items-center gap-1 text-primary font-semibold text-sm group-hover:gap-2 transition-all">
                     Learn More <ArrowRight className="w-4 h-4" />
@@ -319,7 +402,7 @@ export function ServicePageTemplate({
           <div className="grid md:grid-cols-2 gap-8">
             {/* Pricing & Size Links */}
             <div>
-              <h3 className="font-bold text-secondary mb-4">Pricing & Sizes</h3>
+              <p className="font-bold text-secondary mb-4">Pricing & Sizes</p>
               <ul className="space-y-3">
                 <li>
                   <Link href="/dumpster-rental-pricing-jacksonville" className="text-primary hover:underline flex items-center gap-2">
@@ -350,7 +433,7 @@ export function ServicePageTemplate({
 
             {/* Popular Areas */}
             <div>
-              <h3 className="font-bold text-secondary mb-4">Popular Service Areas</h3>
+              <p className="font-bold text-secondary mb-4">Popular Service Areas</p>
               <ul className="space-y-3">
                 <li>
                   <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:underline flex items-center gap-2">
@@ -385,9 +468,9 @@ export function ServicePageTemplate({
       {/* CTA Section */}
       <section className="py-20 lg:py-28 bg-primary">
         <div className="max-w-4xl mx-auto px-4 lg:px-6 text-center">
-          <h2 className="text-3xl md:text-4xl font-black text-white mb-6">
+          <p className="text-3xl md:text-4xl font-black text-white mb-6">
             Ready to Get Started?
-          </h2>
+          </p>
           <p className="text-white/80 text-xl mb-10">
             Book online now for fast, easy scheduling. Same-day delivery available.
           </p>

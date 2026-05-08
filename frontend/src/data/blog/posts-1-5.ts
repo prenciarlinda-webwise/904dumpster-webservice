@@ -147,7 +147,7 @@ Most household and construction debris is accepted, including furniture, drywall
 
 ### Is 904 Dumpster cheaper than national dumpster rental companies?
 
-In most cases, yes. National brokers like Waste Management Bagster or 1-800-GOT-JUNK charge $350 to $600+ for comparable sizes because they add a broker markup. 904 Dumpster is a local, owner-operated company that delivers our own dumpsters. That means lower overhead and lower prices for St. Augustine customers.
+In most cases, yes. National brokers and franchise haulers typically charge $350 to $600+ for comparable sizes because they add a broker markup on top of the local hauler's actual rate. 904 Dumpster is a local, owner-operated company that delivers our own dumpsters. That means lower overhead and lower prices for St. Augustine customers.
 
 ## Related Resources
 
@@ -938,7 +938,7 @@ If you are debating between a 10-yard dumpster and other ways to get rid of your
 | 10-Yard Dumpster (904 Dumpster) | $299 | 10 cubic yards / 3 truck loads | High - loaded at your pace over 3 days |
 | Pickup truck trips to dump | $50-$80/trip x 3 trips = $150-$240 | 3-4 cubic yards per trip | Low - multiple trips, your time and gas |
 | Junk removal service | $300-$500 | Varies by volume | Medium - they load but you pay per item |
-| Bagster (Waste Management) | $230-$350 | 3 cubic yards (1 truck load) | Low - expensive for the capacity |
+| Disposable bag service | $230-$350 | 3 cubic yards (1 truck load) | Low - expensive for the capacity |
 | City bulk pickup | Free (limited) | 2 items per collection | Low - long wait, strict limits |
 
 For most projects, the 10-yard dumpster hits the sweet spot of price, capacity, and convenience. You get 5 full days to load at your own pace, and we handle all the hauling and disposal.

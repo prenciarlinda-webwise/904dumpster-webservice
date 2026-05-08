@@ -45,15 +45,6 @@ const SITEMAP = {
       { label: 'Fernandina Beach, FL', href: '/dumpster-rental-fernandina-beach-fl' },
     ],
   },
-  projectTypes: {
-    title: 'Dumpsters By Project',
-    links: [
-      { label: 'Construction Projects', href: '/dumpster-rental/dumpsters-for-construction-projects' },
-      { label: 'Roofing Projects', href: '/dumpster-rental/dumpsters-for-roofing-projects' },
-      { label: 'Moving Projects', href: '/dumpster-rental/dumpsters-for-moving-projects' },
-      { label: 'Landscaping Projects', href: '/dumpster-rental/dumpsters-for-landscaping-projects' },
-    ],
-  },
   resources: {
     title: 'Resources',
     links: [

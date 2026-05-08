@@ -48,11 +48,14 @@ export const REVIEWS = {
 // SERVICES MEGA MENU STRUCTURE
 // =============================================================================
 
-// Column A: Services (Main offerings)
+// Column A: All 6 services (each explicitly named so the full service portfolio is visible in the menu)
 export const SERVICES_MAIN = [
-  { label: 'Dumpster Rental', href: '/residential-dumpster-rental-jacksonville-fl', description: 'Roll-off containers for any project' },
-  { label: 'Junk Removal', href: '/junk-removal-jacksonville-fl', description: 'We do all the heavy lifting' },
-  { label: 'Demolition Services', href: '/demolition-services-jacksonville-fl', description: 'Professional demo services' },
+  { label: 'Residential Dumpster Rental', href: '/residential-dumpster-rental-jacksonville-fl', description: 'DIY roll-offs for homeowner projects' },
+  { label: 'Commercial Dumpster Rental', href: '/commercial-dumpster-rental-jacksonville-fl', description: 'Project-based roll-offs for businesses' },
+  { label: 'Construction Dumpster Rental', href: '/construction-dumpster-rental-jacksonville-fl', description: 'Job-site waste for contractors' },
+  { label: 'Concrete Disposal Dumpster', href: '/concrete-disposal-dumpster-jacksonville-fl', description: 'Heavy debris, brick, stone, dirt' },
+  { label: 'Junk Removal', href: '/junk-removal-jacksonville-fl', description: 'Full-service hauling, we load' },
+  { label: 'Demolition Services', href: '/demolition-services-jacksonville-fl', description: 'Sheds, decks, pools, interiors' },
 ] as const
 
 // Column B: Dumpster Sizes
@@ -63,7 +66,7 @@ export const SERVICES_BY_SIZE = [
   { label: 'Size Guide', href: '/dumpster-size-guide', description: 'Find your perfect size' },
 ] as const
 
-// Column C: Appropriate For (Use cases)
+// Column C: Appropriate For (use-case / persona navigation paths)
 export const SERVICES_APPROPRIATE_FOR = [
   { label: 'Homeowners', href: '/residential-dumpster-rental-jacksonville-fl', description: 'DIY projects & cleanouts' },
   { label: 'Contractors', href: '/construction-dumpster-rental-jacksonville-fl', description: 'Job site waste management' },

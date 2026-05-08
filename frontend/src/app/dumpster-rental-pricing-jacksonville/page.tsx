@@ -273,6 +273,32 @@ export default function PricingPage() {
         </div>
       </section>
 
+      {/* Jacksonville Dumpster Rental Context (triangulation for the high-volume cluster) */}
+      <section className="py-20 lg:py-24 bg-white border-t border-gray-100">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6">
+          <div className="text-center mb-10">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Local Pricing Context
+            </span>
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Dumpster Rental in Jacksonville, FL: How Our Pricing Compares
+            </h2>
+          </div>
+
+          <div className="prose prose-lg max-w-none text-gray-600 leading-relaxed space-y-5">
+            <p>
+              Pricing for <strong>Jacksonville dumpster rental</strong> typically ranges from $300 to $650 per container depending on size, vendor, and what is bundled in. National guides like Hometown Dumpster Rental and HomeAdvisor list the same 10/15/20-yard sizes between $350 and $650 for the Jacksonville market. 904 Dumpster prices the same containers at $299, $349, and $399 because we are a locally owned hauler, not a broker, and we operate our own trucks across Duval and the surrounding counties.
+            </p>
+            <p>
+              When you compare quotes for <strong>dumpster rental in Jacksonville</strong>, the price you are quoted is rarely the price you pay. Common add-ons that brokers and out-of-town haulers tack on at booking or invoicing include: fuel surcharges ($25 to $50), environmental or admin fees ($15 to $40), driveway protection (sometimes $40 to $75 if not standard), and trip charges if the truck cannot place the container on the first attempt. Our flat rate folds delivery, the rental period, pickup, and disposal into a single number, with weight overage and rental extensions only billed when actually used.
+            </p>
+            <p>
+              Different parts of the metro area have different price baselines. Pricing in <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:underline" title="Dumpster Rental St. Augustine FL">St. Augustine</Link> and <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:underline" title="Dumpster Rental Fernandina Beach FL">Fernandina Beach</Link> runs higher because of the longer drive from our Jacksonville yard, while Clay County deliveries to <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:underline" title="Dumpster Rental Orange Park FL">Orange Park</Link>, <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:underline" title="Dumpster Rental Fleming Island FL">Fleming Island</Link>, and <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:underline" title="Dumpster Rental Middleburg FL">Middleburg</Link> match Jacksonville-core rates because we run those routes daily. For the <Link href="/" className="text-primary hover:underline" title="Dumpster Rental Jacksonville FL Homepage">Jacksonville-area homepage</Link>, current pricing, and our service-area map, see the rate cards above or call us for an exact quote tailored to your project and ZIP code.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Booking Iframe */}
       <section id="book" className="py-20 lg:py-28 bg-white">
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
@@ -438,15 +464,15 @@ export default function PricingPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/dumpster-rental/dumpsters-for-construction-projects" className="text-primary hover:underline flex items-center gap-2">
+                  <Link href="/construction-dumpster-rental-jacksonville-fl" className="text-primary hover:underline flex items-center gap-2">
                     <ArrowRight className="w-4 h-4" />
                     Construction dumpster rental Jacksonville
                   </Link>
                 </li>
                 <li>
-                  <Link href="/dumpster-rental/dumpsters-for-roofing-projects" className="text-primary hover:underline flex items-center gap-2">
+                  <Link href="/15-yard-dumpster-rental" className="text-primary hover:underline flex items-center gap-2">
                     <ArrowRight className="w-4 h-4" />
-                    Roofing dumpster rental Jacksonville
+                    15 yard dumpster (the roofing size)
                   </Link>
                 </li>
                 <li>

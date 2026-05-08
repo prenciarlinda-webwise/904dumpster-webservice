@@ -10,7 +10,6 @@ import {
   NAV_LINKS,
   SERVICES_MAIN,
   SERVICES_BY_SIZE,
-  SERVICES_APPROPRIATE_FOR,
   LOCATIONS_JAX_CORE,
   LOCATIONS_ST_JOHNS,
   LOCATIONS_CLAY_NASSAU,
@@ -131,12 +130,12 @@ export default function Header() {
                   {/* Services Mega Menu */}
                   {link.label === 'Services' && activeMenu === 'Services' && (
                     <div className="absolute top-full left-1/2 -translate-x-1/2 pt-4">
-                      <div className="w-[800px] bg-white rounded-2xl shadow-2xl shadow-black/10 border border-gray-100 overflow-hidden">
+                      <div className="w-[640px] bg-white rounded-2xl shadow-2xl shadow-black/10 border border-gray-100 overflow-hidden">
                         <div className="bg-gradient-to-r from-primary/5 to-transparent p-6 border-b border-gray-100">
                           <div className="text-xl font-bold text-secondary">Our Services</div>
                           <p className="text-gray-500 text-sm mt-1">Find the perfect dumpster for your project</p>
                         </div>
-                        <div className="grid grid-cols-3 gap-0 divide-x divide-gray-100">
+                        <div className="grid grid-cols-2 gap-0 divide-x divide-gray-100">
                           {/* Services */}
                           <div className="p-6">
                             <div className="font-bold text-secondary mb-4 flex items-center gap-2 text-sm uppercase tracking-wider">
@@ -195,34 +194,6 @@ export default function Header() {
                             </ul>
                           </div>
 
-                          {/* Appropriate For */}
-                          <div className="p-6">
-                            <div className="font-bold text-secondary mb-4 flex items-center gap-2 text-sm uppercase tracking-wider">
-                              <div className="p-1.5 bg-primary/10 rounded-lg">
-                                <Wrench className="w-4 h-4 text-primary" />
-                              </div>
-                              Appropriate For
-                            </div>
-                            <ul className="space-y-1">
-                              {SERVICES_APPROPRIATE_FOR.map((item) => (
-                                <li key={item.href}>
-                                  <Link
-                                    href={item.href}
-                                    title={item.label}
-                                    className="group/item flex items-center gap-3 p-3 rounded-xl hover:bg-gray-50 transition-colors"
-                                  >
-                                    <div className="flex-1">
-                                      <span className="font-semibold text-secondary group-hover/item:text-primary transition-colors">
-                                        {item.label}
-                                      </span>
-                                      <span className="block text-xs text-gray-400 mt-0.5">{item.description}</span>
-                                    </div>
-                                    <ArrowRight className="w-4 h-4 text-gray-300 group-hover/item:text-primary group-hover/item:translate-x-1 transition-all" />
-                                  </Link>
-                                </li>
-                              ))}
-                            </ul>
-                          </div>
                         </div>
                       </div>
                     </div>
@@ -497,22 +468,6 @@ export default function Header() {
                               Dumpster Sizes
                             </div>
                             {SERVICES_BY_SIZE.map((item) => (
-                              <Link
-                                key={item.href}
-                                href={item.href}
-                                title={item.label}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
-                                onClick={toggleMobileMenu}
-                              >
-                                {item.label}
-                              </Link>
-                            ))}
-                          </div>
-                          <div>
-                            <div className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 px-4">
-                              Appropriate For
-                            </div>
-                            {SERVICES_APPROPRIATE_FOR.map((item) => (
                               <Link
                                 key={item.href}
                                 href={item.href}

@@ -166,6 +166,10 @@ const nextConfig: NextConfig = {
       { source: '/jacksonville-dumpster-rentals-storm-yard-cleanup', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
       { source: '/dumpster-rental/dumpsters-for-property-owners', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
       { source: '/dumpster-rental/dumpsters-for-home-cleanouts', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-construction-projects', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-roofing-projects', destination: '/construction-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-moving-projects', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
+      { source: '/dumpster-rental/dumpsters-for-landscaping-projects', destination: '/residential-dumpster-rental-jacksonville-fl', permanent: true },
 
       // ========================================================================
       // JUNK REMOVAL

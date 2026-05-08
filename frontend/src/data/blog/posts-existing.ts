@@ -134,6 +134,8 @@ Yes. We deliver to all of Clay County including Orange Park, Fleming Island, Mid
 
 Take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. While wet paint is prohibited in curbside bins and 904 Dumpster rentals, you can dispose of dried latex paint in your regular trash once solidified with cat litter.
 
+This guide covers safe disposal of leftover paint after a finished project. If you are planning a new repaint instead and want a pro to handle prep, application, and cleanup, hire a trusted [Jacksonville painter](https://www.paint-techs.com/) for your residential or commercial work.
+
 **Find your nearest drop-off location**: Use the official [PaintCare Drop-Off Locator Tool](https://www.paintcare.org/drop-off-sites/) to find participating retailers and facilities near your Jacksonville zip code.
 
 ## How to Dispose of Latex Paint (Water-Based)

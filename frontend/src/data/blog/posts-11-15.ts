@@ -385,7 +385,7 @@ The price you see is the price you pay. If you go over the included weight limit
 
 ## How Fernandina Beach Pricing Compares to Other Services
 
-Dumpster rental pricing in the Fernandina Beach area varies widely depending on who you call. National brokers like Waste Management, Budget Dumpster, and Bin There Dump That often quote $500 to $700 or more for a 15-yard dumpster in Nassau County, and many of those quotes do not include the full weight allowance or disposal fees.
+Dumpster rental pricing in the Fernandina Beach area varies widely depending on who you call. National brokers and franchise dumpster haulers often quote $500 to $700 or more for a 15-yard dumpster in Nassau County, and many of those quotes do not include the full weight allowance or disposal fees once the final invoice is issued.
 
 Here is how 904 Dumpster compares:
 
