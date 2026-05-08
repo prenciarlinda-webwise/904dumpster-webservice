@@ -458,6 +458,8 @@ A standard kitchen renovation in Jacksonville generates 1,500-3,000 pounds of de
 
 At 904 Dumpster, we have delivered dumpsters for hundreds of Jacksonville kitchen remodels since 2016. This guide covers what debris to expect, which items need special disposal, and how to keep your project on schedule.
 
+If you are managing the build yourself, the dumpster handles the debris side. If you would rather hand the renovation to a pro, our partner [Jacksonville general contractor](https://www.prenga-construction.com/) Prenga Construction handles design-build kitchens, baths, and full-home renovations from estimate through final walkthrough.
+
 ## Common Types of Kitchen Debris
 
 A typical kitchen renovation produces several categories of waste:
