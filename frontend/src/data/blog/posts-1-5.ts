@@ -478,7 +478,7 @@ If you are renovating two or more bathrooms simultaneously, which is common when
 
 ## Step-by-Step Bathroom Demolition and Disposal
 
-### Step 1: Prepare the Work Area
+### Step 1 - Prepare the Work Area
 
 Before swinging a hammer, protect the rest of your home:
 
@@ -488,7 +488,7 @@ Before swinging a hammer, protect the rest of your home:
 - Shut off the electrical breaker for the bathroom circuit
 - Open a window or set up a box fan for ventilation
 
-### Step 2: Remove Fixtures First
+### Step 2 - Remove Fixtures First
 
 Start with the easy, lightweight items before moving to demolition:
 
@@ -497,7 +497,7 @@ Start with the easy, lightweight items before moving to demolition:
 3. **Take out the medicine cabinet and mirror.** Score the caulk, pull carefully, and wrap mirrors in a towel before placing in the dumpster to prevent shattering.
 4. **Remove light fixtures, towel bars, and accessories.** Quick removal, light weight.
 
-### Step 3: Demolish Tile and Walls
+### Step 3 - Demolish Tile and Walls
 
 This is where most of the debris is generated:
 
@@ -505,13 +505,13 @@ This is where most of the debris is generated:
 - **Wall tile:** Similar process. Shower tile on cement board can be removed together, pulling the board off the studs in sections.
 - **Drywall:** Score and pull in manageable sheets. Water-damaged drywall around tubs and toilets often crumbles, so have bags ready.
 
-### Step 4: Remove the Tub or Shower
+### Step 4 - Remove the Tub or Shower
 
 - **Fiberglass tubs/showers:** Cut into sections with a reciprocating saw for easier handling and loading into the dumpster.
 - **Cast iron tubs:** These are extremely heavy (300-400 lbs). If you cannot carry it out whole, break it into pieces with a sledgehammer while wearing eye and ear protection. Alternatively, have a helper and use a hand truck.
 - **Acrylic tubs:** Light and easy to remove in one piece.
 
-### Step 5: Load the Dumpster Efficiently
+### Step 5 - Load the Dumpster Efficiently
 
 Loading strategy matters, especially with heavy bathroom debris:
 
@@ -523,7 +523,7 @@ Loading strategy matters, especially with heavy bathroom debris:
 
 > REVIEW: "Great, reliable dumpster service! Always on time with delivery and pickup, fair pricing, and excellent communication." - Redi Tufa, Google Review
 
-## Cost Breakdown: Bathroom Renovation Disposal
+## Cost Breakdown for Bathroom Renovation Disposal
 
 Here is what disposal typically costs for a bathroom renovation in the Jacksonville area:
 

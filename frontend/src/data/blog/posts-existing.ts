@@ -117,7 +117,7 @@ Yes. We deliver to all of Clay County including Orange Park, Fleming Island, Mid
   // Local Guides Category - Paint Disposal
   {
     slug: 'how-to-dispose-of-paint-jacksonville',
-    title: 'How to Dispose of Paint in Jacksonville, FL: The Complete 2026 Guide',
+    title: 'How to Dispose of Paint in Jacksonville FL (2026 Guide)',
     metaTitle: 'How to Dispose of Paint in Jacksonville FL - Old Paint, Spray Cans & Thinner',
     metaDescription: 'How to dispose of old paint in Jacksonville FL. Learn how to dispose of latex paint, spray paint cans, and paint thinner at local drop-off sites. Free disposal options.',
     excerpt: 'To dispose of old paint in Jacksonville, FL, you must take wet paint to the Household Hazardous Waste Facility at 2675 Commonwealth Ave. Learn how to dispose of latex paint by drying it with kitty litter, how to dispose of spray paint cans, and how to dispose of paint thinner safely.',
@@ -205,7 +205,7 @@ Learning **how to dispose of paint cans** properly depends on what is inside:
 
 Unlike generic guides from other states, here is exactly where to go in Jacksonville to **dispose of old paint**:
 
-### The Main Hub: Household Hazardous Waste (HHW) Facility
+### The Main Hub for Household Hazardous Waste (HHW) Facility
 
 **Address**: 2675 Commonwealth Ave, Jacksonville, FL 32254
 
@@ -226,7 +226,7 @@ If you live in Jacksonville Beach, Atlantic Beach, or Neptune Beach, the drive t
 
 Check the [City of Jacksonville Solid Waste Division website](https://www.coj.net/departments/neighborhoods/solid-waste) monthly for the 2026 schedule, as dates change based on storm seasons.
 
-### Retail Drop-offs: The PaintCare Program
+### Retail Drop-offs Through the PaintCare Program
 
 Jacksonville participates in the **PaintCare program**. Certain local retailers will take back your old paint for free, regardless of where you bought it.
 
@@ -327,7 +327,7 @@ A home cleanout in Jacksonville typically takes 2-5 days and costs between $299 
 
 After completing over 2,000 dumpster deliveries for Jacksonville cleanout projects since 2016, we have seen what works and what wastes time. This guide shares the system that gets results.
 
-## Step 1: Assess the Scope
+## Step 1 - Assess the Scope
 
 Before ordering a dumpster or gathering supplies, walk through every room and assess what needs to go. Make notes about:
 
@@ -338,7 +338,7 @@ Before ordering a dumpster or gathering supplies, walk through every room and as
 
 This assessment helps you estimate the right dumpster size and plan your timeline.
 
-## Step 2: Sort and Categorize
+## Step 2 - Sort and Categorize
 
 Create four categories for everything in your home:
 
@@ -349,7 +349,7 @@ Create four categories for everything in your home:
 
 Jacksonville has numerous donation centers including Goodwill, Salvation Army, and Habitat for Humanity ReStore that accept furniture, clothing, and household goods in good condition.
 
-## Step 3: Choose the Right Dumpster Size
+## Step 3 - Choose the Right Dumpster Size
 
 | Project Scope | Recommended Size | Price | Capacity |
 |---------------|-----------------|-------|----------|
@@ -440,7 +440,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://app.icans.ai/custom
   },
   {
     slug: 'kitchen-renovation-debris-disposal-guide',
-    title: 'Kitchen Renovation Debris: What to Expect and How to Dispose',
+    title: 'Kitchen Renovation Debris and How to Dispose of It Safely',
     metaTitle: 'Kitchen Renovation Debris Disposal Guide - 904 Dumpster',
     metaDescription: 'Planning a kitchen renovation in Jacksonville? Learn what debris to expect, which dumpster size you need, and how to properly dispose of cabinets, countertops, and appliances.',
     excerpt: 'Kitchen renovations generate more debris than most homeowners expect. From cabinets and countertops to flooring and appliances, here is everything you need to know about managing kitchen renovation waste.',
@@ -581,7 +581,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://app.icans.ai/custom
   {
     slug: 'how-to-choose-right-dumpster-size',
     title: 'How to Choose the Right Dumpster Size for Your Project',
-    metaTitle: 'Dumpster Size Guide: 10, 15, 20 Yard Comparison - 904 Dumpster',
+    metaTitle: 'Dumpster Size Guide - 10, 15, 20 Yard Comparison for Homeowners',
     metaDescription: 'Not sure what size dumpster you need? Our complete guide compares 10, 15, and 20 yard dumpsters with real project examples to help you choose correctly.',
     excerpt: 'Choosing the wrong dumpster size can cost you time and money. Learn how to accurately estimate your debris volume and select the perfect dumpster for any project.',
     category: 'dumpster-rental-tips',
@@ -668,21 +668,21 @@ The [20-yard dumpster](/20-yard-dumpster-rental) handles the biggest residential
 
 ## How to Estimate Your Debris Volume
 
-### Method 1: The Room Count
+### Method 1 - The Room Count
 
 For cleanout projects, use this rough guide:
 - 1 room = 10-yard dumpster
 - 2-3 rooms = 15-yard dumpster
 - 4+ rooms or whole house = 20-yard dumpster
 
-### Method 2: The Pickup Truck Comparison
+### Method 2 - The Pickup Truck Comparison
 
 If you have ever loaded a pickup truck with debris, use this conversion:
 - 3 pickup loads = 10-yard dumpster
 - 5 pickup loads = 15-yard dumpster
 - 7 pickup loads = 20-yard dumpster
 
-### Method 3: Square Footage for Roofing
+### Method 3 - Square Footage for Roofing
 
 For roofing projects, base your choice on roof size:
 - Up to 1,500 sq ft = 10-yard dumpster
@@ -743,8 +743,8 @@ We deliver same-day throughout Jacksonville and Northeast Florida, including [Ja
   },
   {
     slug: 'what-cannot-go-in-dumpster',
-    title: 'What Cannot Go in a Dumpster: Prohibited Items Guide',
-    metaTitle: 'Prohibited Dumpster Items: What You Cannot Throw Away - 904 Dumpster',
+    title: 'What Cannot Go in a Dumpster (Prohibited Items List)',
+    metaTitle: 'Prohibited Dumpster Items - What You Cannot Throw Away',
     metaDescription: 'Before loading your dumpster, know what items are prohibited. Learn about hazardous materials, electronics, and other items that require special disposal in Jacksonville.',
     excerpt: 'Knowing what you cannot put in a dumpster is just as important as knowing what you can. This guide covers prohibited items and how to properly dispose of them in Jacksonville.',
     category: 'dumpster-rental-tips',
@@ -873,7 +873,7 @@ When we deliver your dumpster contents to the landfill, the facility inspects th
 
 To avoid these issues, keep prohibited items separate and use appropriate disposal methods.
 
-## Quick Reference: What Can and Cannot Go in a Dumpster
+## Quick Reference for What Can and Cannot Go in a Dumpster
 
 | Allowed | Prohibited |
 |---------|-----------|
@@ -919,7 +919,7 @@ Not sure if something can go in your dumpster? Call us at (904) 240-5598 before 
   // Construction Waste Category
   {
     slug: 'roofing-project-waste-management',
-    title: 'Managing Roofing Project Waste: A Contractor and Homeowner Guide',
+    title: 'Managing Roofing Project Waste for Contractors and Homeowners',
     metaTitle: 'Roofing Debris Disposal Guide Jacksonville - 904 Dumpster',
     metaDescription: 'Roofing projects generate heavy debris that requires proper planning. Learn how to estimate shingle weight, choose the right dumpster, and keep your project on schedule.',
     excerpt: 'Roofing debris is one of the heaviest materials contractors and homeowners deal with. Proper waste management keeps your project safe and on schedule.',
@@ -1082,7 +1082,7 @@ Before your project, review our guide on [what items cannot go in a dumpster](/b
   },
   {
     slug: 'demolition-debris-disposal-best-practices',
-    title: 'Demolition Debris Disposal: Best Practices for Jacksonville Projects',
+    title: 'Demolition Debris Disposal Best Practices in Jacksonville',
     metaTitle: 'Demolition Debris Disposal Guide - 904 Dumpster Jacksonville',
     metaDescription: 'Managing demolition debris requires proper planning and compliance. Learn about Jacksonville permits, debris separation, and choosing the right dumpster for demo projects.',
     excerpt: 'Demolition projects create unique waste management challenges. From concrete and drywall to metal and wood, understanding how to handle different materials keeps your project compliant and cost-effective.',
@@ -1285,7 +1285,7 @@ At 904 Dumpster, we place dumpsters on driveways 99% of the time, no permit need
 
 If you need to place a dumpster on the street:
 
-### Step 1: Contact the City
+### Step 1 - Contact the City
 City of Jacksonville Public Works Department handles right-of-way permits.
 
 **Contact Information**:
@@ -1293,7 +1293,7 @@ City of Jacksonville Public Works Department handles right-of-way permits.
 - Online: COJ.net permit portal
 - In-person: Downtown Jacksonville offices
 
-### Step 2: Application Requirements
+### Step 2 - Application Requirements
 You will typically need:
 - Property address
 - Dumpster size and dimensions
@@ -1301,7 +1301,7 @@ You will typically need:
 - Duration of rental
 - Permit fee payment
 
-### Step 3: Approval and Conditions
+### Step 3 - Approval and Conditions
 Once approved, you will receive:
 - Permit document to display
 - Required safety measures (cones, reflectors)
@@ -1311,7 +1311,7 @@ Once approved, you will receive:
 - Standard: 3-5 business days
 - Expedited: May be available for additional fee
 
-## Beach Communities: Special Considerations
+## Beach Communities and Special Considerations
 
 Jacksonville's beach communities have their own regulations:
 
@@ -1421,7 +1421,7 @@ Check out our [dumpster sizes and pricing](/blog/how-to-choose-right-dumpster-si
   },
   {
     slug: 'hurricane-debris-cleanup-jacksonville',
-    title: 'Hurricane Debris Cleanup: What Jacksonville Homeowners Need to Know',
+    title: 'Hurricane Debris Cleanup Guide for Jacksonville Homeowners',
     metaTitle: 'Hurricane Debris Cleanup Jacksonville - Storm Damage Disposal',
     metaDescription: 'After a hurricane hits Jacksonville, proper debris cleanup is essential. Learn about city programs, dumpster options, and how to safely clear storm damage from your property.',
     excerpt: 'Jacksonville sits in a hurricane-prone region. When storms strike, knowing how to properly handle debris cleanup helps you recover faster and avoid problems with improper disposal.',

@@ -35,19 +35,19 @@ It is worth acknowledging upfront that this is hard. Sorting through a parent's 
 
 ## Step-by-Step Estate Cleanout Process
 
-### Step 1: Secure the Property and Important Documents
+### Step 1 - Secure the Property and Important Documents
 
 Before you start sorting and hauling, walk through the entire property. Lock all doors and windows. Check for any obvious maintenance issues like water leaks, pest problems, or HVAC failures that could cause further damage to the home or its contents.
 
 Gather all important documents first. Look for wills, trusts, insurance policies, deeds, tax returns, bank statements, and investment records. Check filing cabinets, desk drawers, nightstands, and even between the pages of books. In many Jacksonville estate cleanouts, families discover important paperwork in unexpected places.
 
-### Step 2: Identify Valuables and Sentimental Items
+### Step 2 - Identify Valuables and Sentimental Items
 
 Do a walkthrough specifically to identify items that have significant financial or sentimental value. This includes jewelry, antiques, artwork, collections (coins, stamps, firearms), electronics, and family heirlooms.
 
 If you are unsure about the value of certain items, consider hiring a local appraiser. Jacksonville has several estate sale companies and antique dealers in the San Marco and Five Points areas who can provide valuations. Do not throw anything away until you are confident it does not have hidden value.
 
-### Step 3: Sort Everything into Categories
+### Step 3 - Sort Everything into Categories
 
 Once valuables and documents are secured, begin the sorting process. Use a simple four-category system:
 
@@ -60,13 +60,13 @@ Once valuables and documents are secured, begin the sorting process. Use a simpl
 
 Work room by room. Do not jump around the house. Completing one room before moving to the next gives you a sense of progress and prevents things from getting mixed up.
 
-### Step 4: Hold an Estate Sale or Donate
+### Step 4 - Hold an Estate Sale or Donate
 
 For items in the "sell" category, you have several options in Jacksonville. Estate sale companies typically charge 30 to 40 percent of sales and handle all the pricing, setup, and customer management. You can also sell items yourself through Facebook Marketplace, OfferUp, or Craigslist. Habitat for Humanity ReStore in Jacksonville at 5645 N. Main Street accepts furniture, appliances, and building materials.
 
 For donations, The Salvation Army and Goodwill both offer pickup services in Jacksonville for large items. Many churches and nonprofits in the 32205, 32207, 32210, and 32246 zip codes also accept household donations.
 
-### Step 5: Rent a Dumpster for Everything Else
+### Step 5 - Rent a Dumpster for Everything Else
 
 After sorting, selling, and donating, you will still have a significant amount of material that needs to go. This is where a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) makes all the difference. Instead of making dozens of trips to the Trail Ridge Landfill or trying to stuff everything into curbside trash bins over several weeks, you can load everything into a dumpster parked in the driveway and have it hauled away in one trip.
 
@@ -532,7 +532,7 @@ No permit is needed if the dumpster is placed on your private property such as a
 
 Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville-fl) from 904 Dumpster in your driveway, most Jacksonville homeowners can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
 
-## Before You Start: Planning Your Teardown
+## Before You Start - Planning Your Teardown
 
 ### Check for Permits and HOA Rules
 
@@ -570,23 +570,23 @@ You do not need heavy equipment to demolish a shed, deck, or fence. Here are the
 
 A typical backyard shed in Jacksonville is a wood-framed structure with plywood or T1-11 siding, an asphalt shingle roof, and a plywood floor on skids or a concrete slab. Here is the step-by-step process:
 
-### Step 1: Empty the Shed Completely
+### Step 1 - Empty the Shed Completely
 
 Remove everything stored inside. This is also a good opportunity to sort through items and decide what to keep, donate, or add to the dumpster. Many Jacksonville homeowners discover that the shed demolition turns into a combined shed demo and junk cleanout project.
 
-### Step 2: Remove the Roof
+### Step 2 - Remove the Roof
 
 Start at the top and work down. Use a pry bar and hammer to remove shingles and roofing felt. Then remove the plywood or OSB sheathing. Finally, take apart the roof framing (rafters or trusses). Cut framing members into lengths that fit easily in your dumpster. For a standard 8x10 or 10x12 shed, the roof debris alone can fill several wheelbarrow loads.
 
-### Step 3: Remove the Siding
+### Step 3 - Remove the Siding
 
 With the roof off, pry the siding panels away from the wall framing. Plywood and T1-11 panels come off in large sheets. Stack them flat in the dumpster to maximize space.
 
-### Step 4: Disassemble the Wall Framing
+### Step 4 - Disassemble the Wall Framing
 
 Once the siding is removed, the wall frames are exposed. Knock apart the corner connections with a hand sledge, then lay each wall section flat and cut or pry it apart. Stud-framed walls come apart quickly once the nails are exposed.
 
-### Step 5: Remove the Floor
+### Step 5 - Remove the Floor
 
 Pry up the plywood floor decking. If the shed sits on wood skids, those come out next. If it sits on a concrete slab, you have the option of leaving the slab in place, breaking it up with a sledgehammer, or hiring a concrete cutting service.
 
@@ -606,19 +606,19 @@ Pry up the plywood floor decking. If the shed sits on wood skids, those come out
 
 Deck demolition in Jacksonville is common because our climate is hard on outdoor wood. Humidity, rain, termites, and sun exposure degrade deck lumber over time, and many homeowners find themselves tearing down a 15 to 20-year-old deck to make way for new composite decking or a redesigned outdoor living space.
 
-### Step 1: Remove Railings and Balusters
+### Step 1 - Remove Railings and Balusters
 
 Start by removing the railings. Most are attached with screws or bolts that can be backed out with a drill. If they are nailed, use a pry bar. Remove all balusters, top rails, and posts.
 
-### Step 2: Remove Deck Boards
+### Step 2 - Remove Deck Boards
 
 Deck boards are typically screwed or nailed to joists. If screwed, a drill with the correct bit removes them quickly. If nailed, a pry bar works, or you can cut along the joists with a reciprocating saw to release the boards in sections. Stack boards in the dumpster lengthwise.
 
-### Step 3: Remove Joists and Beams
+### Step 3 - Remove Joists and Beams
 
 With the decking removed, the joist structure is exposed. Cut joists free from the ledger board and rim joists using a reciprocating saw. Remove beams from their post connections. These are the heaviest lumber pieces in the deck.
 
-### Step 4: Remove Posts and Footings
+### Step 4 - Remove Posts and Footings
 
 Deck posts in Jacksonville are typically set in concrete footings. You can cut the post at ground level and leave the footing buried, or dig out the entire footing. Digging out footings is labor-intensive but gives you a clean slate. Each concrete footing can weigh 50 to 100 pounds.
 

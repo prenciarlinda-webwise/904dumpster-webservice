@@ -5,7 +5,7 @@ export const POSTS_16_TO_25: BlogPost[] = [
   {
     slug: 'dumpster-sizes-explained-complete-guide',
     title: 'What Size Dumpster Do I Need? Complete Dumpster Size Guide',
-    metaTitle: 'Dumpster Sizes Explained: 10, 15, 20 Yard Roll-Off Dimensions Guide',
+    metaTitle: 'Dumpster Sizes Explained - 10, 15, 20 Yard Roll-Off Dimensions',
     metaDescription: 'Compare roll-off dumpster sizes from 10 to 20 yards. See exact dimensions, capacity in cubic yards, and which size fits your project. Jacksonville FL dumpster size guide.',
     excerpt: 'Choosing the right dumpster size saves you money and prevents project delays. This guide covers every common roll-off dumpster size with dimensions, capacities, and project recommendations so you can pick the perfect fit.',
     category: 'dumpster-rental-tips',
@@ -31,7 +31,7 @@ When we say a dumpster is "10 yards" or "20 yards," we are talking about cubic y
 
 The physical dimensions of a dumpster, its length, width, and height, determine how much cubic yardage it holds. Two dumpsters with the same capacity can have slightly different shapes depending on the manufacturer, but the volume remains consistent.
 
-## Dumpster Sizes Compared: Complete Breakdown
+## Dumpster Sizes Compared in One Breakdown
 
 Here is a side-by-side comparison of every common dumpster size available in the industry:
 
@@ -168,7 +168,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
   {
     slug: 'dumpster-weight-limits-tonnage-guide',
     title: 'How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide',
-    metaTitle: 'Dumpster Weight Limits: How Much Can a 10, 15, 20 Yard Dumpster Hold?',
+    metaTitle: 'Dumpster Weight Limits Explained for 10, 15, and 20 Yard Sizes',
     metaDescription: 'Learn dumpster weight limits for every size. How many tons a 20-yard, 30-yard, or 40-yard dumpster holds, what an empty dumpster weighs, and how to avoid overage fees.',
     excerpt: 'Understanding dumpster weight limits prevents overage charges and keeps your project on budget. This guide covers weight capacities for every dumpster size and tips for estimating the weight of common materials.',
     category: 'dumpster-rental-tips',
@@ -615,7 +615,7 @@ If you have an active building permit for the construction project and the dumps
   // Post 20
   {
     slug: 'how-to-dispose-of-old-furniture-guide',
-    title: 'Where to Dispose of Old Furniture: Complete Disposal Guide',
+    title: 'Where to Dispose of Old Furniture in Jacksonville FL',
     metaTitle: 'How to Dispose of Old Furniture in Jacksonville FL - Complete Guide',
     metaDescription: 'Find out where to throw away old furniture, couches, mattresses, and broken items in Jacksonville. Options include dumpster rental, curbside pickup, donation, and more.',
     excerpt: 'Getting rid of old furniture is a bigger hassle than most people expect. This guide covers every disposal option in Jacksonville, from curbside pickup and donation to dumpster rental and junk removal services.',
@@ -628,7 +628,7 @@ If you have an active building permit for the construction project and the dumps
     status: 'published' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'garage-cleanout-guide-jacksonville', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
-## Where to Dispose of Old Furniture: Complete Disposal Guide
+## Where to Dispose of Old Furniture in Jacksonville
 
 You have finally decided to replace that worn-out couch, get rid of the kids' old bunk beds, or clear out a room full of mismatched furniture. Now comes the hard part: where do you actually throw away old furniture? It is too big for the trash can, too heavy for most cars, and too damaged to sell. Whether you are dealing with a single sofa or a houseful of furniture from an [estate cleanout](/blog/estate-cleanout-guide-jacksonville), this guide covers every disposal option available to Jacksonville homeowners.
 
@@ -817,7 +817,7 @@ The good news is that concrete, brick, and other masonry materials are some of t
 
 ## Disposal Options for Concrete and Masonry
 
-### Option 1: Concrete Disposal Dumpster
+### Option 1 - Concrete Disposal Dumpster
 
 A [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) is the most common solution for homeowners and small contractors. We offer dumpsters specifically configured for heavy materials with appropriate weight allowances.
 
@@ -839,7 +839,7 @@ For concrete, brick, and cinder block loads, a [10-yard dumpster](/10-yard-dumps
 |---|---|---|
 | [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
-### Option 2: Concrete Recycling
+### Option 2 - Concrete Recycling
 
 Can you recycle concrete? Yes, and it is increasingly the preferred disposal method. Concrete recycling facilities crush old concrete into aggregate that can be used for road base, fill material, and new construction. Jacksonville and Northeast Florida have several facilities that accept clean concrete.
 
@@ -857,13 +857,13 @@ Can you recycle concrete? Yes, and it is increasingly the preferred disposal met
 
 If you are disposing of clean concrete, mention this when you [book your dumpster](https://app.icans.ai/customer-portal/904dumpster/book/). Clean loads may be directed to recycling facilities instead of landfills.
 
-### Option 3: Self-Hauling to a Recycling Facility
+### Option 3 - Self-Hauling to a Recycling Facility
 
 If you have a pickup truck or trailer and a relatively small amount of concrete, you can haul it yourself to a concrete recycling facility. This is the cheapest concrete disposal option but requires significant physical effort and vehicle capacity.
 
 Keep in mind that a standard pickup truck bed holds about 1 cubic yard, and a cubic yard of concrete weighs approximately 4,000 pounds, which exceeds the payload capacity of most consumer trucks. Transport small amounts carefully and make multiple trips if necessary.
 
-### Option 4: Junk Removal Service
+### Option 4 - Junk Removal Service
 
 For homeowners who cannot load heavy materials themselves, a [junk removal service](/junk-removal-jacksonville-fl) or [concrete junk removal](/concrete-disposal-dumpster-jacksonville-fl) team will handle the labor for you. Expect to pay more for this service because of the weight and effort involved. Concrete junk removal typically costs $200 to $600 or more depending on volume.
 
@@ -1107,7 +1107,7 @@ If your yard cleanup generates more than your weekly yard waste collection can h
   // Post 23
   {
     slug: 'estate-cleanout-cost-timeline-what-to-expect',
-    title: 'Estate Cleanout Cost and Timeline: What to Expect',
+    title: 'Estate Cleanout Cost and Timeline Explained for Families',
     metaTitle: 'Estate Cleanout Cost & Timeline - What to Expect in Jacksonville FL',
     metaDescription: 'How much does an estate cleanout cost? Learn about pricing for DIY vs. professional estate cleanouts, typical timelines, and how to save with dumpster rental in Jacksonville.',
     excerpt: 'Estate cleanouts range from $500 to $10,000 or more depending on how much you do yourself. This guide breaks down costs, timelines, and what to expect so you can plan your budget and schedule.',
@@ -1120,7 +1120,7 @@ If your yard cleanup generates more than your weekly yard waste collection can h
     status: 'scheduled' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide', 'garage-cleanout-guide-jacksonville'],
     content: `
-## Estate Cleanout Cost and Timeline: What to Expect
+## Estate Cleanout Cost and Timeline Explained
 
 Clearing out an entire home is one of the most overwhelming tasks a family can face. Whether it is a deceased estate house clearance, helping aging parents downsize, or preparing an inherited property for sale, the questions are always the same: how much will this cost, and how long will it take? The answers depend almost entirely on how much of the work you do yourself versus hiring professionals. This guide gives you realistic cost estimates and timelines so you can plan effectively.
 
@@ -1130,7 +1130,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 The total cost of a deceased estate house clearance or any whole-house cleanout varies dramatically based on your approach. Here is a realistic breakdown of each option:
 
-### Option 1: DIY Estate Cleanout with Dumpster Rental
+### Option 1 - DIY Estate Cleanout with Dumpster Rental
 
 This is the most affordable approach. You and your family handle the sorting, loading, and decision-making. You rent a dumpster for the disposal portion.
 
@@ -1145,7 +1145,7 @@ This is the most affordable approach. You and your family handle the sorting, lo
 
 This approach requires significant time and physical effort. You will need at least 2-4 helpers for the heavy lifting. The main investment is your labor.
 
-### Option 2: Hybrid Approach (DIY Sorting + Hired Labor)
+### Option 2 - Hybrid Approach (DIY Sorting plus Hired Labor)
 
 Many families prefer to handle the sorting and decision-making themselves but hire help for the heavy lifting and loading.
 
@@ -1156,7 +1156,7 @@ Many families prefer to handle the sorting and decision-making themselves but hi
 | Packing and cleaning supplies | $75 - $150 |
 | **Total Hybrid Cost** | **$800 - $1,325** |
 
-### Option 3: Full-Service Estate Cleanout
+### Option 3 - Full-Service Estate Cleanout
 
 A professional estate cleanout service handles everything: sorting (with your input), hauling, disposal, and sometimes even cleaning. This is the most expensive option but requires the least effort from you.
 
@@ -1176,7 +1176,7 @@ Full-service companies charge based on volume, not time. The more stuff in the h
 |---|---|---|
 | [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
-## Estate Cleanout Timeline: How Long Does It Take?
+## How Long Does an Estate Cleanout Take
 
 The timeline for a deceased estate clearance depends on the home's size, the amount of belongings, and how many people are helping. Here are realistic estimates:
 
@@ -1192,7 +1192,7 @@ The timeline for a deceased estate clearance depends on the home's size, the amo
 
 ## Phases of an Estate Cleanout
 
-### Phase 1: Assessment and Planning (Day 1)
+### Phase 1 - Assessment and Planning (Day 1)
 
 Walk through the entire property and assess the scope. This phase is free but critical:
 
@@ -1204,22 +1204,22 @@ Walk through the entire property and assess the scope. This phase is free but cr
 
 For step-by-step instructions on the sorting process, read our detailed [estate cleanout guide for Jacksonville](/blog/estate-cleanout-guide-jacksonville).
 
-### Phase 2: Sorting and Categorizing (Days 2-5)
+### Phase 2 - Sorting and Categorizing (Days 2-5)
 
 Work room by room, sorting everything into categories: keep, sell, donate, and dispose. This is the most time-consuming and emotionally difficult phase. For tips on donation options and selling strategies in Jacksonville, see our estate cleanout guide.
 
-### Phase 3: Selling and Donating (Days 5-10)
+### Phase 3 - Selling and Donating (Days 5-10)
 
 If there are items worth selling, this phase runs parallel to sorting. Options include:
 - Estate sale companies (they handle pricing and selling for a 30-40% commission)
 - Online marketplace listings (Facebook, OfferUp, Craigslist)
 - Donation pickups from Goodwill, Salvation Army, or Habitat for Humanity ReStore
 
-### Phase 4: Disposal and Hauling (Days 3-7)
+### Phase 4 - Disposal and Hauling (Days 3-7)
 
 This is where a dumpster rental saves you enormous time and effort. Instead of making dozens of trips to the landfill, you load everything into the dumpster at your own pace. For a typical 3-bedroom Jacksonville home, a [15-yard dumpster](/15-yard-dumpster-rental) handles the job. Larger homes or those with garages, sheds, and attics may need a [20-yard dumpster](/20-yard-dumpster-rental) or two loads.
 
-### Phase 5: Cleaning and Property Prep (Days 1-2)
+### Phase 5 - Cleaning and Property Prep (Days 1-2)
 
 Once the home is empty, a thorough cleaning prepares it for sale, rental, or new occupancy. This includes sweeping, mopping, wiping surfaces, cleaning bathrooms and kitchens, and addressing any odors. Professional cleaning services in Jacksonville typically charge $200 to $500 for an empty home.
 
@@ -1242,7 +1242,7 @@ Several factors can significantly increase or decrease your total cost:
 - Using a dumpster rental instead of a full-service hauler
 - Having multiple family members help
 
-## Gutting a House: When the Cleanout Goes Beyond Belongings
+## Gutting a House When the Cleanout Goes Beyond Belongings
 
 Some estate situations require more than just removing belongings. If the home has water damage, mold, pest infestation, or is being prepared for a complete renovation, you may need to gut the house, removing everything down to the studs including drywall, flooring, cabinets, and fixtures.
 
@@ -1295,9 +1295,9 @@ A small apartment typically requires one 10-yard load. A standard 3-bedroom home
   {
     slug: 'where-does-trash-go-after-you-throw-it-away',
     title: 'Where Does Trash Go After You Throw It Away?',
-    metaTitle: 'Where Does Trash Go After You Throw It Away? Waste Journey Explained',
-    metaDescription: 'Ever wonder where your garbage goes after pickup? Learn the full journey of trash from your curb to the landfill, recycling center, or waste-to-energy facility.',
-    excerpt: 'Most people never think about what happens to their trash after it leaves the curb. This guide follows the journey of waste from collection to final disposal, including how dumpster rental waste is processed.',
+    metaTitle: 'Where Does Trash Go After You Throw It Away - Disposal Path Explained',
+    metaDescription: 'Ever wonder where your garbage goes after pickup? Learn the full path of trash from your curb to the landfill, recycling center, or waste-to-energy facility.',
+    excerpt: 'Most people never think about what happens to their trash after it leaves the curb. This guide follows the path of waste from collection to final disposal, including how dumpster rental waste is processed.',
     category: 'sustainability',
     author: '904 Dumpster',
     publishedDate: '2026-03-09',
@@ -1309,23 +1309,23 @@ A small apartment typically requires one 10-yard load. A standard 3-bedroom home
     content: `
 ## Where Does Trash Go After You Throw It Away?
 
-You fill your trash can, roll it to the curb, and it disappears the next morning. But where does all trash go from there? Where does garbage go after it leaves your house? It is a question most people never think about, but understanding the journey of waste helps explain why proper disposal matters, why certain items cannot go in a dumpster, and why recycling and waste reduction make a real difference. This guide follows your trash from the moment it leaves your property to its final destination.
+You fill your trash can, roll it to the curb, and it disappears the next morning. But where does all trash go from there? Where does garbage go after it leaves your house? It is a question most people never think about, but understanding the path of waste helps explain why proper disposal matters, why certain items cannot go in a dumpster, and why recycling and waste reduction make a real difference. This guide follows your trash from the moment it leaves your property to its final destination.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## The Journey of Your Household Trash
 
-### Step 1: Curbside Collection
+### Step 1 - Curbside Collection
 
 Where does our garbage go first? Into the collection truck. In Jacksonville, residential trash is collected by the City of Jacksonville's Solid Waste Division or contracted haulers. The trucks that pick up your curbside bins are rear-loading or automated side-loading vehicles that compact trash as they collect it. A single garbage truck can hold 12 to 14 tons of compacted waste, collecting from hundreds of homes on each route.
 
 Recyclable materials go into separate trucks (or separate compartments) and follow a different path, which we will cover below.
 
-### Step 2: Transfer Station or Direct Haul
+### Step 2 - Transfer Station or Direct Haul
 
 Once a truck is full, it heads to either a transfer station or directly to the landfill, depending on distance. Transfer stations are intermediate facilities where waste from smaller collection trucks is consolidated into larger trailers for more efficient long-haul transport. Jacksonville's waste system uses both methods depending on the collection zone.
 
-### Step 3: The Landfill
+### Step 3 - The Landfill
 
 Where does trash end up? For the vast majority of household waste in Northeast Florida, the answer is Trail Ridge Landfill, located at 5110 Trail Ridge Road in Jacksonville (32218). This is one of the largest landfills in the region and serves Duval County and surrounding areas.
 
@@ -1339,7 +1339,7 @@ Modern landfills are engineered facilities, not just holes in the ground. Here i
 
 **Monitoring:** Groundwater monitoring wells around the landfill perimeter continuously check for any contamination. Environmental regulations require decades of monitoring even after a landfill closes.
 
-### Step 4: Long-Term Decomposition
+### Step 4 - Long-Term Decomposition
 
 Here is where it gets interesting. Where does all our trash go in the long run? Much of it stays in the landfill for an extremely long time. Decomposition rates vary dramatically:
 
@@ -1398,7 +1398,7 @@ Construction and demolition debris from renovation projects, [demolition jobs](/
 
 When you rent a [construction dumpster](/construction-dumpster-rental-jacksonville-fl) from 904 Dumpster, we direct loads to the appropriate facility based on the contents. Clean, separated loads are more likely to be recycled.
 
-## Hazardous Waste: A Different Path Entirely
+## Hazardous Waste Follows a Different Path Entirely
 
 Hazardous materials like paint, chemicals, batteries, motor oil, and propane tanks cannot go in regular trash or dumpsters. Where does this type of garbage go? To specialized hazardous waste facilities.
 
@@ -1453,7 +1453,7 @@ Yes. Donate usable items, recycle properly, separate materials during projects, 
   // Post 25
   {
     slug: 'what-can-and-cannot-go-in-a-dumpster-rules',
-    title: 'What Can and Cannot Go in a Dumpster: Complete Rules Guide',
+    title: 'What Can and Cannot Go in a Dumpster Rental Container',
     metaTitle: 'What Can & Cannot Go in a Dumpster - Complete Rules Guide 2026',
     metaDescription: 'Complete guide to what you can and cannot throw in a dumpster. Rules for paint, glass, mattresses, dirt, mulch, hazardous materials, and more. Jacksonville FL.',
     excerpt: 'Knowing what can and cannot go in a dumpster prevents extra fees, load rejection, and potential fines. This complete guide covers accepted items, prohibited materials, and disposal alternatives for everything in between.',
@@ -1466,7 +1466,7 @@ Yes. Donate usable items, recycle properly, separate materials during projects, 
     status: 'scheduled' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'dumpster-sizes-explained-complete-guide', 'recycling-guide-jacksonville-construction-projects'],
     content: `
-## What Can and Cannot Go in a Dumpster: Complete Rules Guide
+## What Can and Cannot Go in a Dumpster Rental
 
 One of the most common questions people ask when renting a dumpster for the first time is "what can I throw in a dumpster?" The good news is that the vast majority of household, construction, and commercial waste can go in a roll-off dumpster without any issues. But there are important exceptions. Putting prohibited items in a dumpster can result in additional fees, load rejection at the landfill, or even legal penalties. This guide covers everything you can and cannot throw in a dumpster so there are no surprises.
 

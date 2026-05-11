@@ -4,8 +4,8 @@ export const EDUCATIONAL_POSTS: BlogPost[] = [
   // Post 1: What Is a Transfer Station?
   {
     slug: 'what-is-a-transfer-station',
-    title: 'What Is a Transfer Station? How Waste Moves from Your Dumpster to Its Final Destination',
-    metaTitle: 'What Is a Transfer Station? | Waste Transfer Explained | 904 Dumpster',
+    title: 'What Is a Transfer Station and How Waste Reaches Its Final Destination',
+    metaTitle: 'What Is a Transfer Station - Waste Transfer Explained Plainly',
     metaDescription: 'Learn what a transfer station is, how waste moves from dumpster to landfill or recycling facility, and how Jacksonville transfer stations process waste from dumpster rentals.',
     excerpt: 'Ever wonder where your dumpster waste goes after pickup? Transfer stations are a critical link in the waste management chain. Learn how they work, why they matter, and how Jacksonville handles waste processing.',
     category: 'sustainability',
@@ -38,15 +38,15 @@ Transfer stations serve several key purposes:
 
 The process at a transfer station follows a fairly standard sequence, though specific operations vary by facility.
 
-### Step 1: Arrival and Weighing
+### Step 1 - Arrival and Weighing
 
 When a collection truck or roll-off hauler arrives at the transfer station, it drives onto a scale. The truck is weighed full, and the weight is recorded. This is important because disposal fees at landfills and recycling facilities are typically charged by the ton.
 
-### Step 2: Unloading
+### Step 2 - Unloading
 
 The truck proceeds to a designated unloading area, often called a tipping floor. This is a large, reinforced concrete area where the truck dumps its load. Tipping floors are designed for heavy use and drainage, with systems in place to capture any liquids that may come out of the waste.
 
-### Step 3: Inspection and Sorting
+### Step 3 - Inspection and Sorting
 
 Facility workers and sometimes specialized equipment inspect the dumped material. They look for items that should not go to a standard landfill, including:
 
@@ -58,17 +58,17 @@ Facility workers and sometimes specialized equipment inspect the dumped material
 
 Some transfer stations have dedicated sorting lines with conveyor belts and manual or automated sorting systems. Others rely primarily on visual inspection and equipment operators using loaders to separate materials.
 
-### Step 4: Consolidation and Loading
+### Step 4 - Consolidation and Loading
 
 Accepted waste is pushed into compactors or loaded directly into large transfer trailers. These trailers are much larger than the collection trucks that brought the waste in, which makes long-distance transport to the landfill significantly more efficient.
 
-### Step 5: Outbound Weighing and Transport
+### Step 5 - Outbound Weighing and Transport
 
 The loaded transfer trailer is weighed on the way out, and the net weight of the waste is calculated. The trailer then heads to the appropriate destination, whether that is a landfill, recycling facility, composting operation, or specialized processor.
 
-## The Waste Journey: Dumpster to Final Destination
+## The Waste Path from Dumpster to Final Destination
 
-Here is how the full waste journey typically looks when you rent a dumpster from [904 Dumpster](https://www.904dumpster.com):
+Here is how the full waste path typically looks when you rent a dumpster from [904 Dumpster](https://www.904dumpster.com):
 
 | Stage | What Happens | Location |
 |---|---|---|
@@ -129,7 +129,7 @@ Understanding the transfer station process can help you make smarter choices:
 3. **Keep hazardous items out**: Chemicals, solvents, paint, and batteries should never go in a dumpster. Jacksonville offers household hazardous waste collection events throughout the year.
 4. **Choose the right dumpster size**: Overloading a dumpster creates safety issues during transport. Our [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) options cover the majority of residential and commercial projects.
 
-## The Bigger Picture: Waste Reduction and Sustainability
+## The Bigger Picture for Waste Reduction and Sustainability
 
 Transfer stations are just one part of the larger waste management ecosystem. The most effective way to reduce landfill burden is to generate less waste in the first place. For renovation and construction projects, this means:
 
@@ -170,8 +170,8 @@ As a locally owned company, we work with Jacksonville's waste infrastructure eve
   // Post 2: What Is Waste Diversion?
   {
     slug: 'what-is-waste-diversion',
-    title: 'What Is Waste Diversion? A Guide to Keeping Materials Out of the Landfill',
-    metaTitle: 'What Is Waste Diversion? | Waste Reduction Guide | 904 Dumpster',
+    title: 'What Is Waste Diversion and How to Keep Materials Out of the Landfill',
+    metaTitle: 'What Is Waste Diversion - Waste Reduction and Recycling Guide',
     metaDescription: 'Learn what waste diversion is, how to calculate your diversion rate, and practical strategies for recycling, composting, and reusing materials during Jacksonville projects.',
     excerpt: 'Waste diversion keeps usable materials out of landfills through recycling, composting, donation, and reuse. Learn what waste diversion means, how it is measured, and how Jacksonville homeowners and contractors can improve their diversion rate.',
     category: 'sustainability',
@@ -350,8 +350,8 @@ Duval County and the surrounding area have multiple recycling and processing fac
   // Post 3: Dumpster Waste Types: What Goes Where
   {
     slug: 'dumpster-waste-types-guide',
-    title: 'Dumpster Waste Types: A Complete Guide to What Goes Where',
-    metaTitle: 'Dumpster Waste Types Guide | What Goes in Each Dumpster | 904 Dumpster',
+    title: 'Dumpster Waste Types and What Goes in Each Container',
+    metaTitle: 'Dumpster Waste Types Guide - What Goes in Each Container',
     metaDescription: 'Understand the main waste categories for dumpster rentals: MSW, C&D, yard waste, heavy debris, and hazardous. Learn which dumpster size works for each waste type in Jacksonville.',
     excerpt: 'Not all waste is the same, and knowing the difference between waste types helps you choose the right dumpster, avoid prohibited items, and keep your project on budget. This guide breaks down every major waste category.',
     category: 'dumpster-rental-tips',
@@ -363,7 +363,7 @@ Duval County and the surrounding area have multiple recycling and processing fac
     status: 'published' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'what-can-and-cannot-go-in-a-dumpster-rules', 'dumpster-sizes-explained-complete-guide'],
     content: `
-## Dumpster Waste Types: A Complete Guide to What Goes Where
+## Dumpster Waste Types and What Goes Where
 
 When you rent a dumpster, one of the most important things to understand is what type of waste you are dealing with. Different waste types have different disposal requirements, weight considerations, and pricing implications. Mixing the wrong materials can result in additional charges, rejected loads, or even environmental violations. This guide breaks down the main categories of waste you will encounter during residential and commercial projects, which dumpster size works best for each, and how 904 Dumpster handles different waste streams in Jacksonville.
 
@@ -545,7 +545,7 @@ If you are uncertain about the volume or type of waste your project will generat
   {
     slug: 'illegal-dumping-jacksonville-environment',
     title: 'How Illegal Dumping Affects Jacksonville Communities and What You Can Do About It',
-    metaTitle: 'Illegal Dumping in Jacksonville | Environmental Impact & Reporting | 904 Dumpster',
+    metaTitle: 'Illegal Dumping in Jacksonville - Environmental Impact and Reporting',
     metaDescription: 'Learn how illegal dumping harms Jacksonville communities, the Florida penalties involved, how to report it, and how affordable dumpster rental helps prevent illegal dumping.',
     excerpt: 'Illegal dumping costs Jacksonville taxpayers millions and damages neighborhoods, waterways, and public health. Learn about the real impact, Florida penalties, how to report illegal dumping, and how affordable dumpster rental is part of the solution.',
     category: 'local-guides',
@@ -703,8 +703,8 @@ Report dumping when you see it through 630-CITY or the MyJax app. Participate in
   // Post 5: Construction and Demolition Recycling
   {
     slug: 'construction-demolition-recycling-insights',
-    title: 'Construction and Demolition Recycling: What You Need to Know in 2026',
-    metaTitle: 'C&D Recycling Guide 2026 | Construction Demolition Waste Recycling | 904 Dumpster',
+    title: 'Construction and Demolition Recycling Guide for 2026',
+    metaTitle: 'Construction and Demolition Recycling Guide 2026 - C&D Waste Tips',
     metaDescription: 'Learn about construction and demolition recycling, recyclable C&D materials, EPA regulations, and how Jacksonville contractors can maximize recycling rates in 2026.',
     excerpt: 'Construction and demolition waste accounts for a massive share of the waste stream, but most of it is recyclable. Learn which C&D materials can be recycled, current regulations, and practical tips for maximizing your project recycling rate.',
     category: 'construction-waste',
@@ -716,7 +716,7 @@ Report dumping when you see it through 630-CITY or the MyJax app. Participate in
     status: 'published' as const,
     relatedSlugs: ['demolition-debris-disposal-best-practices', 'construction-dumpster-rental-contractors-guide', 'recycling-guide-jacksonville-construction-projects'],
     content: `
-## Construction and Demolition Recycling: What You Need to Know in 2026
+## Construction and Demolition Recycling Guide for 2026
 
 Construction and demolition waste is one of the largest waste streams in the United States, generating hundreds of millions of tons annually. The good news is that the vast majority of C&D materials are recyclable. Concrete, metals, wood, asphalt, drywall, and many other common construction materials all have established recycling markets. For Jacksonville contractors, builders, and homeowners, understanding C&D recycling is both an environmental responsibility and a practical business decision that can reduce disposal costs and meet growing regulatory requirements.
 
@@ -740,7 +740,7 @@ Construction and demolition waste encompasses all materials generated during the
 
 According to EPA estimates, C&D waste accounts for more than 600 million tons annually in the United States, which is more than double the amount of municipal solid waste generated by all households and businesses combined. The sheer volume makes C&D recycling one of the most impactful areas for waste diversion.
 
-## Recyclable C&D Materials: A Detailed Breakdown
+## Recyclable C&D Materials Explained in Detail
 
 Not all C&D materials are equally easy to recycle, but most have viable pathways. Here is a detailed look at the most commonly recycled construction and demolition materials.
 
@@ -915,8 +915,8 @@ Yes. For larger projects that generate significant volumes of specific materials
   // Post 6: Dumpster Rental Pricing Models Explained
   {
     slug: 'dumpster-pricing-models-explained',
-    title: 'Dumpster Rental Pricing Models Explained: How to Get the Best Deal',
-    metaTitle: 'Dumpster Rental Pricing Models Explained | Flat Rate vs Variable | 904 Dumpster',
+    title: 'Dumpster Rental Pricing Models Explained for Smart Shoppers',
+    metaTitle: 'Dumpster Rental Pricing Models Explained - Flat Rate vs Variable',
     metaDescription: 'Understand dumpster rental pricing models including flat-rate, variable, and weight-based pricing. Learn about hidden fees, how to compare quotes, and why 904 Dumpster uses all-inclusive pricing.',
     excerpt: 'Dumpster rental pricing can be confusing with different companies using different models. This guide breaks down flat-rate vs variable pricing, hidden fees to watch for, and how to compare quotes to get the best value.',
     category: 'cost-savings',
@@ -928,7 +928,7 @@ Yes. For larger projects that generate significant volumes of specific materials
     status: 'published' as const,
     relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'dumpster-rental-vs-junk-removal-comparison', 'dumpster-sizes-explained-complete-guide'],
     content: `
-## Dumpster Rental Pricing Models Explained: How to Get the Best Deal
+## Dumpster Rental Pricing Models Explained for Smart Shoppers
 
 Renting a dumpster should be straightforward, but pricing in the waste industry can be surprisingly complicated. Different companies use different pricing models, and what looks like a great deal upfront can turn into an expensive surprise when the final bill arrives. Understanding how dumpster rental pricing works, what each model includes, and what to watch out for puts you in control and helps you choose the best value for your project.
 

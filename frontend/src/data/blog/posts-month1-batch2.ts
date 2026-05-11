@@ -4,7 +4,7 @@ export const MONTH1_POSTS_BATCH2: BlogPost[] = [
   {
     slug: 'garage-cleanout-guide-jacksonville',
     title: 'How to Clean Out Your Garage Without Losing Your Mind',
-    metaTitle: 'Garage Cleanout Guide Jacksonville FL | Dumpster Rental Tips',
+    metaTitle: 'Garage Cleanout Guide Jacksonville FL - Dumpster Rental Tips',
     metaDescription: 'Step-by-step garage cleanout guide for Jacksonville homeowners. Learn what to keep, donate, and dump plus the right dumpster size for your garage clean out project. Call (904) 240-5598.',
     excerpt: 'A complete step-by-step guide to tackling your garage cleanout in Jacksonville, from sorting and organizing to choosing the right dumpster size for all that junk.',
     category: 'home-improvement',
@@ -34,7 +34,7 @@ The lack of basements in Florida homes also contributes to garage clutter. In no
 
 A full garage cleanout typically takes one to two days for a two-car garage, depending on how much stuff you have and how many helpers you recruit. If you plan ahead, rent a dumpster before you start, and follow a sorting system, most homeowners can finish in a single weekend. Larger garages or heavily packed spaces may take three days.
 
-## Step 1: Schedule Your Dumpster Delivery First
+## Step 1 - Schedule Your Dumpster Delivery First
 
 Before you pull a single item out of the garage, schedule your dumpster delivery. This is the most important step because having a dumpster in your driveway creates a deadline and a destination for everything you are throwing away. Without it, you will end up with trash piles in your yard and lose motivation halfway through.
 
@@ -44,7 +44,7 @@ At 904 Dumpster, we offer same-day or next-day delivery throughout Jacksonville 
 
 > REVIEW: "Very professional and on time. Great customer service." - Neemy Michel, Google Review
 
-## Step 2: Gather Your Supplies
+## Step 2 - Gather Your Supplies
 
 Before you start pulling items out of the garage, gather these supplies:
 
@@ -58,7 +58,7 @@ Before you start pulling items out of the garage, gather these supplies:
 
 Set up four clearly marked zones in your driveway or yard: Keep, Donate, Sell, and Dump. Every single item that comes out of the garage goes into one of these four zones. No exceptions, no "maybe" pile.
 
-## Step 3: Empty the Garage Completely
+## Step 3 - Empty the Garage Completely
 
 This step sounds extreme, but it is essential. Pull everything out of the garage and into the driveway. Yes, everything. You cannot properly sort and organize if items are still buried behind other items. Working in sections might feel easier, but it usually results in shuffling things from one pile to another without making real progress.
 
@@ -68,7 +68,7 @@ Start with the items closest to the garage door and work your way to the back wa
 
 Items with visible mold, mildew, rust damage, or water stains should go straight into the dumpster. Mold is a serious health concern in Florida, and trying to salvage moldy furniture, books, or clothing is not worth the risk. Cardboard boxes that have gone soft or show signs of moisture damage should be thrown away as well, since they may harbor mold spores even if you cannot see visible growth. Donate only items that are clean, functional, and in good condition.
 
-## Step 4: Sort Ruthlessly Using the One-Year Rule
+## Step 4 - Sort Ruthlessly Using the One-Year Rule
 
 The one-year rule is simple: if you have not used an item in the past 12 months, you probably do not need it. Apply this rule to everything except seasonal items like holiday decorations and emergency supplies like hurricane kits. Jacksonville homeowners should definitely keep their hurricane preparedness items since they are essential during storm season from June through November.
 
@@ -80,7 +80,7 @@ The one-year rule is simple: if you have not used an item in the past 12 months,
 
 **Items to Dump:** Broken furniture, damaged goods, old paint cans that have dried out, rusted tools beyond repair, torn screens, rotted wood, and anything else that no person or organization would want.
 
-## Step 5: Where to Donate in Jacksonville
+## Step 5 - Where to Donate in Jacksonville
 
 Jacksonville has several excellent donation centers that accept garage cleanout items. Here are the best options:
 
@@ -109,13 +109,13 @@ This is critical information that many homeowners overlook. Certain items common
 
 > REVIEW: "Excellent service, super nice company, shows up every-time when expected which is really needed when managing a project or renovation" - Dalton Guinn, Google Review
 
-## Step 6: Load the Dumpster Strategically
+## Step 6 - Load the Dumpster Strategically
 
 Once you have sorted everything and your Dump pile is ready, it is time to load the dumpster. Load flat items like plywood, shelving, and tabletops first to create a base layer. Then add bulky items like old furniture and broken equipment. Fill gaps with smaller items and bags of trash. Breaking down boxes and cutting apart large items helps you fit more into the container.
 
 Distribute weight evenly across the dumpster. Do not pile everything on one side, as this makes the container difficult and potentially unsafe to load onto our truck. Keep all items below the top edge of the dumpster. Overfilled containers cannot be safely transported.
 
-## Step 7: Clean and Organize the Empty Garage
+## Step 7 - Clean and Organize the Empty Garage
 
 With the garage completely empty, take the opportunity to deep clean before putting anything back. Sweep the entire floor, paying attention to corners where spider webs, dead insects, and debris accumulate. In Jacksonville, garages are common entry points for pests like palmetto bugs, spiders, and occasionally even snakes, so a thorough cleaning helps discourage them.
 
@@ -190,7 +190,7 @@ Late fall through early spring, roughly November through March, offers the most 
   {
     slug: 'dumpster-rental-cost-ponte-vedra-fl',
     title: 'How Much Does a Dumpster Cost in Ponte Vedra FL',
-    metaTitle: 'Dumpster Rental Cost Ponte Vedra FL | 2026 Pricing Guide',
+    metaTitle: 'Dumpster Rental Cost in Ponte Vedra FL - 2026 Pricing Guide',
     metaDescription: 'Dumpster rental prices in Ponte Vedra FL start at $409. Flat-rate pricing for Ponte Vedra Beach, Nocatee, and TPC Sawgrass areas. No hidden fees. Call (904) 240-5598.',
     excerpt: 'Complete pricing guide for dumpster rentals in Ponte Vedra FL, covering Ponte Vedra Beach, Nocatee, and St. Johns County with flat-rate pricing and no hidden fees.',
     category: 'cost-savings',
@@ -262,7 +262,7 @@ We work with Ponte Vedra homeowners in gated and HOA-governed communities regula
 
 > REVIEW: "Great, reliable dumpster service! Always on time with delivery and pickup, fair pricing, and excellent communication." - Redi Tufa, Google Review
 
-## Ponte Vedra Beach vs Nocatee: Project Differences
+## Ponte Vedra Beach vs Nocatee Project Differences
 
 The type of projects we see varies between Ponte Vedra Beach's established neighborhoods and the newer developments in Nocatee. Understanding these differences can help you estimate costs for your specific situation.
 
@@ -397,7 +397,7 @@ Each dumpster size includes a specific weight allowance, which is 1 ton for the 
   {
     slug: 'yard-waste-landscaping-debris-disposal-northeast-florida',
     title: 'The Complete Guide to Yard Waste and Landscaping Debris Disposal in Northeast Florida',
-    metaTitle: 'Yard Waste Disposal Jacksonville FL | Landscaping Debris Dumpster Guide',
+    metaTitle: 'Yard Waste Disposal in Jacksonville FL - Landscaping Debris Guide',
     metaDescription: 'Complete guide to yard waste disposal in Jacksonville and Northeast Florida. Learn when you need a dumpster vs curbside pickup for landscaping debris. Call (904) 240-5598.',
     excerpt: 'Everything you need to know about disposing of yard waste and landscaping debris in Northeast Florida, from curbside pickup rules to renting a dumpster for large projects.',
     category: 'sustainability',
@@ -627,7 +627,7 @@ Late fall through early spring, from November through March, is the ideal window
   {
     slug: 'contractor-dumpster-rental-jacksonville',
     title: 'Why Jacksonville Contractors Choose 904 Dumpster for Their Projects',
-    metaTitle: 'Contractor Dumpster Rental Jacksonville FL | Construction Dumpster Service',
+    metaTitle: 'Contractor Dumpster Rental in Jacksonville FL - Construction Service',
     metaDescription: 'Jacksonville contractors trust 904 Dumpster for reliable construction dumpster rental. Same-day delivery, flat-rate pricing, and dependable scheduling. Call (904) 240-5598.',
     excerpt: 'Learn why Jacksonville contractors rely on 904 Dumpster for construction dumpster rental, with reliable scheduling, flat-rate pricing, and same-day swap capability.',
     category: 'construction-waste',
@@ -783,7 +783,7 @@ When you order a dumpster from a national broker, here is what actually happens:
 
 When you call 904 Dumpster, you talk directly to the people who own and operate the trucks and containers. Our dispatcher knows exactly where every dumpster is at any given time. If you need an emergency swap at 7 AM, you call us and we handle it directly, no middleman, no delay, no confusion about who is responsible.
 
-Contractors who work with us regularly have direct contact with our team. Many text us to schedule deliveries and swaps rather than calling, because the relationship is personal and the communication is seamless. That level of service is impossible with a national broker.
+Contractors who work with us regularly have direct contact with our team. Many text us to schedule deliveries and swaps rather than calling, because the relationship is personal and communication moves quickly. That level of service is impossible with a national broker.
 
 ### Price Transparency
 
@@ -859,7 +859,7 @@ Street placement is possible in some Jacksonville locations, depending on local 
   {
     slug: 'dumpster-rental-cost-atlantic-beach-fl',
     title: 'How Much Does a Dumpster Cost in Atlantic Beach FL',
-    metaTitle: 'Dumpster Rental Cost Atlantic Beach FL | 2026 Pricing Guide',
+    metaTitle: 'Dumpster Rental Cost in Atlantic Beach FL - 2026 Pricing Guide',
     metaDescription: 'Dumpster rental in Atlantic Beach FL starts at $299 with flat-rate pricing. Includes delivery, pickup, and disposal. No hidden fees. Call 904 Dumpster at (904) 240-5598.',
     excerpt: 'Complete dumpster rental pricing guide for Atlantic Beach FL, covering beach community considerations, narrow driveway tips, and flat-rate costs for every container size.',
     category: 'cost-savings',

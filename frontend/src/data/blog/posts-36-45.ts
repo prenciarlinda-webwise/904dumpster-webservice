@@ -4,7 +4,7 @@ export const POSTS_36_TO_45: BlogPost[] = [
   // Post 36
   {
     slug: 'dumpster-rental-calculator-estimate-debris-volume',
-    title: 'Dumpster Rental Calculator: How to Estimate Your Debris Volume',
+    title: 'Dumpster Rental Calculator and Debris Volume Estimator',
     metaTitle: 'Dumpster Rental Calculator - Estimate Debris Volume & Size Needed',
     metaDescription: 'Use our dumpster rental calculator guide to estimate debris volume in cubic yards. Learn how to calculate dumpster size for your Jacksonville project and avoid overpaying.',
     excerpt: 'Not sure what size dumpster you need? Learn how to estimate your debris volume in cubic yards, understand dumpster weight limits, and choose the right roll-off container for your project in Jacksonville.',
@@ -17,7 +17,7 @@ export const POSTS_36_TO_45: BlogPost[] = [
     status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-rental-for-homeowners-first-time-guide'],
     content: `
-## Dumpster Rental Calculator: How to Estimate Your Debris Volume
+## Dumpster Rental Calculator and Debris Volume Estimator
 
 One of the biggest mistakes people make when renting a dumpster is guessing at the size they need. Order too small and you end up paying for a second haul. Order too large and you waste money on capacity you never use. Whether you are cleaning out a garage, tearing up old carpet, or hauling away demolition debris from a renovation, knowing how to estimate your debris volume in cubic yards saves you time, money, and frustration.
 
@@ -148,7 +148,7 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
   // Post 37
   {
     slug: 'garage-conversion-waste-planning-guide',
-    title: 'Garage Conversion Guide: What Waste to Expect During Renovation',
+    title: 'Garage Conversion Guide and Waste Planning for Renovations',
     metaTitle: 'Garage Conversion Waste Guide - Debris Planning Jacksonville FL',
     metaDescription: 'Planning a garage conversion in Jacksonville? Learn what waste and debris to expect, how to plan for disposal, and what dumpster size fits your garage renovation project.',
     excerpt: 'Converting a garage into living space generates significant waste from demolition, framing, insulation, and finishing. This guide covers the waste planning side of garage conversions in Jacksonville.',
@@ -161,7 +161,7 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     status: 'draft' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'how-to-choose-right-dumpster-size'],
     content: `
-## Garage Conversion Guide: What Waste to Expect During Renovation
+## Garage Conversion Guide and Waste Planning
 
 Garage conversions have become one of the most popular home improvement projects in Jacksonville. Whether you are creating a home office, an in-law suite, a rental apartment, or additional living space for a growing family, converting an attached or detached garage involves a substantial amount of construction waste that most homeowners do not anticipate. Understanding what debris to expect at each stage of the project helps you plan ahead, choose the right dumpster size, and keep your property clean throughout the renovation.
 
@@ -183,7 +183,7 @@ Homeowners in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/
 
 ## Phase-by-Phase Waste Breakdown
 
-### Phase 1: Clearing Out the Garage
+### Phase 1 - Clearing Out the Garage
 
 Before any conversion work begins, you need to empty the garage completely. Most Jacksonville garages are packed with years of accumulated belongings: tools, holiday decorations, old furniture, sporting equipment, paint cans, and general clutter.
 
@@ -195,7 +195,7 @@ This initial cleanout alone can fill a [10-yard dumpster](/10-yard-dumpster-rent
 - Cardboard boxes and packing materials
 - General household junk
 
-### Phase 2: Demolition and Removal
+### Phase 2 - Demolition and Removal
 
 Once the garage is empty, the conversion work begins with demolition. This is the most waste-intensive phase and produces the heaviest debris. Common demolition tasks include:
 
@@ -211,7 +211,7 @@ Once the garage is empty, the conversion work begins with demolition. This is th
 - Old insulation
 - Electrical and plumbing fixtures
 
-### Phase 3: Framing and Insulation
+### Phase 3 - Framing and Insulation
 
 The framing phase produces less waste than demolition, but there are still offcuts and packaging materials to manage. New framing lumber generates ends and scraps. Insulation comes in packaging that takes up significant volume. Window and door installations produce packaging materials, shims, and trim offcuts.
 
@@ -221,7 +221,7 @@ The framing phase produces less waste than demolition, but there are still offcu
 - Window and door packaging
 - Fastener packaging and miscellaneous hardware waste
 
-### Phase 4: Finishing Work
+### Phase 4 - Finishing Work
 
 The finishing phase includes drywall installation, flooring, painting, trim work, and fixture installation. Each of these tasks produces its own waste stream:
 
@@ -307,7 +307,7 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
   // Post 38
   {
     slug: 'kitchen-renovation-waste-preparation-guide',
-    title: 'How to Prepare for Kitchen Renovation: Debris and Waste Guide',
+    title: 'How to Prepare for a Kitchen Renovation Debris Cleanup',
     metaTitle: 'Kitchen Renovation Waste Guide - Debris Preparation Jacksonville FL',
     metaDescription: 'Preparing for a kitchen renovation in Jacksonville? Learn what debris to expect from demo, cabinets, flooring, and countertops. Plan your waste management before day one.',
     excerpt: 'Kitchen renovations produce more waste than most homeowners expect. From cabinets and countertops to flooring and appliances, this guide helps you prepare for the debris side of your Jacksonville kitchen remodel.',
@@ -320,7 +320,7 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
     status: 'scheduled' as const,
     relatedSlugs: ['dumpster-rental-calculator-estimate-debris-volume', 'recycling-guide-jacksonville-construction-projects'],
     content: `
-## How to Prepare for Kitchen Renovation: Debris and Waste Guide
+## How to Prepare for a Kitchen Renovation Cleanup
 
 A kitchen renovation is one of the most impactful home improvement projects you can take on, but it also generates one of the largest volumes of waste. Ripping out old cabinets, countertops, flooring, backsplash, and appliances from an average Jacksonville kitchen produces 6 to 12 cubic yards of debris before new materials even arrive. If you do not plan for waste removal before demolition day, you will find yourself surrounded by piles of broken tile, splintered cabinets, and old drywall with nowhere to put it.
 
@@ -334,19 +334,19 @@ A typical Jacksonville kitchen ranges from 100 to 250 square feet, but the waste
 
 ## What Waste to Expect at Each Stage
 
-### Stage 1: Kitchen Cleanout and Preparation
+### Stage 1 - Kitchen Cleanout and Preparation
 
 Before any demolition begins, the kitchen needs to be completely emptied. Every dish, utensil, small appliance, pantry item, and cleaning supply needs to move to another room. This is also a good time to sort through what you actually use versus what has been sitting in cabinets untouched for years.
 
 Many homeowners discover that their kitchen cleanout alone fills several trash bags with expired food, broken utensils, and items they no longer need. Consider donating usable kitchen items to Goodwill or Habitat for Humanity ReStore in Jacksonville before the renovation starts.
 
-### Stage 2: Appliance Removal
+### Stage 2 - Appliance Removal
 
 Old appliances are among the first items removed. A standard kitchen has a refrigerator, stove or range, dishwasher, microwave (often built-in), and possibly a garbage disposal and range hood. These appliances are bulky and heavy, but many can be donated, sold, or recycled rather than thrown in a dumpster.
 
 Jacksonville has several appliance recycling options, and many scrap metal dealers will pick up old appliances for free because of their metal value. If appliances are in working condition, organizations like Habitat for Humanity ReStore accept donations. For broken appliances that cannot be donated, they can go in your dumpster. Read our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for more options.
 
-### Stage 3: Cabinet and Countertop Demolition
+### Stage 3 - Cabinet and Countertop Demolition
 
 This is where the bulk of kitchen renovation waste comes from. A typical set of upper and lower cabinets from a U-shaped or L-shaped kitchen produces 3 to 6 cubic yards of waste. Cabinets are bulky because of their box construction, and breaking them down with a pry bar reduces their volume significantly.
 
@@ -362,7 +362,7 @@ Countertop waste varies dramatically by material:
 
 If your kitchen has granite or quartz countertops, the weight adds up fast. A 30-linear-foot countertop in granite weighs 600 to 750 pounds. Factor this into your dumpster weight planning.
 
-### Stage 4: Flooring Removal
+### Stage 4 - Flooring Removal
 
 Kitchen flooring removal is often the most labor-intensive part of the waste equation, especially in older Jacksonville homes where multiple layers of flooring have been installed over the decades. It is common to find vinyl over tile over hardwood, each layer requiring removal before new flooring goes down.
 
@@ -372,7 +372,7 @@ Kitchen flooring removal is often the most labor-intensive part of the waste equ
 
 **Vinyl flooring** is the lightest option to remove but can be complicated in older homes where it was glued directly to a plywood subfloor. In some cases, the subfloor comes up with the vinyl and needs replacement.
 
-### Stage 5: Backsplash and Drywall
+### Stage 5 - Backsplash and Drywall
 
 Removing backsplash tile almost always damages the drywall behind it. Plan to replace the drywall in the backsplash area at minimum. If water damage is discovered behind the sink or dishwasher area, which is common in Jacksonville's humid climate, you may end up replacing larger sections of drywall.
 
@@ -451,7 +451,7 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
   // Post 39
   {
     slug: 'basement-renovation-waste-planning-guide',
-    title: 'Basement Renovation Waste Guide: From Leaks to Living Space',
+    title: 'Basement Renovation Waste Guide from Leaks to Living Space',
     metaTitle: 'Basement Renovation Waste Guide - Debris & Cleanup Jacksonville FL',
     metaDescription: 'Planning a basement renovation in Jacksonville? Learn what waste to expect from water damage cleanup, demolition, and finishing work. Prepare for debris before you start.',
     excerpt: 'Basement renovations in Northeast Florida often start with water damage cleanup and end with a transformed living space. This guide covers the waste management side of every phase, from leak remediation to finishing.',
@@ -464,7 +464,7 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
     status: 'draft' as const,
     relatedSlugs: ['kitchen-renovation-waste-preparation-guide', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
-## Basement Renovation Waste Guide: From Leaks to Living Space
+## Basement Renovation Waste Guide from Leaks to Living Space
 
 Basements represent some of the most underutilized square footage in a home. Whether your basement has been sitting empty, serving as a disorganized storage dump, or suffering from persistent moisture problems, converting it into livable space generates a unique set of waste challenges. Water-damaged materials, old insulation, outdated fixtures, and years of accumulated junk all need to go before the real renovation work can begin. Planning for that debris from the start makes the entire project smoother and more efficient.
 
@@ -476,7 +476,7 @@ While full basements are less common in Jacksonville proper due to the high wate
 
 Florida's climate creates unique challenges for below-grade and ground-level spaces. High humidity, heavy seasonal rains, and occasional flooding mean that moisture intrusion is the most common issue homeowners face before they can even begin a basement renovation.
 
-## Phase 1: Dealing with Water Damage and Moisture
+## Phase 1 - Dealing with Water Damage and Moisture
 
 ### Why Does My Basement Smell Musty?
 
@@ -498,7 +498,7 @@ A basement water damage cleanup typically produces 4 to 8 cubic yards of waste d
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
-## Phase 2: Clearing Out and Organizing
+## Phase 2 - Clearing Out and Organizing
 
 Most basements serve as the home's primary storage area, and clearing decades of accumulated items is a project in itself. The approach is similar to an [estate cleanout](/blog/estate-cleanout-guide-jacksonville) or a major [home cleanout](/blog/complete-guide-home-cleanout-jacksonville): sort everything into keep, donate, sell, and dispose categories.
 
@@ -517,7 +517,7 @@ Be aware that some items commonly stored in basements cannot go in a dumpster. P
 
 If you are not fully converting the space but want to organize it better, a cleanout is still the first step. Rent a dumpster to remove everything you no longer need, then invest in proper shelving, waterproof storage containers, and dehumidification. A [10-yard dumpster](/10-yard-dumpster-rental) is usually the right size for an organizational cleanout where you are keeping most items but disposing of damaged and unwanted ones.
 
-## Phase 3: Demolition and Preparation
+## Phase 3 - Demolition and Preparation
 
 Once the basement is cleared and any moisture issues are addressed, the demolition phase begins. This is the most waste-intensive phase of any basement renovation:
 
@@ -537,7 +537,7 @@ A full basement renovation demolition typically produces 8 to 15 cubic yards of 
 |---|---|---|
 | [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
-## Phase 4: Construction and Finishing Waste
+## Phase 4 - Construction and Finishing Waste
 
 The rebuild phase produces less waste than demolition but still generates material that needs disposal. New framing lumber creates offcuts, drywall installation produces scraps, flooring has leftover pieces, and packaging materials from new fixtures, cabinets, and appliances add up.
 
@@ -599,7 +599,7 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
   // Post 40
   {
     slug: 'deck-removal-replacement-waste-planning',
-    title: 'Deck Removal and Replacement: Waste Planning Guide',
+    title: 'Deck Removal and Replacement Waste Planning Guide',
     metaTitle: 'Deck Removal Waste Guide - Demolition Debris Planning Jacksonville FL',
     metaDescription: 'Planning to remove or replace your deck in Jacksonville? Learn what demolition waste to expect, how to plan debris disposal, and what dumpster size you need for deck demo.',
     excerpt: 'Deck removal and replacement produces heavy, bulky waste that does not fit in curbside bins. This guide covers waste planning for deck demolition projects in Jacksonville and Northeast Florida.',
@@ -612,7 +612,7 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
     status: 'draft' as const,
     relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
-## Deck Removal and Replacement: Waste Planning Guide
+## Deck Removal and Replacement Waste Planning
 
 Jacksonville's climate is tough on outdoor structures. The combination of intense sun, high humidity, heavy rain, and occasional tropical storms means that wooden decks in Northeast Florida have a shorter lifespan than in drier regions. When your deck reaches the end of its useful life and needs to be removed or replaced, the demolition generates a surprising volume of heavy, bulky waste that requires proper planning. This guide covers everything you need to know about the waste side of deck removal and replacement projects.
 
@@ -743,7 +743,7 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
   // Post 41
   {
     slug: 'attic-basement-cleanout-decluttering-disposal',
-    title: 'Attic and Basement Cleanout: Decluttering and Disposal Guide',
+    title: 'Attic and Basement Cleanout Decluttering and Disposal Guide',
     metaTitle: 'Attic & Basement Cleanout Guide - Large Item Disposal Jacksonville FL',
     metaDescription: 'Need to clean out your attic or basement in Jacksonville? Learn how to dispose of large furniture, old cabinets, and bulky items with this step-by-step decluttering guide.',
     excerpt: 'Attics and basements are where the clutter hides. When it is time to finally clean them out, knowing how to dispose of large furniture, old cabinets, and bulky items makes the project manageable.',
@@ -756,7 +756,7 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
     status: 'draft' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
-## Attic and Basement Cleanout: Decluttering and Disposal Guide
+## Attic and Basement Cleanout Decluttering Guide
 
 Every Jacksonville home has at least one space that has become the default dumping ground for things that do not have a home anywhere else. Attics, basements, bonus rooms above garages, and oversized closets slowly accumulate years of furniture, holiday decorations, old clothing, broken appliances, and boxes that have not been opened since the last move. When you finally decide to reclaim that space, the biggest challenge is not the sorting but the disposal. Where do you take old furniture? How do you get rid of bulky items that do not fit in your curbside bin? What do you do with metal cabinets, broken electronics, and items too large for your car?
 
@@ -807,13 +807,13 @@ Metal furniture like filing cabinets, shelving units, bed frames, and old applia
 
 ## Step-by-Step Cleanout Process
 
-### Step 1: Assess the Space
+### Step 1 - Assess the Space
 
 Before renting a dumpster or calling for help, go into the space and take an honest inventory. How many large items are there? How many boxes? Is there visible water damage or mold? Taking photos helps you remember everything when you are planning the logistics.
 
 For attics in Jacksonville, pay attention to signs of pest activity. Rats, squirrels, and insects are common attic inhabitants in Northeast Florida, and their presence can contaminate stored items. If you see droppings, nesting material, or damaged containers, plan to dispose of affected items rather than trying to clean them.
 
-### Step 2: Sort Into Categories
+### Step 2 - Sort Into Categories
 
 Use the same four-category system that works for [estate cleanouts](/blog/estate-cleanout-guide-jacksonville):
 
@@ -824,11 +824,11 @@ Use the same four-category system that works for [estate cleanouts](/blog/estate
 
 Be honest during this step. If you have not used or looked at something in over two years, you probably do not need it. Jacksonville's climate is especially hard on items stored in non-climate-controlled spaces: attics routinely reach 140 degrees or higher in summer, and basements or lower levels deal with moisture.
 
-### Step 3: Handle Hazardous Items Separately
+### Step 3 - Handle Hazardous Items Separately
 
 Common hazardous items found during attic and basement cleanouts include old paint, stains, solvents, pesticides, pool chemicals, batteries, and old propane tanks. These cannot go in a dumpster. The City of Jacksonville Household Hazardous Waste Facility on Ellis Road accepts these items from Duval County residents at no charge.
 
-### Step 4: Rent a Dumpster and Load It
+### Step 4 - Rent a Dumpster and Load It
 
 [Book your dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**. We offer same-day and next-day delivery throughout Jacksonville and surrounding areas including [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl).
 
@@ -841,7 +841,7 @@ Common hazardous items found during attic and basement cleanouts include old pai
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
-### Step 5: Clean and Organize the Space
+### Step 5 - Clean and Organize the Space
 
 Once the junk is gone, clean the space thoroughly. Sweep, vacuum, and wipe down surfaces. In attics, check insulation for damage and look for signs of leaks. In basements, check for moisture issues and consider a dehumidifier. This is your chance to set up the space the way you actually want it, whether that means better shelving, climate-controlled storage, or converting it into usable living space.
 
@@ -1036,7 +1036,7 @@ For major renovation projects that generate multiple gallons of old paint, sched
   // Post 43
   {
     slug: 'dumpster-rental-for-homeowners-first-time-guide',
-    title: "Dumpster Rental for Homeowners: First-Timer's Complete Guide",
+    title: "Dumpster Rental for Homeowners and First-Timers Explained",
     metaTitle: 'Dumpster Rental for Homeowners - First Time Guide Jacksonville FL',
     metaDescription: 'First time renting a dumpster? This complete guide for Jacksonville homeowners covers sizes, pricing, what to expect, placement tips, and how to get the most from your rental.',
     excerpt: 'Never rented a dumpster before? This first-timer guide covers everything Jacksonville homeowners need to know: how it works, what size to choose, where to put it, what it costs, and what to expect.',
@@ -1049,7 +1049,7 @@ For major renovation projects that generate multiple gallons of old paint, sched
     status: 'published' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
-## Dumpster Rental for Homeowners: First-Timer's Complete Guide
+## Dumpster Rental for Homeowners and First-Timers
 
 If you have never rented a dumpster before, the process might seem intimidating. You might be picturing the massive green dumpsters behind restaurants and thinking that cannot possibly be what goes in your driveway. The reality is that residential roll-off dumpsters are specifically designed for homeowner use, they are smaller, cleaner, and delivered directly to your property on a schedule you choose. Whether you are tackling a home cleanout, renovation project, landscaping overhaul, or just finally dealing with years of accumulated junk, renting a dumpster is one of the simplest and most affordable ways to handle large-volume waste removal.
 
@@ -1246,7 +1246,7 @@ Call us and we will swap it. If you need a larger dumpster, we can exchange it f
 
 ### Where does the trash go after you throw it away?
 
-Great question. Read our blog post on [where does trash go after you throw it away](/blog/where-does-trash-go-after-you-throw-it-away) for a detailed look at the journey from your dumpster to the disposal facility.
+Great question. Read our blog post on [where does trash go after you throw it away](/blog/where-does-trash-go-after-you-throw-it-away) for a detailed look at the path from your dumpster to the disposal facility.
 `,
   },
   // Post 44
