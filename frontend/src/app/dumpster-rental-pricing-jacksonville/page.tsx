@@ -77,6 +77,42 @@ export default function PricingPage() {
     },
   ]
 
+  const pricingFaqs = [
+    {
+      q: 'How much does it cost to rent a dumpster in Jacksonville FL?',
+      a: 'A dumpster rental in Jacksonville costs $299 for a 10-yard, $349 for a 15-yard, or $399 for a 20-yard at 904 Dumpster. Each price is flat-rate and includes delivery, pickup, a 5-day rental period, and disposal of the included tonnage (1 ton, 1.5 tons, and 2 tons respectively).',
+    },
+    {
+      q: 'Are there hidden fees in 904 Dumpster pricing?',
+      a: 'No. The advertised flat rates of $299, $349, and $399 cover delivery, pickup, disposal, and the rental period. There are no fuel surcharges, environmental fees, administrative fees, or delivery zone charges added to the bill. Weight overages above the included tonnage are billed at $75 per additional ton.',
+    },
+    {
+      q: 'What is the cheapest dumpster rental in Jacksonville?',
+      a: 'The 10-yard dumpster at $299 is the most affordable size. It holds about 3 pickup truck loads, fits any standard residential driveway, and works well for single-room cleanouts, garage purges, or small bathroom remodels. Be cautious of competitors advertising sub-$200 rentals, as those almost always have hidden delivery, fuel, or disposal fees that inflate the final bill above $400.',
+    },
+    {
+      q: 'What is included in the flat-rate dumpster rental price?',
+      a: 'Every 904 Dumpster rental includes drop-off delivery to your Jacksonville-area address, a 5-day rental period, pickup when you call, and disposal at Trail Ridge Landfill up to the included tonnage. Two-week and monthly rental options are also available at slightly higher rates for projects that run longer.',
+    },
+    {
+      q: 'Are there extra charges for heavy debris like concrete or dirt?',
+      a: 'Heavy materials hit the weight allowance faster than the volume allowance. Mixed loads with concrete, brick, tile, or dirt typically require a smaller 10-yard dumpster sized for the weight rather than the volume. For projects exclusively involving heavy debris, we offer a dedicated concrete disposal dumpster service designed to handle the extra tonnage.',
+    },
+  ]
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: pricingFaqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.q,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.a,
+      },
+    })),
+  }
+
   return (
     <>
       <script
@@ -86,6 +122,10 @@ export default function PricingPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
       <div className="min-h-screen">
         {/* Hero Section */}
@@ -514,6 +554,31 @@ export default function PricingPage() {
                 </li>
               </ul>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* FAQ Section */}
+      <section className="py-20 lg:py-28 bg-white">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6">
+          <h2 className="text-3xl md:text-4xl font-black text-secondary mb-10 text-center">
+            Dumpster rental pricing questions
+          </h2>
+          <div className="space-y-4">
+            {pricingFaqs.map((faq, i) => (
+              <details
+                key={i}
+                className="group border border-gray-200 rounded-xl overflow-hidden bg-white shadow-sm"
+              >
+                <summary className="flex items-center justify-between p-5 cursor-pointer hover:bg-gray-50 transition-colors list-none">
+                  <h3 className="text-lg font-bold text-secondary pr-4">{faq.q}</h3>
+                  <ArrowRight className="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300 group-open:rotate-90" />
+                </summary>
+                <div className="px-5 pb-5 text-gray-600 leading-relaxed">
+                  {faq.a}
+                </div>
+              </details>
+            ))}
           </div>
         </div>
       </section>

@@ -722,27 +722,30 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
   {
     slug: 'what-fits-in-15-yard-dumpster',
     title: 'What Actually Fits in a 15-Yard Dumpster',
-    metaTitle: 'What Fits in a 15-Yard Dumpster - Size, Dimensions and Project Guide',
-    metaDescription: 'What fits in a 15-yard dumpster? See dimensions (14x7.5x4.5 ft), real project examples, and capacity guide. Our most popular size for kitchen remodels and roof replacements.',
-    excerpt: 'A 15-yard dumpster holds about 5 pickup truck loads and is the most popular size for mid-range renovations. See real project examples and learn when this size is the right fit.',
+    metaTitle: 'What fits in a 15 yard dumpster? Capacity and project examples',
+    metaDescription: 'See exactly what fits in a 15 yard dumpster with real Jacksonville project examples, loading tips, and capacity guidance for renovations and cleanouts.',
+    excerpt: 'A 15 yard dumpster holds about 5 pickup truck loads and handles most mid-range renovations. See real Jacksonville project examples and how to maximize capacity for kitchen remodels, roof tear-offs, and spring cleanouts.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
     publishedDate: '2026-03-25',
+    updatedDate: '2026-05-13',
     readTime: '8 min read',
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
-    tags: ['15 yard dumpster capacity', 'what fits in 15 yard dumpster', 'mid-size dumpster rental', '15 yard dumpster projects', '15 yard dumpster dimensions', 'how big is a 15 yard dumpster', '15 yard dumpster rental cost', 'dumpster rental 15 yard', '15 yard roll off dumpster'],
+    tags: ['what fits in 15 yard dumpster', '15 yard dumpster capacity', '15 yard dumpster projects', 'kitchen remodel dumpster', 'roof tear-off dumpster', 'spring cleanout dumpster', '15 yard dumpster loading tips', 'mid-size dumpster projects'],
     status: 'scheduled' as const,
     relatedSlugs: ['what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What Actually Fits in a 15-Yard Dumpster
 
-A [15-yard dumpster](/15-yard-dumpster-rental) from 904 Dumpster holds approximately 15 cubic yards of debris, which translates to roughly 5 full-size pickup truck loads. It measures 14 feet long by 7.5 feet wide by 4.5 feet tall and includes up to 1.5 tons (3,000 pounds) of weight capacity. This is the most popular dumpster size we deliver across Northeast Florida because it handles the majority of mid-range renovation projects, spring cleanouts, and roofing jobs without forcing you to pay for space you will not use.
+A [15 yard dumpster](/15-yard-dumpster-rental) holds about 5 full-size pickup truck loads of debris, which makes it the right fit for most mid-range home projects: a kitchen remodel, a single-room flooring tear-out, a deck replacement, a roof tear-off on a smaller home, or a whole-house spring cleanout. This guide walks through what realistically fits, real examples from Jacksonville-area projects, and how to load efficiently so you avoid paying for a second haul.
 
-Spring is the busiest season for home projects in Jacksonville, and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the 15-yard dumpster is likely the size that will handle everything you throw into it.
+Spring is the busiest season for home projects in Jacksonville, and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the [15 yard dumpster](/15-yard-dumpster-rental) is the size that handles most of these jobs in one container.
 
-## 15-Yard Dumpster Dimensions and Capacity at a Glance
+You'll sometimes see the same container written as a "15 yd dumpster" or a "15 cubic yard dumpster" in online listings and supplier quotes. All three terms refer to the same physical container.
 
-Understanding the physical size of a 15-yard dumpster helps you plan where to place it and how much it can hold:
+## Size and capacity at a glance
+
+A 15-yard roll-off holds 15 cubic yards of debris and includes up to 1.5 tons (3,000 pounds) of weight before overage fees. The footprint sits in a single driveway parking space and the wall height is low enough that most adults can toss debris over the side without a ladder. The full specifications are below.
 
 | Specification | Detail |
 |--------------|--------|
@@ -876,7 +879,7 @@ We deliver across the entire Jacksonville metro area and surrounding communities
 
 ### How many pickup truck loads fit in a 15-yard dumpster?
 
-A 15-yard dumpster holds approximately 5 full-size pickup truck loads of debris. This assumes standard-bed pickup trucks loaded to the top of the bed without stacking above the rails. If you are hauling lighter materials like furniture cushions or bagged clothing, you may get the equivalent of 6 loads. Heavier materials like roofing shingles or tile may fill the weight limit in fewer loads.
+A [15 yard dumpster](/15-yard-dumpster-rental) holds approximately 5 full-size pickup truck loads of debris. This assumes standard-bed pickup trucks loaded to the top of the bed without stacking above the rails. If you are hauling lighter materials like furniture cushions or bagged clothing, you may get the equivalent of 6 loads. Heavier materials like roofing shingles or tile may fill the weight limit in fewer loads.
 
 ### Is a 15-yard dumpster big enough for a kitchen remodel?
 

@@ -1127,4 +1127,144 @@ Some companies may offer flexibility on pricing, especially for long-term or mul
 If you need more time, just call us. We offer affordable daily extension rates if your project runs past the included rental period. This is still typically much cheaper than rushing to finish or renting a second dumpster. Planning ahead and choosing the right rental period at booking helps avoid any additional charges.
 `,
   },
+  // Post 7: 30 Yard Dumpster Dimensions and Alternatives
+  {
+    slug: 'what-fits-in-30-yard-dumpster',
+    title: 'How big is a 30 yard dumpster, and do you actually need one?',
+    metaTitle: 'How big is a 30 yard dumpster? Dimensions and alternatives',
+    metaDescription: 'A 30 yard dumpster typically measures 22 x 8 x 6 ft and holds about 9 pickup loads. See dimensions, weight limits, and when a 20 yard handles it.',
+    excerpt: 'A 30 yard dumpster is the second-largest residential roll-off size on the market, but most jobs that sound like 30 yard jobs actually fit a 20 yard with room to spare. See the real specs and when you can downsize.',
+    category: 'dumpster-rental-tips',
+    author: '904 Dumpster',
+    publishedDate: '2026-05-12',
+    updatedDate: '2026-05-12',
+    readTime: '9 min read',
+    featuredImage: '/images/30-Yard-Dumpster.jpeg',
+    tags: ['30 yard dumpster', '30 yd dumpster', '30 cubic yard dumpster', '30 yard dumpster dimensions', '30 yard dumpster size', 'how big is a 30 yard dumpster', '30 yard container dimensions', 'dumpster sizes 30 yard', 'large dumpster rental jacksonville'],
+    status: 'published' as const,
+    relatedSlugs: ['what-fits-in-15-yard-dumpster', 'what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size'],
+    content: `
+## What a 30 yard dumpster actually is, in plain English
+
+A 30 yard dumpster is a roll-off container that holds 30 cubic yards of debris and typically measures 22 feet long by 8 feet wide by 6 feet tall. It's the second-largest residential size most haulers carry, sized for whole-house gut renovations, large commercial demos, and major roof tear-offs. The weight allowance varies by hauler but generally runs 4 to 5 tons (8,000 to 10,000 pounds), which is roughly double what a 20 yard includes. At 904 Dumpster, our largest residential roll-off is the [20 yard dumpster](/20-yard-dumpster-rental), so this guide explains the 30 yard specs and shows when a 20 yard plus a swap handles the same job at a similar or lower total cost.
+
+You'll see this size called a "30 yd dumpster," a "30 cubic yard dumpster," or just "30 yarder" on contractor invoices and supplier sites. All three terms point to the same physical container. The 30 yard isn't always available in every market, and in residential neighborhoods it can run into driveway-clearance issues that smaller sizes never trigger.
+
+## 30 yard dumpster dimensions and weight specs
+
+Industry-standard 30 yard roll-off dimensions are 22 feet long, 8 feet wide, and 6 feet tall, although a few suppliers run slightly shorter (20 ft) or taller (6.5 ft) variants. The 6-foot wall height is the practical detail that matters most. Loading debris over a 6-foot wall almost always requires a ladder, a pickup-truck bed dump, or the rear swing door. By contrast, a 20 yard with 5.8-foot walls is reachable for most adults without climbing.
+
+| Specification | Typical 30 yard |
+|---|---|
+| Length | 22 feet |
+| Width | 8 feet |
+| Height | 6 feet |
+| Cubic yards | 30 |
+| Weight allowance | 4 to 5 tons (8,000 to 10,000 lbs) |
+| Pickup truck equivalents | About 9 loads |
+| Driveway footprint | Roughly 2 standard parking spaces end-to-end |
+| Wall-climb required to load? | Yes, ladder or rear swing door needed |
+
+Suppliers don't all build 30 yards to the same dimensions. If you're comparing quotes, ask the dispatcher for the exact length, width, and height of the can you'll receive. A 30 yard at 20 ft length holds the same volume as a 30 yard at 22 ft length, but the placement footprint differs by 16 square feet, which matters in tight driveways.
+
+## How much does a 30 yard dumpster actually hold?
+
+Volume is 30 cubic yards. The practical capacity depends entirely on what you're loading. Dense materials hit the weight ceiling long before they fill the can, and fluffy materials fill the can long before they reach the weight ceiling. The estimates below assume reasonably packed loading without major air pockets.
+
+- **Mixed renovation debris (drywall, lumber, flooring, fixtures):** A 30 yard accommodates a complete 2,500 to 3,500 square foot home gut renovation.
+- **Roofing shingles:** Around 40 to 45 squares of asphalt, but the 4 to 5 ton weight limit typically caps you at 25 to 30 squares before you hit the overage threshold.
+- **Concrete or masonry rubble:** Volume-wise the can holds 30 yards, but a 30 yard loaded with concrete will exceed 10 tons easily and incur significant overage fees. Concrete almost always belongs in a smaller dedicated [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) rather than a 30 yard mixed-load.
+- **Bagged household clutter from a hoarder cleanout:** Roughly 8 to 10 pickup truck loads of bagged goods.
+- **Demolition debris from a multi-room teardown:** A 1,800 square foot teardown typically fits with room to spare.
+
+For a side-by-side breakdown of what each smaller size holds, see our [dumpster size guide](/dumpster-size-guide) or [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
+
+## Projects that genuinely need a 30 yard
+
+Most homeowner projects do not need a 30 yard. The size is built for scale, not for typical residential renovations. The use cases where it pays off:
+
+### Whole-house gut renovations over 2,500 square feet
+A complete down-to-studs gut of a larger home produces drywall, flooring, cabinetry, plumbing fixtures, electrical waste, insulation, and trim debris on a scale that overwhelms smaller sizes. A 30 yard, if the driveway and street permit allow it, consolidates the haul into one container instead of three or four trips.
+
+### Commercial tenant turnover or office demolition
+A 5,000+ square foot office cleanout, retail buildout demo, or restaurant tear-out generates uniform mixed waste fast. For Jacksonville commercial projects, our [commercial dumpster rental](/commercial-dumpster-rental-jacksonville-fl) and [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) services use 20 yard cans with scheduled swaps. The total throughput often exceeds a single 30 yard while giving the crew a fresh empty can each morning.
+
+### Major estate cleanouts and hoarder situations
+When you're emptying an entire home plus an attic, basement, two-car garage, storage shed, and decades of accumulated belongings, the volume can hit 25 to 30 cubic yards. The trade-off is that 30 yard loading requires climbing, and estate cleanouts often involve elderly family members who can't safely use a ladder. A 20 yard with a swap is gentler on everyone.
+
+### Multi-square roof tear-offs
+A 30 plus square asphalt shingle tear-off plus deteriorated decking can fill a 30 yard volumetrically, but the weight will be the binding constraint. Most roofing crews in Northeast Florida split larger roofs into two 20 yard loads rather than a single 30 yard for exactly this reason.
+
+## When a 20 yard handles it instead
+
+The hidden math: a 30 yard rental typically costs 30 to 50 percent more than a 20 yard, and the over-weight charges scale faster because the larger weight allowance makes operators less generous about tonnage overages. For most Jacksonville renovation jobs, two 20 yard loads (the second one swapped in when the first fills) deliver more total volume than a single 30 yard, give the crew an empty can mid-project, and avoid the placement headaches that a 22-foot can creates in a residential driveway.
+
+You should default to a 20 yard if any of the following apply:
+- Your driveway is shorter than 25 feet or has tight clearance from the street
+- The project will run more than 5 days (a mid-project swap lets you keep working on the new empty can while the full one hauls)
+- The job mixes heavy materials (concrete, tile, roofing) with light bulk (drywall, packaging)
+- The crew loading the can doesn't include anyone comfortable on a ladder
+- You'd need a right-of-way permit from the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) for street placement, which gets harder to approve for 22-foot containers
+
+For pricing on 20 yard rentals and same-day-swap scheduling, see our [Jacksonville dumpster rental pricing page](/dumpster-rental-pricing-jacksonville). For deeper detail on what a 20 yard handles, the size-specific [20 yard service page](/20-yard-dumpster-rental) walks through projects, dimensions, and weight included.
+
+## How the 30 yard compares to smaller sizes
+
+The fastest way to see if you need to size up is to compare specs side by side. Note that the 904 Dumpster column reflects sizes we actually carry in Jacksonville.
+
+| Feature | 10 yard | 15 yard | 20 yard | 30 yard (industry typical) |
+|---|---|---|---|---|
+| Cubic yards | 10 | 15 | 20 | 30 |
+| Dimensions (L x W x H) | 12 x 7.5 x 3.6 ft | 14 x 7.5 x 4.5 ft | 14 x 7.5 x 5.8 ft | 22 x 8 x 6 ft |
+| Weight included | 1 ton | 1.5 tons | 2 tons | 4 to 5 tons |
+| Pickup loads | 3 to 4 | 5 | 6 to 7 | About 9 |
+| Wall height | 3.6 ft | 4.5 ft | 5.8 ft | 6 ft |
+| Available from 904 Dumpster? | Yes | Yes | Yes | No (use 20 yard plus swap) |
+
+For deeper dives on each smaller size, see our [10 yard guide](/blog/what-fits-in-10-yard-dumpster) and [15 yard guide](/blog/what-fits-in-15-yard-dumpster). The [dumpster sizes hub](/blog/dumpster-sizes-explained-complete-guide) walks through every option in one place.
+
+## What does not go in a 30 yard dumpster
+
+Size doesn't change the prohibited-items list. Even the largest residential roll-off cannot accept hazardous chemicals, paint and paint-related materials, automotive fluids, batteries, refrigerants, asbestos, medical waste, propane tanks, or tires. For the full list and Jacksonville-specific disposal alternatives, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster). Liquid waste in any form is prohibited regardless of container size.
+
+For heavier specialty materials like concrete, brick, and stone, mixing them with general debris in a 30 yard is the fastest way to blow past the weight allowance. Concrete in particular should go in a dedicated heavy-debris container rather than a mixed-load 30 yard.
+
+## Booking the right size for your Jacksonville project
+
+If you've read this far and your project is genuinely a 30 yard scale job, the right next step is calling a few suppliers to compare 30 yard pricing and confirm placement clearance. For most Jacksonville-area projects under a full home gut, our [20 yard dumpster rental](/20-yard-dumpster-rental) plus a scheduled swap delivers more total volume than a single 30 yard at a similar or lower combined cost, and the swap timing lets your crew keep loading without downtime.
+
+For commercial jobs, our [commercial dumpster service](/commercial-dumpster-rental-jacksonville-fl) coordinates multiple swaps over a project timeline. For renovation contractors managing multiple sites, the [construction dumpster rental for contractors](/blog/construction-dumpster-rental-contractors-guide) breakdown explains pricing tiers and standing-order options. Same-day [dumpster rental in Jacksonville](/) is available across Duval, St. Johns, Clay, and Nassau counties when booked before 10 AM, including [dumpster rental in Arlington](/dumpster-rental-arlington-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
+
+## Frequently asked questions
+
+### What are the exact dimensions of a 30 yard dumpster?
+
+A typical 30 yard roll-off dumpster measures 22 feet long, 8 feet wide, and 6 feet tall. The footprint takes up roughly two standard parking spaces placed end-to-end. Some suppliers build 30 yards at 20 feet long or 6.5 feet tall instead, so the cubic-yard capacity stays the same but the placement footprint and wall climb differ. Ask the dispatcher for the exact spec of the can you'll receive before scheduling delivery.
+
+### How many tons can a 30 yard dumpster hold?
+
+A 30 yard dumpster typically includes a 4 to 5 ton (8,000 to 10,000 pound) weight allowance. Weight overages above that allowance usually run $75 to $125 per additional ton, billed after the haul. For heavy materials like concrete, tile, or wet roofing shingles, the weight ceiling will be hit before the volume fills, which is why dense materials often go in smaller dedicated containers instead of a mixed-load 30 yard.
+
+### Is a 30 yard dumpster bigger than a 20 yard?
+
+Yes. A 30 yard holds 50 percent more volume (30 cubic yards vs 20 cubic yards), includes roughly double the weight allowance, and has a longer footprint (22 ft vs 14 ft). The wall height difference is small (6 ft vs 5.8 ft), so loading effort is similar. The bigger practical difference is placement: a 30 yard often needs a longer, wider clear driveway and may trigger a city right-of-way permit if it sits in the street.
+
+### Can I rent a 30 yard dumpster in Jacksonville from 904 Dumpster?
+
+904 Dumpster carries 10 yard, 15 yard, and 20 yard residential roll-offs in Jacksonville. We don't offer 30 yards. For projects that sound like they need a 30 yard, we usually recommend booking a 20 yard with a same-day swap scheduled for when the first can fills. The combined volume often exceeds 30 cubic yards, the per-cubic-yard cost is competitive, and the swap gives your crew an empty can mid-project.
+
+### How much does a 30 yard dumpster cost?
+
+Pricing varies by market and hauler, but 30 yard rentals in Northeast Florida typically run $475 to $650 for a standard rental period, with weight overages billed separately. By comparison, two 20 yard loads (one with a swap) from 904 Dumpster usually cost less in total, deliver more total volume, and avoid the overage risk that a single overloaded 30 yard can produce. See our [Jacksonville dumpster rental pricing](/dumpster-rental-pricing-jacksonville) page for current rates.
+
+## Related resources
+
+- [What fits in a 15 yard dumpster](/blog/what-fits-in-15-yard-dumpster)
+- [What fits in a 10 yard dumpster](/blog/what-fits-in-10-yard-dumpster)
+- [How to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size)
+- [Dumpster sizes explained](/blog/dumpster-sizes-explained-complete-guide)
+- [20 yard dumpster rental](/20-yard-dumpster-rental)
+- [Jacksonville dumpster rental pricing](/dumpster-rental-pricing-jacksonville)
+`,
+  },
 ]

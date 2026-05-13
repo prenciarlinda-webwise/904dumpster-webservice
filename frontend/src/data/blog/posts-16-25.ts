@@ -5,12 +5,13 @@ export const POSTS_16_TO_25: BlogPost[] = [
   {
     slug: 'dumpster-sizes-explained-complete-guide',
     title: 'What Size Dumpster Do I Need? Complete Dumpster Size Guide',
-    metaTitle: 'Dumpster Sizes Explained - 10, 15, 20 Yard Roll-Off Dimensions',
-    metaDescription: 'Compare roll-off dumpster sizes from 10 to 20 yards. See exact dimensions, capacity in cubic yards, and which size fits your project. Jacksonville FL dumpster size guide.',
-    excerpt: 'Choosing the right dumpster size saves you money and prevents project delays. This guide covers every common roll-off dumpster size with dimensions, capacities, and project recommendations so you can pick the perfect fit.',
+    metaTitle: 'Dumpster sizes explained: 10, 15, 20 yard dimensions and capacity',
+    metaDescription: 'Compare roll-off dumpster sizes from 10 to 20 yards with exact dimensions, weight limits, and project recommendations. Jacksonville size guide.',
+    excerpt: 'The right dumpster size saves money and prevents project delays. This guide covers every common roll-off size with exact dimensions, weight allowances, and project recommendations so you pick the right fit on the first call.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
     publishedDate: '2026-03-01',
+    updatedDate: '2026-05-13',
     readTime: '10 min read',
     featuredImage: '/images/10-yard-vs-20-yard-dumpster-jacksonville.jpg',
     tags: ['dumpster sizes', 'roll off dumpster sizes', 'dumpster dimensions', '10 yard dumpster', '15 yard dumpster', '20 yard dumpster', 'rental dumpster sizes', 'dumpster size guide', 'how big is a dumpster', 'different dumpster sizes'],
@@ -19,9 +20,9 @@ export const POSTS_16_TO_25: BlogPost[] = [
     content: `
 ## What Size Dumpster Do I Need? Complete Dumpster Size Guide
 
-Picking the wrong dumpster size is one of the most common and costly mistakes people make when renting a roll-off container. Order too small and you will need a second haul, doubling your cost. Order too large and you are paying for space you do not need. Whether you are cleaning out a garage, tearing off a roof, or managing a construction site, understanding sizes of roll-off dumpsters is the first step toward a smooth, budget-friendly project.
+The three sizes most homeowners actually rent are the [10-yard dumpster](/10-yard-dumpster-rental) (12 x 8 x 3.5 ft, single-room projects), the [15-yard dumpster](/15-yard-dumpster-rental) (16 x 7.5 x 4.5 ft, multi-room renovations and roofs), and the [20-yard dumpster](/20-yard-dumpster-rental) (22 x 7.5 x 4.5 ft, whole-house cleanouts). Order too small and you pay for a second haul. Order too large and you pay for space you do not use. Whether you are cleaning out a garage, tearing off a roof, or managing a construction site, picking the right size up front is the first step toward a budget-friendly project.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) is a locally owned [dumpster rental in Jacksonville](/) and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 This guide breaks down every dumpster size people commonly search for, from 7-yard containers all the way to 40-yard behemoths. We will compare dimensions side by side, explain what each size holds, and help you match the right dumpster to your specific project.
 
@@ -44,10 +45,10 @@ Here is a side-by-side comparison of every common dumpster size available in the
 | **14-Yard** | 14 ft x 7.5 ft x 4.5 ft | 14 cubic yards | ~4 loads | Larger residential projects |
 | **15-Yard** | 16 ft x 7.5 ft x 4.5 ft | 15 cubic yards | ~4.5 loads | Whole-room renovations |
 | **20-Yard** | 22 ft x 7.5 ft x 4.5 ft | 20 cubic yards | ~6 loads | Major renovations, roofing |
-| **30-Yard** | 22 ft x 7.5 ft x 6 ft | 30 cubic yards | ~9 loads | Large construction sites |
+| **30-Yard** | 22 ft x 8 ft x 6 ft | 30 cubic yards | ~9 loads | Whole-house gut, large commercial |
 | **40-Yard** | 22 ft x 8 ft x 8 ft | 40 cubic yards | ~12 loads | Commercial demolition |
 
-Not all sizes are available in every market. Here in Jacksonville, the most popular rental dumpster sizes for homeowners and small contractors are the 10, 15, and 20-yard options, which cover the vast majority of residential and light commercial projects.
+Not all sizes are available in every market. Here in Jacksonville, the most popular rental dumpster sizes for homeowners and small contractors are the 10, 15, and 20-yard options, which cover the vast majority of residential and light commercial projects. For an honest look at the 30-yard size and when a 20-yard plus a swap covers the same job, see our [30 yard dumpster guide](/blog/what-fits-in-30-yard-dumpster).
 
 ## How Big Is a 10-Yard Dumpster?
 
@@ -71,7 +72,7 @@ A [15-yard dumpster](/15-yard-dumpster-rental) measures approximately 16 feet lo
 - Deck removal or fence replacement waste
 - Medium landscaping projects
 
-The 15-yard is our most versatile size and the one we recommend most often to homeowners in Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), and [Orange Park](/dumpster-rental-orange-park-fl) who are unsure about sizing.
+The 15-yard is our most versatile size and the one we recommend most often to homeowners in Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Arlington](/dumpster-rental-arlington-fl), and [Middleburg](/dumpster-rental-middleburg-fl) who are unsure about sizing.
 
 ## What Are the Dimensions of a 20-Yard Dumpster?
 
@@ -123,6 +124,10 @@ For a more detailed breakdown of sizing by project, visit our [dumpster size gui
 The largest standard dumpster size in the industry is a 40-yard roll-off container, measuring roughly 22 feet long, 8 feet wide, and 8 feet tall. These massive containers hold approximately 12 pickup truck loads and are used almost exclusively on large commercial construction and demolition sites.
 
 For residential and small commercial projects in Jacksonville and surrounding areas like [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Fleming Island](/dumpster-rental-fleming-island-fl), a 20-yard container is typically the largest size you will need. Our 20-yard dumpster handles the vast majority of projects without the logistical challenges of placing a 30 or 40-yard container in a residential neighborhood.
+
+## Do you need a 30 yard dumpster?
+
+Most homeowner projects do not. A 30 yard dumpster is built for whole-house gut renovations over 2,500 square feet, commercial tenant demos, or massive estate cleanouts. The standard 30 yard measures 22 feet long, 8 feet wide, and 6 feet tall, holds 30 cubic yards, and typically allows 4 to 5 tons before overage fees. For most Jacksonville renovation projects, our [20-yard dumpster](/20-yard-dumpster-rental) plus a same-day swap when the first can fills delivers more total volume than a single 30 yard, costs about the same combined, and avoids the placement headaches a 22-foot can creates in a residential driveway. Our [30 yard dumpster guide](/blog/what-fits-in-30-yard-dumpster) walks through the exact math.
 
 ## Tips for Estimating Your Dumpster Size
 
@@ -315,12 +320,13 @@ Dirt and gravel are extremely heavy, approximately 2,200 to 2,600 pounds per cub
   {
     slug: 'dumpster-rental-cost-complete-pricing-guide',
     title: 'How Dumpster Rental Pricing Works in 2026',
-    metaTitle: 'How Much Does a Dumpster Rental Cost? Pricing Factors Explained',
-    metaDescription: 'What actually drives dumpster rental cost in 2026: container size, weight allowance, rental period, location, and disposal fees. Compare 10, 15, and 20-yard pricing and learn how to spot hidden fees.',
-    excerpt: 'Dumpster rental costs vary widely depending on size, location, and rental period. This pricing guide breaks down average costs for every dumpster size and shows you how to avoid hidden fees.',
+    metaTitle: 'How much does a dumpster rental cost? Pricing factors explained',
+    metaDescription: 'Dumpster rental cost depends on size, weight allowance, rental period, and location. Compare 10, 15, and 20-yard pricing and how to spot hidden fees.',
+    excerpt: 'Dumpster rental costs vary widely depending on size, location, and rental period. This pricing guide breaks down average costs for every dumpster size and shows you how to avoid hidden fees that inflate the final bill.',
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-03',
+    updatedDate: '2026-05-13',
     readTime: '9 min read',
     featuredImage: '/images/affordable-dumpster-rental-jacksonville-fl.jpg',
     tags: ['dumpster rental cost', 'how much to rent a dumpster', 'dumpster rental prices', 'average dumpster rental cost', 'cheap dumpster rental', 'dumpster cost per month', 'dumpster rental faq', '10 yard dumpster cost', '15 yard dumpster cost', '20 yard dumpster cost'],
@@ -329,9 +335,9 @@ Dirt and gravel are extremely heavy, approximately 2,200 to 2,600 pounds per cub
     content: `
 ## How Dumpster Rental Pricing Works in 2026
 
-How much does it cost to rent a dumpster? It is the first question everyone asks, and the answer is frustratingly vague on most websites: "it depends." While the final cost does depend on several factors, you deserve actual numbers. This guide explains the factors that drive dumpster pricing up or down, compares typical national ranges, and shows you how to spot hidden fees before you book. For current Jacksonville rates specifically, see our [Jacksonville dumpster rental pricing page](/dumpster-rental-pricing-jacksonville).
+A [dumpster rental in Jacksonville](/dumpster-rental-pricing-jacksonville) ranges from $299 for a [10-yard dumpster](/10-yard-dumpster-rental) to $399 for a [20-yard dumpster](/20-yard-dumpster-rental), with the [15-yard](/15-yard-dumpster-rental) sitting in the middle at $349. Nationally, the same three sizes run $300 to $650 once delivery, pickup, disposal, and fuel surcharges are added on top of the base rate. This guide explains the factors that drive dumpster pricing up or down, compares typical national ranges to local flat rates, and shows you how to spot hidden fees before you book.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) is a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Average Dumpster Rental Costs in 2026
 
@@ -342,10 +348,14 @@ Dumpster rental prices vary by region, but here are the typical ranges you can e
 | **10-yard** | $300 - $450 | **$299** | Delivery, pickup, disposal, rental period |
 | **15-yard** | $399 - $550 | **$349** | Delivery, pickup, disposal, rental period |
 | **20-yard** | $425 - $650 | **$399** | Delivery, pickup, disposal, rental period |
-| **30-yard** | $500 - $800 | N/A | Varies by company |
-| **40-yard** | $600 - $900 | N/A | Varies by company |
+| **30-yard** | $500 - $800 | Not offered | Use [20-yard plus a swap](/blog/what-fits-in-30-yard-dumpster) |
+| **40-yard** | $600 - $900 | Not offered | Specialty hauler |
 
 Our pricing is straightforward: one flat rate, no hidden fees. That means no fuel surcharges, no environmental fees, no administrative charges, and no delivery fees. The price you see is the price you pay.
+
+## Why a 20 yard plus a swap usually beats a 30 yard
+
+If your project sounds like a 30 yard job, the math often favors two 20 yard loads instead. A single 30 yard rental in Northeast Florida typically runs $475 to $650 with a 4 to 5 ton weight allowance. Two 20 yard rentals from 904 Dumpster (one swapped in when the first fills) total $798 list price, deliver 40 cubic yards of total volume vs the 30 yard's 30, include 4 tons of weight across both, and give your crew an empty container mid-project so loading never stops. For the full breakdown of when this works (and the few cases where a single 30 yard genuinely wins), see our [30 yard dumpster guide](/blog/what-fits-in-30-yard-dumpster).
 
 ### Dumpster Sizes for Your Project
 
@@ -384,7 +394,7 @@ Standard household junk and construction debris fall under normal pricing. Heavy
 Every rental includes a weight allowance. Exceeding it triggers overage charges, usually $50 to $100 per additional ton. Read our [weight limits guide](/blog/dumpster-rental-calculator-estimate-debris-volume) to understand how weight affects your total cost.
 
 ### 5. Location and Delivery Distance
-Companies in urban areas typically charge less than those in rural markets because landfills and disposal facilities are closer. In Northeast Florida, we serve Jacksonville and surrounding areas including [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Middleburg](/dumpster-rental-middleburg-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) at the same flat rates.
+Companies in urban areas typically charge less than those in rural markets because landfills and disposal facilities are closer. In Northeast Florida, we serve [dumpster rental in Jacksonville](/) and surrounding areas including [Arlington](/dumpster-rental-arlington-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) at the same flat rates.
 
 ### 6. Hidden Fees (Watch Out)
 Some national franchise companies advertise low base prices and then add fees:

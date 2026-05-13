@@ -22,6 +22,8 @@ import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
+import BookingModal from '@/components/BookingModal'
+import BookingTrigger from '@/components/BookingTrigger'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
@@ -413,6 +415,8 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
       />
 
+      <BookingModal />
+
       <div className="min-h-screen -mt-16 lg:-mt-32">
         {/* ============================================
             SECTION 1: HERO (Conversion & Intent)
@@ -501,14 +505,13 @@ export default function HomePage() {
 
                 {/* CTA Buttons - Mobile */}
                 <div className="flex flex-col sm:flex-row gap-4 lg:hidden">
-                  <a
-                    href="#book"
+                  <BookingTrigger
                     title="Book a Dumpster Rental Online"
                     className="bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-5 rounded-2xl flex items-center justify-center gap-3 shadow-2xl shadow-primary/30 transition-all"
                   >
                     <Truck className="w-5 h-5" />
                     Book Online Now
-                  </a>
+                  </BookingTrigger>
                 </div>
               </div>
 
@@ -526,33 +529,184 @@ export default function HomePage() {
         </section>
 
         {/* ============================================
-            BOOKING IFRAME (Direct Conversion)
+            SECTION 2: SIZE SELECTOR (Visual & Transactional)
         ============================================ */}
-        <section id="book" className="py-20 lg:py-28 bg-white">
-          <div className="max-w-7xl mx-auto px-4 lg:px-6 mb-10">
-            <div className="text-center">
+        <section id="sizes" className="py-20 lg:py-28 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            {/* Section Header */}
+            <div className="text-center mb-16">
               <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                Reserve Online
+                Roll-Off Dumpster Sizes
               </span>
-              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-4">
-                Book Your Jacksonville Dumpster Rental
+              <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-6">
+                Roll-Off Container Sizes and Pricing
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Real-time availability, transparent pricing, instant confirmation.
+                Every Jacksonville dumpster rental includes delivery, pickup, disposal, and a rental period. No hidden fees, ever.
               </p>
             </div>
-          </div>
-          <div className="w-full px-4 lg:px-6">
-            <div className="relative w-full h-[640px] md:h-[600px] lg:h-[560px] overflow-hidden">
-              <iframe
-                src="https://app.icans.ai/customer-portal/904dumpster/book/"
-                id="booking-iframe"
-                loading="lazy"
-                title="Dumpster Booking"
-                allowFullScreen
-                referrerPolicy="no-referrer"
-                className="w-full h-full border-0"
-              />
+
+            {/* Size Cards */}
+            <div className="grid md:grid-cols-3 gap-8">
+              {[
+                {
+                  size: '10',
+                  name: '10 Yard Dumpster',
+                  dimensions: "12' L × 7.5' W × 3.6' H",
+                  tons: '1',
+                  days: 3,
+                  bestFor: ['Small Cleanouts', 'Garage Cleanout', 'Single Room Reno'],
+                  tiers: [
+                    { days: 3, price: 299 },
+                    { days: 10, price: 359 },
+                  ],
+                  popular: false,
+                  image: '/images/10 Yard Dumpster.avif',
+                  href: '/10-yard-dumpster-rental',
+                },
+                {
+                  size: '15',
+                  name: '15 Yard Dumpster',
+                  dimensions: "14' L × 7.5' W × 4.5' H",
+                  tons: '1.5',
+                  days: 5,
+                  bestFor: ['Roofing Projects', 'Medium Cleanouts', 'Kitchen Remodel'],
+                  tiers: [
+                    { days: 5, price: 349 },
+                    { days: 10, price: 399 },
+                  ],
+                  popular: false,
+                  image: '/images/15 yard dumpster.avif',
+                  href: '/15-yard-dumpster-rental',
+                },
+                {
+                  size: '20',
+                  name: '20 Yard Dumpster',
+                  dimensions: "14' L × 7.5' W × 5.8' H",
+                  tons: '2',
+                  days: 5,
+                  bestFor: ['Large Renovations', 'Construction', 'Estate Cleanout'],
+                  tiers: [
+                    { days: 5, price: 399 },
+                    { days: 10, price: 449 },
+                    { days: 30, price: 549 },
+                  ],
+                  popular: true,
+                  image: '/images/20 yard dumpster.avif',
+                  href: '/20-yard-dumpster-rental',
+                },
+              ].map((dumpster) => (
+                <div
+                  key={dumpster.size}
+                  className={`relative bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 ${
+                    dumpster.popular ? 'border-2 border-green-600' : 'border border-green-500'
+                  }`}
+                >
+                  {/* Popular Badge */}
+                  {dumpster.popular && (
+                    <div className="absolute top-6 right-4 bg-primary text-white text-xs font-bold px-3 py-1.5 rounded-full z-10 shadow-lg">
+                      Most Popular
+                    </div>
+                  )}
+
+                  {/* Image */}
+                  <div className="bg-white p-6 pb-4">
+                    <Image
+                      src={dumpster.image}
+                      alt={`${dumpster.name} Rental Jacksonville FL`}
+                      title={`${dumpster.name} - Jacksonville FL`}
+                      width={400}
+                      height={280}
+                      className="w-full h-auto"
+                    />
+                  </div>
+
+                  {/* Content */}
+                  <div className="p-6 pt-2">
+                    {/* Size Header */}
+                    <div className="flex items-center justify-between mb-4">
+                      <div>
+                        <span className="text-4xl font-black text-secondary">{dumpster.size}</span>
+                        <span className="text-gray-400 text-lg ml-1">yard</span>
+                      </div>
+                      <div className="text-right">
+                        <div className="text-xs text-gray-400">{dumpster.days}-day rental</div>
+                      </div>
+                    </div>
+
+                    {/* Tiered Pricing & Book Button */}
+                    <div className="mb-4">
+                      <div className="text-xs text-gray-400 uppercase tracking-wide mb-2">Rental Pricing</div>
+                      <div className="space-y-1.5 mb-3">
+                        {dumpster.tiers.map((tier) => (
+                          <div
+                            key={tier.days}
+                            className="flex items-center justify-between px-3 py-2 rounded-lg bg-gray-50 border border-gray-100"
+                          >
+                            <span className="text-sm font-medium text-secondary">{tier.days} days</span>
+                            <span className="text-lg font-black text-primary">${tier.price}</span>
+                          </div>
+                        ))}
+                      </div>
+                      <BookingTrigger
+                        title={`Book ${dumpster.name} Online`}
+                        className="w-full flex items-center justify-center gap-2 bg-primary hover:bg-primary/90 text-white font-bold py-3 rounded-xl transition-all duration-200"
+                      >
+                        Book Online
+                        <ArrowRight className="w-4 h-4" />
+                      </BookingTrigger>
+                    </div>
+
+                    {/* Specs Grid */}
+                    <div className="grid grid-cols-2 gap-3 mb-4 p-4 bg-gray-50 rounded-xl">
+                      <div>
+                        <div className="text-xs text-gray-400 uppercase tracking-wide">Dimensions</div>
+                        <div className="text-sm font-semibold text-secondary">{dumpster.dimensions}</div>
+                      </div>
+                      <div>
+                        <div className="text-xs text-gray-400 uppercase tracking-wide">Weight Included</div>
+                        <div className="text-sm font-semibold text-secondary">{dumpster.tons} tons</div>
+                      </div>
+                    </div>
+
+                    {/* Best For Tags */}
+                    <div className="mb-4">
+                      <div className="flex flex-wrap gap-2">
+                        {dumpster.bestFor.map((item, i) => (
+                          <span
+                            key={i}
+                            className="bg-primary/10 text-primary text-xs px-3 py-1.5 rounded-full font-medium"
+                          >
+                            {item}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+
+                    <Link
+                      href={dumpster.href}
+                      title={`${dumpster.name} Details`}
+                      className="w-full flex items-center justify-center gap-2 font-semibold py-3 rounded-xl text-primary hover:bg-primary/10 transition-all duration-300"
+                    >
+                      View Details
+                      <ArrowRight className="w-4 h-4" />
+                    </Link>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Size Guide CTA */}
+            <div className="text-center mt-12">
+              <p className="text-gray-500 mb-4">Not sure which size you need?</p>
+              <Link
+                href="/dumpster-size-guide"
+                title="Dumpster Size Guide"
+                className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
+              >
+                View Our Complete Size Guide
+                <ArrowRight className="w-5 h-5" />
+              </Link>
             </div>
           </div>
         </section>
@@ -725,22 +879,19 @@ export default function HomePage() {
               <p className="text-gray-600 leading-relaxed mb-6">
                 Our 10-yard holds roughly 3 pickup truck loads, the 15-yard handles roofing tear-offs and kitchen remodels,
                 and the 20-yard fits whole-house renovations while still fitting most Jacksonville driveways.{' '}
-                <a href="https://app.icans.ai/customer-portal/904dumpster/book/" target="_blank" rel="nofollow noopener noreferrer" title="Book a Dumpster Rental Online" className="text-primary hover:underline">Book online 24/7</a> or
+                <BookingTrigger title="Book a Dumpster Rental Online" className="text-primary hover:underline">Book online 24/7</BookingTrigger> or
                 call (904) 240-5598. Our drivers call 30 minutes before arrival and place boards under dumpster feet to protect your driveway.
                 When you&apos;re done loading, call or text for pickup within 24 hours.
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4">
-                <a
-                  href="https://app.icans.ai/customer-portal/904dumpster/book/"
-                  target="_blank"
-                  rel="nofollow noopener noreferrer"
+                <BookingTrigger
                   title="Book a Dumpster Rental Online"
                   className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-primary/90 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
                 >
                   Book Your Dumpster Now
                   <ArrowRight className="w-5 h-5" />
-                </a>
+                </BookingTrigger>
                 <Link
                   href="/rules/prohibited-items-list"
                   title="Prohibited Items List"
@@ -1117,16 +1268,13 @@ export default function HomePage() {
 
             {/* CTA */}
             <div className="text-center mt-16">
-              <a
-                href="https://app.icans.ai/customer-portal/904dumpster/book/"
-                target="_blank"
-                rel="nofollow noopener noreferrer"
+              <BookingTrigger
                 title="Book a Dumpster Rental Online"
                 className="inline-flex items-center gap-3 bg-primary hover:bg-white text-white hover:text-secondary font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl shadow-primary/30 transition-all duration-300"
               >
                 Book Online Now
                 <ArrowRight className="w-6 h-6" />
-              </a>
+              </BookingTrigger>
               <p className="text-white/40 mt-4">Fast booking - Instant confirmation - Same-day delivery</p>
             </div>
           </div>
@@ -1217,16 +1365,13 @@ export default function HomePage() {
               Same-day dumpster delivery available. Book online or call (904) 240-5598.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a
-                href="https://app.icans.ai/customer-portal/904dumpster/book/"
-                target="_blank"
-                rel="nofollow noopener noreferrer"
+              <BookingTrigger
                 title="Book a Dumpster Rental Online"
                 className="inline-flex items-center justify-center gap-3 bg-white hover:bg-secondary text-primary hover:text-white font-bold text-xl px-10 py-5 rounded-2xl shadow-2xl transition-all duration-300"
               >
                 Book Online Now
                 <ArrowRight className="w-6 h-6" />
-              </a>
+              </BookingTrigger>
               <Link
                 href="/dumpster-size-guide"
                 title="Dumpster Size Guide"

@@ -99,7 +99,7 @@ function getContextualInterlinks(post: BlogPost, allPosts: BlogPost[]): { set1: 
 // Render an interlink card set as HTML
 function renderInterlinkCards(cards: InterlinkCard[], heading: string): string {
   let html = `<div class="my-10 p-6 bg-gray-50 rounded-2xl border border-gray-200">`
-  html += `<h4 class="text-lg font-bold text-secondary mb-4">${heading}</h4>`
+  html += `<p class="text-lg font-bold text-secondary mb-4">${heading}</p>`
   html += `<div class="grid sm:grid-cols-3 gap-4">`
   cards.forEach(card => {
     html += `<a href="${card.href}" class="block group bg-white rounded-xl p-5 border-2 border-gray-200 hover:border-primary hover:shadow-lg transition-all no-underline">
@@ -227,14 +227,26 @@ function formatContent(content: string, interlinkSet1?: string, interlinkSet2?: 
       }
 
       line = line.slice(3)
+      const headingText = line.trim().toLowerCase()
+      const chromeHeadings = ['related resources', 'related guides', 'related articles', 'further reading', 'more resources', 'see also']
       line = processInlineFormatting(line)
-      result.push(`<h2 class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line}</h2>`)
+      if (chromeHeadings.includes(headingText)) {
+        result.push(`<p class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line}</p>`)
+      } else {
+        result.push(`<h2 class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line}</h2>`)
+      }
       continue
     }
     if (line.startsWith('### ')) {
       line = line.slice(4)
+      const h3Text = line.trim().toLowerCase()
+      const chromeH3 = ['related resources', 'related guides', 'related articles', 'further reading', 'more resources', 'see also', 'tags']
       line = processInlineFormatting(line)
-      result.push(`<h3 class="text-xl md:text-2xl font-bold text-secondary mt-8 mb-4">${line}</h3>`)
+      if (chromeH3.includes(h3Text)) {
+        result.push(`<p class="text-xl md:text-2xl font-bold text-secondary mt-8 mb-4">${line}</p>`)
+      } else {
+        result.push(`<h3 class="text-xl md:text-2xl font-bold text-secondary mt-8 mb-4">${line}</h3>`)
+      }
       continue
     }
 
@@ -524,6 +536,20 @@ function formatFAQAnswer(answer: string): string {
     .join('')
 }
 
+// Convert FAQ HTML answer to plain text matching what the user sees in the DOM.
+// Closing block-level tags become spaces so paragraphs and list items don't
+// concat into a single wall of text (which fails Google's FAQPage text-match
+// check and suppresses rich results).
+function faqAnswerToPlainText(html: string): string {
+  return html
+    .replace(/<\/(p|li|div|h[1-6])>/gi, ' ')
+    .replace(/<\/span>/gi, ' ')
+    .replace(/<br\s*\/?>/gi, ' ')
+    .replace(/<[^>]*>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 // Generate FAQ Schema for SEO
 function generateFAQSchema(faqs: FAQItem[]) {
   if (faqs.length === 0) return null
@@ -536,7 +562,7 @@ function generateFAQSchema(faqs: FAQItem[]) {
       name: faq.question,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: faq.answer.replace(/<[^>]*>/g, ''), // Strip HTML for schema
+        text: faqAnswerToPlainText(faq.answer),
       },
     })),
   }
@@ -595,7 +621,6 @@ export default async function BlogPostPage({
       '@type': 'WebPage',
       '@id': `https://www.904dumpster.com/blog/${post.slug}`,
     },
-    keywords: post.tags.join(', '),
   }
 
   // Generate FAQ schema if FAQs exist
@@ -611,16 +636,16 @@ export default async function BlogPostPage({
         </div>
 
         <div className="relative max-w-4xl mx-auto px-4 lg:px-6">
-          <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
+          <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-white/60 text-sm mb-6">
             <Link href="/" className="hover:text-white" title="904 Dumpster Home">
               Home
             </Link>
-            <span>/</span>
+            <span aria-hidden="true">/</span>
             <Link href="/blog" className="hover:text-white" title="Dumpster Rental Blog">
               Blog
             </Link>
-            <span>/</span>
-            <span className="text-white truncate max-w-[200px]">{post.title}</span>
+            <span aria-hidden="true">/</span>
+            <span aria-current="page" className="text-white truncate max-w-[200px]">{post.title}</span>
           </nav>
 
           {category && (
@@ -686,9 +711,9 @@ export default async function BlogPostPage({
 
               {/* Tags */}
               <div className="mt-12 pt-8 border-t border-gray-200">
-                <h3 className="text-sm font-bold text-gray-500 uppercase tracking-wider mb-4">
+                <p className="text-sm font-bold text-gray-500 uppercase tracking-wider mb-4">
                   Tags
-                </h3>
+                </p>
                 <div className="flex flex-wrap gap-2">
                   {post.tags.map((tag) => (
                     <span
@@ -705,9 +730,9 @@ export default async function BlogPostPage({
               {/* Related Posts */}
               {relatedPosts.length > 0 && (
                 <div className="mt-12 pt-8 border-t border-gray-200">
-                  <h3 className="text-2xl font-black text-secondary mb-6">
+                  <p className="text-2xl font-black text-secondary mb-6">
                     Related Articles
-                  </h3>
+                  </p>
                   <div className="grid sm:grid-cols-3 gap-4">
                     {relatedPosts.map((related) => (
                       <Link
@@ -716,9 +741,9 @@ export default async function BlogPostPage({
                         className="group block bg-gray-50 rounded-xl p-4 hover:bg-primary/5 transition-colors"
                         title={related.title}
                       >
-                        <h4 className="font-semibold text-secondary group-hover:text-primary transition-colors mb-2 line-clamp-2">
+                        <p className="font-semibold text-secondary group-hover:text-primary transition-colors mb-2 line-clamp-2">
                           {related.title}
-                        </h4>
+                        </p>
                         <p className="text-sm text-gray-500 line-clamp-2">{related.excerpt}</p>
                       </Link>
                     ))}

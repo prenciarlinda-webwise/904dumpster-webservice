@@ -5,12 +5,13 @@ export const POSTS_26_TO_35: BlogPost[] = [
   {
     slug: 'roll-off-dumpster-rental-complete-guide',
     title: 'Roll Off Dumpster Rental Explained for Homeowners and Contractors',
-    metaTitle: 'Roll Off Dumpster Rental Guide - Sizes, Prices & How It Works (2026)',
-    metaDescription: 'Complete guide to roll off dumpster rental. Compare roll off container sizes (10, 15, 20 yard), pricing from $299, same day delivery in Jacksonville FL.',
-    excerpt: 'Everything you need to know about roll off dumpster rental including sizes, pricing, delivery process, and how to choose the right roll off container for your residential or commercial project.',
+    metaTitle: 'Roll off dumpster rental: sizes, prices, and same-day delivery',
+    metaDescription: 'Roll off dumpster rental sizes (10, 15, 20 yard), flat-rate pricing from $299, and same-day delivery across Jacksonville. See how it works.',
+    excerpt: 'Roll off dumpster rental covers sizes, pricing, delivery process, and how to choose the right container for your residential or commercial project. This guide walks through every step from booking to pickup.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
     publishedDate: '2026-03-16',
+    updatedDate: '2026-05-13',
     readTime: '11 min read',
     featuredImage: '/images/roll-off-dumpster-rental.jpg',
     tags: ['roll off container rental', 'roll off dumpsters sizes', 'roll off dumpster rental', 'residential roll off', 'same day roll off dumpster', 'roll off trash dumpsters', 'rental trash containers', 'roll off dumpster size comparison', 'rent roll off dumpster', 'roll away dumpster sizes', 'walk in dumpster rental'],
@@ -19,9 +20,9 @@ export const POSTS_26_TO_35: BlogPost[] = [
     content: `
 ## Roll Off Dumpster Rental Explained
 
-If you have ever searched for a roll off dumpster rental, you know the process can seem confusing at first. Between different roll off container sizes, varying pricing structures, weight limits, and rental periods, there is a lot to sort through before you can confidently book. Whether you need a residential roll off for a home cleanout or a construction roll off dumpster for a job site, this guide covers everything from how roll off dumpsters work to which size is right for your project and what it will cost.
+A roll off dumpster rental is an open-top container delivered on a flatbed truck for temporary project use. At [904 Dumpster](/), we deliver three roll-off sizes across Jacksonville: the [10-yard](/10-yard-dumpster-rental) at $299, the [15-yard](/15-yard-dumpster-rental) at $349, and the [20-yard](/20-yard-dumpster-rental) at $399, all flat-rate with no hidden fees. This guide covers how roll off dumpsters work, the container sizes available, what pricing actually includes, and how to book a [same-day roll off dumpster rental in Jacksonville](/dumpster-rental-pricing-jacksonville) when your project starts tomorrow.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+904 Dumpster is a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Is a Roll Off Dumpster?
 
@@ -102,7 +103,11 @@ If your debris exceeds the included weight allowance, you pay a per-ton overage 
 
 Need a dumpster today? We offer same day roll off dumpster delivery throughout Jacksonville and the surrounding areas. If you call before noon, we can typically have a container at your location by the end of the day. Same day availability depends on current inventory, so calling early gives you the best chance.
 
-We deliver roll off dumpsters to all Jacksonville neighborhoods as well as [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), and [Neptune Beach](/dumpster-rental-neptune-beach-fl).
+We deliver roll off dumpsters to all Jacksonville neighborhoods as well as [roll off dumpster rental in Arlington](/dumpster-rental-arlington-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), and [Neptune Beach](/dumpster-rental-neptune-beach-fl).
+
+## Roll off dumpster rental in Jacksonville: what to expect
+
+When you book a roll off dumpster rental in Jacksonville with us, you get same-day or next-day delivery for orders placed before 10 AM, a flat rate that includes delivery, pickup, disposal, and the rental period, and a driver who places the container with protective boards under the rails to keep your driveway clean. Across Duval, St. Johns, Clay, and Nassau counties, no driveway placement requires a city permit. Street placement does, so let us know when you book if your driveway can't accommodate the container.
 
 ## Residential Roll Off vs. Commercial Roll Off
 
