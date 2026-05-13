@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 
 // Service Areas for Geo Section
 const SERVICE_AREAS = {
-  duval: ['Jacksonville', 'Jacksonville Beach', 'Atlantic Beach', 'Neptune Beach', 'Arlington', 'Riverside', 'San Marco', 'Mandarin', 'Southside'],
+  duval: ['Jacksonville', 'Jacksonville Beach', 'Atlantic Beach', 'Neptune Beach', 'Arlington', 'Riverside', 'San Marco', 'Mandarin', 'Southside', 'Northside'],
   stJohns: ['St. Augustine', 'Ponte Vedra Beach', 'Nocatee', 'St. Johns', 'Fruit Cove', 'Julington Creek'],
   clay: ['Orange Park', 'Fleming Island', 'Middleburg', 'Green Cove Springs', 'Oakleaf'],
   nassau: ['Fernandina Beach', 'Yulee', 'Callahan', 'Hilliard'],
@@ -772,6 +772,10 @@ export default function HomePage() {
                 Our 10-yard holds 3 truck loads. At $299 all-in with delivery to your driveway, a dumpster rental in Jacksonville saves money and time for most homeowners.
                 Need extra days? Extensions are $15 per day. For construction sites, ask about weekly and monthly rates.
               </p>
+
+              <p className="mb-4">
+                Searching for a <strong className="text-secondary">dumpster rental near me</strong> in Jacksonville? 904 Dumpster runs <strong className="text-secondary">same-day delivery</strong> across Duval, St. Johns, Clay, and Nassau counties for orders placed before 10 AM. To <strong className="text-secondary">rent a dumpster in Jacksonville FL</strong> today, book online or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary hover:underline">{BUSINESS.phone}</a>: <strong className="text-primary">flat-rate pricing</strong>, no fuel surcharges, no broker markups, no per-ton overage tricks.
+              </p>
             </div>
 
             <div className="mt-6 flex flex-wrap gap-4">
@@ -1138,9 +1142,9 @@ export default function HomePage() {
                   <Link href="/dumpster-rental-arlington-fl" title="Dumpster Rental Arlington FL" className="text-primary hover:underline">Arlington, FL</Link>,
                   904 Dumpster delivers across every Duval County neighborhood. Homeowners
                   in Mandarin and San Marco frequently rent our 15-yard container for kitchen and
-                  bathroom remodels, while contractors in Southside and Baymeadows prefer the 20-yard
-                  for commercial buildouts. Common ZIP codes served include 32202, 32207, 32210,
-                  32216, 32218, 32223, 32225, 32246, and 32256.
+                  bathroom remodels, while contractors in Southside, Northside, and Baymeadows prefer the 20-yard
+                  for commercial buildouts and warehouse cleanouts in the I-95 and I-295 industrial belt. Common ZIP codes served include 32202, 32207, 32208, 32210,
+                  32216, 32218, 32219, 32223, 32225, 32226, 32246, and 32256.
                 </p>
                 <p>
                   Beach communities count on us for storm cleanup and older home renovations:{' '}
