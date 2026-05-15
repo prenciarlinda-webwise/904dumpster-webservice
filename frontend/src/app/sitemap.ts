@@ -3,6 +3,8 @@ import { getAllServiceSlugs } from '@/data/services'
 import { getAllLocationSlugs } from '@/data/locations'
 import { getPublishedPosts } from '@/data/blog'
 
+export const dynamic = 'force-static'
+
 const BASE_URL = 'https://www.904dumpster.com'
 
 // Per-page lastModified dates. Bump these when the page's content actually changes,

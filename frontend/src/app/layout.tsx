@@ -122,6 +122,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(siteNavigationSchema) }}
         />
+        {/* Trustindex review widget loader */}
+        <Script
+          id="trustindex-loader"
+          src="https://cdn.trustindex.io/loader-cert.js?3d9fd6b71f1498299d366bc6e24"
+          strategy="lazyOnload"
+        />
       </head>
       <body className={roboto.className}>
         {/* Google Tag Manager (noscript) */}
