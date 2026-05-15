@@ -23,15 +23,31 @@ export default function BookingModal() {
   }, [])
 
   useEffect(() => {
+    if (!open) return
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') setOpen(false)
     }
-    if (open) {
-      document.body.style.overflow = 'hidden'
-      window.addEventListener('keydown', onKey)
-    }
+    const prevBodyOverflow = document.body.style.overflow
+    const prevHtmlOverflowX = document.documentElement.style.overflowX
+    const viewport = document.querySelector('meta[name="viewport"]')
+    const prevViewport = viewport?.getAttribute('content') ?? null
+    document.body.style.overflow = 'hidden'
+    document.documentElement.style.overflowX = 'hidden'
+    window.addEventListener('keydown', onKey)
     return () => {
-      document.body.style.overflow = ''
+      document.body.style.overflow = prevBodyOverflow
+      document.documentElement.style.overflowX = prevHtmlOverflowX
+      if (viewport && prevViewport !== null) {
+        // Force a viewport reset so any pinch-zoom applied inside the iframe
+        // is cleared when returning to the underlying page (Samsung Internet leak).
+        viewport.setAttribute(
+          'content',
+          'width=device-width, initial-scale=1, maximum-scale=1',
+        )
+        requestAnimationFrame(() => {
+          viewport.setAttribute('content', prevViewport)
+        })
+      }
       window.removeEventListener('keydown', onKey)
     }
   }, [open])
@@ -39,8 +55,11 @@ export default function BookingModal() {
   return (
     <div
       aria-hidden={!open}
+      inert={!open ? true : undefined}
       className={`fixed inset-0 z-[60] flex items-center justify-center transition-opacity duration-200 ${
-        open ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+        open
+          ? 'opacity-100 pointer-events-auto visible'
+          : 'opacity-0 pointer-events-none invisible'
       }`}
     >
       <div
