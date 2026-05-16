@@ -15,6 +15,7 @@ import {
 } from 'lucide-react'
 import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { ServicePageTemplate } from '@/components/ServicePageTemplate'
+import DumpsterSizeGuidePage from '@/components/DumpsterSizeGuidePage'
 import { SERVICES, getServiceBySlug, getAllServiceSlugs, ServicePage } from '@/data/services'
 import { LOCATIONS, getLocationBySlug, getAllLocationSlugs } from '@/data/locations'
 import DeliveryMap from '@/components/DeliveryMap'
@@ -208,6 +209,36 @@ export default async function DynamicPage({
         const size = sizeMatch[1] as '10' | '15' | '20'
         return <DumpsterSizePage size={size} service={service} />
       }
+    }
+
+    // Custom Dumpster Size Guide Page (sizes chart with comparison table)
+    if (slug === 'dumpster-size-guide') {
+      return (
+        <>
+          <DumpsterSizeGuidePage service={service} />
+          {/* Breadcrumb Schema */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(
+                generateBreadcrumbSchema([
+                  { name: 'Home', url: 'https://www.904dumpster.com' },
+                  { name: service.title, url: `https://www.904dumpster.com/${slug}` },
+                ])
+              ),
+            }}
+          />
+          {/* FAQ Schema - critical for PAA capture */}
+          {service.faqs && service.faqs.length > 0 && (
+            <script
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify(generateFAQSchema(service.faqs)),
+              }}
+            />
+          )}
+        </>
+      )
     }
 
     // Custom Junk Removal Page

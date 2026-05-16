@@ -334,9 +334,9 @@ export const SERVICES: ServicePage[] = [
   {
     slug: 'dumpster-size-guide',
     type: 'guide',
-    title: 'Dumpster Size Chart',
-    metaTitle: 'Dumpster Size Chart - 10, 15 & 20 Yard Dimensions Compared',
-    metaDescription: 'Dumpster size chart with dimensions for 10 yard (12\'x7.5\'x3.6\'), 15 yard (14\'x7.5\'x4.5\'), and 20 yard (14\'x7.5\'x5.8\') roll-off containers. Standard dumpster sizes compared with photos.',
+    title: 'Dumpster Sizes Chart',
+    metaTitle: 'Dumpster Sizes Chart - 10, 15 & 20 Yard Dimensions Side by Side',
+    metaDescription: 'Side-by-side dumpster sizes chart with dimensions, weight limits, and pickup-truck-load capacity for 10, 15, and 20 yard roll-off containers. Compare standard residential dumpster sizes with photos and project recommendations.',
     keywords: [
       'dumpster sizes',
       'roll off dumpster sizes',
@@ -383,24 +383,32 @@ export const SERVICES: ServicePage[] = [
     ],
     faqs: [
       {
-        question: 'What size dumpsters are there?',
-        answer: 'Standard dumpster sizes include 10, 15, 20, 30, and 40 yard containers. At 904 Dumpster, we offer 10, 15, and 20 yard residential dumpster sizes, which cover most home projects.',
+        question: 'What are standard dumpster sizes?',
+        answer: 'Standard residential roll-off dumpster sizes are 10, 15, 20, 30, and 40 cubic yards. The 10, 15, and 20 yard sizes cover almost every home project, which is why 904 Dumpster carries those three. 30 and 40 yard containers are used mostly for new construction and full-home demolition where the lot can fit a longer truck.',
       },
       {
         question: 'What is the most common dumpster size?',
-        answer: 'The 15 yard dumpster is the most popular size for residential projects. It handles roofing jobs, kitchen remodels, and medium cleanouts while still fitting in standard driveways.',
+        answer: 'The 15 yard dumpster is the most popular residential size in Jacksonville. It handles roofing tear-offs, kitchen remodels, and medium-sized cleanouts while still fitting in a standard driveway. The 10 yard wins for tight driveways and small jobs; the 20 yard wins for whole-house projects.',
       },
       {
         question: 'What size dumpster do I need for a home cleanout?',
-        answer: 'For a single room or garage cleanout, a 10 yard is sufficient. For a whole-house cleanout, choose a 20 yard. At 904 Dumpster, we offer free size consultations.',
+        answer: 'For a single room or garage cleanout, a 10 yard handles it. For 2-3 rooms or a moderate cleanout, the 15 yard fits. For a whole-house or estate cleanout, choose the 20 yard. When you are between two sizes, sizing up at 904 Dumpster only costs $50 more, not double, so the 20 is the safer pick if you are unsure.',
       },
       {
-        question: '15 vs 20 yard dumpster - which should I choose?',
-        answer: 'Choose a 15 yard for roofing, kitchen remodels, or 2-3 room cleanouts. Choose a 20 yard for whole-house cleanouts, large renovations, or construction projects.',
+        question: 'What does a 4 yard dumpster look like?',
+        answer: 'A 4 yard dumpster is the small steel front-load container you see permanently parked behind restaurants, gas stations, and small offices. It is roughly 6 feet long, 4 feet wide, and 4 feet tall, and it is built for weekly trash service, not project debris. For a one-time home cleanout or renovation, a 10 yard roll-off is the right starting size instead.',
+      },
+      {
+        question: 'What is the difference between a 20 yard and a 25 yard dumpster?',
+        answer: 'A 20 yard dumpster holds 20 cubic yards of debris (about 7 pickup truck loads), with a typical footprint of 14 feet long, 7.5 feet wide, and 5.8 feet tall. A 25 yard is uncommon in the residential roll-off market; most haulers jump straight from 20 to 30. The closest real next step up from a 904 Dumpster 20 yard is a 30 yard, which holds 50% more volume and is reserved for full-home demolition or large construction projects.',
+      },
+      {
+        question: 'Is it cheaper to rent a dumpster or go to the dump?',
+        answer: 'For a one-time, small load that fits in your pickup truck, a single trip to the Trail Ridge Landfill is cheaper than renting. For anything larger - a full room, a roof tear-off, or 2+ truckloads of debris - a 904 Dumpster roll-off is cheaper once you factor in fuel, your time, multiple landfill gate fees ($35-50 per trip), and the limits on what fits in a pickup. Most Jacksonville homeowners hit break-even at 2-3 truckloads.',
       },
       {
         question: 'What are standard roll off dumpster dimensions?',
-        answer: 'Roll off dumpster dimensions vary by size: 10 yard (12\'x7.5\'x3.6\'), 15 yard (14\'x7.5\'x4.5\'), and 20 yard (14\'x7.5\'x5.8\'). All fit standard residential driveways.',
+        answer: 'Standard roll-off dumpster dimensions at 904 Dumpster: 10 yard is 12 feet long, 7.5 feet wide, 3.6 feet high; 15 yard is 14 feet long, 7.5 feet wide, 4.5 feet high; 20 yard is 14 feet long, 7.5 feet wide, 5.8 feet high. All three fit a standard residential driveway and require about 14 feet of overhead clearance for the delivery truck.',
       },
     ],
     customPage: true,
