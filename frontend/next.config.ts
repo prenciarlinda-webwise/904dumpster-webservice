@@ -7,6 +7,17 @@ const nextConfig: NextConfig = {
   // Ensure consistent URLs without trailing slashes
   trailingSlash: false,
 
+  // Shared-hosting safety: build host has 63 CPUs but the runtime
+  // container has few cores and a tight pid/thread cap, so the default
+  // worker count baked into the standalone bundle was triggering
+  // uv_thread_create failures on Hostinger. Cap workers to 2.
+  experimental: {
+    cpus: 2,
+    workerThreads: false,
+    preloadEntriesOnStart: false,
+    staticGenerationMaxConcurrency: 2,
+  },
+
   // Enable image optimization
   images: {
     formats: ['image/avif', 'image/webp'],
