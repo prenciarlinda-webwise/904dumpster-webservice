@@ -289,11 +289,11 @@ For a minor patch repair involving just a few shingles and a vent boot, heavy-du
     excerpt: 'Flooring removal generates bulky, heavy waste that does not fit in standard trash bins. Whether you are ripping up carpet, removing laminate wood flooring, or pulling up old tile, here is what to expect and how to handle the debris.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-17',
+    publishedDate: '2026-06-17',
     readTime: '9 min read',
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['how to remove laminate wood flooring', 'how to remove laminate tile flooring', 'laminate floor removal tool', 'how much to rip up carpet', 'how long does subfloor last', 'wood floors refinishing', 'wood floor sanding and refinishing', 'wood floor installation cost', 'flooring waste disposal'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Flooring Removal Waste and How to Dispose of It

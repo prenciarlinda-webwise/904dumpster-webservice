@@ -154,11 +154,11 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     excerpt: 'Converting a garage into living space generates significant waste from demolition, framing, insulation, and finishing. This guide covers the waste planning side of garage conversions in Jacksonville.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-29',
+    publishedDate: '2026-06-23',
     readTime: '10 min read',
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['garage conversion waste', 'garage conversion permit jacksonville', 'how much does it cost to convert a garage', 'garage conversion without permit', 'will converting a garage add value', 'permit to convert garage to living space', 'garage renovation debris', 'garage conversion jacksonville'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Garage Conversion Guide and Waste Planning
@@ -313,7 +313,7 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
     excerpt: 'Kitchen renovations produce more waste than most homeowners expect. From cabinets and countertops to flooring and appliances, this guide helps you prepare for the debris side of your Jacksonville kitchen remodel.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-01',
+    publishedDate: '2026-06-09',
     readTime: '10 min read',
     featuredImage: '/images/jacksonville-dumpster-rental.jpg',
     tags: ['kitchen renovation waste', 'kitchen remodel debris', 'kitchen renovation blog', 'kitchen remodel 101', 'how much to remove ceramic tile', 'laminate floor removal', 'renovation blog', 'home renovation blog', 'home improvement blogs'],
