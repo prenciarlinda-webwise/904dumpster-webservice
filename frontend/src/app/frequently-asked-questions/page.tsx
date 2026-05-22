@@ -302,6 +302,18 @@ const faqs = [
 // Flatten FAQs for schema
 const allFaqs = faqs.flatMap((category) => category.questions)
 
+// Slugify a question string into a stable anchor id for deep-link citations
+// (AI Overviews, Perplexity, and "People Also Ask" can link directly to a specific Q&A)
+function slugifyQuestion(q: string): string {
+  return q
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .slice(0, 80)
+}
+
 export default function FAQPage() {
   return (
     <div className="min-h-screen">
@@ -360,12 +372,28 @@ export default function FAQPage() {
             </h2>
 
             <div className="space-y-6">
-              {category.questions.map((faq, index) => (
-                <div key={index} className="bg-white rounded-2xl p-8 shadow-sm">
-                  <h3 className="text-xl font-bold text-secondary mb-4">{faq.question}</h3>
-                  <p className="text-gray-600 leading-relaxed">{faq.answer}</p>
-                </div>
-              ))}
+              {category.questions.map((faq, index) => {
+                const anchorId = slugifyQuestion(faq.question)
+                return (
+                  <div
+                    key={index}
+                    id={anchorId}
+                    className="group bg-white rounded-2xl p-8 shadow-sm scroll-mt-24"
+                  >
+                    <h3 className="text-xl font-bold text-secondary mb-4 flex items-start gap-3">
+                      <span>{faq.question}</span>
+                      <a
+                        href={`#${anchorId}`}
+                        aria-label={`Link to: ${faq.question}`}
+                        className="text-gray-300 hover:text-primary text-base font-normal opacity-0 group-hover:opacity-100 transition-opacity"
+                      >
+                        #
+                      </a>
+                    </h3>
+                    <p className="text-gray-600 leading-relaxed">{faq.answer}</p>
+                  </div>
+                )
+              })}
             </div>
           </div>
         </section>

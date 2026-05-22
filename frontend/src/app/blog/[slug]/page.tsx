@@ -593,7 +593,16 @@ export default async function BlogPostPage({
   // Parse FAQs from content
   const { mainContent, faqs, afterFaqContent } = parseFAQs(post.content)
 
-  // Generate Article schema
+  // Word count from raw markdown content (strip syntax for accuracy)
+  const wordCount = post.content
+    .replace(/[#*_>|`\-\[\]\(\)]/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean).length
+
+  // Category display name for articleSection
+  const articleSection = category?.name || post.category
+
+  // Generate Article schema with AIO/Gemini/Perplexity entity grounding signals
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -602,24 +611,62 @@ export default async function BlogPostPage({
     image: post.featuredImage
       ? `https://www.904dumpster.com${post.featuredImage}`
       : 'https://www.904dumpster.com/images/904-dumpsters-logo.png',
+    // Person author drives AIO trust signal; org founder reused as canonical author
     author: {
-      '@type': 'Organization',
-      name: post.author,
-      url: 'https://www.904dumpster.com',
+      '@type': 'Person',
+      name: 'Dionis (Danny)',
+      jobTitle: 'Founder & Owner',
+      worksFor: { '@id': 'https://www.904dumpster.com/#organization' },
+      url: 'https://www.904dumpster.com/about',
     },
-    publisher: {
-      '@type': 'Organization',
-      name: '904 Dumpster - Dumpster Rental Jacksonville',
-      logo: {
-        '@type': 'ImageObject',
-        url: 'https://www.904dumpster.com/images/904-dumpsters-logo.png',
-      },
-    },
+    // Reference the layout-level Organization @id so engines merge the entity
+    publisher: { '@id': 'https://www.904dumpster.com/#organization' },
     datePublished: post.publishedDate,
     dateModified: post.updatedDate || post.publishedDate,
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `https://www.904dumpster.com/blog/${post.slug}`,
+    },
+    articleSection,
+    wordCount,
+    keywords: post.tags.join(', '),
+    inLanguage: 'en-US',
+    isAccessibleForFree: true,
+    copyrightYear: new Date(post.publishedDate).getFullYear(),
+    copyrightHolder: { '@id': 'https://www.904dumpster.com/#organization' },
+    // Entity grounding - tells AIO/Gemini what real-world entities the article is about
+    about: [
+      {
+        '@type': 'Thing',
+        name: 'Dumpster',
+        '@id': 'https://en.wikipedia.org/wiki/Dumpster',
+        sameAs: 'https://en.wikipedia.org/wiki/Dumpster',
+      },
+      {
+        '@type': 'Place',
+        name: 'Jacksonville, Florida',
+        '@id': 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
+        sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
+      },
+    ],
+    mentions: [
+      {
+        '@type': 'Thing',
+        name: 'Roll-off container',
+        '@id': 'https://en.wikipedia.org/wiki/Roll-off_(dumpster)',
+        sameAs: 'https://en.wikipedia.org/wiki/Roll-off_(dumpster)',
+      },
+      {
+        '@type': 'Thing',
+        name: 'Waste management',
+        '@id': 'https://en.wikipedia.org/wiki/Waste_management',
+        sameAs: 'https://en.wikipedia.org/wiki/Waste_management',
+      },
+    ],
+    // Speakable text targets for voice assistants & AIO snippet selection
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['#quick-answer', '.blog-faq-section'],
     },
   }
 
@@ -687,6 +734,20 @@ export default async function BlogPostPage({
           <div className="grid lg:grid-cols-[1fr_320px] gap-12">
             {/* Main Content */}
             <article>
+              {/* AEO Quick Answer - extractable summary for AI Overviews, Perplexity, ChatGPT.
+                  CSS id #quick-answer is referenced by Article.speakable in articleSchema. */}
+              <div
+                id="quick-answer"
+                className="mb-10 p-6 bg-white border-l-4 border-primary rounded-r-lg shadow-sm"
+              >
+                <p className="text-xs font-bold uppercase tracking-wider text-primary mb-2">
+                  Quick Answer
+                </p>
+                <p className="text-base md:text-lg text-secondary leading-relaxed mb-0">
+                  {post.excerpt}
+                </p>
+              </div>
+
               {/* Main article content (without FAQs) - featured image injected inside content */}
               <div
                 className="prose prose-lg max-w-none"
@@ -698,8 +759,12 @@ export default async function BlogPostPage({
                 ) }}
               />
 
-              {/* FAQ Accordion Section */}
-              {faqs.length > 0 && <BlogFAQ faqs={faqs} />}
+              {/* FAQ Accordion Section - .blog-faq-section is the second speakable selector */}
+              {faqs.length > 0 && (
+                <div className="blog-faq-section">
+                  <BlogFAQ faqs={faqs} />
+                </div>
+              )}
 
               {/* Content after FAQs (Related Guides, CTA, etc.) */}
               {afterFaqContent && (
