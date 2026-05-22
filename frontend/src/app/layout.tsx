@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Roboto } from 'next/font/google'
 import '@/styles/globals.css'
 import Header from '@/components/Header'
@@ -74,6 +74,16 @@ export const metadata: Metadata = {
   alternates: {
     canonical: './',
   },
+  manifest: '/manifest.json',
+}
+
+// Explicit viewport for mobile-first indexing: themed URL bar, allow accessibility zoom
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: '#22C05D',
+  colorScheme: 'light',
 }
 
 // Global JSON-LD Schemas for rich results and AI indexing
@@ -100,13 +110,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {/* End Google Tag Manager */}
         <link rel="icon" href="/images/904-dumpsters-logo.png" type="image/png" />
         <link rel="apple-touch-icon" href="/images/904-dumpsters-logo.png" />
-        {/* Leaflet CSS for delivery map */}
-        <link
-          rel="stylesheet"
-          href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-          crossOrigin=""
-        />
+        {/* Preconnect to third-party origins used in the critical mobile path */}
+        <link rel="preconnect" href="https://app.icans.ai" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://app.icans.ai" />
+        <link rel="preconnect" href="https://cdn.trustindex.io" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://cdn.trustindex.io" />
+        <link rel="preconnect" href="https://www.google.com" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://www.google.com" />
+        {/* Leaflet CSS is now imported inside DeliveryMap.tsx so it only loads
+            on pages that actually render the delivery map (location pages),
+            not on every route. Removes render-blocking CSS from homepage. */}
         {/* WebSite Schema - For sitelinks search box */}
         <script
           type="application/ld+json"

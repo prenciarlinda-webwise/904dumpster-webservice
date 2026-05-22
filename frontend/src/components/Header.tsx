@@ -362,7 +362,7 @@ export default function Header() {
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Book a Dumpster Online"
-                className="bg-primary hover:bg-primary/90 text-white font-bold text-sm px-4 py-2.5 rounded-full flex items-center gap-1.5 shadow-lg shadow-primary/25 transition-all"
+                className="bg-primary hover:bg-primary/90 text-white font-bold text-sm px-4 py-3 min-h-[44px] rounded-full flex items-center gap-1.5 shadow-lg shadow-primary/25 transition-all"
               >
                 Book Now
                 <ArrowRight className="w-3.5 h-3.5" />
@@ -413,7 +413,8 @@ export default function Header() {
             />
             <button
               onClick={toggleMobileMenu}
-              className="p-2 text-gray-400 hover:text-secondary hover:bg-gray-100 rounded-xl transition-colors"
+              aria-label="Close menu"
+              className="p-2.5 min-w-[44px] min-h-[44px] text-gray-400 hover:text-secondary hover:bg-gray-100 rounded-xl transition-colors flex items-center justify-center"
             >
               <X className="w-6 h-6" />
             </button>
@@ -456,7 +457,7 @@ export default function Header() {
                                 key={item.href}
                                 href={item.href}
                                 title={item.label}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                                className="block px-4 py-3 min-h-[44px] text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
                                 {item.label}
@@ -472,7 +473,7 @@ export default function Header() {
                                 key={item.href}
                                 href={item.href}
                                 title={item.label}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                                className="block px-4 py-3 min-h-[44px] text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
                                 {item.label}
@@ -500,7 +501,7 @@ export default function Header() {
                                 key={item.href}
                                 href={item.href}
                                 title={'Dumpster Rental ' + item.label}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                                className="block px-4 py-3 min-h-[44px] text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
                                 {item.label}
@@ -516,7 +517,7 @@ export default function Header() {
                                 key={item.href}
                                 href={item.href}
                                 title={'Dumpster Rental ' + item.label}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                                className="block px-4 py-3 min-h-[44px] text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
                                 {item.label}
@@ -532,7 +533,7 @@ export default function Header() {
                                 key={item.href}
                                 href={item.href}
                                 title={'Dumpster Rental ' + item.label}
-                                className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                                className="block px-4 py-3 min-h-[44px] text-gray-600 hover:text-primary transition-colors"
                                 onClick={toggleMobileMenu}
                               >
                                 {item.label}
@@ -556,7 +557,7 @@ export default function Header() {
                               key={item.href}
                               href={item.href}
                               title={item.label}
-                              className="block px-4 py-2.5 text-gray-600 hover:text-primary transition-colors"
+                              className="block px-4 py-3 min-h-[44px] text-gray-600 hover:text-primary transition-colors"
                               onClick={toggleMobileMenu}
                             >
                               {item.label}
@@ -603,7 +604,7 @@ export default function Header() {
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
                 title="Call 904 Dumpster"
-                className="flex items-center justify-center gap-3 w-full text-gray-500 hover:text-primary font-medium px-6 py-3 transition-all"
+                className="flex items-center justify-center gap-3 w-full text-gray-500 hover:text-primary font-medium px-6 py-3.5 min-h-[44px] transition-all"
               >
                 <Phone className="w-4 h-4" />
                 {BUSINESS.phone}

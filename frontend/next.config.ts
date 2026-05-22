@@ -16,6 +16,9 @@ const nextConfig: NextConfig = {
     workerThreads: false,
     preloadEntriesOnStart: false,
     staticGenerationMaxConcurrency: 2,
+    // Tree-shake icon barrels into per-icon imports. Cuts ~180 KiB of unused JS
+    // off the homepage bundle (Lighthouse "Reduce unused JavaScript" insight).
+    optimizePackageImports: ['lucide-react'],
   },
 
   // Enable image optimization

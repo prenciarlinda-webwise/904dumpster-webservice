@@ -22,8 +22,12 @@ import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
-import BookingModal from '@/components/BookingModal'
+import dynamic from 'next/dynamic'
 import BookingTrigger from '@/components/BookingTrigger'
+
+// Defer BookingModal off the initial mobile bundle. It only renders when a BookingTrigger fires,
+// so client-only loading is safe and shaves JS off LCP for organic landings.
+const BookingModal = dynamic(() => import('@/components/BookingModal'), { ssr: false })
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
@@ -496,7 +500,7 @@ export default function HomePage() {
                     target="_blank"
                     rel="nofollow noopener noreferrer"
                     title="Clay County Licensed Franchise Haulers"
-                    className="flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-3 py-1.5 text-white/90 text-sm hover:bg-white/20 transition-all"
+                    className="flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-3 py-2.5 min-h-[44px] text-white/90 text-sm hover:bg-white/20 transition-all"
                   >
                     <Award className="w-4 h-4 text-primary" />
                     <span>Clay County Licensed Hauler</span>
@@ -627,16 +631,16 @@ export default function HomePage() {
                     <div className="flex items-center justify-between mb-4">
                       <div>
                         <span className="text-4xl font-black text-secondary">{dumpster.size}</span>
-                        <span className="text-gray-400 text-lg ml-1">yard</span>
+                        <span className="text-gray-500 text-lg ml-1">yard</span>
                       </div>
                       <div className="text-right">
-                        <div className="text-xs text-gray-400">{dumpster.days}-day rental</div>
+                        <div className="text-xs text-gray-500">{dumpster.days}-day rental</div>
                       </div>
                     </div>
 
                     {/* Tiered Pricing & Book Button */}
                     <div className="mb-4">
-                      <div className="text-xs text-gray-400 uppercase tracking-wide mb-2">Rental Pricing</div>
+                      <div className="text-xs text-gray-500 uppercase tracking-wide mb-2">Rental Pricing</div>
                       <div className="space-y-1.5 mb-3">
                         {dumpster.tiers.map((tier) => (
                           <div
@@ -660,11 +664,11 @@ export default function HomePage() {
                     {/* Specs Grid */}
                     <div className="grid grid-cols-2 gap-3 mb-4 p-4 bg-gray-50 rounded-xl">
                       <div>
-                        <div className="text-xs text-gray-400 uppercase tracking-wide">Dimensions</div>
+                        <div className="text-xs text-gray-500 uppercase tracking-wide">Dimensions</div>
                         <div className="text-sm font-semibold text-secondary">{dumpster.dimensions}</div>
                       </div>
                       <div>
-                        <div className="text-xs text-gray-400 uppercase tracking-wide">Weight Included</div>
+                        <div className="text-xs text-gray-500 uppercase tracking-wide">Weight Included</div>
                         <div className="text-sm font-semibold text-secondary">{dumpster.tons} tons</div>
                       </div>
                     </div>
@@ -787,7 +791,7 @@ export default function HomePage() {
                 View Detailed Pricing Breakdown
                 <ArrowRight className="w-4 h-4" />
               </Link>
-              <span className="text-gray-300">|</span>
+              <span className="text-gray-500" aria-hidden="true">|</span>
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
                 title="Call 904 Dumpster"

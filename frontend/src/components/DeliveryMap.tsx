@@ -1,5 +1,9 @@
 'use client'
 
+// Scope Leaflet CSS to the chunk that needs it. Removes render-blocking CSS
+// from the homepage and all pages that don't render the delivery map.
+import 'leaflet/dist/leaflet.css'
+
 import { useEffect, useState } from 'react'
 import dynamic from 'next/dynamic'
 import { MapPin, Truck } from 'lucide-react'
