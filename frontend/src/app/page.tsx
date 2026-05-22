@@ -22,12 +22,8 @@ import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
-import dynamic from 'next/dynamic'
+import BookingModalLoader from '@/components/BookingModalLoader'
 import BookingTrigger from '@/components/BookingTrigger'
-
-// Defer BookingModal off the initial mobile bundle. It only renders when a BookingTrigger fires,
-// so client-only loading is safe and shaves JS off LCP for organic landings.
-const BookingModal = dynamic(() => import('@/components/BookingModal'), { ssr: false })
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
@@ -419,7 +415,7 @@ export default function HomePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
       />
 
-      <BookingModal />
+      <BookingModalLoader />
 
       <div className="min-h-screen -mt-16 lg:-mt-32">
         {/* ============================================
