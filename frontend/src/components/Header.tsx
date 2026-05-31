@@ -383,7 +383,7 @@ export default function Header() {
 
       {/* Mobile Menu - Full Screen Overlay */}
       <div
-        className={`lg:hidden fixed inset-0 z-50 transition-all duration-500 ${
+        className={`lg:hidden fixed inset-0 z-50 overflow-hidden transition-all duration-500 ${
           mobileMenuOpen ? 'visible' : 'invisible'
         }`}
       >

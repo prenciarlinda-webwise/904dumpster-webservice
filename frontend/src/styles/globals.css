@@ -23,11 +23,16 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    /* Prevent off-canvas/translated elements from creating horizontal scroll
+       on Android/Samsung Internet, which (unlike iOS Safari) counts off-screen
+       transformed content as scrollable area. */
+    overflow-x: hidden;
   }
 
   body {
     @apply antialiased text-text bg-background;
     font-family: var(--font-family-sans);
+    overflow-x: hidden;
   }
 
   h1, h2, h3, h4, h5, h6 {
