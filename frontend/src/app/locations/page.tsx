@@ -96,7 +96,7 @@ export default function LocationsPage() {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white">Home</Link>
+              <Link href="/" className="hover:text-white">Dumpster Rental Jacksonville</Link>
               <span>/</span>
               <span className="text-white">Service Areas</span>
             </nav>

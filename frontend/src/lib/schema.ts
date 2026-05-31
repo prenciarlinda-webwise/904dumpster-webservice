@@ -180,7 +180,7 @@ export function generateLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    '@id': 'https://www.904dumpster.com/#localbusiness',
+    '@id': 'https://www.904dumpster.com/#organization',
     name: BUSINESS.name,
     description: 'Professional dumpster rental and waste management services in Jacksonville, FL. Same-day delivery available for residential and commercial projects.',
     url: 'https://www.904dumpster.com',
@@ -403,7 +403,7 @@ export function generateSizePageLocalBusinessSchema(size: '10' | '15' | '20') {
   return {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    '@id': 'https://www.904dumpster.com/#localbusiness',
+    '@id': 'https://www.904dumpster.com/#organization',
     name: '904 Dumpster',
     description: `Professional ${size} yard dumpster rental in Jacksonville FL. Same-day delivery, transparent pricing, locally owned since 2016.`,
     url: 'https://www.904dumpster.com',

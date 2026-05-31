@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function TermsOfServicePage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'Terms of Service', url: 'https://www.904dumpster.com/terms-of-service' },
   ])
 

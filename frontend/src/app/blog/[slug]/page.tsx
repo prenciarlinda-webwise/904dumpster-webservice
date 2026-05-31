@@ -984,7 +984,7 @@ export default async function BlogPostPage({
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'Blog', url: 'https://www.904dumpster.com/blog' },
               { name: post.title, url: `https://www.904dumpster.com/blog/${post.slug}` },
             ])

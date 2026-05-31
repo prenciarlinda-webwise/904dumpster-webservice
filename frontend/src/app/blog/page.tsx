@@ -46,7 +46,7 @@ function getAllPostsSorted() {
 export default function BlogPage() {
   const blogCollectionSchema = generateBlogCollectionSchema()
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'Blog', url: 'https://www.904dumpster.com/blog' },
   ])
 

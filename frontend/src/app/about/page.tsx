@@ -51,7 +51,7 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   const aboutSchema = generateAboutPageSchema()
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'About Us', url: 'https://www.904dumpster.com/about' },
   ])
   const organizationSchema = generateOrganizationSchema()

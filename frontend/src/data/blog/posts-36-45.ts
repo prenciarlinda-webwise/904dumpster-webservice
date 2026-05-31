@@ -968,7 +968,7 @@ If you have latex paint that you want to dispose of in your regular trash or dum
 
 ## Paint Disposal During Home Renovation Projects
 
-Paint disposal comes up frequently during home renovation and cleanout projects. If you are doing a [kitchen renovation](/blog/kitchen-renovation-waste-preparation-guide), [garage cleanout](/blog/garage-cleanout-guide-jacksonville), or whole-house renovation, you will likely encounter old paint that previous owners left behind.
+Paint disposal comes up frequently during home renovation and cleanout projects. If you are doing a [kitchen renovation](/blog/kitchen-renovation-debris-disposal-guide), [garage cleanout](/blog/garage-cleanout-guide-jacksonville), or whole-house renovation, you will likely encounter old paint that previous owners left behind.
 
 During major cleanout and renovation projects, consider these steps:
 
@@ -1352,7 +1352,7 @@ Many Jacksonville homeowners use the summer to tackle indoor renovation projects
 | Flooring replacement (whole home) | 6-10 cubic yards | [15-Yard](/15-yard-dumpster-rental) |
 | Garage conversion | 10-15 cubic yards | [15-Yard](/15-yard-dumpster-rental) or [20-Yard](/20-yard-dumpster-rental) |
 
-For detailed waste planning guides, check our [kitchen renovation waste guide](/blog/kitchen-renovation-waste-preparation-guide) and [garage conversion waste guide](/blog/garage-conversion-waste-planning-guide).
+For detailed waste planning guides, check our [kitchen renovation debris guide](/blog/kitchen-renovation-debris-disposal-guide) and [garage cleanout guide](/blog/garage-cleanout-guide-jacksonville).
 
 ## Keeping Cool While Getting Work Done
 

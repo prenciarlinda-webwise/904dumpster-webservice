@@ -182,7 +182,7 @@ export default async function DynamicPage({
             dangerouslySetInnerHTML={{
               __html: JSON.stringify(
                 generateBreadcrumbSchema([
-                  { name: 'Home', url: 'https://www.904dumpster.com' },
+                  { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
                   { name: 'Services', url: 'https://www.904dumpster.com' },
                   { name: service.title, url: `https://www.904dumpster.com/${slug}` },
                 ])
@@ -222,7 +222,7 @@ export default async function DynamicPage({
             dangerouslySetInnerHTML={{
               __html: JSON.stringify(
                 generateBreadcrumbSchema([
-                  { name: 'Home', url: 'https://www.904dumpster.com' },
+                  { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
                   { name: service.title, url: `https://www.904dumpster.com/${slug}` },
                 ])
               ),
@@ -290,7 +290,7 @@ export default async function DynamicPage({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(
               generateBreadcrumbSchema([
-                { name: 'Home', url: 'https://www.904dumpster.com' },
+                { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
                 { name: 'Services', url: 'https://www.904dumpster.com' },
                 { name: service.title, url: `https://www.904dumpster.com/${slug}` },
               ])
@@ -351,7 +351,7 @@ function DumpsterSizePage({
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-                <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+                <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
                 <span>/</span>
                 <span className="text-white">{size} Yard Dumpster</span>
               </nav>
@@ -615,44 +615,44 @@ function DumpsterSizePage({
                   <tr>
                     <th className="text-left py-4 px-6 font-bold">Item</th>
                     <th className="text-left py-4 px-6 font-bold">904 Dumpster</th>
-                    <th className="text-left py-4 px-6 font-bold hidden sm:table-cell">Notes</th>
+                    <th className="text-left py-3 px-3 sm:py-4 sm:px-6 font-bold text-xs sm:text-base">Notes</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
                     <td className="py-4 px-6 font-bold text-primary text-xl">$299</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Includes delivery and pickup</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Disposal Included</td>
                     <td className="py-4 px-6 font-bold text-secondary">1 Ton</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">2,000 lbs included in base price</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">2,000 lbs included in base price</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Rental Period</td>
                     <td className="py-4 px-6 font-bold text-secondary">3 Days</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">$15/day extensions available</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">$15/day extensions available</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Overage Fee</td>
                     <td className="py-4 px-6 font-bold text-secondary">$75/Ton</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only if you exceed 1 ton</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Only if you exceed 1 ton</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Fuel Surcharge</td>
                     <td className="py-4 px-6 font-bold text-primary">$0</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included,never charged separately</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Included, never charged separately</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Environmental Fee</td>
                     <td className="py-4 px-6 font-bold text-primary">$0</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included,no add-on charges</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Included, no add-on charges</td>
                   </tr>
                   <tr>
                     <td className="py-4 px-6 font-medium text-secondary">Admin / Booking Fee</td>
                     <td className="py-4 px-6 font-bold text-primary">$0</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included,book direct, no broker</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Included, book direct, no broker</td>
                   </tr>
                 </tbody>
               </table>
@@ -971,44 +971,44 @@ function DumpsterSizePage({
                   <tr>
                     <th className="text-left py-4 px-6 font-bold">Item</th>
                     <th className="text-left py-4 px-6 font-bold">904 Dumpster</th>
-                    <th className="text-left py-4 px-6 font-bold hidden sm:table-cell">Notes</th>
+                    <th className="text-left py-3 px-3 sm:py-4 sm:px-6 font-bold text-xs sm:text-base">Notes</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
                     <td className="py-4 px-6 font-bold text-primary text-xl">$399</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Includes delivery and pickup</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Disposal Included</td>
                     <td className="py-4 px-6 font-bold text-secondary">2 Tons</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">4,000 lbs included in base price</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">4,000 lbs included in base price</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Rental Period</td>
                     <td className="py-4 px-6 font-bold text-secondary">5 Days</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">$15/day extensions available</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">$15/day extensions available</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Overage Fee</td>
                     <td className="py-4 px-6 font-bold text-secondary">$75/Ton</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only if you exceed 2 tons</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Only if you exceed 2 tons</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Fuel Surcharge</td>
                     <td className="py-4 px-6 font-bold text-primary">$0</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included,never charged separately</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Included, never charged separately</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50">
                     <td className="py-4 px-6 font-medium text-secondary">Environmental Fee</td>
                     <td className="py-4 px-6 font-bold text-primary">$0</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included,no add-on charges</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Included, no add-on charges</td>
                   </tr>
                   <tr>
                     <td className="py-4 px-6 font-medium text-secondary">Admin / Booking Fee</td>
                     <td className="py-4 px-6 font-bold text-primary">$0</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Book direct,no broker markup</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Book direct, no broker markup</td>
                   </tr>
                 </tbody>
               </table>
@@ -1906,29 +1906,29 @@ function DumpsterSizePage({
                   <tr>
                     <th className="text-left py-4 px-6 font-bold">Item</th>
                     <th className="text-left py-4 px-6 font-bold">904 Dumpster Price</th>
-                    <th className="text-left py-4 px-6 font-bold hidden sm:table-cell">Notes</th>
+                    <th className="text-left py-3 px-3 sm:py-4 sm:px-6 font-bold text-xs sm:text-base">Notes</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Base Rental</td>
                     <td className="py-4 px-6 font-bold text-primary text-xl">$349</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Includes delivery and pickup</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Includes delivery and pickup</td>
                   </tr>
                   <tr className="border-b border-gray-200 bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Weight Limit</td>
                     <td className="py-4 px-6 font-bold text-secondary">1.5 Tons</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Included in base price</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Included in base price</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="py-4 px-6 font-medium text-secondary">Rental Period</td>
                     <td className="py-4 px-6 font-bold text-secondary">5 Days</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Extensions available for $15/day</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Extensions available for $15/day</td>
                   </tr>
                   <tr className="bg-white">
                     <td className="py-4 px-6 font-medium text-secondary">Overage Fee</td>
                     <td className="py-4 px-6 font-bold text-secondary">$75/Ton</td>
-                    <td className="py-4 px-6 text-gray-600 hidden sm:table-cell">Only applies if you exceed 1.5 tons</td>
+                    <td className="py-3 px-3 sm:py-4 sm:px-6 text-gray-600 text-xs sm:text-base">Only applies if you exceed 1.5 tons</td>
                   </tr>
                 </tbody>
               </table>
@@ -2431,7 +2431,7 @@ function DumpsterSizePage({
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'Dumpster Sizes', url: 'https://www.904dumpster.com/dumpster-size-guide' },
               { name: `${size} Yard Dumpster`, url: `https://www.904dumpster.com/${size}-yard-dumpster-rental` },
             ])
@@ -2482,7 +2482,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
               <span>/</span>
               <span className="text-white">{location.name}</span>
             </nav>
@@ -2529,9 +2529,11 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
               <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
-              <p className="text-base lg:text-lg text-gray-700 leading-relaxed">
-                {location.quickAnswer}
-              </p>
+              <div className="text-base lg:text-lg text-gray-700 leading-relaxed space-y-4">
+                {location.quickAnswer.split('\n\n').map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
             </div>
           </div>
         </section>
@@ -3154,7 +3156,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'Locations', url: 'https://www.904dumpster.com' },
               { name: location.name, url: `https://www.904dumpster.com/${location.slug}` },
             ])
@@ -3215,7 +3217,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
               <span>/</span>
               <span className="text-white">Junk Removal</span>
             </nav>
@@ -3254,9 +3256,11 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
               <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
-              <p className="text-base lg:text-lg text-gray-700 leading-relaxed">
-                {service.quickAnswer}
-              </p>
+              <div className="text-base lg:text-lg text-gray-700 leading-relaxed space-y-4">
+                {service.quickAnswer.split('\n\n').map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
             </div>
           </div>
         </section>
@@ -3663,7 +3667,7 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'Services', url: 'https://www.904dumpster.com' },
               { name: 'Junk Removal Jacksonville', url: 'https://www.904dumpster.com/junk-removal-jacksonville-fl' },
             ])
@@ -3779,7 +3783,7 @@ function DemolitionServicesPage({ service }: { service: ServicePage }) {
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+              <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
               <span>/</span>
               <span className="text-white">Demolition Services</span>
             </nav>
@@ -3818,9 +3822,11 @@ function DemolitionServicesPage({ service }: { service: ServicePage }) {
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
               <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
-              <p className="text-base lg:text-lg text-gray-700 leading-relaxed">
-                {service.quickAnswer}
-              </p>
+              <div className="text-base lg:text-lg text-gray-700 leading-relaxed space-y-4">
+                {service.quickAnswer.split('\n\n').map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
             </div>
           </div>
         </section>
@@ -4073,7 +4079,7 @@ function DemolitionServicesPage({ service }: { service: ServicePage }) {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'Services', url: 'https://www.904dumpster.com' },
               { name: 'Demolition Services', url: 'https://www.904dumpster.com/demolition-services-jacksonville-fl' },
             ])
@@ -4121,7 +4127,7 @@ function ConstructionDumpsterPage({ service }: { service: ServicePage }) {
 
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-            <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+            <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
             <span>/</span>
             <span className="text-white">Construction Dumpster Rental</span>
           </nav>
@@ -4198,9 +4204,11 @@ function ConstructionDumpsterPage({ service }: { service: ServicePage }) {
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
               <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
-              <p className="text-base lg:text-lg text-gray-700 leading-relaxed">
-                {service.quickAnswer}
-              </p>
+              <div className="text-base lg:text-lg text-gray-700 leading-relaxed space-y-4">
+                {service.quickAnswer.split('\n\n').map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
             </div>
           </div>
         </section>
@@ -4446,7 +4454,7 @@ function ConstructionDumpsterPage({ service }: { service: ServicePage }) {
             category: 'Roll-Off Dumpster Rental',
             provider: {
               '@type': 'LocalBusiness',
-              '@id': 'https://www.904dumpster.com/#localbusiness',
+              '@id': 'https://www.904dumpster.com/#organization',
               name: BUSINESS.name,
               telephone: BUSINESS.phoneE164,
               url: 'https://www.904dumpster.com',
@@ -4595,7 +4603,7 @@ function ConstructionDumpsterPage({ service }: { service: ServicePage }) {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'Services', url: 'https://www.904dumpster.com' },
               { name: 'Construction Dumpster Rental', url: 'https://www.904dumpster.com/construction-dumpster-rental-jacksonville-fl' },
             ])

@@ -1401,7 +1401,7 @@ Not everything put in the recycling bin actually gets recycled. Contaminated mat
 
 Construction and demolition debris from renovation projects, [demolition jobs](/demolition-services-jacksonville-fl), and new construction follows its own disposal stream:
 
-- **Clean concrete, brick, and asphalt** go to concrete recycling facilities where they are crushed into aggregate for road base and fill material. See our guide on [disposing of concrete and bricks](/blog/concrete-driveway-removal-cost-planning-disposal).
+- **Clean concrete, brick, and asphalt** go to concrete recycling facilities where they are crushed into aggregate for road base and fill material. See our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) service for heavy-material roll-offs sized for weight.
 - **Scrap metal** (steel, copper, aluminum) goes to metal recycling yards. Metal is one of the most efficiently recycled materials.
 - **Clean wood** may go to biomass facilities, mulch producers, or wood recycling operations.
 - **Mixed C&D debris** (drywall, mixed wood, roofing, general construction waste) typically goes to designated C&D landfill cells or transfer facilities.
@@ -1503,7 +1503,7 @@ Let us start with the good news. Here is a comprehensive list of items that are 
 - Lumber and wood scraps
 - Roofing shingles and underlayment
 - Tile, ceramic, and porcelain
-- Concrete and brick (weight limits apply; see our [concrete disposal guide](/blog/concrete-driveway-removal-cost-planning-disposal))
+- Concrete and brick (weight limits apply; see our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) service)
 - Cabinets and countertops
 - Windows and doors (with glass intact)
 - Insulation (non-asbestos)

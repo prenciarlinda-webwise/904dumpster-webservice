@@ -440,7 +440,7 @@ export default function FAQPage() {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
             generateBreadcrumbSchema([
-              { name: 'Home', url: 'https://www.904dumpster.com' },
+              { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
               { name: 'FAQ', url: 'https://www.904dumpster.com/frequently-asked-questions' },
             ])
           ),

@@ -80,7 +80,7 @@ export function ServicePageTemplate({
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <div className="max-w-3xl">
             <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-              <Link href="/" className="hover:text-white">Home</Link>
+              <Link href="/" className="hover:text-white">Dumpster Rental Jacksonville</Link>
               <span>/</span>
               <span className="text-white">{title}</span>
             </nav>
@@ -117,9 +117,11 @@ export function ServicePageTemplate({
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
               <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
-              <p className="text-base lg:text-lg text-gray-700 leading-relaxed">
-                {quickAnswer}
-              </p>
+              <div className="text-base lg:text-lg text-gray-700 leading-relaxed space-y-4">
+                {quickAnswer.split('\n\n').map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
             </div>
           </div>
         </section>

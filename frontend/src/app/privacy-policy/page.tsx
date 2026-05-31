@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function PrivacyPolicyPage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'Privacy Policy', url: 'https://www.904dumpster.com/privacy-policy' },
   ])
 

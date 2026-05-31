@@ -39,7 +39,7 @@ export const metadata: Metadata = {
 export default function PricingPage() {
   const pricingSchema = generatePricingItemListSchema()
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'Pricing', url: 'https://www.904dumpster.com/dumpster-rental-pricing-jacksonville' },
   ])
 

@@ -37,7 +37,7 @@ export const metadata: Metadata = {
 
 export default function ProhibitedItemsPage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'Resources', url: 'https://www.904dumpster.com/frequently-asked-questions' },
     { name: 'Prohibited Items', url: 'https://www.904dumpster.com/rules/prohibited-items-list' },
   ])

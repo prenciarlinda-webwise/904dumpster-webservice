@@ -584,7 +584,7 @@ Ask whether they own the trucks or subcontract, what the all-in price is (no fue
     author: '904 Dumpster',
     publishedDate: '2026-06-19',
     readTime: '8 min read',
-    featuredImage: '/images/10 Yard Dumpster.avif',
+    featuredImage: '/images/10-yard-dumpster.avif',
     tags: ['small dumpster rental', 'apartment dumpster rental', 'condo dumpster rental', 'dumpster for apartment cleanout', 'HOA dumpster rules', 'small dumpster jacksonville'],
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'jacksonville-dumpster-permit-guide', 'how-to-find-dumpster-rental-near-me'],
     content: `

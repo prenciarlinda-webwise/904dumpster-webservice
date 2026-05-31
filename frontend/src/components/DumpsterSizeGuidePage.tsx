@@ -94,7 +94,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
 
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
           <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
-            <Link href="/" className="hover:text-white" title="904 Dumpster Home">Home</Link>
+            <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
             <span>/</span>
             <span className="text-white">Dumpster Sizes Chart</span>
           </nav>

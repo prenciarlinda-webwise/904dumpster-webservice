@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 export default function ContactPage() {
   const contactSchema = generateContactPageSchema()
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', url: 'https://www.904dumpster.com' },
+    { name: 'Dumpster Rental Jacksonville', url: 'https://www.904dumpster.com' },
     { name: 'Contact Us', url: 'https://www.904dumpster.com/contact-us' },
   ])
 
