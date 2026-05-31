@@ -2500,14 +2500,16 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                 <Phone className="w-5 h-5" />
                 Call {location.phone}
               </a>
-              <Link
-                href="/contact-us"
-                title="Contact 904 Dumpster"
+              <a
+                href={BUSINESS.bookingUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Book 904 Dumpster Online"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
-                Get Free Quote
+                Book Now
                 <ArrowRight className="w-5 h-5" />
-              </Link>
+              </a>
             </div>
             <div className="mt-8 rounded-2xl overflow-hidden">
               <Image
@@ -3237,14 +3239,16 @@ function JunkRemovalPage({ service }: { service: ServicePage }) {
                 <Phone className="w-5 h-5" />
                 Call {BUSINESS.phone}
               </a>
-              <Link
-                href="/contact-us"
-                title="Contact 904 Dumpster"
+              <a
+                href={BUSINESS.bookingUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Book 904 Dumpster Online"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
-                Get Free Quote
+                Book Now
                 <ArrowRight className="w-5 h-5" />
-              </Link>
+              </a>
             </div>
           </div>
         </div>
@@ -3803,14 +3807,16 @@ function DemolitionServicesPage({ service }: { service: ServicePage }) {
                 <Phone className="w-5 h-5" />
                 Call {BUSINESS.phone}
               </a>
-              <Link
-                href="/contact-us"
-                title="Contact 904 Dumpster"
+              <a
+                href={BUSINESS.bookingUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                title="Book 904 Dumpster Online"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
-                Get Free Quote
+                Book Now
                 <ArrowRight className="w-5 h-5" />
-              </Link>
+              </a>
             </div>
           </div>
         </div>

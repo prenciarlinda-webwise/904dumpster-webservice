@@ -952,14 +952,16 @@ export default async function BlogPostPage({
               <Phone className="w-5 h-5" />
               Call {BUSINESS.phone}
             </a>
-            <Link
-              href="/contact-us"
+            <a
+              href={BUSINESS.bookingUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-secondary hover:bg-primary text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
-              title="Contact 904 Dumpster for a Free Quote"
+              title="Book 904 Dumpster Online"
             >
-              Get a Free Quote
+              Book Now
               <ArrowRight className="w-5 h-5" />
-            </Link>
+            </a>
           </div>
         </div>
       </section>

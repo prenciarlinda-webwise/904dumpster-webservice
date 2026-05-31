@@ -429,13 +429,15 @@ export default function AboutPage() {
               <Phone className="w-6 h-6" />
               {BUSINESS.phone}
             </a>
-            <Link
-              href="/contact-us"
+            <a
+              href={BUSINESS.bookingUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-xl px-10 py-5 rounded-2xl transition-all"
             >
-              Get a Free Quote
+              Book Now
               <ArrowRight className="w-5 h-5" />
-            </Link>
+            </a>
           </div>
         </div>
       </section>

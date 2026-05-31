@@ -116,13 +116,15 @@ export default function LocationsPage() {
                 <Phone className="w-5 h-5" />
                 Call {BUSINESS.phone}
               </a>
-              <Link
-                href="/contact-us"
+              <a
+                href={BUSINESS.bookingUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
               >
-                Get a Free Quote
+                Book Now
                 <ArrowRight className="w-5 h-5" />
-              </Link>
+              </a>
             </div>
           </div>
         </div>
