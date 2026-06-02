@@ -16,6 +16,11 @@ import { BUSINESS } from '@/lib/constants'
 import { generateBreadcrumbSchema } from '@/lib/schema'
 import BlogFAQ from '@/components/BlogFAQ'
 
+// Re-render on a timer so 'scheduled' posts go live automatically once their
+// publishedDate timestamp passes, without needing a rebuild/redeploy. 600s = ~10 min,
+// so an 8:00am or 6:00pm (ET) post appears within ~10 minutes of its scheduled time.
+export const revalidate = 600
+
 // Interface for parsed FAQ items
 interface FAQItem {
   question: string

@@ -170,12 +170,12 @@ A roll off dumpster is an open-top container delivered on a flatbed truck for te
   {
     slug: 'prepare-for-roof-replacement-waste-planning',
     title: 'How to Prepare for a Roof Replacement and Plan for Debris',
-    metaTitle: 'Roof Replacement Waste Planning - Dumpster Size for Roof Tear Off',
+    metaTitle: 'Roof Replacement Waste Planning: Dumpster Size Guide',
     metaDescription: 'Planning a roof replacement? Find out what size dumpster for roof tear off, how to prepare your property, and how to handle shingle disposal in Jacksonville FL.',
     excerpt: 'A roof replacement generates a massive amount of waste. Learn how to prepare your property, what size dumpster you need for a roof tear off, and how to plan for shingle disposal.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-06-03',
+    publishedDate: '2026-06-03T08:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-roofing-jacksonville.jpg',
     tags: ['dumpster for roofing materials', 'roof dumpster rental', 'what size dumpster for roof tear off', 'dumpster size for roof tear off', 'shingle dumpster', 'shingle dumpster calculator', 'roofing waste disposal', 'roof replacement preparation'],
@@ -273,7 +273,7 @@ For full pricing details, visit our [dumpster rental pricing](/dumpster-rental-p
 
 ## Can Roofing Shingles Be Recycled?
 
-Yes. Asphalt shingles are recyclable and can be ground up and used in road paving and asphalt production. Jacksonville and Northeast Florida have facilities that accept clean asphalt shingles for recycling. However, shingles mixed with other debris types like wood, drywall, or general trash cannot be recycled and go to the landfill instead.
+Yes. Asphalt shingles are recyclable and can be ground up and used in road paving and asphalt production. The EPA counts asphalt shingles among the [construction and demolition debris streams](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) that can be diverted from landfills, and Jacksonville and Northeast Florida have facilities that accept clean asphalt shingles for recycling. However, shingles mixed with other debris types like wood, drywall, or general trash cannot be recycled and go to the landfill instead.
 
 If recycling is important to you, talk to your contractor about separating clean shingles from other roofing debris. For more information on construction recycling in Jacksonville, check out our [recycling guide for construction projects](/blog/recycling-guide-jacksonville-construction-projects).
 
@@ -461,12 +461,12 @@ Yes, the City of Jacksonville activates storm debris pickup after major weather 
   {
     slug: 'concrete-driveway-removal-cost-planning-disposal',
     title: 'Concrete Driveway Removal Cost, Planning, and Disposal',
-    metaTitle: 'Concrete Driveway Removal Cost - Planning & Disposal Guide (2026)',
+    metaTitle: 'Concrete Driveway Removal Cost and Disposal Guide',
     metaDescription: 'How much does it cost to remove a concrete driveway? Planning guide covering cost to remove concrete slab, asphalt removal, and debris disposal in Jacksonville FL.',
     excerpt: 'Planning to remove a concrete driveway or slab? This guide covers cost expectations, planning steps, and how to handle the heavy debris disposal for your Jacksonville project.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-06-21',
+    publishedDate: '2026-06-07T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-service-jacksonville-fl.jpg',
     tags: ['cost to remove concrete driveway', 'cost to remove concrete slab', 'asphalt driveway removal cost', 'cost to remove asphalt driveway', 'how much to remove concrete driveway', 'how much does it cost to remove concrete driveway', 'concrete sidewalk replacement', 'concrete disposal dumpster'],
@@ -559,7 +559,7 @@ Driveways are not the only concrete removal projects Jacksonville homeowners fac
 
 ## Concrete Recycling in Jacksonville
 
-Broken concrete does not have to go to the landfill. Concrete recycling facilities crush old concrete into aggregate that gets reused in road construction, building foundations, and new concrete production. Jacksonville has several facilities that accept clean concrete for recycling.
+Broken concrete does not have to go to the landfill. Recycling crushed concrete back into aggregate is one of the practices the EPA highlights for [managing construction and demolition materials sustainably](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials), and local facilities crush old concrete into aggregate that gets reused in road construction, building foundations, and new concrete production. Jacksonville has several facilities that accept clean concrete for recycling.
 
 The key word is "clean." Concrete mixed with rebar, wood, drywall, or other materials may be accepted at a reduced rate or may need to go to a standard landfill. If you are working with a demolition contractor, ask whether they separate the concrete for recycling. For more information on recycling construction materials, see our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects).
 
@@ -1172,16 +1172,16 @@ Demolition is the rapid mechanical teardown of a structure or space. Deconstruct
   {
     slug: 'dog-friendly-backyard-makeover-waste-planning',
     title: 'Dog-Friendly Backyard Makeover and Waste Planning Guide',
-    metaTitle: 'Dog-Friendly Backyard Makeover - Waste Planning & Dumpster Rental Guide',
+    metaTitle: 'Dog-Friendly Backyard Makeover Waste Planning Guide',
     metaDescription: 'Planning a dog-friendly backyard? Guide to waste planning for yard makeovers including xeriscaping, fencing, borders, and landscaping debris disposal in Jacksonville FL.',
     excerpt: 'Planning a dog-friendly backyard makeover involves removing old landscaping, fencing, and hardscape before installing pet-safe features. Here is how to plan for the waste and debris your project will generate.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-23',
+    publishedDate: '2026-06-10T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-near-me-jacksonville.jpg',
     tags: ['dog friendly backyards', 'dog friendly back yard', 'best yard for dogs', 'xeriscaping cost', 'xeriscape yard', 'xeriscaping ideas', 'xeriscape backyard', 'yard privacy ideas', 'driveway with border', 'backyard makeover waste'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['yard-waste-disposal-guide-what-goes-where', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Dog-Friendly Backyard Makeover Waste Planning Guide
@@ -1268,7 +1268,7 @@ Not sure which size fits your project? Read our [dumpster size guide](/dumpster-
 
 ## Dog-Friendly Backyard Waste Tips
 
-- **Separate organic waste** when possible. Clean yard waste (branches, sod, leaves) can sometimes be composted or mulched rather than landfilled.
+- **Separate organic waste** when possible. Clean yard waste (branches, sod, leaves) can sometimes be composted or mulched rather than landfilled. The EPA outlines how to [start composting landscaping trimmings at home](https://www.epa.gov/recycle/composting-home) so those clippings feed your soil instead of the dumpster.
 - **Watch for treated lumber.** Old deck boards, landscape timbers, and fence posts may be pressure-treated with chemicals. Treated wood should not be burned and needs to go in the dumpster.
 - **Remove nails and hardware** from old fencing and deck boards before loading. Loose nails in the yard are a danger to dogs and people.
 - **Check for underground utilities** before digging fence posts or grading. Call 811 at least 48 hours before any digging begins.
@@ -1307,16 +1307,16 @@ Yes. We deliver throughout Northeast Florida including [Jacksonville Beach](/dum
   {
     slug: 'aging-in-place-renovations-waste-guide',
     title: 'Aging in Place Home Renovations and Accessibility Remodeling Waste Guide',
-    metaTitle: 'Aging in Place Renovations Waste Guide - Dumpster Rental for Accessibility Remodels',
-    metaDescription: 'Planning aging in place renovations or an in-law suite? Guide to waste planning for accessibility remodeling, bathroom modifications, and mother-in-law suite construction in Jacksonville FL.',
+    metaTitle: 'Aging in Place Renovation Waste and Dumpster Guide',
+    metaDescription: 'Plan aging in place renovations or an in-law suite. Waste guide for accessibility remodels, bathroom modifications, and debris disposal in Jacksonville FL.',
     excerpt: 'Aging in place renovations and accessibility remodeling projects generate significant construction waste. Plan your dumpster rental and debris disposal for bathroom modifications, in-law suites, and home accessibility upgrades.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-04-25',
+    publishedDate: '2026-06-11T08:00:00-04:00',
     readTime: '10 min read',
     featuredImage: '/images/rent-a-dumpster-jacksonville-fl.jpg',
     tags: ['aging in place renovations', 'aging in place remodeler', 'aging-in-place remodeling', 'handicap renovations', 'disability remodeling', 'bathroom remodel for cheap', 'in law suite', 'mother in law suite', 'building an in law suite', 'in law studio', 'in laws quarters'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'how-to-choose-right-dumpster-size'],
     content: `
 ## Aging in Place Home Renovations and Accessibility Remodeling
@@ -1402,7 +1402,7 @@ For homeowners watching every dollar, renting a dumpster yourself is almost alwa
 
 ### Hire the Right Contractor
 
-Look for an aging in place remodeler or a contractor experienced in disability remodeling. These specialists understand ADA guidelines, universal design principles, and the specific product requirements for accessibility features. A contractor experienced in handicap renovations will also plan for waste management as part of their project timeline.
+Look for an aging in place remodeler or a contractor experienced in disability remodeling. These specialists understand the federal [ADA accessibility standards](https://www.ada.gov), universal design principles, and the specific product requirements for accessibility features. A contractor experienced in handicap renovations will also plan for waste management as part of their project timeline.
 
 The National Association of Home Builders (NAHB) offers a Certified Aging-in-Place Specialist (CAPS) designation. Contractors with this certification have specific training in accessibility remodeling.
 

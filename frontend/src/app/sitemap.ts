@@ -5,6 +5,10 @@ import { getPublishedPosts } from '@/data/blog'
 
 const BASE_URL = 'https://www.904dumpster.com'
 
+// Re-generate the sitemap on a timer so newly-live scheduled posts get listed
+// for crawlers within ~10 min of going live (matches the blog pages' revalidate).
+export const revalidate = 600
+
 // Per-page lastModified dates. Bump these when the page's content actually changes,
 // not on every build. Avoids signaling daily churn to crawlers when nothing changed.
 const PAGE_LAST_MODIFIED: Record<string, string> = {

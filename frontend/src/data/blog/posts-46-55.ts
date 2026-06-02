@@ -6,15 +6,15 @@ export const POSTS_46_TO_55: BlogPost[] = [
     slug: 'screened-in-porch-project-waste-planning',
     title: 'Screened-In Porch Project Debris and Waste Planning',
     metaTitle: 'Screened-In Porch Project Waste Planning - Debris Disposal Guide',
-    metaDescription: 'Planning a screened in porch exterior project? Learn what debris to expect, how to plan waste removal, and the right dumpster size for porch construction waste in Jacksonville FL.',
+    metaDescription: 'Planning a screened in porch project? Learn what debris to expect, how to plan waste removal, and the right dumpster size for the job in Jacksonville FL.',
     excerpt: 'A screened-in porch project generates more waste than most homeowners expect. From old framing and screening materials to concrete and packaging debris, proper waste planning keeps your project on schedule and your property clean.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-13',
+    publishedDate: '2026-06-13T18:00:00-04:00',
     readTime: '8 min read',
     featuredImage: '/images/10-yard-dumpster-rental-cost.jpg',
     tags: ['screened in porch exterior', 'how to screen in porch', 'how to make screen panels for porch', 'porch renovation waste', 'porch construction debris', 'screen porch project planning', 'porch debris removal jacksonville', 'home improvement waste disposal'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Screened-In Porch Project Debris and Waste Planning
@@ -39,7 +39,7 @@ New screened-in porch projects generate a surprising amount of packaging waste. 
 
 ### Wood and Lumber Scraps
 
-Framing a porch enclosure means cutting lumber to size, which produces offcuts, sawdust, and damaged boards. Pressure-treated lumber is especially common in Jacksonville porch projects because of our climate, and leftover treated wood cannot simply be burned or left on the ground. It needs proper disposal.
+Framing a porch enclosure means cutting lumber to size, which produces offcuts, sawdust, and damaged boards. These scraps fall under the broader category of [construction debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) that the EPA encourages homeowners to divert from landfills where possible. Pressure-treated lumber is especially common in Jacksonville porch projects because of our climate, and leftover treated wood cannot simply be burned or left on the ground. It needs proper disposal.
 
 ### Old Roofing Materials
 
@@ -140,11 +140,11 @@ In Jacksonville, no permit is needed if the dumpster sits on your private drivew
     excerpt: 'Discovering a roof leak is stressful, but knowing how to find the source and prepare for the repair process makes everything more manageable. This guide covers what to expect from roof leak repair and how to handle the waste.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-15',
+    publishedDate: '2026-06-14T08:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/10-yard-dumpster-rental-near-me.jpg',
     tags: ['how to find roof leak', 'how to find a leak on a shingle roof', 'roof leak repair preparation', 'roofing debris disposal', 'roof replacement waste', 'roofing waste jacksonville', 'shingle disposal', 'roof repair planning'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'what-cannot-go-in-dumpster'],
     content: `
 ## How to Find and Prepare for a Roof Leak Repair
@@ -159,7 +159,7 @@ Before you can plan a repair, you need to confirm you actually have a roof leak 
 
 ### Interior Warning Signs
 
-Water stains on ceilings are the most obvious sign, but leaks often show up in subtler ways first. Peeling paint on upper walls, bubbling or discolored ceiling texture, musty odors in rooms below the attic, and damp spots that appear after rain are all signals. In Jacksonville's humid climate, mold can develop within 24 to 48 hours of moisture intrusion, so even minor discoloration deserves investigation.
+Water stains on ceilings are the most obvious sign, but leaks often show up in subtler ways first. Peeling paint on upper walls, bubbling or discolored ceiling texture, musty odors in rooms below the attic, and damp spots that appear after rain are all signals. In Jacksonville's humid climate, [mold can take hold within 24 to 48 hours](https://www.epa.gov/mold) of moisture intrusion, so even minor discoloration deserves investigation.
 
 ### Attic Evidence
 
@@ -284,12 +284,12 @@ For a minor patch repair involving just a few shingles and a vent boot, heavy-du
   {
     slug: 'flooring-removal-waste-disposal-guide',
     title: 'Flooring Removal Waste and Disposal Guide for Homeowners',
-    metaTitle: 'Flooring Removal Waste Disposal - Carpet, Laminate, Tile and Wood',
-    metaDescription: 'Removing laminate, carpet, tile, or wood flooring? Learn how much waste flooring removal creates, what disposal options exist, and which dumpster size you need in Jacksonville FL.',
+    metaTitle: 'Flooring Removal Waste Disposal - Carpet, Tile and Wood',
+    metaDescription: 'Removing laminate, carpet, tile, or wood flooring? Learn how much waste it creates, your disposal options, and the dumpster size you need in Jacksonville FL.',
     excerpt: 'Flooring removal generates bulky, heavy waste that does not fit in standard trash bins. Whether you are ripping up carpet, removing laminate wood flooring, or pulling up old tile, here is what to expect and how to handle the debris.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-06-17',
+    publishedDate: '2026-06-06T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['how to remove laminate wood flooring', 'how to remove laminate tile flooring', 'laminate floor removal tool', 'how much to rip up carpet', 'how long does subfloor last', 'wood floors refinishing', 'wood floor sanding and refinishing', 'wood floor installation cost', 'flooring waste disposal'],
@@ -320,7 +320,7 @@ Tile removal generates the heaviest waste per square foot. Ceramic and porcelain
 
 ### Hardwood Floor Removal
 
-When hardwood floors are beyond the point where wood floors refinishing or wood floor sanding and refinishing can save them, full removal is the only option. Solid hardwood generates moderately heavy waste. Nail-down hardwood over a plywood subfloor is faster to remove than glue-down hardwood, which comes up in small, stubborn pieces. Expect more waste from glue-down removal because the adhesive layer and sometimes the top layer of subfloor come up with the wood.
+When hardwood floors are beyond the point where wood floors refinishing or wood floor sanding and refinishing can save them, full removal is the only option. Torn-out flooring counts as [construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials), a waste stream the EPA tracks for its high recovery potential. Solid hardwood generates moderately heavy waste. Nail-down hardwood over a plywood subfloor is faster to remove than glue-down hardwood, which comes up in small, stubborn pieces. Expect more waste from glue-down removal because the adhesive layer and sometimes the top layer of subfloor come up with the wood.
 
 ### Subfloor Removal and Replacement
 
@@ -412,16 +412,16 @@ Carpet can be removed from a full house in one to two days. Laminate removal typ
   {
     slug: 'building-code-violations-homeowners-guide',
     title: 'Building Code Violations Every Homeowner Should Watch For',
-    metaTitle: 'Common Building Code Violations Homeowners Guide - Jacksonville FL',
-    metaDescription: 'Learn about common building code violations, house code violations that affect home sales, and how renovation projects to fix violations generate waste requiring a dumpster rental.',
+    metaTitle: 'Common Building Code Violations Homeowner Guide',
+    metaDescription: 'Learn common building code violations, house code violations that affect home sales, and how fixing them creates waste needing a dumpster in Jacksonville FL.',
     excerpt: 'Building code violations can delay home sales, increase renovation costs, and create unexpected cleanup projects. Jacksonville homeowners need to understand common house code violations and how fixing them generates waste that requires proper disposal.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-19',
+    publishedDate: '2026-06-14T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/20-yard-dumpster-rental-near-me.jpg',
     tags: ['common building code violations', 'house code violations', 'home violations', 'do you need a permit to finish an attic', 'things to look for when buying an old house', 'building code jacksonville', 'home renovation permits', 'code violation cleanup'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Building Code Violations Every Homeowner Should Know
@@ -432,7 +432,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ## What Are Building Code Violations?
 
-Building codes are the minimum construction standards that ensure a home is safe, structurally sound, and habitable. When work is done on a home that does not meet these standards, whether during the original construction or in later renovations, it is considered a code violation. In Jacksonville, the City of Jacksonville Building Inspection Division enforces the Florida Building Code, which aligns with the International Building Code with state-specific amendments.
+Building codes are the minimum construction standards that ensure a home is safe, structurally sound, and habitable. When work is done on a home that does not meet these standards, whether during the original construction or in later renovations, it is considered a code violation. In Jacksonville, the [City of Jacksonville](https://www.jacksonville.gov) Building Inspection Division enforces the Florida Building Code through its permitting and code enforcement offices, which aligns with the International Building Code with state-specific amendments.
 
 Code violations become a problem in several situations. Home inspections during a sale frequently uncover violations that previous owners never addressed. Insurance companies may refuse coverage or increase premiums on properties with known violations. And if you are planning your own renovation, starting work on a property that already has code issues can compound problems and create more waste when existing non-compliant work has to be demolished.
 
@@ -550,16 +550,16 @@ Some work, like installing smoke detectors or improving ventilation, can be done
   {
     slug: 'laundry-bathroom-renovation-waste-planning',
     title: 'Laundry Room and Bathroom Renovation Waste Planning',
-    metaTitle: 'Bathroom and Laundry Renovation Waste Planning Guide for Homeowners',
-    metaDescription: 'Planning a bathroom remodel or laundry renovation? Learn what waste to expect, the order of a bathroom remodel, and how to dispose of renovation debris in Jacksonville FL.',
+    metaTitle: 'Bathroom and Laundry Renovation Waste Planning',
+    metaDescription: 'Planning a bathroom remodel or laundry renovation? Learn what waste to expect, the order of a bathroom remodel, and how to dispose of debris in Jacksonville FL.',
     excerpt: 'Bathroom remodels and laundry room renovations produce more waste than their small footprints suggest. From old tile and vanities to plumbing fixtures and cabinetry, proper waste planning keeps your renovation on track.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-21',
+    publishedDate: '2026-06-15T08:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/small-dumpster-rentals.png',
     tags: ['laundry renovation cost', 'laundry room renovation price', 'bathroom remodel order', 'bathroom remodel for cheap', 'bathroom renovation waste', 'bathroom demolition debris', 'laundry room renovation waste', 'bathroom remodel disposal'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'flooring-removal-waste-disposal-guide'],
     content: `
 ## Laundry Room and Bathroom Renovation Waste Planning
@@ -596,7 +596,7 @@ After demolition, plumbing and electrical rough-in work happens. This phase gene
 
 ### Phase 3 - Finishing
 
-The finishing phase, including new tile installation, fixture mounting, and trim work, produces the least waste. Material offcuts, packaging, cardboard, and occasional broken tiles are the primary debris. This waste is lighter and less bulky than demolition debris but still adds to the total.
+The finishing phase, including new tile installation, fixture mounting, and trim work, produces the least waste. Material offcuts, packaging, cardboard, and occasional broken tiles are the primary debris. This is also when many homeowners install [WaterSense-labeled fixtures](https://www.epa.gov/watersense) such as toilets and faucets to cut water use in the renovated bathroom. This waste is lighter and less bulky than demolition debris but still adds to the total.
 
 ## Laundry Room Renovation Waste
 
@@ -702,15 +702,15 @@ If your update is limited to painting, replacing fixtures, and swapping a vanity
     slug: 'how-to-dispose-of-appliances-jacksonville',
     title: 'How to Dispose of Appliances in Jacksonville FL',
     metaTitle: 'How to Dispose of Appliances in Jacksonville FL - Disposal Guide',
-    metaDescription: 'Need to get rid of old appliances in Jacksonville? Learn where to throw away appliances, how to dispose of hot water heaters, dishwashers, and more with a dumpster rental.',
+    metaDescription: 'Getting rid of old appliances in Jacksonville? Learn where to throw them away and how to dispose of hot water heaters, dishwashers, and more with a dumpster.',
     excerpt: 'Getting rid of old appliances in Jacksonville requires knowing your options. From refrigerators and water heaters to dishwashers and washing machines, here is how to handle appliance disposal properly and affordably.',
     category: 'sustainability',
     author: '904 Dumpster',
-    publishedDate: '2026-05-23',
+    publishedDate: '2026-06-15T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/when-to-rent-dumpster-jacksonville.png',
     tags: ['old appliances disposal', 'dispose appliances', 'disposal of appliances', 'where to throw away appliances', 'disposal of hot water heater', 'will the garbage man take a hot water heater', 'can you take a dishwasher to the dump', 'where to throw away dishwasher', 'appliance disposal jacksonville'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'what-cannot-go-in-dumpster'],
     content: `
 ## How to Dispose of Appliances in Jacksonville FL
@@ -757,7 +757,7 @@ Can you take a dishwasher to the dump? Yes, the Trail Ridge Landfill in Jacksonv
 
 ### Refrigerator and Freezer Disposal
 
-Refrigerators and freezers require special attention because they contain refrigerant chemicals that must be properly recovered before disposal. Federal law requires that refrigerants be recovered by a certified technician. Many scrap yards have certified technicians on-site who handle this. You can also hire an HVAC technician to recover the refrigerant before disposing of the unit.
+Refrigerators and freezers require special attention because they contain refrigerant chemicals that must be properly recovered before disposal. Federal law requires that refrigerants be recovered by a certified technician, and the EPA's [Responsible Appliance Disposal program](https://www.epa.gov/rad) recognizes partners who go beyond that baseline to recover foam and other components too. Many scrap yards have certified technicians on-site who handle this. You can also hire an HVAC technician to recover the refrigerant before disposing of the unit.
 
 When renting a dumpster, refrigerators and freezers are accepted only after the refrigerant has been properly recovered. Let us know if you are disposing of a refrigerator so we can advise you on the requirements.
 
@@ -830,16 +830,16 @@ Costs range from free (city bulk pickup or scrap yard) to $299-$399 for a dumpst
   {
     slug: 'yard-drainage-solutions-debris-removal',
     title: 'Yard Drainage Solutions and Debris Removal Guide',
-    metaTitle: 'Yard Drainage Solutions and Debris Removal - Gravel and Dirt Disposal',
-    metaDescription: 'Planning yard drainage solutions? Learn about debris removal from drainage projects, how to dispose of gravel and dirt, and which dumpster size you need in Jacksonville FL.',
+    metaTitle: 'Yard Drainage Solutions and Debris Removal Guide',
+    metaDescription: 'Planning yard drainage solutions? Learn about debris removal, how to dispose of gravel and dirt, and the dumpster size you need in Jacksonville FL.',
     excerpt: 'Yard drainage projects generate significant amounts of dirt, gravel, old pipe, and landscaping debris. Understanding what waste to expect and how to dispose of it keeps your drainage project on schedule and your property clean.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-25',
+    publishedDate: '2026-06-16T08:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/20-yard-dumpster.jpg',
     tags: ['yard drainage solutions', 'landscape water drainage', 'yard not draining water', 'how to get rid of gravel', 'how to dispose of gravel', 'gravel removal cost', 'how to dispose of landscape rocks', 'how to get rid of extra dirt', 'where to throw dirt away', 'where to take dirt', 'dirt wanted'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'how-to-dispose-of-rocks-dirt-landscaping'],
     content: `
 ## Yard Drainage Solutions and Debris Removal
@@ -852,7 +852,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ### Regrading and Soil Work
 
-The most basic landscape water drainage fix is regrading the yard to redirect surface water away from the home's foundation. Regrading involves moving significant amounts of soil, and often produces excess dirt that needs removal. Many Jacksonville homeowners end up asking how to get rid of extra dirt or where to throw dirt away after a regrading project. A typical residential regrading project can produce 2 to 10 cubic yards of excess soil depending on how much the grade needs to change.
+The most basic landscape water drainage fix is regrading the yard to redirect surface water away from the home's foundation. Pairing regrading with techniques for [managing stormwater runoff at home](https://www.epa.gov/soakuptherain), such as rain gardens and permeable surfaces, helps the soil absorb water instead of pooling it. Regrading involves moving significant amounts of soil, and often produces excess dirt that needs removal. Many Jacksonville homeowners end up asking how to get rid of extra dirt or where to throw dirt away after a regrading project. A typical residential regrading project can produce 2 to 10 cubic yards of excess soil depending on how much the grade needs to change.
 
 ### French Drain Installation
 
@@ -985,11 +985,11 @@ Start with a landscape contractor for most residential drainage issues. For prob
     excerpt: 'Moving is the perfect time to declutter. Getting rid of old furniture, junk, and unwanted items before moving day saves time, reduces moving costs, and gives you a fresh start in your new home.',
     category: 'seasonal-cleanup',
     author: '904 Dumpster',
-    publishedDate: '2026-05-27',
+    publishedDate: '2026-06-16T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/moving-cleanup-dumpster-jacksonville.png',
     tags: ['whole house junk removal', 'old sofa disposal', 'cheapest mattress removal', 'where to put old furniture', 'can i leave furniture on the curb', 'leaving furniture on curb', 'how to get furniture picked up for trash', 'yard sale tips', 'moving declutter guide'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'garage-cleanout-guide-jacksonville'],
     content: `
 ## Moving Day Waste and How to Declutter Before You Move
@@ -1044,7 +1044,7 @@ If your furniture is in good condition, selling it before the move puts money in
 
 ### Donate It
 
-The Salvation Army, Goodwill, and Habitat for Humanity ReStore all accept furniture donations in Jacksonville. Many offer free pickup for large items. Schedule donation pickups two to three weeks before your move to ensure they can accommodate your timeline.
+The Salvation Army, Goodwill, and Habitat for Humanity ReStore all accept furniture donations in Jacksonville. Donating is a practical way to put the EPA's guidance on [reducing, reusing, and recycling household items](https://www.epa.gov/recycle) into practice during a move. Many offer free pickup for large items. Schedule donation pickups two to three weeks before your move to ensure they can accommodate your timeline.
 
 ### Dispose of It
 
@@ -1300,15 +1300,15 @@ Absolutely. Many Jacksonville homeowners rent a dumpster from us and hire day la
     slug: 'how-to-dispose-of-rocks-dirt-landscaping',
     title: 'How to Dispose of Rocks, Dirt, and Landscaping Materials',
     metaTitle: 'How to Dispose of Rocks, Dirt, and Landscaping Materials Guide',
-    metaDescription: 'Learn how to dispose of rocks, dirt, old mulch, lava rocks, concrete pavers, and other landscaping materials in Jacksonville FL. Disposal, recycling, and dumpster rental options.',
+    metaDescription: 'Learn how to dispose of rocks, dirt, old mulch, concrete pavers, and other landscaping materials in Jacksonville FL, plus recycling and dumpster rental options.',
     excerpt: 'Landscaping projects generate heavy, bulky waste including rocks, dirt, old mulch, pavers, and concrete. Knowing where to dispose of these materials saves money and keeps your project moving forward.',
     category: 'sustainability',
     author: '904 Dumpster',
-    publishedDate: '2026-05-29',
+    publishedDate: '2026-06-17T08:00:00-04:00',
     readTime: '10 min read',
     featuredImage: '/images/trash-dumpster-rental-jacksonville.png',
     tags: ['how to dispose of rocks', 'how to dispose of rocks and dirt', 'where to dispose of old mulch', 'where to dump mulch', 'how to dispose of lava rocks', 'how to get rid of extra dirt from yard', 'can you take dirt to the dump', 'where to take rocks from yard', 'dirt bin rental', 'how to dispose of pavers', 'how to dispose of concrete pavers', 'where to recycle old concrete'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['yard-drainage-solutions-debris-removal', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Dispose of Rocks, Dirt, and Landscaping Materials
@@ -1397,7 +1397,7 @@ For broken, cracked, or mismatched pavers that cannot be reused, disposal option
 
 ### Where to Recycle Old Concrete
 
-Jacksonville has facilities that accept old concrete for recycling. Recycled concrete is crushed and used as aggregate for road base, fill material, and new concrete production. This is one of the most sustainable disposal options for concrete waste from landscaping and [construction projects](/construction-dumpster-rental-jacksonville-fl). Check our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for information on local recycling facilities and what materials they accept.
+Jacksonville has facilities that accept old concrete for recycling. Crushed concrete is considered [inert clean fill](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials), which the EPA notes can be reused as aggregate for road base, fill material, and new concrete production. This is one of the most sustainable disposal options for concrete waste from landscaping and [construction projects](/construction-dumpster-rental-jacksonville-fl). Check our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for information on local recycling facilities and what materials they accept.
 
 ## Weight Considerations for Landscaping Material Disposal
 

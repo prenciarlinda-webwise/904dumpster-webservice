@@ -174,15 +174,15 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
     slug: 'dumpster-weight-limits-tonnage-guide',
     title: 'How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide',
     metaTitle: 'Dumpster Weight Limits Explained for 10, 15, and 20 Yard Sizes',
-    metaDescription: 'Learn dumpster weight limits for every size. How many tons a 20-yard, 30-yard, or 40-yard dumpster holds, what an empty dumpster weighs, and how to avoid overage fees.',
+    metaDescription: 'Learn dumpster weight limits by size. How many tons a 20, 30, or 40-yard dumpster holds, what an empty dumpster weighs, and how to avoid overage fees.',
     excerpt: 'Understanding dumpster weight limits prevents overage charges and keeps your project on budget. This guide covers weight capacities for every dumpster size and tips for estimating the weight of common materials.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
-    publishedDate: '2026-04-01',
+    publishedDate: '2026-06-08T18:00:00-04:00',
     readTime: '8 min read',
     featuredImage: '/images/dumpster-jacksonville.jpg',
     tags: ['dumpster weight limit', 'dumpster weight calculator', 'how much does a dumpster weigh', 'dumpster tonnage', '20 yard dumpster weight limit', '30 yard dumpster weight limit', 'dumpster weight capacity', 'roll off dumpster weight'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'how-to-choose-right-dumpster-size', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `
 ## How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide
@@ -238,7 +238,7 @@ A 20-yard dumpster typically holds between 4 and 5 tons of material (8,000 to 10
 | Concrete/brick | 2,000 - 2,400 lbs | Hits weight limit at ~2-3 cubic yards |
 | Dirt/soil | 2,200 - 2,600 lbs | Hits weight limit at ~2 cubic yards |
 
-The takeaway: for light materials like household junk, old furniture, and general debris, you will fill the dumpster to the brim before worrying about weight. For heavy materials like [concrete](/concrete-disposal-dumpster-jacksonville-fl), roofing shingles, or dirt, the weight limit becomes the limiting factor long before you run out of space.
+The takeaway: for light materials like household junk, old furniture, and general debris, you will fill the dumpster to the brim before worrying about weight. For heavy materials like [concrete](/concrete-disposal-dumpster-jacksonville-fl), roofing shingles, or dirt, the weight limit becomes the limiting factor long before you run out of space. The EPA's research on [the weight of construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) shows why dense C&D material maxes out a container by tonnage rather than volume.
 
 ## How Many Tons Does a 30-Yard Dumpster Hold?
 
@@ -470,16 +470,16 @@ Standard weight allowances cover most household and construction debris. Extreme
   {
     slug: 'dumpster-permit-guide-do-you-need-one',
     title: 'Do You Need a Dumpster Permit? Permit Guide for Jacksonville FL',
-    metaTitle: 'Dumpster Permit Jacksonville FL - Do You Need One? Complete Guide',
-    metaDescription: 'Find out if you need a permit for a dumpster in Jacksonville FL. Rules for driveways, streets, HOAs, and how to get a permit. Complete guide to dumpster regulations.',
+    metaTitle: 'Dumpster Permit Jacksonville FL - Do You Need One?',
+    metaDescription: 'Find out if you need a dumpster permit in Jacksonville FL. Rules for driveways, streets, and HOAs, plus how to get a right-of-way permit explained.',
     excerpt: 'Not every dumpster placement requires a permit, but putting one on a public street or right-of-way in Jacksonville does. This guide explains when you need a permit, how to get one, and rules to follow.',
     category: 'local-guides',
     author: '904 Dumpster',
-    publishedDate: '2026-04-03',
+    publishedDate: '2026-06-09T08:00:00-04:00',
     readTime: '7 min read',
     featuredImage: '/images/prepare-for-dumpster-jacksonville.jpg',
     tags: ['dumpster permit', 'dumpster permit jacksonville', 'do you need a permit for a dumpster', 'dumpster on street rules', 'dumpster regulations', 'permit for dumpster', 'dumpster rules', 'can you park a dumpster on the street'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'dumpster-sizes-explained-complete-guide', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## Do You Need a Dumpster Permit? Permit Guide for Jacksonville FL
@@ -502,7 +502,7 @@ This covers roughly 90% of residential dumpster rentals. If you have a standard 
 
 A permit is required in Jacksonville when:
 
-- **The dumpster must be placed on a public street.** Can you park a dumpster on the street? Only with a right-of-way permit from the City of Jacksonville.
+- **The dumpster must be placed on a public street.** Can you park a dumpster on the street? Only with a right-of-way permit from the [City of Jacksonville right-of-way authority](https://www.jacksonville.gov).
 - **The dumpster blocks a sidewalk or public walkway.** Pedestrian access must be maintained.
 - **The dumpster is placed within a public right-of-way.** The area between the sidewalk and the street (the swale) is typically city property.
 
@@ -795,16 +795,16 @@ No. Standard curbside trash cans in Jacksonville are only for household waste th
   {
     slug: 'how-to-dispose-of-concrete-bricks-heavy-debris',
     title: 'How to Dispose of Concrete, Bricks, and Heavy Debris',
-    metaTitle: 'How to Dispose of Concrete & Bricks in Jacksonville FL - Removal Guide',
+    metaTitle: 'How to Dispose of Concrete & Bricks in Jacksonville FL',
     metaDescription: 'Learn how to dispose of concrete, bricks, cinder blocks, and heavy debris in Jacksonville. Recycling options, dumpster rental for concrete, and cost estimates.',
     excerpt: 'Concrete, bricks, and cinder blocks are some of the heaviest materials to dispose of. This guide covers disposal methods, recycling options, cost estimates, and the right dumpster size for heavy debris projects.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-04-05',
+    publishedDate: '2026-06-09T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-rental-jacksonville-fl.jpg',
     tags: ['concrete disposal', 'how to dispose of concrete', 'brick disposal', 'cinder block disposal', 'concrete recycling', 'heavy debris removal', 'concrete dumpster rental', 'concrete junk removal', 'rock removal cost', 'concrete demo cost'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['dumpster-weight-limits-tonnage-guide', 'recycling-guide-jacksonville-construction-projects', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Dispose of Concrete, Bricks, and Heavy Debris
@@ -823,7 +823,7 @@ This weight creates two practical problems:
 
 2. **Landfill costs.** Disposal facilities charge by weight. Heavier loads cost more to process and dump.
 
-The good news is that concrete, brick, and other masonry materials are some of the most recyclable construction materials available. Recycling is often cheaper than landfill disposal and keeps usable material out of the waste stream.
+The good news is that concrete, brick, and other masonry materials are some of the most [recyclable construction and demolition materials](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) available. Recycling is often cheaper than landfill disposal and keeps usable material out of the waste stream.
 
 ## Disposal Options for Concrete and Masonry
 
@@ -956,16 +956,16 @@ Rock removal cost per cubic yard typically ranges from $50 to $150 depending on 
   {
     slug: 'fall-home-maintenance-checklist-jacksonville',
     title: 'Fall Home Maintenance Checklist for Jacksonville Homeowners',
-    metaTitle: 'Fall Home Maintenance Checklist Jacksonville FL - Seasonal Guide 2026',
-    metaDescription: 'Complete fall home maintenance checklist for Jacksonville homeowners. Prepare your home for cooler weather with this seasonal guide covering yard cleanup, gutters, and more.',
+    metaTitle: 'Fall Home Maintenance Checklist Jacksonville FL 2026',
+    metaDescription: 'Fall home maintenance checklist for Jacksonville homeowners. Prep your home and yard for cooler weather with this guide to gutters, decks, and cleanup.',
     excerpt: 'Jacksonville may not get harsh winters, but fall is the perfect time to tackle home maintenance and yard cleanup before the holidays. This checklist helps homeowners prepare their property and manage seasonal waste.',
     category: 'seasonal-cleanup',
     author: '904 Dumpster',
-    publishedDate: '2026-04-07',
+    publishedDate: '2026-06-17T18:00:00-04:00',
     readTime: '8 min read',
     featuredImage: '/images/dumpster-rental-jacksonville.jpg',
     tags: ['fall home maintenance', 'fall home checklist', 'fall house maintenance', 'homeowner tips jacksonville', 'seasonal home maintenance', 'home improvement project plan', 'yearly deck maintenance', 'fall cleanup tips'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
 ## Fall Home Maintenance Checklist for Jacksonville Homeowners
@@ -1080,7 +1080,7 @@ Before you load the dumpster, review our guide on [what cannot go in a dumpster]
 
 Living in Northeast Florida means our fall maintenance priorities differ from the rest of the country:
 
-- **Hurricane season continues through November.** Do not let your guard down. Keep emergency supplies stocked and yard debris cleared so it does not become projectiles in a late-season storm.
+- **Hurricane season continues through November.** Do not let your guard down. Follow [Ready.gov hurricane preparedness guidance](https://www.ready.gov/hurricanes), keep emergency supplies stocked, and clear yard debris so it does not become projectiles in a late-season storm.
 - **Humidity drops but mold does not disappear.** Check closets, under sinks, and other enclosed spaces for mold growth. Jacksonville's climate supports mold year-round.
 - **Pest activity shifts.** As temperatures cool, rodents and insects look for warm shelter inside your home. Seal gaps around doors, windows, pipes, and utility entries.
 - **Lawn care transitions.** If you have warm-season grass (St. Augustine, Bermuda, Zoysia), it will begin going dormant. Reduce watering and mowing frequency. Some homeowners overseed with ryegrass for a green lawn through winter.

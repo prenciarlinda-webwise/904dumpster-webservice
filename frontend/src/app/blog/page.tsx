@@ -5,6 +5,10 @@ import { ArrowRight, Calendar, Clock, Tag } from 'lucide-react'
 import { getPublishedPosts } from '@/data/blog'
 import { generateBlogCollectionSchema, generateBreadcrumbSchema } from '@/lib/schema'
 
+// Re-render on a timer so the listing picks up 'scheduled' posts the moment their
+// publishedDate timestamp passes (no rebuild needed). 600s = ~10 min granularity.
+export const revalidate = 600
+
 export const metadata: Metadata = {
   title: 'Dumpster Rental Blog - 904 Dumpster Tips & Guides',
   description:

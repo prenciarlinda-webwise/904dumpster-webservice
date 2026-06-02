@@ -150,11 +150,11 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     slug: 'garage-conversion-waste-planning-guide',
     title: 'Garage Conversion Guide and Waste Planning for Renovations',
     metaTitle: 'Garage Conversion Waste Guide - Debris Planning Jacksonville FL',
-    metaDescription: 'Planning a garage conversion in Jacksonville? Learn what waste and debris to expect, how to plan for disposal, and what dumpster size fits your garage renovation project.',
+    metaDescription: 'Planning a garage conversion in Jacksonville? Learn what waste and debris to expect, how to plan for disposal, and what dumpster size fits the job.',
     excerpt: 'Converting a garage into living space generates significant waste from demolition, framing, insulation, and finishing. This guide covers the waste planning side of garage conversions in Jacksonville.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-06-23',
+    publishedDate: '2026-06-08T08:00:00-04:00',
     readTime: '10 min read',
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['garage conversion waste', 'garage conversion permit jacksonville', 'how much does it cost to convert a garage', 'garage conversion without permit', 'will converting a garage add value', 'permit to convert garage to living space', 'garage renovation debris', 'garage conversion jacksonville'],
@@ -197,7 +197,7 @@ This initial cleanout alone can fill a [10-yard dumpster](/10-yard-dumpster-rent
 
 ### Phase 2 - Demolition and Removal
 
-Once the garage is empty, the conversion work begins with demolition. This is the most waste-intensive phase and produces the heaviest debris. Common demolition tasks include:
+Once the garage is empty, the conversion work begins with demolition. This is the most waste-intensive phase and produces the heaviest debris, the bulk of which qualifies as [construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) that should be managed responsibly. Common demolition tasks include:
 
 - **Garage door removal:** A standard two-car garage door weighs 150 to 300 pounds. The door, tracks, springs, and hardware all need disposal.
 - **Concrete floor modification:** If the garage floor slopes toward the driveway (as most do for drainage), it may need leveling. Breaking up and removing sections of concrete creates extremely heavy waste. Consider a [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) if significant concrete work is involved.
@@ -308,12 +308,12 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
   {
     slug: 'kitchen-renovation-waste-preparation-guide',
     title: 'How to Prepare for a Kitchen Renovation Debris Cleanup',
-    metaTitle: 'Kitchen Renovation Waste Guide - Debris Preparation Jacksonville FL',
-    metaDescription: 'Preparing for a kitchen renovation in Jacksonville? Learn what debris to expect from demo, cabinets, flooring, and countertops. Plan your waste management before day one.',
+    metaTitle: 'Kitchen Renovation Waste Guide - Jacksonville FL Debris',
+    metaDescription: 'Preparing for a kitchen renovation in Jacksonville? Learn what debris to expect from demo, cabinets, flooring, and countertops, and plan your waste removal.',
     excerpt: 'Kitchen renovations produce more waste than most homeowners expect. From cabinets and countertops to flooring and appliances, this guide helps you prepare for the debris side of your Jacksonville kitchen remodel.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-06-09',
+    publishedDate: '2026-06-04T18:00:00-04:00',
     readTime: '10 min read',
     featuredImage: '/images/jacksonville-dumpster-rental.jpg',
     tags: ['kitchen renovation waste', 'kitchen remodel debris', 'kitchen renovation blog', 'kitchen remodel 101', 'how much to remove ceramic tile', 'laminate floor removal', 'renovation blog', 'home renovation blog', 'home improvement blogs'],
@@ -364,7 +364,7 @@ If your kitchen has granite or quartz countertops, the weight adds up fast. A 30
 
 ### Stage 4 - Flooring Removal
 
-Kitchen flooring removal is often the most labor-intensive part of the waste equation, especially in older Jacksonville homes where multiple layers of flooring have been installed over the decades. It is common to find vinyl over tile over hardwood, each layer requiring removal before new flooring goes down.
+Kitchen flooring removal is often the most labor-intensive part of the waste equation, especially in older Jacksonville homes where multiple layers of flooring have been installed over the decades. It is common to find vinyl over tile over hardwood, each layer requiring removal before new flooring goes down. If your home was built before 1978, be aware that the [EPA Renovation, Repair and Painting rule](https://www.epa.gov/lead/renovation-repair-and-painting-program) requires lead-safe work practices when disturbing painted surfaces.
 
 **Ceramic tile removal** is particularly waste-heavy. The tile itself weighs about 4 pounds per square foot, and the mortar bed underneath can weigh another 5 to 10 pounds per square foot. For a 200-square-foot kitchen, ceramic tile and mortar alone can produce 1,800 to 2,800 pounds of debris.
 
@@ -452,16 +452,16 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
   {
     slug: 'basement-renovation-waste-planning-guide',
     title: 'Basement Renovation Waste Guide from Leaks to Living Space',
-    metaTitle: 'Basement Renovation Waste Guide - Debris & Cleanup Jacksonville FL',
-    metaDescription: 'Planning a basement renovation in Jacksonville? Learn what waste to expect from water damage cleanup, demolition, and finishing work. Prepare for debris before you start.',
+    metaTitle: 'Basement Renovation Waste Guide - Jacksonville FL Debris',
+    metaDescription: 'Planning a basement renovation in Jacksonville? Learn what waste to expect from water damage cleanup, demolition, and finishing work before you start.',
     excerpt: 'Basement renovations in Northeast Florida often start with water damage cleanup and end with a transformed living space. This guide covers the waste management side of every phase, from leak remediation to finishing.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-03',
+    publishedDate: '2026-06-11T18:00:00-04:00',
     readTime: '10 min read',
     featuredImage: '/images/20-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['basement renovation waste', 'fix leaking basement wall', 'leak in foundation wall', 'how to turn a basement into an apartment', 'why does my basement smell musty', 'basement efficiency apartment', 'cost to turn basement into apartment', 'check foundation of house'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['kitchen-renovation-waste-preparation-guide', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Basement Renovation Waste Guide from Leaks to Living Space
@@ -600,16 +600,16 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
   {
     slug: 'deck-removal-replacement-waste-planning',
     title: 'Deck Removal and Replacement Waste Planning Guide',
-    metaTitle: 'Deck Removal Waste Guide - Demolition Debris Planning Jacksonville FL',
-    metaDescription: 'Planning to remove or replace your deck in Jacksonville? Learn what demolition waste to expect, how to plan debris disposal, and what dumpster size you need for deck demo.',
+    metaTitle: 'Deck Removal Waste Guide - Demolition Debris Jacksonville',
+    metaDescription: 'Planning to remove or replace your deck in Jacksonville? Learn what demolition waste to expect and what dumpster size you need for deck demolition.',
     excerpt: 'Deck removal and replacement produces heavy, bulky waste that does not fit in curbside bins. This guide covers waste planning for deck demolition projects in Jacksonville and Northeast Florida.',
     category: 'construction-waste',
     author: '904 Dumpster',
-    publishedDate: '2026-05-05',
+    publishedDate: '2026-06-12T08:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/dumpster-now.jpg',
     tags: ['deck removal waste', 'cost to demo deck', 'cost to remove deck boards', 'cost to demolish a deck', 'wood deck removal', 'wood deck maintenance', 'do i need a permit to remove a deck', 'deck demolition jacksonville'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
 ## Deck Removal and Replacement Waste Planning
@@ -654,7 +654,7 @@ Not all decking materials weigh the same, and the material significantly impacts
 - **Composite decking** (Trex, TimberTech): about 2 to 3 pounds per board foot, but includes plastic content
 - **Tropical hardwoods** (ipe, cumaru): about 5 to 7 pounds per board foot, extremely heavy
 
-A 300-square-foot pressure-treated pine deck with standard joists, beams, and posts typically weighs 3,000 to 4,500 pounds when you include all structural members. That is well within the capacity of a [15-yard dumpster](/15-yard-dumpster-rental), which also provides enough volume for the bulky pieces.
+A 300-square-foot pressure-treated pine deck with standard joists, beams, and posts typically weighs 3,000 to 4,500 pounds when you include all structural members. That is well within the capacity of a [15-yard dumpster](/15-yard-dumpster-rental), which also provides enough volume for the bulky pieces. Treated lumber is handled as [construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) and goes to a landfill rather than a wood-recycling stream.
 
 ## Do You Need a Permit to Remove a Deck in Jacksonville?
 
@@ -744,16 +744,16 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
   {
     slug: 'attic-basement-cleanout-decluttering-disposal',
     title: 'Attic and Basement Cleanout Decluttering and Disposal Guide',
-    metaTitle: 'Attic & Basement Cleanout Guide - Large Item Disposal Jacksonville FL',
-    metaDescription: 'Need to clean out your attic or basement in Jacksonville? Learn how to dispose of large furniture, old cabinets, and bulky items with this step-by-step decluttering guide.',
+    metaTitle: 'Attic & Basement Cleanout Guide - Jacksonville FL Disposal',
+    metaDescription: 'Cleaning out your attic or basement in Jacksonville? Learn how to dispose of large furniture, old cabinets, and bulky items with this decluttering guide.',
     excerpt: 'Attics and basements are where the clutter hides. When it is time to finally clean them out, knowing how to dispose of large furniture, old cabinets, and bulky items makes the project manageable.',
     category: 'home-improvement',
     author: '904 Dumpster',
-    publishedDate: '2026-05-07',
+    publishedDate: '2026-06-12T18:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/10-yard-dumpster-rental-near-me.jpg',
     tags: ['how to dispose of large items', 'where to dispose large furniture', 'how to get furniture picked up for trash', 'how to dispose of old cabinets', 'where to take old furniture for disposal', 'where to put old furniture', 'attic cleanout', 'basement cleanout jacksonville'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['estate-cleanout-guide-jacksonville', 'how-to-dispose-of-old-furniture-guide'],
     content: `
 ## Attic and Basement Cleanout Decluttering Guide
@@ -822,7 +822,7 @@ Use the same four-category system that works for [estate cleanouts](/blog/estate
 - **Donate:** Usable items in good condition
 - **Dispose:** Broken, damaged, or unwanted items that go in the dumpster
 
-Be honest during this step. If you have not used or looked at something in over two years, you probably do not need it. Jacksonville's climate is especially hard on items stored in non-climate-controlled spaces: attics routinely reach 140 degrees or higher in summer, and basements or lower levels deal with moisture.
+Be honest during this step. If you have not used or looked at something in over two years, you probably do not need it. Setting aside reusable pieces for [donation and recycling](https://www.epa.gov/recycle) keeps usable goods out of the landfill and shrinks the volume you pay to haul away. Jacksonville's climate is especially hard on items stored in non-climate-controlled spaces: attics routinely reach 140 degrees or higher in summer, and basements or lower levels deal with moisture.
 
 ### Step 3 - Handle Hazardous Items Separately
 
@@ -884,15 +884,15 @@ Hazardous materials including paint, chemicals, batteries, propane tanks, and mo
     slug: 'where-to-dispose-of-old-paint-jacksonville',
     title: 'Where to Dispose of Old Paint in Jacksonville FL',
     metaTitle: 'Where to Dispose of Old Paint Jacksonville FL - Local Guide',
-    metaDescription: 'Need to get rid of old paint in Jacksonville? Learn where to dispose of latex and oil-based paint in Duval County, what you can and cannot put in a dumpster, and local drop-off options.',
+    metaDescription: 'Need to get rid of old paint in Jacksonville? Learn where to dispose of latex and oil-based paint in Duval County and what you can put in a dumpster.',
     excerpt: 'Old paint cans piling up in your garage? This local guide explains exactly where to dispose of latex and oil-based paint in Jacksonville and Duval County, including which types can go in a dumpster.',
     category: 'sustainability',
     author: '904 Dumpster',
-    publishedDate: '2026-05-09',
+    publishedDate: '2026-06-13T08:00:00-04:00',
     readTime: '8 min read',
     featuredImage: '/images/cheap-dumpster-rental-near-me.jpg',
     tags: ['where can i dispose of old paint', 'can you throw paint cans in a dumpster', 'paint disposal jacksonville', 'hazardous materials dumpster', 'latex paint disposal', 'oil based paint disposal', 'paint recycling jacksonville', 'household hazardous waste jacksonville'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Where to Dispose of Old Paint in Jacksonville FL
@@ -915,7 +915,7 @@ Latex paint is the most common type found in homes. It is used for interior wall
 
 Oil-based paint, also called alkyd paint, contains solvents that make it a hazardous material. This includes oil-based stains, varnishes, polyurethanes, and some primers. Oil-based paint is more common in older homes and for specialty applications like metal surfaces and exterior trim.
 
-**Oil-based paint is classified as household hazardous waste** and must be disposed of through proper channels. It cannot go in regular trash, curbside bins, or dumpsters under any circumstances.
+**Oil-based paint is classified as [household hazardous waste](https://www.epa.gov/hw/household-hazardous-waste-hhw)** and must be disposed of through proper channels. It cannot go in regular trash, curbside bins, or dumpsters under any circumstances.
 
 ## Where to Take Old Paint in Jacksonville
 
@@ -1258,11 +1258,11 @@ Great question. Read our blog post on [where does trash go after you throw it aw
     excerpt: 'Jacksonville summers demand preparation. From cleaning out HVAC areas to tackling outdoor projects, this guide covers summer maintenance tasks that generate waste and how to manage debris efficiently.',
     category: 'seasonal-cleanup',
     author: '904 Dumpster',
-    publishedDate: '2026-05-11',
+    publishedDate: '2026-06-10T08:00:00-04:00',
     readTime: '9 min read',
     featuredImage: '/images/dumpsters-rent-florida.jpg',
     tags: ['summer maintenance tips', 'summer house tips', 'summer home maintenance jacksonville', 'seasonal cleanup jacksonville', 'how to keep upstairs cool', 'jacksonville summer preparation', 'home maintenance checklist', 'summer decluttering tips'],
-    status: 'draft' as const,
+    status: 'scheduled' as const,
     relatedSlugs: ['garage-cleanout-guide-jacksonville', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Summer Home Maintenance Tips for Jacksonville Homeowners
@@ -1327,7 +1327,7 @@ The average Jacksonville garage cleanout produces 5 to 10 cubic yards of waste. 
 
 ## Hurricane Preparation and Debris Planning
 
-Jacksonville is in a hurricane-prone zone, and summer maintenance should include preparation for storm season (June 1 through November 30). Part of hurricane preparation involves removing potential projectiles from your yard and clearing debris that could become dangerous in high winds.
+Jacksonville is in a hurricane-prone zone, and summer maintenance should include preparation for storm season (June 1 through November 30). Following a [hurricane-season preparedness checklist](https://www.ready.gov/hurricanes) helps you cover the safety basics, and part of that preparation involves removing potential projectiles from your yard and clearing debris that could become dangerous in high winds.
 
 **Pre-storm cleanup tasks that generate waste:**
 - Trimming dead branches and removing weak trees
