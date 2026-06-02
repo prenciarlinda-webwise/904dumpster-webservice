@@ -87,14 +87,14 @@ export default function Header() {
         <nav className="max-w-7xl mx-auto px-4 lg:px-6">
           <div className="flex items-center justify-between h-16 lg:h-20">
             {/* Logo */}
-            <Link href="/" className="flex-shrink-0" title="904 Dumpster Home - Dumpster Rental Jacksonville FL">
+            <Link href="/" className="min-w-0 shrink" title="904 Dumpster Home - Dumpster Rental Jacksonville FL">
               <Image
                 src="/images/904-dumpsters-logo.png"
                 alt="904 Dumpster - Dumpster Rental Jacksonville"
                 title="904 Dumpster - Dumpster Rental Jacksonville FL"
                 width={180}
                 height={50}
-                className="h-10 lg:h-12 w-auto"
+                className="h-9 sm:h-10 lg:h-12 w-auto max-w-[42vw] object-contain object-left"
                 priority
               />
             </Link>
@@ -356,20 +356,20 @@ export default function Header() {
             </div>
 
             {/* Mobile: Book Now + Menu Button */}
-            <div className="lg:hidden flex items-center gap-2">
+            <div className="lg:hidden flex items-center gap-2 shrink-0 pl-2">
               <a
                 href="https://app.icans.ai/customer-portal/904dumpster/book/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Book a Dumpster Online"
-                className="bg-primary hover:bg-primary/90 text-white font-bold text-sm px-4 py-3 min-h-[44px] rounded-full flex items-center gap-1.5 shadow-lg shadow-primary/25 transition-all"
+                className="bg-primary hover:bg-primary/90 text-white font-bold text-sm px-3.5 py-3 min-h-[44px] rounded-full flex items-center gap-1.5 shadow-lg shadow-primary/25 transition-all whitespace-nowrap shrink-0"
               >
                 Book Now
                 <ArrowRight className="w-3.5 h-3.5" />
               </a>
               <button
                 onClick={toggleMobileMenu}
-                className={`p-2.5 rounded-xl transition-colors ${
+                className={`p-2.5 rounded-xl transition-colors shrink-0 ${
                   useTransparentHeader ? 'text-white hover:bg-white/10' : 'text-secondary hover:bg-gray-100'
                 }`}
                 aria-label="Toggle menu"
@@ -397,7 +397,7 @@ export default function Header() {
 
         {/* Menu Panel - Slides from right */}
         <div
-          className={`absolute top-0 right-0 bottom-0 w-full max-w-sm bg-white shadow-2xl transition-transform duration-500 ease-out ${
+          className={`absolute top-0 right-0 bottom-0 w-full max-w-none sm:max-w-sm bg-white shadow-2xl transition-transform duration-500 ease-out ${
             mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
           }`}
         >
