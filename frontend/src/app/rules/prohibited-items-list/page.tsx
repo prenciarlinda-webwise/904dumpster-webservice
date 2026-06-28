@@ -213,7 +213,10 @@ export default function ProhibitedItemsPage() {
           </h1>
           <p className="text-xl text-white/70 max-w-2xl mx-auto">
             Certain items cannot be disposed of in dumpsters due to safety and environmental
-            regulations. Review this list before loading your dumpster.
+            regulations. Review this list before loading your{' '}
+            <Link href="/" title="Dumpster Rental Jacksonville FL" className="text-white/90 hover:text-white underline decoration-primary/60">
+              Jacksonville dumpster rental
+            </Link>.
           </p>
         </div>
       </section>

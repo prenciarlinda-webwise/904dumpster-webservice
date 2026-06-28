@@ -363,7 +363,7 @@ For a complete list with disposal alternatives for each item, read our [what can
 
 ### How much does a dumpster cost for spring cleaning in Jacksonville?
 
-A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
+A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental. Ready to [rent a dumpster jacksonville](/) homeowners trust? [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
 
 ### Can I put furniture in a dumpster during spring cleaning?
 

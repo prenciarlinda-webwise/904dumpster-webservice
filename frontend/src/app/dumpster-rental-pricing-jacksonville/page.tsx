@@ -147,8 +147,9 @@ export default function PricingPage() {
             Dumpster Rental <span className="text-primary">Pricing</span>
           </h1>
           <p className="text-xl text-white/70 max-w-2xl mx-auto">
-            Transparent, all-inclusive <Link href="/" className="text-white underline decoration-primary/60 hover:decoration-primary">dumpster rental Jacksonville FL</Link> pricing with no hidden fees. See exactly what you will pay
-            before you book.
+            Transparent, all-inclusive <Link href="/" className="text-white underline decoration-primary/60 hover:decoration-primary">dumpster rental Jacksonville FL</Link> pricing with no hidden fees. Same flat rates for{' '}
+            <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-white/90 hover:text-white underline decoration-white/30">Jacksonville Beach</Link>,{' '}
+            <Link href="/dumpster-rental-st-augustine-fl" className="text-white/90 hover:text-white underline decoration-white/30">St. Augustine</Link>, and all Northeast Florida locations. See exactly what you will pay before you book.
           </p>
         </div>
       </section>

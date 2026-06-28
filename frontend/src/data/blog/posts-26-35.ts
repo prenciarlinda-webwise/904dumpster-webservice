@@ -20,7 +20,7 @@ export const POSTS_26_TO_35: BlogPost[] = [
     content: `
 ## Roll Off Dumpster Rental Explained
 
-A roll off dumpster rental is an open-top container delivered on a flatbed truck for temporary project use. At [904 Dumpster](/), we deliver three roll-off sizes across Jacksonville: the [10-yard](/10-yard-dumpster-rental) at $299, the [15-yard](/15-yard-dumpster-rental) at $349, and the [20-yard](/20-yard-dumpster-rental) at $399, all flat-rate with no hidden fees. This guide covers how roll off dumpsters work, the container sizes available, what pricing actually includes, and how to book a [same-day roll off dumpster rental in Jacksonville](/dumpster-rental-pricing-jacksonville) when your project starts tomorrow.
+A roll off dumpster rental is an open-top container delivered on a flatbed truck for temporary project use. At [904 Dumpster](/), we deliver three roll-off sizes across Jacksonville: the [10-yard](/10-yard-dumpster-rental) at $299, the [15-yard](/15-yard-dumpster-rental) at $349, and the [20-yard](/20-yard-dumpster-rental) at $399, all flat-rate with no hidden fees. This guide covers how roll off dumpsters work, the container sizes available, what pricing actually includes, and how to book [dumpster rental jacksonville](/) when your project starts tomorrow.
 
 904 Dumpster is a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 

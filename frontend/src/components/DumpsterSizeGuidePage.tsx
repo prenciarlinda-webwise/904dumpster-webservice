@@ -109,7 +109,11 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
               </p>
               <p className="text-lg md:text-xl text-white/80 leading-relaxed mb-8">
                 Side-by-side dumpster sizes chart with real dimensions, weight limits, and project recommendations.
-                The 10, 15, and 20 yard roll-off containers cover almost every home project in Jacksonville. Pick
+                The 10, 15, and{' '}
+                <Link href="/20-yard-dumpster-rental" title="20 Yard Dumpster Rental Jacksonville FL" className="text-primary hover:underline font-semibold">
+                  20 yard
+                </Link>{' '}
+                roll-off containers cover almost every home project in Jacksonville. Pick
                 your size below or compare them in the chart.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
@@ -229,6 +233,40 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
             904 Dumpster offers 10, 15, and 20 yard residential roll-off containers - the three sizes that fit a
             standard Jacksonville driveway. 30 and 40 yard sizes shown above are industry standard for context;
             for those, see <Link href="/construction-dumpster-rental-jacksonville-fl" className="text-primary hover:underline" title="Construction Dumpster Rental">construction dumpster rental</Link>.
+          </p>
+        </div>
+      </section>
+
+      {/* 20 Yard Dumpster Dimensions - AEO Quick Answer */}
+      <section className="py-12 bg-primary/5 border-y border-primary/10">
+        <div className="max-w-4xl mx-auto px-4 lg:px-6">
+          <h2 className="text-2xl md:text-3xl font-black text-secondary mb-4">
+            20 Yard Dumpster Dimensions
+          </h2>
+          <div className="bg-white border-l-4 border-primary rounded-r-lg p-6 mb-6 shadow-sm">
+            <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
+            <p className="text-base md:text-lg text-gray-700 leading-relaxed">
+              A <strong>20 yard dumpster measures 14 feet long × 7.5 feet wide × 5.8 feet tall</strong> (168 in × 90 in × 70 in). It holds 20 cubic yards — about 540 cubic feet, or 7 full-size pickup truck loads — and weighs roughly 5,500 lbs empty. The footprint is identical to the 15-yard container but the walls are 1.3 feet taller, giving 33% more usable volume. A standard two-car Jacksonville driveway fits the 20-yard without overhang.
+            </p>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 text-center mb-6">
+            {[
+              { label: 'Length', value: '14 ft' },
+              { label: 'Width', value: '7.5 ft' },
+              { label: 'Wall Height', value: '5.8 ft' },
+              { label: 'Capacity', value: '20 cu yd' },
+            ].map((stat) => (
+              <div key={stat.label} className="bg-white rounded-xl p-4 border border-gray-200 shadow-sm">
+                <div className="text-2xl font-black text-primary mb-1">{stat.value}</div>
+                <div className="text-xs text-gray-500 font-semibold uppercase tracking-wide">{stat.label}</div>
+              </div>
+            ))}
+          </div>
+          <p className="text-sm text-gray-600 text-center">
+            The 20 yard is our largest residential size and the most popular for whole-house cleanouts and multi-room renovations.{' '}
+            <Link href="/20-yard-dumpster-rental" title="20 Yard Dumpster Rental Jacksonville FL" className="text-primary font-semibold hover:underline">
+              See full 20 yard specs, pricing, and booking →
+            </Link>
           </p>
         </div>
       </section>

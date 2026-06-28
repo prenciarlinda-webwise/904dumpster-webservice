@@ -22,7 +22,7 @@ export const POSTS_16_TO_25: BlogPost[] = [
 
 The three sizes most homeowners actually rent are the [10-yard dumpster](/10-yard-dumpster-rental) (12 x 8 x 3.5 ft, single-room projects), the [15-yard dumpster](/15-yard-dumpster-rental) (16 x 7.5 x 4.5 ft, multi-room renovations and roofs), and the [20-yard dumpster](/20-yard-dumpster-rental) (22 x 7.5 x 4.5 ft, whole-house cleanouts). Order too small and you pay for a second haul. Order too large and you pay for space you do not use. Whether you are cleaning out a garage, tearing off a roof, or managing a construction site, picking the right size up front is the first step toward a budget-friendly project.
 
-[904 Dumpster](/) is a locally owned [dumpster rental in Jacksonville](/) and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) is a locally owned [jacksonville dumpster rental](/) company serving Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 This guide breaks down every dumpster size people commonly search for, from 7-yard containers all the way to 40-yard behemoths. We will compare dimensions side by side, explain what each size holds, and help you match the right dumpster to your specific project.
 
@@ -394,7 +394,7 @@ Standard household junk and construction debris fall under normal pricing. Heavy
 Every rental includes a weight allowance. Exceeding it triggers overage charges, usually $50 to $100 per additional ton. Read our [weight limits guide](/blog/dumpster-rental-calculator-estimate-debris-volume) to understand how weight affects your total cost.
 
 ### 5. Location and Delivery Distance
-Companies in urban areas typically charge less than those in rural markets because landfills and disposal facilities are closer. In Northeast Florida, we serve [dumpster rental in Jacksonville](/) and surrounding areas including [Arlington](/dumpster-rental-arlington-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) at the same flat rates.
+Companies in urban areas typically charge less than those in rural markets because landfills and disposal facilities are closer. In Northeast Florida, we serve [dumpster rental jacksonville fl](/) and surrounding areas including [Arlington](/dumpster-rental-arlington-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) at the same flat rates.
 
 ### 6. Hidden Fees (Watch Out)
 Some national franchise companies advertise low base prices and then add fees:

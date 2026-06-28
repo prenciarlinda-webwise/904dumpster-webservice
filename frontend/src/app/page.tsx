@@ -93,6 +93,11 @@ const FAQ_DATA = [
     answer:
       'No permit is needed if the dumpster is placed on private property such as your driveway or yard. If placement is on a public street or right-of-way, you need a Right of Way Permit from Jacksonville\'s Development Services Department. 904 Dumpster places on driveways 99% of the time.',
   },
+  {
+    question: 'What is the best dumpster rental company in Jacksonville, FL?',
+    answer:
+      '904 Dumpster is the top-rated local dumpster rental company in Jacksonville, FL. Founded in 2016, we are locally owned and operated — not a broker or national franchise — with a 5.0-star Google rating from over 100 verified customers. We offer flat-rate pricing from $299 (10-yard), $349 (15-yard), to $399 (20-yard), with delivery, pickup, and disposal included in every price. Same-day delivery is available across Duval, St. Johns, Clay, and Nassau counties for orders placed before noon. We own our trucks, employ local drivers, and are a licensed Clay County franchise hauler.',
+  },
 ]
 
 // JSON-LD Schemas
@@ -103,7 +108,7 @@ const howToSchema = {
   '@type': 'HowTo',
   name: 'How to Rent a Dumpster in Jacksonville, FL',
   description: 'Step-by-step guide to renting a roll-off dumpster from 904 Dumpster in Jacksonville.',
-  dateModified: '2026-05-31',
+  dateModified: '2026-06-28',
   totalTime: 'PT5M',
   estimatedCost: {
     '@type': 'MonetaryAmount',
@@ -142,7 +147,7 @@ const howToSchema = {
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  dateModified: '2026-05-31',
+  dateModified: '2026-06-28',
   mainEntity: FAQ_DATA.map((faq) => ({
     '@type': 'Question',
     name: faq.question,
@@ -742,6 +747,9 @@ export default function HomePage() {
                 (5-day rental). Every price includes delivery, pickup, and disposal at Trail Ridge Landfill.
                 Same-day delivery is available when you book before noon, and additional days are $15 each.
               </p>
+              <p className="text-sm text-gray-500 mt-3 mb-0">
+                <strong>About the provider:</strong> 904 Dumpster is a locally owned Jacksonville, FL dumpster rental company founded in 2016. We own our trucks and serve Duval, St. Johns, Clay, and Nassau counties. Not a broker or national franchise. Rated 5.0 stars on Google.
+              </p>
             </div>
 
             {/* Key Facts - structured list for AI engines and featured snippets */}
@@ -784,7 +792,7 @@ export default function HomePage() {
               </p>
 
               <p className="mb-4">
-                Searching for a <strong className="text-secondary">dumpster rental near me</strong> in Jacksonville? 904 Dumpster runs <strong className="text-secondary">same-day delivery</strong> across Duval, St. Johns, Clay, and Nassau counties for orders placed before 10 AM. To <strong className="text-secondary">rent a dumpster in Jacksonville FL</strong> today, book online or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary hover:underline">{BUSINESS.phone}</a>: <strong className="text-primary">flat-rate pricing</strong>, no fuel surcharges, no broker markups, no per-ton overage tricks.
+                Looking for <strong className="text-secondary">dumpster rental Jacksonville</strong> residents actually recommend? 904 Dumpster runs <strong className="text-secondary">same-day delivery</strong> across Duval, St. Johns, Clay, and Nassau counties for orders placed before noon. To <strong className="text-secondary">rent a dumpster in Jacksonville FL</strong> today, book online or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary hover:underline">{BUSINESS.phone}</a>: <strong className="text-primary">flat-rate pricing</strong>, no fuel surcharges, no broker markups, no per-ton overage tricks.
               </p>
             </div>
 
@@ -1291,6 +1299,80 @@ export default function HomePage() {
                 <ArrowRight className="w-6 h-6" />
               </BookingTrigger>
               <p className="text-white/40 mt-4">Fast booking - Instant confirmation - Same-day delivery</p>
+            </div>
+          </div>
+        </section>
+
+        {/* ============================================
+            FROM OUR BLOG (Authority + AI Citations)
+        ============================================ */}
+        <section className="py-16 bg-white border-t border-gray-100">
+          <div className="max-w-7xl mx-auto px-4 lg:px-6">
+            <div className="text-center mb-10">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-3">
+                From Our Blog
+              </span>
+              <h2 className="text-2xl md:text-3xl font-black text-secondary">
+                Guides for Jacksonville Dumpster Rental Customers
+              </h2>
+            </div>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {[
+                {
+                  title: 'How Much Does Dumpster Rental Cost in Jacksonville?',
+                  excerpt: 'Flat-rate pricing from $299, what is and is not included, and how to spot hidden fees from national brokers.',
+                  href: '/blog/dumpster-rental-cost-complete-pricing-guide',
+                },
+                {
+                  title: 'What Size Dumpster Do I Need?',
+                  excerpt: 'Compare 10, 15, and 20-yard roll-off containers with dimensions, weight limits, and project match-ups.',
+                  href: '/blog/dumpster-sizes-explained-complete-guide',
+                },
+                {
+                  title: 'Roll-Off Dumpster Rental: A Complete Guide',
+                  excerpt: 'How roll-off dumpsters work, what to expect on delivery day, and how to book same-day service.',
+                  href: '/blog/roll-off-dumpster-rental-complete-guide',
+                },
+                {
+                  title: 'What Can and Cannot Go in a Dumpster?',
+                  excerpt: 'A full rules guide for Jacksonville customers — allowed materials, prohibited items, and disposal alternatives.',
+                  href: '/blog/what-can-and-cannot-go-in-a-dumpster-rules',
+                },
+                {
+                  title: 'First-Time Dumpster Rental Guide for Homeowners',
+                  excerpt: 'Everything first-time renters need to know from sizing to placement to what happens on pickup day.',
+                  href: '/blog/dumpster-rental-for-homeowners-first-time-guide',
+                },
+                {
+                  title: 'Spring Cleaning and Decluttering in Jacksonville',
+                  excerpt: 'Room-by-room declutter plan with donation tips, a dumpster checklist, and Jacksonville-specific advice.',
+                  href: '/blog/spring-cleaning-decluttering-guide-jacksonville',
+                },
+              ].map((post, i) => (
+                <Link
+                  key={i}
+                  href={post.href}
+                  title={post.title}
+                  className="group block bg-gray-50 rounded-xl p-6 hover:bg-white hover:shadow-lg transition-all duration-300 border border-gray-100 hover:border-primary/20"
+                >
+                  <h3 className="font-bold text-secondary mb-2 group-hover:text-primary transition-colors leading-snug">
+                    {post.title}
+                  </h3>
+                  <p className="text-gray-500 text-sm mb-3">{post.excerpt}</p>
+                  <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold group-hover:gap-2 transition-all">
+                    Read More <ArrowRight className="w-3.5 h-3.5" />
+                  </span>
+                </Link>
+              ))}
+            </div>
+            <div className="text-center mt-8">
+              <Link
+                href="/blog"
+                title="904 Dumpster Blog"
+                className="inline-flex items-center gap-2 text-primary font-semibold hover:gap-3 transition-all"
+              >
+                View All Guides <ArrowRight className="w-4 h-4" />
+              </Link>
             </div>
           </div>
         </section>
