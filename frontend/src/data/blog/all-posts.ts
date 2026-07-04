@@ -10,6 +10,7 @@ import { POSTS_46_TO_55 } from './posts-46-55'
 import { EDUCATIONAL_POSTS } from './posts-educational'
 import { AI_VISIBILITY_POSTS } from './posts-ai-visibility'
 import { POSTS_56_TO_75 } from './posts-56-75'
+import { POSTS_76_TO_87 } from './posts-76-87'
 
 export const BLOG_POSTS: BlogPost[] = [
   ...EXISTING_POSTS,
@@ -23,4 +24,5 @@ export const BLOG_POSTS: BlogPost[] = [
   ...EDUCATIONAL_POSTS,
   ...AI_VISIBILITY_POSTS,
   ...POSTS_56_TO_75,
+  ...POSTS_76_TO_87,
 ]

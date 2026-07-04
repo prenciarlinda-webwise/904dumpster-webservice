@@ -234,11 +234,12 @@ function formatContent(content: string, interlinkSet1?: string, interlinkSet2?: 
       line = line.slice(3)
       const headingText = line.trim().toLowerCase()
       const chromeHeadings = ['related resources', 'related guides', 'related articles', 'further reading', 'more resources', 'see also']
+      const headingId = slugify(line.trim())
       line = processInlineFormatting(line)
       if (chromeHeadings.includes(headingText)) {
         result.push(`<p class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line}</p>`)
       } else {
-        result.push(`<h2 class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6">${line}</h2>`)
+        result.push(`<h2 id="${headingId}" class="text-2xl md:text-3xl font-black text-secondary mt-12 mb-6 scroll-mt-28">${line}</h2>`)
       }
       continue
     }
@@ -374,6 +375,35 @@ function processInlineFormatting(text: string): string {
   // Bold text
   text = text.replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-secondary">$1</strong>')
   return text
+}
+
+// Convert a raw heading string into a URL-safe anchor id for TOC linking.
+// Strips markdown link/bold syntax first so ids stay stable and readable.
+function slugify(text: string): string {
+  return text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/\*\*/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-')
+}
+
+// Extract H2 headings from the pre-FAQ content for the table of contents.
+// Mirrors the same chrome-heading exclusion list used in formatContent so
+// the TOC and the rendered <h2> ids always stay in sync.
+function extractTOCHeadings(content: string): { id: string; text: string }[] {
+  const chromeHeadings = ['related resources', 'related guides', 'related articles', 'further reading', 'more resources', 'see also']
+  const headings: { id: string; text: string }[] = []
+  for (const line of content.split('\n')) {
+    if (line.startsWith('## ')) {
+      const raw = line.slice(3).trim()
+      if (chromeHeadings.includes(raw.toLowerCase())) continue
+      const displayText = raw.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '')
+      headings.push({ id: slugify(raw), text: displayText })
+    }
+  }
+  return headings
 }
 
 // Check if a table is a "card-style" interlink table (empty headers, 1 body row with links)
@@ -598,6 +628,14 @@ export default async function BlogPostPage({
   // Parse FAQs from content
   const { mainContent, faqs, afterFaqContent } = parseFAQs(post.content)
 
+  // Build table of contents: main-body H2s, a synthetic FAQ entry, then any
+  // real H2s that follow the FAQ block (e.g. a closing section before Related Resources).
+  const tocHeadings = extractTOCHeadings(mainContent)
+  if (faqs.length > 0) {
+    tocHeadings.push({ id: 'faq', text: 'Frequently Asked Questions' })
+  }
+  tocHeadings.push(...extractTOCHeadings(afterFaqContent))
+
   // Word count from raw markdown content (strip syntax for accuracy)
   const wordCount = post.content
     .replace(/[#*_>|`\-\[\]\(\)]/g, ' ')
@@ -639,35 +677,51 @@ export default async function BlogPostPage({
     isAccessibleForFree: true,
     copyrightYear: new Date(post.publishedDate).getFullYear(),
     copyrightHolder: { '@id': 'https://www.904dumpster.com/#organization' },
-    // Entity grounding - tells AIO/Gemini what real-world entities the article is about
-    about: [
-      {
-        '@type': 'Thing',
-        name: 'Dumpster',
-        '@id': 'https://en.wikipedia.org/wiki/Dumpster',
-        sameAs: 'https://en.wikipedia.org/wiki/Dumpster',
-      },
-      {
-        '@type': 'Place',
-        name: 'Jacksonville, Florida',
-        '@id': 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
-        sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
-      },
-    ],
-    mentions: [
-      {
-        '@type': 'Thing',
-        name: 'Roll-off container',
-        '@id': 'https://en.wikipedia.org/wiki/Roll-off_(dumpster)',
-        sameAs: 'https://en.wikipedia.org/wiki/Roll-off_(dumpster)',
-      },
-      {
-        '@type': 'Thing',
-        name: 'Waste management',
-        '@id': 'https://en.wikipedia.org/wiki/Waste_management',
-        sameAs: 'https://en.wikipedia.org/wiki/Waste_management',
-      },
-    ],
+    // Entity grounding - tells AIO/Gemini what real-world entities the article is about.
+    // Posts can override with topically accurate entities via post.about/post.mentions;
+    // falls back to the site-wide generic pair when a post does not specify its own.
+    about: post.about && post.about.length > 0
+      ? post.about.map((entity) => ({
+          '@type': entity.type || 'Thing',
+          name: entity.name,
+          '@id': entity.sameAs,
+          sameAs: entity.sameAs,
+        }))
+      : [
+          {
+            '@type': 'Thing',
+            name: 'Dumpster',
+            '@id': 'https://en.wikipedia.org/wiki/Dumpster',
+            sameAs: 'https://en.wikipedia.org/wiki/Dumpster',
+          },
+          {
+            '@type': 'Place',
+            name: 'Jacksonville, Florida',
+            '@id': 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
+            sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida',
+          },
+        ],
+    mentions: post.mentions && post.mentions.length > 0
+      ? post.mentions.map((entity) => ({
+          '@type': entity.type || 'Thing',
+          name: entity.name,
+          '@id': entity.sameAs,
+          sameAs: entity.sameAs,
+        }))
+      : [
+          {
+            '@type': 'Thing',
+            name: 'Roll-off container',
+            '@id': 'https://en.wikipedia.org/wiki/Roll-off_(dumpster)',
+            sameAs: 'https://en.wikipedia.org/wiki/Roll-off_(dumpster)',
+          },
+          {
+            '@type': 'Thing',
+            name: 'Waste management',
+            '@id': 'https://en.wikipedia.org/wiki/Waste_management',
+            sameAs: 'https://en.wikipedia.org/wiki/Waste_management',
+          },
+        ],
     // Speakable text targets for voice assistants & AIO snippet selection
     speakable: {
       '@type': 'SpeakableSpecification',
@@ -753,6 +807,28 @@ export default async function BlogPostPage({
                 </p>
               </div>
 
+              {/* AEO Table of Contents - anchor-linked H2 list so AI crawlers and readers
+                  can jump straight to the section that answers their query. */}
+              {tocHeadings.length > 0 && (
+                <nav aria-label="Table of contents" id="toc" className="mb-10 p-6 bg-gray-50 rounded-2xl border border-gray-200">
+                  <p className="text-xs font-bold uppercase tracking-wider text-secondary mb-3">
+                    In This Article
+                  </p>
+                  <ol className="space-y-2">
+                    {tocHeadings.map((heading) => (
+                      <li key={heading.id}>
+                        <a
+                          href={`#${heading.id}`}
+                          className="text-primary hover:text-secondary underline font-medium transition-colors"
+                        >
+                          {heading.text}
+                        </a>
+                      </li>
+                    ))}
+                  </ol>
+                </nav>
+              )}
+
               {/* Main article content (without FAQs) - featured image injected inside content */}
               <div
                 className="prose prose-lg max-w-none"
@@ -766,7 +842,7 @@ export default async function BlogPostPage({
 
               {/* FAQ Accordion Section - .blog-faq-section is the second speakable selector */}
               {faqs.length > 0 && (
-                <div className="blog-faq-section">
+                <div id="faq" className="blog-faq-section scroll-mt-28">
                   <BlogFAQ faqs={faqs} />
                 </div>
               )}
