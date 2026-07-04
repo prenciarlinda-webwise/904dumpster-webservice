@@ -19,7 +19,7 @@ export const POSTS_11_TO_15: BlogPost[] = [
     content: `
 ## How to Handle an Estate Cleanout in Jacksonville
 
-An estate cleanout is one of the most emotionally and physically demanding tasks a family can face. Whether you are clearing out a loved one's home after they have passed away, helping aging parents downsize, or preparing an inherited property for sale, the process involves sorting through decades of belongings, making tough decisions about what to keep, and disposing of everything else. With a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) from 904 Dumpster and a well-planned approach, Jacksonville families can turn a weeks-long ordeal into a manageable project you can finish in a single weekend.
+An estate cleanout is one of the most emotionally and physically demanding tasks a family can face. Whether you are clearing out a loved one's home after they have passed away, helping aging parents downsize, or preparing an inherited property for sale, the process involves sorting through decades of belongings, making tough decisions about what to keep, and disposing of everything else. With a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) from 904 Dumpster and a well-planned approach, [Jacksonville families](/) can turn a weeks-long ordeal into a manageable project you can finish in a single weekend.
 
 ## Why Estate Cleanouts Are Different from Regular Cleanouts
 
@@ -27,7 +27,7 @@ A standard garage or room cleanout usually involves clearing out your own belong
 
 Families often discover items they did not know existed: old photographs, valuable antiques mixed in with everyday clutter, important financial documents tucked into drawers, and sentimental keepsakes with no obvious monetary value but immense personal significance. Every box, closet, and cabinet must be opened and examined before anything can be discarded.
 
-In Jacksonville, estate cleanouts also come with local considerations. Florida's humidity means items stored in garages, sheds, and non-climate-controlled spaces may have mold or water damage. Older homes in neighborhoods like Riverside, Avondale, San Marco, and Murray Hill often have attics and basements packed with decades of accumulation. And if the property is part of a probate process, there may be legal timelines pressuring the family to clear the home quickly.
+In Jacksonville, estate cleanouts also come with local considerations. Florida's humidity means items stored in garages, sheds, and non-climate-controlled spaces may have mold or water damage. Older homes in neighborhoods like [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, San Marco, and Murray Hill often have attics and basements packed with decades of accumulation. And if the property is part of a probate process, there may be legal timelines pressuring the family to clear the home quickly.
 
 ### The Emotional Weight
 
@@ -93,7 +93,7 @@ Not everyone has the physical ability or the available help to clear out an enti
 
 If you want a middle ground, consider renting the dumpster yourself and hiring day laborers or a local moving crew just for the heavy items like furniture, appliances, and mattresses. This keeps your costs down while saving your back.
 
-For properties in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and other Clay County communities, the same approach works. We deliver throughout the area and can often get a dumpster to your property the same day you call.
+For properties in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and other [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) communities, the same approach works. We deliver throughout the area and can often get a dumpster to your property the same day you call.
 
 > REVIEW: "Great, reliable dumpster service! Always on time with delivery and pickup, fair pricing, and excellent communication. Makes every project run smoother." - Redi Tufa, Google Review
 
@@ -122,7 +122,7 @@ Jacksonville families handling estate cleanouts have access to several helpful l
 
 - **Jacksonville Probate Court** (Duval County Courthouse, 501 W. Adams Street, 32202) handles estate administration and can advise on legal requirements for property disposition.
 - **Habitat for Humanity ReStore** (5645 N. Main Street) accepts usable building materials, furniture, and appliances.
-- **Goodwill Jacksonville** has multiple donation centers across the city including locations in Mandarin (32257), Regency (32211), and the Southside (32256).
+- **Goodwill Jacksonville** has multiple donation centers across the city including locations in [Mandarin](/blog/dumpster-rental-mandarin-fl) (32257), Regency (32211), and the Southside (32256).
 - **Trail Ridge Landfill** (5110 Trail Ridge Road, 32218) accepts residential waste if you need to make additional trips beyond the dumpster.
 
 If the estate is located in the beaches area, we also serve [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), and [Neptune Beach](/dumpster-rental-neptune-beach-fl) with the same flat-rate pricing and fast delivery.
@@ -181,7 +181,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
     content: `
 ## What You Can Actually Recycle from Your Jacksonville Project
 
-If you are doing a renovation, demolition, or construction project in Jacksonville, a surprising amount of the debris you generate can be recycled instead of going straight to the landfill. With a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) from 904 Dumpster, you can sort recyclable materials like metal, concrete, clean lumber, cardboard, asphalt shingles, and drywall at local facilities. Separating recyclable materials from general waste can lower your disposal costs, reduce your environmental footprint, and keep usable materials in circulation throughout Northeast Florida's construction industry.
+If you are doing a renovation, demolition, or construction project in [Jacksonville](/), a surprising amount of the debris you generate can be recycled instead of going straight to the landfill. With a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) from 904 Dumpster, you can sort recyclable materials like metal, concrete, clean lumber, cardboard, asphalt shingles, and drywall at local facilities. Separating recyclable materials from general waste can lower your disposal costs, reduce your environmental footprint, and keep usable materials in circulation throughout Northeast Florida's construction industry.
 
 ## Why Construction Recycling Matters in Jacksonville
 
@@ -295,7 +295,7 @@ First, concrete and masonry are extremely heavy. A small amount of concrete can 
 
 Second, keeping loads clean and sorted ensures materials reach the right facility. When you order a [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl), for example, we route that load specifically to a concrete recycling facility rather than a landfill.
 
-We serve contractors and homeowners across Jacksonville including neighborhoods in 32202, 32204, 32205, 32207, 32210, 32211, 32216, 32225, 32246, and all surrounding areas. Whether your project is in Riverside, Mandarin, the Southside, or Arlington, we deliver the right size dumpster to your job site.
+We serve contractors and homeowners across Jacksonville including neighborhoods in 32202, 32204, 32205, 32207, 32210, 32211, 32216, 32225, 32246, and all surrounding areas. Whether your project is in [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), [Mandarin](/blog/dumpster-rental-mandarin-fl), the Southside, or [Arlington](/dumpster-rental-arlington-fl), we deliver the right size dumpster to your job site.
 
 ## Tips for Contractors Running Multiple Projects
 
@@ -356,7 +356,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     content: `
 ## Dumpster Rental Pricing on Amelia Island and Fernandina Beach
 
-Wondering how much does it cost to rent a dumpster in Fernandina Beach? A [dumpster rental in Nassau County](/dumpster-rental-fernandina-beach-fl) from 904 Dumpster costs between $409 and $459 depending on the size you need. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees, no fuel surcharges, and no surprise charges. We deliver to all of Nassau County, from downtown Fernandina Beach to the Plantation at Amelia Island and every neighborhood in between.
+Wondering how much does it cost to rent a dumpster in Fernandina Beach? A [dumpster rental in Nassau County](/dumpster-rental-fernandina-beach-fl) from 904 Dumpster costs between $409 and $459 depending on the size you need. Every rental includes delivery, pickup, disposal, and a 5-day rental period with no hidden fees, no fuel surcharges, and no surprise charges. We deliver to all of [Nassau County](/blog/nassau-county-dumpster-rental-fl), from downtown Fernandina Beach to the Plantation at Amelia Island and every neighborhood in between.
 
 ## 904 Dumpster Pricing for Fernandina Beach and Amelia Island
 
@@ -367,7 +367,7 @@ We keep our pricing simple and transparent. Here is what each dumpster size cost
 | **15-Yard** | 14ft x 7.5ft x 4.5ft | 1.5 tons (3,000 lbs) | **$409** |
 | **20-Yard** | 14ft x 7.5ft x 5.8ft | 2 tons (4,000 lbs) | **$459** |
 
-These prices are the same whether you are on Amelia Island, in downtown Fernandina Beach, Yulee, Callahan, or Hilliard.
+These prices are the same whether you are on Amelia Island, in downtown Fernandina Beach, Yulee, Callahan, or [Hilliard](/dumpster-rental-hilliard-fl).
 
 ### What Is Included in Every Rental
 
@@ -530,7 +530,7 @@ No permit is needed if the dumpster is placed on your private property such as a
     content: `
 ## How to Tear Down a Shed, Deck, or Fence Yourself
 
-Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville-fl) from 904 Dumpster in your driveway, most Jacksonville homeowners can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
+Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville-fl) from 904 Dumpster in your driveway, most [Jacksonville homeowners](/) can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
 
 ## Before You Start - Planning Your Teardown
 
@@ -539,8 +539,8 @@ Demolishing a shed, deck, or fence is one of the most satisfying DIY projects yo
 In Jacksonville and Duval County, you generally do not need a permit to demolish a small accessory structure like a shed, a deck that is not attached to the house, or a fence. However, there are exceptions:
 
 - If the structure is attached to your home, such as a covered porch or an attached deck, demolition may require a permit from the City of Jacksonville Building Inspection Division.
-- If you live in a historic district like Riverside, Avondale, Springfield, or San Marco, additional review may be required before removing visible structures.
-- HOA communities in Mandarin, the Southside, Nocatee, and Fleming Island often require architectural review approval before demolishing and rebuilding structures.
+- If you live in a historic district like [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, Springfield, or San Marco, additional review may be required before removing visible structures.
+- HOA communities in [Mandarin](/blog/dumpster-rental-mandarin-fl), the Southside, Nocatee, and [Fleming Island](/dumpster-rental-fleming-island-fl) often require architectural review approval before demolishing and rebuilding structures.
 
 When in doubt, call the City of Jacksonville Building Inspection Division at (904) 255-7800 or check our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for more details.
 
@@ -739,7 +739,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
 
 A [15 yard dumpster](/15-yard-dumpster-rental) holds about 5 full-size pickup truck loads of debris, which makes it the right fit for most mid-range home projects: a kitchen remodel, a single-room flooring tear-out, a deck replacement, a roof tear-off on a smaller home, or a whole-house spring cleanout. This guide walks through what realistically fits, real examples from Jacksonville-area projects, and how to load efficiently so you avoid paying for a second haul.
 
-Spring is the busiest season for home projects in Jacksonville, and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the [15 yard dumpster](/15-yard-dumpster-rental) is the size that handles most of these jobs in one container.
+Spring is the busiest season for home projects in [Jacksonville](/), and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the [15 yard dumpster](/15-yard-dumpster-rental) is the size that handles most of these jobs in one container.
 
 You'll sometimes see the same container written as a "15 yd dumpster" or a "15 cubic yard dumpster" in online listings and supplier quotes. All three terms refer to the same physical container.
 
@@ -817,7 +817,7 @@ These are actual projects where Jacksonville-area customers used a 15-yard dumps
 
 ### Mandarin Kitchen Remodel
 
-A homeowner in Mandarin gutted a 12x14 kitchen down to the studs. Into the 15-yard dumpster went 18 old oak cabinets, laminate countertops, ceramic tile flooring, drywall from one reconfigured wall, an old dishwasher, a microwave, and a range hood. The dumpster was about 85 percent full and came in well under the 1.5-ton weight limit.
+A homeowner in [Mandarin](/blog/dumpster-rental-mandarin-fl) gutted a 12x14 kitchen down to the studs. Into the 15-yard dumpster went 18 old oak cabinets, laminate countertops, ceramic tile flooring, drywall from one reconfigured wall, an old dishwasher, a microwave, and a range hood. The dumpster was about 85 percent full and came in well under the 1.5-ton weight limit.
 
 ### St. Augustine Roof Tear-Off
 

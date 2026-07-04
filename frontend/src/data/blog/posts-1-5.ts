@@ -40,7 +40,7 @@ Every dumpster rental from 904 Dumpster includes:
 
 - **Delivery** to your St. Augustine address
 - **Pickup** within 24 hours of your call or text
-- **Disposal fees** at approved St. Johns County facilities
+- **Disposal fees** at approved [St. Johns County](/blog/dumpster-rental-st-johns-county-fl) facilities
 - **5-day rental period** (extensions available at $15 per day)
 - **Driveway-friendly placement** using boards to protect your surface
 
@@ -72,7 +72,7 @@ If you have searched for dumpster pricing across Northeast Florida, you may have
 |---|---|---|
 | St. Augustine (904 Dumpster) | $449 | $499 |
 | Jacksonville / Duval County (904 Dumpster) | $349 | $399 |
-| [Orange Park](/dumpster-rental-orange-park-fl) / Clay County (904 Dumpster) | $409 | $459 |
+| [Orange Park](/dumpster-rental-orange-park-fl) / [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) (904 Dumpster) | $409 | $459 |
 | National Broker Average | $400-$500 | $475-$600 |
 
 Pricing varies by service area based on distance from our Jacksonville base and local disposal facility costs. St. Augustine pricing reflects the additional distance to serve the area. National brokers typically charge even more because they add a middleman markup before subcontracting to a local hauler.
@@ -185,7 +185,7 @@ Jacksonville homeowners have a few unique reasons to prioritize spring cleaning:
 
 - **Post-winter mold check.** Even our mild winters bring enough temperature swings to create condensation and mold in garages, closets, and attics. Spring is the time to catch it early.
 - **Pre-hurricane prep.** Hurricane season starts June 1. Clearing out your garage and yard now gives you space to store patio furniture, generators, and supplies when storms threaten. Our [hurricane season preparation guide](/blog/hurricane-debris-cleanup-jacksonville) covers this in detail.
-- **Yard recovery.** Jacksonville yards in zip codes across the Westside (32210, 32221), Southside (32256, 32246), and Arlington (32211, 32225) take a beating from winter storms. Branches, dead landscaping, and leaf buildup are easiest to handle before new growth takes off.
+- **Yard recovery.** Jacksonville yards in zip codes across the Westside (32210, 32221), Southside (32256, 32246), and [Arlington](/dumpster-rental-arlington-fl) (32211, 32225) take a beating from winter storms. Branches, dead landscaping, and leaf buildup are easiest to handle before new growth takes off.
 - **Donation timing.** Local charities like Goodwill and the Salvation Army on Beach Boulevard and Habersham Thrift on San Jose Boulevard need inventory for their spring shoppers.
 
 ## Room-by-Room Decluttering Checklist
@@ -345,7 +345,7 @@ Here is a realistic schedule for a full-house declutter with a dumpster in the d
 - Drop off donations at Goodwill or Salvation Army
 - Call 904 Dumpster for pickup: (904) 240-5598
 
-This schedule works for a home up to about 2,000 square feet. Larger homes in neighborhoods like Mandarin (32223, 32258), Julington Creek (32259), or the Beaches (32250, 32266) may need an extra day. That is fine; your dumpster rental includes 5 full days.
+This schedule works for a home up to about 2,000 square feet. Larger homes in neighborhoods like [Mandarin](/blog/dumpster-rental-mandarin-fl) (32223, 32258), Julington Creek (32259), or the Beaches (32250, 32266) may need an extra day. That is fine; your dumpster rental includes 5 full days.
 
 ## Items You Cannot Put in a Dumpster
 
@@ -375,7 +375,7 @@ A [10-yard dumpster](/10-yard-dumpster-rental) handles most standard two-car gar
 
 ### Does 904 Dumpster deliver to all Jacksonville neighborhoods?
 
-Yes. We deliver throughout Duval County including the Westside, Southside, Arlington, Mandarin, San Marco, Riverside, the Beaches, and the Northside. We also serve [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and surrounding areas. Same-day delivery is available when you book before noon.
+Yes. We deliver throughout Duval County including the Westside, Southside, Arlington, Mandarin, San Marco, [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), the Beaches, and the Northside. We also serve [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and surrounding areas. Same-day delivery is available when you book before noon.
 
 ### When should I start spring cleaning in Jacksonville?
 
@@ -409,7 +409,7 @@ March through early May is the ideal window. Temperatures are comfortable in the
 
 Whether you are tackling a [DIY bathroom remodel](/residential-dumpster-rental-jacksonville-fl) or a full contractor-led renovation, the project generates between 500 and 2,000 pounds of debris. 904 Dumpster recommends a 10-yard dumpster for most single-bathroom remodels, while a 15-yard is the safer choice if you are gutting the entire room down to the studs. Knowing what waste to expect and how to dispose of it properly saves you time, money, and the headache of multiple dump runs.
 
-Bathroom remodels are one of the most popular home improvement projects in Jacksonville, FL. Whether you are updating a guest bathroom in your San Marco bungalow, gutting the master bath in a Mandarin home, or renovating rental property bathrooms in the Arlington or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
+Bathroom remodels are one of the most popular home improvement projects in [Jacksonville](/), FL. Whether you are updating a guest bathroom in your San Marco bungalow, gutting the master bath in a [Mandarin](/blog/dumpster-rental-mandarin-fl) home, or renovating rental property bathrooms in the [Arlington](/dumpster-rental-arlington-fl) or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
 
 ## Types of Bathroom Renovation Debris
 
@@ -434,7 +434,7 @@ Old faucets, showerheads, drain assemblies, and supply lines can typically go ri
 
 ### Hazardous Materials to Watch For
 
-Older Jacksonville homes, especially those built before 1980 in neighborhoods like Avondale (32205), San Marco (32207), Ortega (32210), and Murray Hill (32205), may contain hazardous materials in the bathroom:
+Older Jacksonville homes, especially those built before 1980 in neighborhoods like [Avondale](/blog/dumpster-rental-riverside-avondale-jacksonville) (32205), San Marco (32207), Ortega (32210), and Murray Hill (32205), may contain hazardous materials in the bathroom:
 
 - **Lead paint** - Common in homes built before 1978. Do not sand or scrape lead paint into a dumpster. Contact a certified lead abatement contractor.
 - **Asbestos tile or pipe insulation** - Floor tiles, adhesives, and pipe wrapping in pre-1980 homes may contain asbestos. If you suspect asbestos, have it tested before demolition. The Duval County Health Department can provide guidance.
@@ -609,7 +609,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
 
 Wondering how much it costs to [rent a dumpster](/residential-dumpster-rental-jacksonville-fl) in Orange Park, FL? Prices range from $409 to $459 from 904 Dumpster, depending on the size you need. As a [Clay County licensed franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler), we offer flat-rate pricing that includes delivery, pickup, disposal at approved facilities, and a 5-day rental period with no hidden fees or surprise charges.
 
-Orange Park is one of the busiest areas we serve in Clay County. Homeowners along Kingsley Avenue, contractors building in the Oakleaf Plantation communities, and property managers in the apartment complexes near the Orange Park Mall all need affordable, reliable dumpster rental. This guide breaks down exactly what you will pay, what affects the price, and how to get the best value for your project.
+Orange Park is one of the busiest areas we serve in [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl). Homeowners along Kingsley Avenue, contractors building in the Oakleaf Plantation communities, and property managers in the apartment complexes near the Orange Park Mall all need affordable, reliable dumpster rental. This guide breaks down exactly what you will pay, what affects the price, and how to get the best value for your project.
 
 ## Orange Park Dumpster Rental Prices
 
@@ -796,7 +796,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 
-A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1 ton (2,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in Jacksonville and the surrounding areas.
+A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1 ton (2,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in [Jacksonville](/) and the surrounding areas.
 
 The 10-yard dumpster is our most frequently misunderstood size. Some people think it is too small to be useful, while others assume it can handle a full house cleanout. The truth is somewhere in between, and knowing exactly what fits helps you avoid ordering too large (wasting money) or too small (needing a second delivery). This guide uses real project examples from jobs we have completed across Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and the Beaches to show you precisely what a 10-yard can handle.
 
@@ -817,7 +817,7 @@ The 3.6-foot wall height is one of the biggest practical advantages of the 10-ya
 
 ### Driveway Footprint
 
-At 12 feet by 7.5 feet, a 10-yard dumpster takes up roughly the same space as a large SUV. It fits comfortably in almost any driveway in Jacksonville, including the narrower driveways in older neighborhoods like San Marco, Avondale, Riverside, and Springfield. Homeowners in HOA communities like Nocatee, Julington Creek, and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) appreciate the compact footprint because it stays within the driveway and does not block sidewalks or neighboring properties.
+At 12 feet by 7.5 feet, a 10-yard dumpster takes up roughly the same space as a large SUV. It fits comfortably in almost any driveway in Jacksonville, including the narrower driveways in older neighborhoods like San Marco, [Avondale](/blog/dumpster-rental-riverside-avondale-jacksonville), Riverside, and Springfield. Homeowners in HOA communities like Nocatee, Julington Creek, and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) appreciate the compact footprint because it stays within the driveway and does not block sidewalks or neighboring properties.
 
 ## Projects That Fit Perfectly in a 10-Yard Dumpster
 

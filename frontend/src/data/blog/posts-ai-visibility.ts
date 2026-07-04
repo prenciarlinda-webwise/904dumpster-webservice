@@ -23,7 +23,7 @@ export const AI_VISIBILITY_POSTS: BlogPost[] = [
     tags: ['mattress disposal jacksonville', 'how to dispose of mattress', 'mattress pickup jacksonville', 'free mattress disposal', 'mattress recycling', 'bulk waste pickup', 'old mattress removal'],
     relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'donate-furniture-vs-dumpster-rental-jacksonville', 'bulk-waste-disposal-jacksonville-guide'],
     content: `
-Disposing of an old mattress in Jacksonville costs $0 to $75 depending on the route you take. The fastest free option is your scheduled curbside bulk pickup day through the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division). The fastest paid option is a same-day [10 yard dumpster rental](/10-yard-dumpster-rental) when you also have furniture, flooring, or other bedroom debris going at the same time. This guide walks through every option so you can pick the right one for a single mattress or a full multi-bedroom estate cleanout.
+Disposing of an old mattress in [Jacksonville](/) costs $0 to $75 depending on the route you take. The fastest free option is your scheduled curbside bulk pickup day through the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division). The fastest paid option is a same-day [10 yard dumpster rental](/10-yard-dumpster-rental) when you also have furniture, flooring, or other bedroom debris going at the same time. This guide walks through every option so you can pick the right one for a single mattress or a full multi-bedroom estate cleanout.
 
 ## Curbside Bulk Pickup in Jacksonville (Free)
 
@@ -69,9 +69,9 @@ Three disposal routes that homeowners try in Jacksonville and that the city acti
 
 Coverage of mattress pickup options outside Duval County varies by jurisdiction. The closest fits to the Jacksonville rules:
 
-- **St. Johns County (St. Augustine, Ponte Vedra).** [St. Johns County Solid Waste](https://www.sjcfl.us/SolidWaste/) offers a similar bulk pickup but limits residents to specific pickup days by ZIP code. See our [St. Augustine dumpster rental](/dumpster-rental-st-augustine-fl) page for paid options when bulk pickup is not enough.
-- **Clay County (Orange Park, Fleming Island).** Bulk pickup runs through the [Clay County franchise hauler program](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers). 904 Dumpster is a [licensed Clay County franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler).
-- **Nassau County (Fernandina Beach, Yulee, Hilliard).** Curbside bulk varies by route; check with your hauler. See [Fernandina Beach dumpster rental](/dumpster-rental-fernandina-beach-fl) and [Hilliard dumpster rental](/dumpster-rental-hilliard-fl) for paid options.
+- **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl) (St. Augustine, [Ponte Vedra](/dumpster-rental-ponte-vedra-fl)).** [St. Johns County Solid Waste](https://www.sjcfl.us/SolidWaste/) offers a similar bulk pickup but limits residents to specific pickup days by ZIP code. See our [St. Augustine dumpster rental](/dumpster-rental-st-augustine-fl) page for paid options when bulk pickup is not enough.
+- **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) ([Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl)).** Bulk pickup runs through the [Clay County franchise hauler program](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers). 904 Dumpster is a [licensed Clay County franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler).
+- **[Nassau County](/blog/nassau-county-dumpster-rental-fl) (Fernandina Beach, Yulee, Hilliard).** Curbside bulk varies by route; check with your hauler. See [Fernandina Beach dumpster rental](/dumpster-rental-fernandina-beach-fl) and [Hilliard dumpster rental](/dumpster-rental-hilliard-fl) for paid options.
 
 ## Frequently Asked Questions
 
@@ -228,7 +228,7 @@ Mattresses must be in good condition with original tags, no stains, no rips, and
     tags: ['tire recycling jacksonville', 'where to dispose of tires', 'tire disposal fee', 'used tire recycling', 'tire drop off jacksonville', 'recycle tires near me'],
     relatedSlugs: ['how-to-dispose-of-paint-jacksonville', 'what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
     content: `
-Old tires cost $1 to $5 each to recycle in Jacksonville. They are banned from every dumpster, every landfill, and every curbside trash pickup route in Florida under the [Florida Solid Waste Management Act](https://floridadep.gov/waste). That ban is why tires cannot go in a 904 Dumpster roll-off and why most tire shops in Jacksonville will accept your old tires when you buy replacement tires. When tires are tangled up with a larger pile of junk, our [junk removal in Jacksonville](/junk-removal-jacksonville-fl) crews can haul the rest while you route the tires to a recycler. This guide lists the actual drop-off locations and the rules that apply when you have more than a handful to get rid of.
+Old tires cost $1 to $5 each to recycle [in Jacksonville](/). They are banned from every dumpster, every landfill, and every curbside trash pickup route in Florida under the [Florida Solid Waste Management Act](https://floridadep.gov/waste). That ban is why tires cannot go in a 904 Dumpster roll-off and why most tire shops in Jacksonville will accept your old tires when you buy replacement tires. When tires are tangled up with a larger pile of junk, our [junk removal in Jacksonville](/junk-removal-jacksonville-fl) crews can haul the rest while you route the tires to a recycler. This guide lists the actual drop-off locations and the rules that apply when you have more than a handful to get rid of.
 
 ## Why Tires Are Banned From Landfills
 
@@ -265,7 +265,7 @@ If you exceed the daily limit at a convenience center, you will be turned away. 
 
 ## What to Do If You Inherit a Tire Pile
 
-Property cleanouts and estate work in rural Northeast Florida (especially Hilliard, Middleburg, and parts of Clay County) frequently surface a backyard tire pile. The owner of the property at the time of disposal is responsible under Florida code, not the previous owner. This means if you bought a property with a tire pile, the cleanup falls to you.
+Property cleanouts and estate work in rural Northeast Florida (especially [Hilliard](/dumpster-rental-hilliard-fl), [Middleburg](/dumpster-rental-middleburg-fl), and parts of [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl)) frequently surface a backyard tire pile. The owner of the property at the time of disposal is responsible under Florida code, not the previous owner. This means if you bought a property with a tire pile, the cleanup falls to you.
 
 For piles of 20 or more tires, the fastest path is hiring a tire recycler to do an on-site pickup. Quotes typically run $1 to $2 per tire all-inclusive (loading, transport, disposal documentation). For smaller piles, multiple trips to Trail Ridge are cheaper.
 
@@ -400,9 +400,9 @@ For projects that fit the curbside route, save the $299 and use the city pickup.
 
 Jacksonville rules apply to addresses inside Duval County city limits. For surrounding counties:
 
-- **St. Johns County** (St. Augustine, Ponte Vedra). The [St. Johns County Solid Waste Department](https://www.sjcfl.us/SolidWaste/) runs a similar weekly bulk pickup with slightly different cubic-yard caps. Schedule via the county portal. For paid options, see [St. Augustine dumpster rental](/dumpster-rental-st-augustine-fl).
-- **Clay County** (Orange Park, Fleming Island, Middleburg). Bulk waste runs through the [Clay County franchise hauler program](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers). 904 Dumpster is a [licensed Clay County franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler).
-- **Nassau County** (Fernandina Beach, Yulee, Hilliard). Bulk pickup varies by hauler route. See [Fernandina Beach dumpster rental](/dumpster-rental-fernandina-beach-fl) for paid options.
+- **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl)** (St. Augustine, [Ponte Vedra](/dumpster-rental-ponte-vedra-fl)). The [St. Johns County Solid Waste Department](https://www.sjcfl.us/SolidWaste/) runs a similar weekly bulk pickup with slightly different cubic-yard caps. Schedule via the county portal. For paid options, see [St. Augustine dumpster rental](/dumpster-rental-st-augustine-fl).
+- **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl)** ([Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl)). Bulk waste runs through the [Clay County franchise hauler program](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers). 904 Dumpster is a [licensed Clay County franchise hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler).
+- **[Nassau County](/blog/nassau-county-dumpster-rental-fl)** (Fernandina Beach, Yulee, [Hilliard](/dumpster-rental-hilliard-fl)). Bulk pickup varies by hauler route. See [Fernandina Beach dumpster rental](/dumpster-rental-fernandina-beach-fl) for paid options.
 
 ## Common Mistakes That Trigger Code Enforcement
 
@@ -513,9 +513,9 @@ National brokers cannot promise same-day because their local subcontractor's rou
 If you are searching "dumpster rental near me" from a Northeast Florida address, the local hauler answer is usually 904 Dumpster. Coverage includes:
 
 - **Duval County:** [Jacksonville](/), [Arlington](/dumpster-rental-arlington-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl)
-- **St. Johns County:** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee
-- **Clay County:** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
-- **Nassau County:** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), [Hilliard](/dumpster-rental-hilliard-fl), Yulee, Callahan
+- **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee
+- **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
+- **[Nassau County](/blog/nassau-county-dumpster-rental-fl):** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), [Hilliard](/dumpster-rental-hilliard-fl), Yulee, Callahan
 
 Same-day delivery is available throughout this footprint when you book before noon. Pricing is flat-rate by county, listed on the [dumpster rental pricing page](/dumpster-rental-pricing-jacksonville).
 
@@ -588,7 +588,7 @@ Ask whether they own the trucks or subcontract, what the all-in price is (no fue
     tags: ['small dumpster rental', 'apartment dumpster rental', 'condo dumpster rental', 'dumpster for apartment cleanout', 'HOA dumpster rules', 'small dumpster jacksonville'],
     relatedSlugs: ['how-to-choose-right-dumpster-size', 'jacksonville-dumpster-permit-guide', 'how-to-find-dumpster-rental-near-me'],
     content: `
-Renting a dumpster for an apartment or condo cleanout in Jacksonville works differently than a single-family home rental. You do not have a driveway, the HOA may have placement rules, the parking lot is shared, and a street drop may need a city permit. The good news: a 10-yard dumpster fits in two parking spaces and handles most one-bedroom or two-bedroom unit cleanouts at $299. This guide walks through where to place it, how to get HOA approval, and when a smaller option works.
+Renting a dumpster for an apartment or condo [cleanout in Jacksonville](/) works differently than a single-family home rental. You do not have a driveway, the HOA may have placement rules, the parking lot is shared, and a street drop may need a city permit. The good news: a 10-yard dumpster fits in two parking spaces and handles most one-bedroom or two-bedroom unit cleanouts at $299. This guide walks through where to place it, how to get HOA approval, and when a smaller option works.
 
 ## The Smallest Dumpster That Fits Apartment-Scale Projects
 

@@ -18,7 +18,7 @@ export const MONTH1_POSTS_BATCH2: BlogPost[] = [
     content: `
 ## How to Clean Out Your Garage Without Losing Your Mind
 
-A garage cleanout in Jacksonville can feel overwhelming when years of accumulated stuff has taken over your parking space, but with the right plan, sorting strategy, and a [home cleanout dumpster](/residential-dumpster-rental-jacksonville-fl) in your driveway, you can reclaim your garage in a single weekend. 904 Dumpster makes the process simple with same-day delivery and flat-rate pricing, so you can focus on sorting and decluttering instead of worrying about logistics. The key is working in stages so you don't burn out or make emotional decisions about what stays and what goes.
+A garage cleanout in Jacksonville can feel overwhelming when years of accumulated stuff has taken over your parking space, but with the right plan, sorting strategy, and a [home cleanout dumpster](/residential-dumpster-rental-jacksonville-fl) in your driveway, you can reclaim your garage in a single weekend. [904 Dumpster](/) makes the process simple with same-day delivery and flat-rate pricing, so you can focus on sorting and decluttering instead of worrying about logistics. The key is working in stages so you don't burn out or make emotional decisions about what stays and what goes.
 
 If you have ever opened your garage door and felt a wave of dread wash over you, you are not alone. Across Jacksonville, homeowners are dealing with garages packed floor to ceiling with holiday decorations, broken furniture, outgrown toys, mystery boxes from the last move, and tools they forgot they owned. The average two-car garage in Northeast Florida holds somewhere between 300 and 600 square feet of potential living or working space, and most of us are wasting every inch of it on stuff we never touch.
 
@@ -300,7 +300,7 @@ When you rent directly from 904 Dumpster, you deal with a local company that own
 
 ### Ponte Vedra vs St. Johns County Curbside
 
-St. Johns County offers curbside bulk pickup for some waste types, but the service has limitations that make it impractical for larger projects. You are limited in the amount of material, certain items are excluded, and pickup schedules may not align with your project timeline. For any renovation, cleanout, or construction project that produces more than a few items, a dumpster rental is the faster, more convenient option.
+[St. Johns County](/blog/dumpster-rental-st-johns-county-fl) offers curbside bulk pickup for some waste types, but the service has limitations that make it impractical for larger projects. You are limited in the amount of material, certain items are excluded, and pickup schedules may not align with your project timeline. For any renovation, cleanout, or construction project that produces more than a few items, a dumpster rental is the faster, more convenient option.
 
 ### Cost Comparison With Neighboring Areas
 
@@ -413,7 +413,7 @@ Each dumpster size includes a specific weight allowance, which is 1 ton for the 
 
 Disposing of yard waste and landscaping debris in Northeast Florida requires understanding local pickup rules, knowing when a [yard waste dumpster](/residential-dumpster-rental-jacksonville-fl) makes more sense than curbside service, and choosing the right container size for your specific project. 904 Dumpster helps Jacksonville-area homeowners and landscapers handle every type of green waste, tree debris removal, and landscape debris removal efficiently, from routine yard maintenance to major landscaping overhauls.
 
-Northeast Florida's subtropical climate means yards produce waste year-round. Unlike northern states where yard work pauses during winter, Jacksonville homeowners deal with a constant cycle of growth, pruning, and storm cleanup. Live oaks drop leaves and acorns through spring, palm trees shed fronds monthly, St. Augustine grass grows aggressively from March through October, and hurricane season can dump massive amounts of tree debris across properties with little warning.
+Northeast Florida's subtropical climate means yards produce waste year-round. Unlike northern states where yard work pauses during winter, [Jacksonville homeowners](/) deal with a constant cycle of growth, pruning, and storm cleanup. Live oaks drop leaves and acorns through spring, palm trees shed fronds monthly, St. Augustine grass grows aggressively from March through October, and hurricane season can dump massive amounts of tree debris across properties with little warning.
 
 Whether you are a homeowner tackling a weekend yard project, a landscaping contractor clearing a property, or a property manager maintaining multiple lots, this guide covers every aspect of yard waste disposal in the Jacksonville metropolitan area and surrounding Northeast Florida communities.
 
@@ -465,7 +465,7 @@ The City of Jacksonville provides curbside yard waste pickup for residents withi
 - Dirt, sod, rocks, and soil are not accepted curbside
 - Volume is limited, and excessive amounts may not be collected in a single trip
 
-For residents in Clay County communities like [Orange Park](/dumpster-rental-orange-park-fl) and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), yard waste pickup schedules and rules vary by municipality. St. Johns County, which includes [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) and [St. Augustine](/dumpster-rental-st-augustine-fl), operates under separate yard waste collection policies.
+For residents in [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) communities like [Orange Park](/dumpster-rental-orange-park-fl) and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), yard waste pickup schedules and rules vary by municipality. [St. Johns County](/blog/dumpster-rental-st-johns-county-fl), which includes [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) and [St. Augustine](/dumpster-rental-st-augustine-fl), operates under separate yard waste collection policies.
 
 ## When You Need a Dumpster Instead of Curbside Pickup
 
@@ -641,7 +641,7 @@ Late fall through early spring, from November through March, is the ideal window
     content: `
 ## Why Jacksonville Contractors Choose 904 Dumpster
 
-Jacksonville contractors need a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) provider that shows up on time, every time, with clean containers, transparent pricing, and the flexibility to handle the unpredictable demands of construction projects. 904 Dumpster has been the go-to construction dumpster provider for general contractors, remodelers, roofers, and specialty trades across the Jacksonville metropolitan area since 2016 because we understand that your jobsite schedule depends on reliable waste removal.
+[Jacksonville contractors](/) need a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) provider that shows up on time, every time, with clean containers, transparent pricing, and the flexibility to handle the unpredictable demands of construction projects. 904 Dumpster has been the go-to construction dumpster provider for general contractors, remodelers, roofers, and specialty trades across the Jacksonville metropolitan area since 2016 because we understand that your jobsite schedule depends on reliable waste removal.
 
 When you are managing a construction project, delays cost money. A dumpster that does not show up on time delays your crew. A container that fills up with no quick swap available forces workers to stack debris on the ground, creating safety hazards and code violations. A hauler that hits you with surprise fees after the job throws off your profit margins. These are the problems that Jacksonville contractors face when they work with the wrong dumpster company, and they are exactly the problems we built our business to solve.
 
@@ -818,10 +818,10 @@ To get started, call 904 Dumpster at **(904) 240-5598** and let us know you are 
 
 904 Dumpster serves contractors throughout the Jacksonville metropolitan area and surrounding Northeast Florida communities. Our full service area includes:
 
-- **Duval County:** All of Jacksonville, Arlington, Mandarin, Southside, Westside, Northside, San Marco, Riverside, Avondale, Beaches communities
-- **St. Johns County:** [St. Augustine](/dumpster-rental-st-augustine-fl), Ponte Vedra, World Golf Village, Nocatee, Fruit Cove
-- **Clay County:** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), Oakleaf
-- **Nassau County:** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Yulee, Callahan, Hilliard
+- **Duval County:** All of Jacksonville, [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), Southside, Westside, Northside, San Marco, [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, Beaches communities
+- **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), World Golf Village, Nocatee, Fruit Cove
+- **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), Oakleaf
+- **[Nassau County](/blog/nassau-county-dumpster-rental-fl):** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Yulee, Callahan, [Hilliard](/dumpster-rental-hilliard-fl)
 - **Beach communities:** [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl)
 
 Wherever your jobsite is in Northeast Florida, we can get a dumpster to you quickly and reliably.

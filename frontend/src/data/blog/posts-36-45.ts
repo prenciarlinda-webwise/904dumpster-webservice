@@ -21,7 +21,7 @@ export const POSTS_36_TO_45: BlogPost[] = [
 
 One of the biggest mistakes people make when renting a dumpster is guessing at the size they need. Order too small and you end up paying for a second haul. Order too large and you waste money on capacity you never use. Whether you are cleaning out a garage, tearing up old carpet, or hauling away demolition debris from a renovation, knowing how to estimate your debris volume in cubic yards saves you time, money, and frustration.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving [Jacksonville and Northeast Florida](/) since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Is a Cubic Yard and Why Does It Matter?
 
@@ -110,7 +110,7 @@ If your project involves a mix of heavy materials like concrete and lightweight 
 
 ## Estimating Debris for Jacksonville-Area Projects
 
-Jacksonville homes have some unique characteristics that affect debris volume. Many homes built in the 1960s through 1980s in neighborhoods like Arlington, Mandarin, and the Westside have multiple layers of flooring, including original hardwood under vinyl under carpet. Each additional layer increases the volume and weight of debris during a renovation.
+Jacksonville homes have some unique characteristics that affect debris volume. Many homes built in the 1960s through 1980s in neighborhoods like [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), and the Westside have multiple layers of flooring, including original hardwood under vinyl under carpet. Each additional layer increases the volume and weight of debris during a renovation.
 
 Coastal properties in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), and [Neptune Beach](/dumpster-rental-neptune-beach-fl) often have storm-damaged materials that need removal. Homes in [St. Augustine](/dumpster-rental-st-augustine-fl) and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) frequently involve larger lot cleanups with both indoor and outdoor debris.
 
@@ -163,7 +163,7 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     content: `
 ## Garage Conversion Guide and Waste Planning
 
-Garage conversions have become one of the most popular home improvement projects in Jacksonville. Whether you are creating a home office, an in-law suite, a rental apartment, or additional living space for a growing family, converting an attached or detached garage involves a substantial amount of construction waste that most homeowners do not anticipate. Understanding what debris to expect at each stage of the project helps you plan ahead, choose the right dumpster size, and keep your property clean throughout the renovation.
+Garage conversions have become one of the most popular [home improvement projects in Jacksonville](/). Whether you are creating a home office, an in-law suite, a rental apartment, or additional living space for a growing family, converting an attached or detached garage involves a substantial amount of construction waste that most homeowners do not anticipate. Understanding what debris to expect at each stage of the project helps you plan ahead, choose the right dumpster size, and keep your property clean throughout the renovation.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -179,7 +179,7 @@ Before we get into the waste details, it is worth noting that garage conversions
 
 The City of Jacksonville Building Inspection Division handles permits for garage conversions. You will typically need permits for structural work, electrical, plumbing (if adding a bathroom or kitchenette), and mechanical (HVAC). Each inspection must pass before the next phase of work begins, which means debris from the previous phase needs to be removed promptly.
 
-Homeowners in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) should check with Clay County for their specific permit requirements, as they differ from Duval County.
+Homeowners in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), and [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) should check with [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) for their specific permit requirements, as they differ from Duval County.
 
 ## Phase-by-Phase Waste Breakdown
 
@@ -255,7 +255,7 @@ This is one of the most common questions homeowners ask, and it directly affects
 
 However, conversions done without permits can actually decrease property value. Unpermitted work creates problems during home inspections, title searches, and mortgage appraisals. The cost of pulling proper permits is minimal compared to the long-term value, and it ensures the work meets safety codes for electrical, plumbing, and structural integrity.
 
-Neighborhoods in Jacksonville where garage conversions tend to add the most value include Riverside, San Marco, Murray Hill, Springfield, and the beaches communities in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) where space is at a premium.
+Neighborhoods in Jacksonville where garage conversions tend to add the most value include [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, Murray Hill, Springfield, and the beaches communities in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) where space is at a premium.
 
 ## Waste Management Tips for Garage Conversions
 
@@ -322,7 +322,7 @@ Most garage conversions take 4 to 8 weeks depending on scope, permit approval ti
     content: `
 ## How to Prepare for a Kitchen Renovation Cleanup
 
-A kitchen renovation is one of the most impactful home improvement projects you can take on, but it also generates one of the largest volumes of waste. Ripping out old cabinets, countertops, flooring, backsplash, and appliances from an average Jacksonville kitchen produces 6 to 12 cubic yards of debris before new materials even arrive. If you do not plan for waste removal before demolition day, you will find yourself surrounded by piles of broken tile, splintered cabinets, and old drywall with nowhere to put it.
+A kitchen renovation is one of the most impactful home improvement projects you can take on, but it also generates one of the largest volumes of waste. Ripping out old cabinets, countertops, flooring, backsplash, and appliances from an [average Jacksonville kitchen](/) produces 6 to 12 cubic yards of debris before new materials even arrive. If you do not plan for waste removal before demolition day, you will find yourself surrounded by piles of broken tile, splintered cabinets, and old drywall with nowhere to put it.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -472,7 +472,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ## Understanding Northeast Florida Basements
 
-While full basements are less common in Jacksonville proper due to the high water table and sandy soil, they are more prevalent in certain areas of Northeast Florida, particularly in older homes and elevated properties in communities like [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), and some neighborhoods in Clay County including [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) and [Middleburg](/dumpster-rental-middleburg-fl). Many homes also have partial basements, crawl spaces that have been enclosed, or ground-level lower floors that function similarly to basements.
+While full basements are less common in [Jacksonville proper](/) due to the high water table and sandy soil, they are more prevalent in certain areas of Northeast Florida, particularly in older homes and elevated properties in communities like [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), and some neighborhoods in [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) including [Green Cove Springs](/dumpster-rental-green-cove-springs-fl) and [Middleburg](/dumpster-rental-middleburg-fl). Many homes also have partial basements, crawl spaces that have been enclosed, or ground-level lower floors that function similarly to basements.
 
 Florida's climate creates unique challenges for below-grade and ground-level spaces. High humidity, heavy seasonal rains, and occasional flooding mean that moisture intrusion is the most common issue homeowners face before they can even begin a basement renovation.
 
@@ -614,7 +614,7 @@ If the renovation involves structural changes, electrical work, plumbing, or HVA
     content: `
 ## Deck Removal and Replacement Waste Planning
 
-Jacksonville's climate is tough on outdoor structures. The combination of intense sun, high humidity, heavy rain, and occasional tropical storms means that wooden decks in Northeast Florida have a shorter lifespan than in drier regions. When your deck reaches the end of its useful life and needs to be removed or replaced, the demolition generates a surprising volume of heavy, bulky waste that requires proper planning. This guide covers everything you need to know about the waste side of deck removal and replacement projects.
+[Jacksonville's climate](/) is tough on outdoor structures. The combination of intense sun, high humidity, heavy rain, and occasional tropical storms means that wooden decks in Northeast Florida have a shorter lifespan than in drier regions. When your deck reaches the end of its useful life and needs to be removed or replaced, the demolition generates a surprising volume of heavy, bulky waste that requires proper planning. This guide covers everything you need to know about the waste side of deck removal and replacement projects.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -660,7 +660,7 @@ A 300-square-foot pressure-treated pine deck with standard joists, beams, and po
 
 This is one of the most common questions homeowners ask. In Jacksonville and Duval County, deck removal (demolition only) generally does not require a building permit. However, if you are replacing the deck with a new structure, the new deck will require a permit from the City of Jacksonville Building Inspection Division.
 
-The rules can vary by jurisdiction. If your property is in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), or other Clay County communities, check with the Clay County Building Department. Properties in [St. Augustine](/dumpster-rental-st-augustine-fl) fall under St. Johns County regulations, and homes in historic districts may have additional requirements.
+The rules can vary by jurisdiction. If your property is in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), or other [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) communities, check with the Clay County Building Department. Properties in [St. Augustine](/dumpster-rental-st-augustine-fl) fall under [St. Johns County](/blog/dumpster-rental-st-johns-county-fl) regulations, and homes in historic districts may have additional requirements.
 
 For properties in HOA communities, check your association rules. Some HOAs require advance notice before demolition work begins, and many have rules about dumpster placement and duration.
 
@@ -758,7 +758,7 @@ A small to medium deck can be demolished in one day by a crew of two to three pe
     content: `
 ## Attic and Basement Cleanout Decluttering Guide
 
-Every Jacksonville home has at least one space that has become the default dumping ground for things that do not have a home anywhere else. Attics, basements, bonus rooms above garages, and oversized closets slowly accumulate years of furniture, holiday decorations, old clothing, broken appliances, and boxes that have not been opened since the last move. When you finally decide to reclaim that space, the biggest challenge is not the sorting but the disposal. Where do you take old furniture? How do you get rid of bulky items that do not fit in your curbside bin? What do you do with metal cabinets, broken electronics, and items too large for your car?
+Every [Jacksonville home](/) has at least one space that has become the default dumping ground for things that do not have a home anywhere else. Attics, basements, bonus rooms above garages, and oversized closets slowly accumulate years of furniture, holiday decorations, old clothing, broken appliances, and boxes that have not been opened since the last move. When you finally decide to reclaim that space, the biggest challenge is not the sorting but the disposal. Where do you take old furniture? How do you get rid of bulky items that do not fit in your curbside bin? What do you do with metal cabinets, broken electronics, and items too large for your car?
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -897,7 +897,7 @@ Hazardous materials including paint, chemicals, batteries, propane tanks, and mo
     content: `
 ## Where to Dispose of Old Paint in Jacksonville FL
 
-If you have ever opened your garage, shed, or storage closet and found a collection of half-used paint cans from projects going back years, you are not alone. Old paint is one of the most common household items that people struggle to get rid of. You know you should not just throw it in the regular trash, but you are not sure where it actually goes. In Jacksonville and Duval County, the answer depends on what type of paint you have and how much is left in the can.
+If you have ever opened your garage, shed, or storage closet and found a collection of half-used paint cans from projects going back years, you are not alone. Old paint is one of the most common household items that people struggle to get rid of. You know you should not just throw it in the regular trash, but you are not sure where it actually goes. In [Jacksonville and Duval County](/), the answer depends on what type of paint you have and how much is left in the can.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1053,7 +1053,7 @@ For major renovation projects that generate multiple gallons of old paint, sched
 
 If you have never rented a dumpster before, the process might seem intimidating. You might be picturing the massive green dumpsters behind restaurants and thinking that cannot possibly be what goes in your driveway. The reality is that residential roll-off dumpsters are specifically designed for homeowner use, they are smaller, cleaner, and delivered directly to your property on a schedule you choose. Whether you are tackling a home cleanout, renovation project, landscaping overhaul, or just finally dealing with years of accumulated junk, renting a dumpster is one of the simplest and most affordable ways to handle large-volume waste removal.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+At [904 Dumpster](https://www.904dumpster.com), we are a [locally owned dumpster rental company serving Jacksonville](/) and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## How Does Dumpster Rental Work?
 
@@ -1267,7 +1267,7 @@ Great question. Read our blog post on [where does trash go after you throw it aw
     content: `
 ## Summer Home Maintenance Tips for Jacksonville Homeowners
 
-Jacksonville summers are no joke. With temperatures regularly hitting the mid-90s, humidity that makes it feel even hotter, and afternoon thunderstorms rolling through like clockwork, your home takes a beating from June through September. The smart move is to tackle summer preparation projects in the spring, before the heat makes outdoor work unbearable and before hurricane season adds another layer of urgency. Many of these maintenance tasks generate waste that needs proper disposal, from old insulation and worn-out outdoor furniture to landscape debris and renovation materials.
+[Jacksonville summers](/) are no joke. With temperatures regularly hitting the mid-90s, humidity that makes it feel even hotter, and afternoon thunderstorms rolling through like clockwork, your home takes a beating from June through September. The smart move is to tackle summer preparation projects in the spring, before the heat makes outdoor work unbearable and before hurricane season adds another layer of urgency. Many of these maintenance tasks generate waste that needs proper disposal, from old insulation and worn-out outdoor furniture to landscape debris and renovation materials.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1281,7 +1281,7 @@ Outdoor condenser units need at least 2 to 3 feet of clearance on all sides for 
 
 ### Attic Insulation Assessment
 
-Jacksonville's heat makes attic insulation a critical factor in keeping your home comfortable. If your home was built before the 1990s, the insulation may be inadequate by modern standards. Homes in neighborhoods like Arlington, Mandarin, Murray Hill, and the Westside frequently have attics with insufficient or damaged insulation.
+Jacksonville's heat makes attic insulation a critical factor in keeping your home comfortable. If your home was built before the 1990s, the insulation may be inadequate by modern standards. Homes in neighborhoods like [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), Murray Hill, and the Westside frequently have attics with insufficient or damaged insulation.
 
 If you decide to replace attic insulation, the old material generates significant waste. Fiberglass batt insulation from a 1,500-square-foot attic can produce 4 to 6 cubic yards of waste. A [10-yard dumpster](/10-yard-dumpster-rental) handles the removal phase well. For more on tackling attic projects, see our [attic and basement cleanout guide](/blog/attic-basement-cleanout-decluttering-disposal).
 
@@ -1416,7 +1416,7 @@ Yes. Branches, leaves, shrubs, mulch, and general yard debris are all accepted i
     content: `
 ## Commercial Roll-Off Dumpster Guide for Jacksonville Businesses
 
-Jacksonville's business community generates an enormous amount of waste every day. From retail stores clearing inventory to contractors hauling construction debris, from property managers handling tenant turnovers to restaurants managing renovations, commercial waste disposal is a constant need. If your business requires temporary, project-based waste removal, a roll-off dumpster provides the flexibility and capacity that standard permanent containers cannot match. This guide covers sizing, planning, and project workflows. For pricing and booking, see our [commercial dumpster rental in Jacksonville FL](/commercial-dumpster-rental-jacksonville-fl) page.
+[Jacksonville's business community](/) generates an enormous amount of waste every day. From retail stores clearing inventory to contractors hauling construction debris, from property managers handling tenant turnovers to restaurants managing renovations, commercial waste disposal is a constant need. If your business requires temporary, project-based waste removal, a roll-off dumpster provides the flexibility and capacity that standard permanent containers cannot match. This guide covers sizing, planning, and project workflows. For pricing and booking, see our [commercial dumpster rental in Jacksonville FL](/commercial-dumpster-rental-jacksonville-fl) page.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1564,10 +1564,10 @@ For more details on what commercial construction and renovation materials can be
 
 We provide commercial dumpster rental service throughout Northeast Florida:
 
-- **Duval County:** All of Jacksonville including Downtown, Southside, Northside, Westside, Arlington, Mandarin, and the Beaches
-- **St. Johns County:** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee, World Golf Village
-- **Clay County:** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
-- **Nassau County:** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Yulee, Callahan
+- **Duval County:** All of Jacksonville including Downtown, Southside, Northside, Westside, [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), and the Beaches
+- **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee, World Golf Village
+- **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
+- **[Nassau County](/blog/nassau-county-dumpster-rental-fl):** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Yulee, Callahan
 
 Same flat-rate pricing applies across our entire service area with no distance surcharges.
 

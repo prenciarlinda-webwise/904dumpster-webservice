@@ -184,7 +184,7 @@ A roll off dumpster is an open-top container delivered on a flatbed truck for te
     content: `
 ## How to Prepare for a Roof Replacement and Plan Debris
 
-A roof replacement is one of the largest home improvement projects you will ever take on, and it generates a surprising amount of waste. A typical single-layer tear-off on a 2,000 square foot home produces between 3,000 and 5,000 pounds of old shingles, underlayment, flashing, and nails. If your Jacksonville home has multiple layers of shingles, that number can double. Preparing your property for the roofing crew and planning for debris disposal are two things that often get overlooked but make a huge difference in how smoothly the project goes.
+A roof replacement is one of the largest home improvement projects you will ever take on, and it generates a surprising amount of waste. A typical single-layer tear-off on a 2,000 square foot home produces between 3,000 and 5,000 pounds of old shingles, underlayment, flashing, and nails. If your [Jacksonville home](/) has multiple layers of shingles, that number can double. Preparing your property for the roofing crew and planning for debris disposal are two things that often get overlooked but make a huge difference in how smoothly the project goes.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -243,7 +243,7 @@ Move all vehicles out of the driveway and away from the house. Park them down th
 
 ### Alert Your Neighbors
 
-A roof replacement is loud and creates dust. Let your neighbors know the dates of the project so they can bring in patio furniture, close windows, and move their own vehicles if needed. This is especially important in Jacksonville neighborhoods with tighter lot spacing like Riverside, San Marco, Murray Hill, and Springfield.
+A roof replacement is loud and creates dust. Let your neighbors know the dates of the project so they can bring in patio furniture, close windows, and move their own vehicles if needed. This is especially important in Jacksonville neighborhoods with tighter lot spacing like [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, Murray Hill, and Springfield.
 
 ### Secure Attic and Interior Items
 
@@ -322,7 +322,7 @@ Yes, as long as the additional items are acceptable dumpster materials. However,
     content: `
 ## Yard Waste and Landscaping Debris Disposal Guide
 
-Every homeowner in Jacksonville deals with yard waste at some point. Whether it is a weekend of trimming hedges and raking leaves, a full landscape renovation, storm cleanup after a summer thunderstorm, or clearing an overgrown lot, you need to know where to dispose of yard waste and which method is the most efficient for your situation. The options range from curbside pickup and yard debris drop-off sites to landscape dumpster rental for larger projects. This guide covers all of them so you can choose the right approach for your specific yard waste cleanup.
+Every homeowner in [Jacksonville](/) deals with yard waste at some point. Whether it is a weekend of trimming hedges and raking leaves, a full landscape renovation, storm cleanup after a summer thunderstorm, or clearing an overgrown lot, you need to know where to dispose of yard waste and which method is the most efficient for your situation. The options range from curbside pickup and yard debris drop-off sites to landscape dumpster rental for larger projects. This guide covers all of them so you can choose the right approach for your specific yard waste cleanup.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -481,7 +481,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ## How Much Does It Cost to Remove a Concrete Driveway?
 
-The cost to remove a concrete driveway depends on the size of the driveway, the thickness of the concrete, whether rebar is present, accessibility, and your location. Here is what Jacksonville homeowners can generally expect:
+The cost to remove a concrete driveway depends on the size of the driveway, the thickness of the concrete, whether rebar is present, accessibility, and your location. Here is what [Jacksonville homeowners](/) can generally expect:
 
 | Project Type | Cost Range (per sq ft) | Typical Total Cost | What Is Included |
 |---|---|---|---|
@@ -498,7 +498,7 @@ These ranges reflect the cost to remove a concrete slab or driveway when you hir
 
 **Rebar or wire mesh.** Reinforced concrete with embedded rebar or wire mesh is harder to break apart and takes longer to process. Expect a 20-30 percent cost increase for reinforced slabs.
 
-**Accessibility.** If the driveway is in a tight space, on a slope, or has limited access for heavy equipment, the cost increases. Jacksonville homes in older neighborhoods like Riverside, Avondale, and San Marco sometimes have access challenges.
+**Accessibility.** If the driveway is in a tight space, on a slope, or has limited access for heavy equipment, the cost increases. Jacksonville homes in older neighborhoods like [Riverside, Avondale](/blog/dumpster-rental-riverside-avondale-jacksonville), and San Marco sometimes have access challenges.
 
 **Disposal method.** How the contractor handles the debris affects the total price. Some haul it themselves, some require you to rent a dumpster, and some use a combination approach.
 
@@ -620,7 +620,7 @@ You may need a permit for driveway removal and replacement in Duval County. The 
     content: `
 ## Where to Dispose of Old Tires in Jacksonville FL
 
-Whether you have a few tires from a recent vehicle change, a pile left behind by a previous property owner, or a bulk tire disposal need from a commercial operation, getting rid of old tires in Jacksonville requires knowing your options. Tires cannot go in your regular trash pickup, and they are one of the items that [cannot go in a standard dumpster](/blog/what-cannot-go-in-dumpster). Florida law prohibits disposing of whole tires in landfills, so they need to be recycled or processed through approved facilities. The good news is that Jacksonville has several options for tire disposal, including some that are free.
+Whether you have a few tires from a recent vehicle change, a pile left behind by a previous property owner, or a bulk tire disposal need from a commercial operation, [getting rid of old tires in Jacksonville](/) requires knowing your options. Tires cannot go in your regular trash pickup, and they are one of the items that [cannot go in a standard dumpster](/blog/what-cannot-go-in-dumpster). Florida law prohibits disposing of whole tires in landfills, so they need to be recycled or processed through approved facilities. The good news is that Jacksonville has several options for tire disposal, including some that are free.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -703,9 +703,9 @@ You can report illegal dumping by calling 630-CITY (630-2489) or through the MyJ
 
 If you are located outside of Jacksonville proper but in the surrounding area, here are some notes for your community:
 
-- **[St. Augustine](/dumpster-rental-st-augustine-fl) and St. Johns County:** St. Johns County has its own solid waste facility that accepts tires from residents.
-- **[Orange Park](/dumpster-rental-orange-park-fl) and Clay County:** The Rosemary Hill Landfill in Clay County accepts tires for a per-tire fee.
-- **[Fernandina Beach](/dumpster-rental-fernandina-beach-fl) and Nassau County:** Nassau County's solid waste facility on US-17 accepts tires from residents.
+- **[St. Augustine](/dumpster-rental-st-augustine-fl) and [St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** St. Johns County has its own solid waste facility that accepts tires from residents.
+- **[Orange Park](/dumpster-rental-orange-park-fl) and [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** The Rosemary Hill Landfill in Clay County accepts tires for a per-tire fee.
+- **[Fernandina Beach](/dumpster-rental-fernandina-beach-fl) and [Nassau County](/blog/nassau-county-dumpster-rental-fl):** Nassau County's solid waste facility on US-17 accepts tires from residents.
 
 While tires need separate handling, we serve all of these communities with [dumpster rental](/residential-dumpster-rental-jacksonville-fl) for the rest of your project waste. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**.
 
@@ -754,7 +754,7 @@ Recycled tires are processed into several products including crumb rubber for pl
     content: `
 ## How to Dispose of Electronics and E-Waste Responsibly
 
-Every year, American households generate millions of tons of electronic waste: old computers, broken televisions, outdated smartphones, dead printers, and dozens of other devices that have reached the end of their useful life. If you are cleaning out your home, office, or garage in Jacksonville and wondering where to throw away electronics, the answer is not your regular trash bin and not a standard dumpster. Electronic waste, or e-waste, contains hazardous materials like lead, mercury, cadmium, and flame retardants that can leach into soil and groundwater when improperly disposed of. Responsible e-waste disposal protects both the environment and your personal data.
+Every year, American households generate millions of tons of electronic waste: old computers, broken televisions, outdated smartphones, dead printers, and dozens of other devices that have reached the end of their useful life. If you are [cleaning out your home, office, or garage in Jacksonville](/) and wondering where to throw away electronics, the answer is not your regular trash bin and not a standard dumpster. Electronic waste, or e-waste, contains hazardous materials like lead, mercury, cadmium, and flame retardants that can leach into soil and groundwater when improperly disposed of. Responsible e-waste disposal protects both the environment and your personal data.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -897,7 +897,7 @@ Florida does not have a statewide ban on e-waste in household trash, but certain
     content: `
 ## Construction Dumpster Rental Guide for Contractors
 
-Managing construction waste efficiently is one of the factors that separates well-run job sites from chaotic ones. Whether you are framing a new build, gutting a kitchen, or managing a commercial renovation in Jacksonville, having the right construction site dumpster in place from day one keeps your crew productive, your site clean, and your project on schedule. This guide covers everything contractors and project managers need to know about construction dumpster rental, from choosing the right construction waste container to managing costs and scheduling pickups across multiple job sites.
+Managing construction waste efficiently is one of the factors that separates well-run job sites from chaotic ones. Whether you are framing a new build, gutting a kitchen, or [managing a commercial renovation in Jacksonville](/), having the right construction site dumpster in place from day one keeps your crew productive, your site clean, and your project on schedule. This guide covers everything contractors and project managers need to know about construction dumpster rental, from choosing the right construction waste container to managing costs and scheduling pickups across multiple job sites.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1047,7 +1047,7 @@ Hazardous materials like paint, solvents, chemical adhesives, asbestos-containin
     content: `
 ## How to Plan for Demolition Debris on Demo Projects
 
-Demolition projects generate more waste per square foot than almost any other type of construction work. Whether you are doing a full gut rehab of a Jacksonville bungalow, a studs-out remodel of a kitchen and bathroom, or overseeing the teardown of an entire structure, the debris volume can be staggering. A single gutted room can fill a 10-yard dumpster, and a full gut house project on a typical 1,500 square foot home can produce 20-40 cubic yards of demolition debris weighing tens of thousands of pounds. Planning for this waste before the first wall comes down is essential to keeping your project on budget and your site safe.
+Demolition projects generate more waste per square foot than almost any other type of construction work. Whether you are doing a full gut rehab of a [Jacksonville bungalow](/), a studs-out remodel of a kitchen and bathroom, or overseeing the teardown of an entire structure, the debris volume can be staggering. A single gutted room can fill a 10-yard dumpster, and a full gut house project on a typical 1,500 square foot home can produce 20-40 cubic yards of demolition debris weighing tens of thousands of pounds. Planning for this waste before the first wall comes down is essential to keeping your project on budget and your site safe.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1135,7 +1135,7 @@ Several factors can push your actual debris volume above these estimates:
 
 ## Demo Dumpster Rental for Jacksonville Neighborhoods
 
-Jacksonville's older neighborhoods are particularly active for gut rehab and renovation projects. Homes in Riverside, Avondale, San Marco, Springfield, Murray Hill, and the beaches communities often undergo full gut rehabs that return historic properties to their former condition or adapt them for modern living.
+Jacksonville's older neighborhoods are particularly active for gut rehab and renovation projects. Homes in [Riverside, Avondale](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, Springfield, Murray Hill, and the beaches communities often undergo full gut rehabs that return historic properties to their former condition or adapt them for modern living.
 
 We deliver demolition dumpsters throughout these neighborhoods and the broader Northeast Florida region including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), and [St. Augustine](/dumpster-rental-st-augustine-fl).
 
@@ -1186,7 +1186,7 @@ Demolition is the rapid mechanical teardown of a structure or space. Deconstruct
     content: `
 ## Dog-Friendly Backyard Makeover Waste Planning Guide
 
-Creating a dog-friendly backyard is one of the most rewarding home improvement projects for pet owners, but it also generates more waste than most people expect. Tearing out old fencing, removing existing landscaping, pulling up damaged sod, replacing worn decking, and clearing space for new dog-safe features all produce debris that needs to go somewhere. Whether you are installing a xeriscape yard, adding privacy fencing, replacing a driveway border, or building a dedicated dog run, planning for waste disposal before you start saves time, money, and frustration. This guide walks Jacksonville dog owners through the waste planning side of a backyard makeover so you can focus on creating the best yard for dogs.
+Creating a dog-friendly backyard is one of the most rewarding home improvement projects for pet owners, but it also generates more waste than most people expect. Tearing out old fencing, removing existing landscaping, pulling up damaged sod, replacing worn decking, and clearing space for new dog-safe features all produce debris that needs to go somewhere. Whether you are installing a xeriscape yard, adding privacy fencing, replacing a driveway border, or building a dedicated dog run, planning for waste disposal before you start saves time, money, and frustration. This guide walks [Jacksonville dog owners](/) through the waste planning side of a backyard makeover so you can focus on creating the best yard for dogs.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1321,7 +1321,7 @@ Yes. We deliver throughout Northeast Florida including [Jacksonville Beach](/dum
     content: `
 ## Aging in Place Home Renovations and Accessibility Remodeling
 
-As Jacksonville's population ages, more homeowners are choosing to renovate their existing homes rather than move to assisted living facilities. Aging in place renovations range from simple grab bar installations to complete bathroom overhauls, doorway widening, and the construction of full mother-in-law suites. These accessibility remodeling projects make homes safer and more comfortable for aging residents or family members with disabilities, but they also generate construction waste that needs to be handled. Whether you are doing a bathroom remodel, building an in-law suite, or making multiple accessibility modifications throughout the house, understanding what waste to expect and how to dispose of it keeps your project moving smoothly.
+As [Jacksonville's population](/) ages, more homeowners are choosing to renovate their existing homes rather than move to assisted living facilities. Aging in place renovations range from simple grab bar installations to complete bathroom overhauls, doorway widening, and the construction of full mother-in-law suites. These accessibility remodeling projects make homes safer and more comfortable for aging residents or family members with disabilities, but they also generate construction waste that needs to be handled. Whether you are doing a bathroom remodel, building an in-law suite, or making multiple accessibility modifications throughout the house, understanding what waste to expect and how to dispose of it keeps your project moving smoothly.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 

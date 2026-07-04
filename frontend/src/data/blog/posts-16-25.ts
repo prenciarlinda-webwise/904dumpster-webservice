@@ -189,7 +189,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
 
 Weight limits are the part of dumpster rental that catches most people off guard. You order a dumpster, fill it up, and then get hit with an overage charge because the contents weighed more than expected. The truth is that volume and weight are two very different things. A 20-yard dumpster full of cardboard boxes weighs far less than the same dumpster half-filled with concrete. Understanding dumpster weight limits before you rent saves you from surprise fees and helps you choose the right container for your project.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving [Jacksonville and Northeast Florida](/) since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## How Much Does an Empty Dumpster Weigh?
 
@@ -484,7 +484,7 @@ Standard weight allowances cover most household and construction debris. Extreme
     content: `
 ## Do You Need a Dumpster Permit? Permit Guide for Jacksonville FL
 
-One of the most common questions we hear is "do you need a permit for a dumpster?" The short answer for most Jacksonville homeowners is no, as long as the dumpster sits on your private property. But if your driveway is too short, your yard is not accessible, or you need to place the container on a public street or sidewalk, the rules change. This guide covers everything you need to know about dumpster permits, placement rules, and regulations in Jacksonville and Northeast Florida.
+One of the most common questions we hear is "do you need a permit for a dumpster?" The short answer for most [Jacksonville homeowners](/) is no, as long as the dumpster sits on your private property. But if your driveway is too short, your yard is not accessible, or you need to place the container on a public street or sidewalk, the rules change. This guide covers everything you need to know about dumpster permits, placement rules, and regulations in Jacksonville and Northeast Florida.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -532,10 +532,10 @@ Dumpster rules and regulations vary by municipality across Northeast Florida:
 |----------|-------------------|-----------------|
 | **Jacksonville (Duval County)** | No permit needed | Right-of-way permit required |
 | **[St. Augustine](/dumpster-rental-st-augustine-fl)** | No permit needed | Permit required, historic district has extra rules |
-| **[Orange Park](/dumpster-rental-orange-park-fl)** | No permit needed | Contact Clay County for requirements |
+| **[Orange Park](/dumpster-rental-orange-park-fl)** | No permit needed | Contact [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) for requirements |
 | **[Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl)** | No permit needed | Limited street parking, permit likely needed |
 | **[Atlantic Beach](/dumpster-rental-atlantic-beach-fl)** | No permit needed | Contact city for street placement rules |
-| **[Ponte Vedra](/dumpster-rental-ponte-vedra-fl)** | No permit needed | Check St. Johns County regulations |
+| **[Ponte Vedra](/dumpster-rental-ponte-vedra-fl)** | No permit needed | Check [St. Johns County](/blog/dumpster-rental-st-johns-county-fl) regulations |
 | **[Fernandina Beach](/dumpster-rental-fernandina-beach-fl)** | No permit needed | Historic district restrictions may apply |
 | **[Neptune Beach](/dumpster-rental-neptune-beach-fl)** | No permit needed | Limited street space, permit likely needed |
 | **[Fleming Island](/dumpster-rental-fleming-island-fl)** | No permit needed | Check Clay County requirements |
@@ -646,7 +646,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ## Furniture Disposal Options Compared
 
-Here is a quick comparison of every method for getting rid of old furniture in Jacksonville:
+Here is a quick comparison of every method for getting rid of [old furniture in Jacksonville](/):
 
 | Disposal Method | Cost | Best For | Limitations |
 |----------------|------|---------|-------------|
@@ -809,7 +809,7 @@ No. Standard curbside trash cans in Jacksonville are only for household waste th
     content: `
 ## How to Dispose of Concrete, Bricks, and Heavy Debris
 
-Tearing out a concrete patio, removing an old brick walkway, or demolishing a cinder block wall creates a disposal challenge that regular trash service cannot handle. Concrete and masonry are extremely heavy, difficult to transport, and not accepted by most standard waste collection programs. Whether you are a homeowner tackling a weekend project or a contractor managing a [construction site](/construction-dumpster-rental-jacksonville-fl), this guide explains your disposal options, costs, and the best approach for heavy debris in Jacksonville.
+Tearing out a concrete patio, removing an old brick walkway, or demolishing a cinder block wall creates a disposal challenge that regular trash service cannot handle. Concrete and masonry are extremely heavy, difficult to transport, and not accepted by most standard waste collection programs. Whether you are a homeowner tackling a weekend project or a contractor managing a [construction site](/construction-dumpster-rental-jacksonville-fl), this guide explains your disposal options, costs, and the best approach for [heavy debris in Jacksonville](/).
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -970,7 +970,7 @@ Rock removal cost per cubic yard typically ranges from $50 to $150 depending on 
     content: `
 ## Fall Home Maintenance Checklist for Jacksonville Homeowners
 
-Fall in Jacksonville does not bring snow and freezing temperatures, but it does bring lower humidity, cooler evenings, and the perfect weather window for tackling outdoor projects you have been putting off all summer. October through December is arguably the best time of year to maintain your home, clean up your yard, and complete those improvement projects before the holiday season takes over your schedule. This fall home maintenance checklist is designed specifically for Jacksonville and Northeast Florida homeowners.
+[Fall in Jacksonville](/) does not bring snow and freezing temperatures, but it does bring lower humidity, cooler evenings, and the perfect weather window for tackling outdoor projects you have been putting off all summer. October through December is arguably the best time of year to maintain your home, clean up your yard, and complete those improvement projects before the holiday season takes over your schedule. This fall home maintenance checklist is designed specifically for Jacksonville and Northeast Florida homeowners.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -1134,7 +1134,7 @@ If your yard cleanup generates more than your weekly yard waste collection can h
 
 Clearing out an entire home is one of the most overwhelming tasks a family can face. Whether it is a deceased estate house clearance, helping aging parents downsize, or preparing an inherited property for sale, the questions are always the same: how much will this cost, and how long will it take? The answers depend almost entirely on how much of the work you do yourself versus hiring professionals. This guide gives you realistic cost estimates and timelines so you can plan effectively.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving [Jacksonville and Northeast Florida since 2016](/). We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## Estate Cleanout Cost Breakdown
 
@@ -1327,7 +1327,7 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ### Step 1 - Curbside Collection
 
-Where does our garbage go first? Into the collection truck. In Jacksonville, residential trash is collected by the City of Jacksonville's Solid Waste Division or contracted haulers. The trucks that pick up your curbside bins are rear-loading or automated side-loading vehicles that compact trash as they collect it. A single garbage truck can hold 12 to 14 tons of compacted waste, collecting from hundreds of homes on each route.
+Where does our garbage go first? Into the collection truck. [In Jacksonville](/), residential trash is collected by the City of Jacksonville's Solid Waste Division or contracted haulers. The trucks that pick up your curbside bins are rear-loading or automated side-loading vehicles that compact trash as they collect it. A single garbage truck can hold 12 to 14 tons of compacted waste, collecting from hundreds of homes on each route.
 
 Recyclable materials go into separate trucks (or separate compartments) and follow a different path, which we will cover below.
 
@@ -1480,7 +1480,7 @@ Yes. Donate usable items, recycle properly, separate materials during projects, 
 
 One of the most common questions people ask when renting a dumpster for the first time is "what can I throw in a dumpster?" The good news is that the vast majority of household, construction, and commercial waste can go in a roll-off dumpster without any issues. But there are important exceptions. Putting prohibited items in a dumpster can result in additional fees, load rejection at the landfill, or even legal penalties. This guide covers everything you can and cannot throw in a dumpster so there are no surprises.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+At [904 Dumpster](https://www.904dumpster.com), we are a locally owned [dumpster rental company serving Jacksonville](/) and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
 ## What Can Be Thrown in a Dumpster
 
