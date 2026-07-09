@@ -58,12 +58,43 @@ export const metadata: Metadata = {
   },
 }
 
-// Service Areas for Geo Section
+// Service Areas for Geo Section. Each area links to its dedicated location page when one
+// exists; areas without a dedicated page point to the most relevant service page instead of
+// the homepage, so this section doesn't cannibalize those pages' own geo-targeting.
 const SERVICE_AREAS = {
-  duval: ['Jacksonville', 'Jacksonville Beach', 'Atlantic Beach', 'Neptune Beach', 'Arlington', 'Riverside', 'San Marco', 'Mandarin', 'Southside', 'Northside'],
-  stJohns: ['St. Augustine', 'Ponte Vedra Beach', 'Nocatee', 'St. Johns', 'Fruit Cove', 'Julington Creek'],
-  clay: ['Orange Park', 'Fleming Island', 'Middleburg', 'Green Cove Springs', 'Oakleaf'],
-  nassau: ['Fernandina Beach', 'Yulee', 'Callahan', 'Hilliard'],
+  duval: [
+    { name: 'Jacksonville', href: '/' },
+    { name: 'Jacksonville Beach', href: '/dumpster-rental-jacksonville-beach-fl' },
+    { name: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl' },
+    { name: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl' },
+    { name: 'Arlington', href: '/dumpster-rental-arlington-fl' },
+    { name: 'Riverside', href: '/residential-dumpster-rental-jacksonville-fl' },
+    { name: 'San Marco', href: '/residential-dumpster-rental-jacksonville-fl' },
+    { name: 'Mandarin', href: '/residential-dumpster-rental-jacksonville-fl' },
+    { name: 'Southside', href: '/residential-dumpster-rental-jacksonville-fl' },
+    { name: 'Northside', href: '/residential-dumpster-rental-jacksonville-fl' },
+  ],
+  stJohns: [
+    { name: 'St. Augustine', href: '/dumpster-rental-st-augustine-fl' },
+    { name: 'Ponte Vedra Beach', href: '/dumpster-rental-ponte-vedra-fl' },
+    { name: 'Nocatee', href: '/dumpster-rental-ponte-vedra-fl' },
+    { name: 'St. Johns', href: '/dumpster-rental-st-augustine-fl' },
+    { name: 'Fruit Cove', href: '/dumpster-rental-st-augustine-fl' },
+    { name: 'Julington Creek', href: '/dumpster-rental-st-augustine-fl' },
+  ],
+  clay: [
+    { name: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
+    { name: 'Fleming Island', href: '/dumpster-rental-fleming-island-fl' },
+    { name: 'Middleburg', href: '/dumpster-rental-middleburg-fl' },
+    { name: 'Green Cove Springs', href: '/dumpster-rental-green-cove-springs-fl' },
+    { name: 'Oakleaf', href: '/dumpster-rental-orange-park-fl' },
+  ],
+  nassau: [
+    { name: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl' },
+    { name: 'Yulee', href: '/dumpster-rental-fernandina-beach-fl' },
+    { name: 'Callahan', href: '/dumpster-rental-fernandina-beach-fl' },
+    { name: 'Hilliard', href: '/dumpster-rental-hilliard-fl' },
+  ],
 }
 
 // FAQ Data - 4 highest-value questions for the homepage.
@@ -1064,9 +1095,9 @@ export default function HomePage() {
                     </h3>
                     <ul className="space-y-2 text-gray-600">
                       {SERVICE_AREAS.duval.map((area) => (
-                        <li key={area} className="flex items-center gap-2">
-                          <CheckCircle2 className="w-4 h-4 text-primary" />
-                          {area}
+                        <li key={area.name} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary flex-shrink-0" />
+                          <Link href={area.href} className="hover:text-primary hover:underline">{area.name}</Link>
                         </li>
                       ))}
                     </ul>
@@ -1078,9 +1109,9 @@ export default function HomePage() {
                     </h3>
                     <ul className="space-y-2 text-gray-600">
                       {SERVICE_AREAS.stJohns.map((area) => (
-                        <li key={area} className="flex items-center gap-2">
-                          <CheckCircle2 className="w-4 h-4 text-primary" />
-                          {area}
+                        <li key={area.name} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary flex-shrink-0" />
+                          <Link href={area.href} className="hover:text-primary hover:underline">{area.name}</Link>
                         </li>
                       ))}
                     </ul>
@@ -1092,9 +1123,9 @@ export default function HomePage() {
                     </h3>
                     <ul className="space-y-2 text-gray-600">
                       {SERVICE_AREAS.clay.map((area) => (
-                        <li key={area} className="flex items-center gap-2">
-                          <CheckCircle2 className="w-4 h-4 text-primary" />
-                          {area}
+                        <li key={area.name} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary flex-shrink-0" />
+                          <Link href={area.href} className="hover:text-primary hover:underline">{area.name}</Link>
                         </li>
                       ))}
                     </ul>
@@ -1106,9 +1137,9 @@ export default function HomePage() {
                     </h3>
                     <ul className="space-y-2 text-gray-600">
                       {SERVICE_AREAS.nassau.map((area) => (
-                        <li key={area} className="flex items-center gap-2">
-                          <CheckCircle2 className="w-4 h-4 text-primary" />
-                          {area}
+                        <li key={area.name} className="flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-primary flex-shrink-0" />
+                          <Link href={area.href} className="hover:text-primary hover:underline">{area.name}</Link>
                         </li>
                       ))}
                     </ul>

@@ -33,6 +33,7 @@ const SITEMAP = {
     title: 'Service Areas',
     links: [
       { label: 'Jacksonville, FL', href: '/' },
+      { label: 'Arlington, FL', href: '/dumpster-rental-arlington-fl' },
       { label: 'St. Augustine, FL', href: '/dumpster-rental-st-augustine-fl' },
       { label: 'Ponte Vedra Beach, FL', href: '/dumpster-rental-ponte-vedra-fl' },
       { label: 'Jacksonville Beach, FL', href: '/dumpster-rental-jacksonville-beach-fl' },
@@ -43,6 +44,7 @@ const SITEMAP = {
       { label: 'Green Cove Springs, FL', href: '/dumpster-rental-green-cove-springs-fl' },
       { label: 'Middleburg, FL', href: '/dumpster-rental-middleburg-fl' },
       { label: 'Fernandina Beach, FL', href: '/dumpster-rental-fernandina-beach-fl' },
+      { label: 'Hilliard, FL', href: '/dumpster-rental-hilliard-fl' },
     ],
   },
   resources: {
