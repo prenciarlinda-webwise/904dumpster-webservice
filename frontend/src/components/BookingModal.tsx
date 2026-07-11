@@ -5,7 +5,16 @@ import { X } from 'lucide-react'
 
 export const BOOKING_EVENT = 'open-booking-modal'
 
-export function openBookingModal() {
+// Modal-based booking CTAs (BookingTrigger) never navigate to an <a href="...app.icans.ai...">
+// link, so the generic anchor-click listener in GTMTracking.tsx can't see them. Push the same
+// booking_click event here so modal triggers are tracked identically to plain booking links.
+export function openBookingModal(linkText?: string) {
+  window.dataLayer = window.dataLayer || []
+  window.dataLayer.push({
+    event: 'booking_click',
+    click_location: window.location.pathname,
+    link_text: linkText || 'Book Now (modal)',
+  })
   window.dispatchEvent(new Event(BOOKING_EVENT))
 }
 

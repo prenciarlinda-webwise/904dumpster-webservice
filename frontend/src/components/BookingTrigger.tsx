@@ -14,7 +14,7 @@ export default function BookingTrigger({ className, title, children }: Props) {
     <button
       type="button"
       title={title}
-      onClick={openBookingModal}
+      onClick={() => openBookingModal(typeof children === 'string' ? children : title)}
       className={className}
     >
       {children}
