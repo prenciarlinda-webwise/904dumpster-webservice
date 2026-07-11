@@ -232,7 +232,7 @@ Jacksonville participates in the **PaintCare program**. Certain local retailers 
 
 **Participating Stores** (limits apply, usually 5 gallons per visit):
 
-- **Sherwin-Williams ([Mandarin](/blog/dumpster-rental-mandarin-fl))**: 10960 San Jose Blvd
+- **Sherwin-Williams ([Mandarin](/dumpster-rental-mandarin-fl))**: 10960 San Jose Blvd
 - **PPG Paints (Southside)**: 8234 Philips Hwy
 - **Sherwin-Williams (Jax Beach)**: 1316 3rd St S
 - **Sherwin-Williams ([Orange Park](/dumpster-rental-orange-park-fl))**: 1910 Park Ave
@@ -644,7 +644,7 @@ The [10-yard dumpster](/10-yard-dumpster-rental) is our most compact option, mak
 - Deck removal
 - Flooring replacement projects
 
-The [15-yard dumpster](/15-yard-dumpster-rental) is our most popular size in Jacksonville. It provides significantly more capacity than the 10-yard while still fitting in most residential driveways. Perfect for projects in [Riverside, San Marco](/dumpster-rental-jacksonville-beach-fl), and other established Jacksonville neighborhoods.
+The [15-yard dumpster](/15-yard-dumpster-rental) is our most popular size in Jacksonville. It provides significantly more capacity than the 10-yard while still fitting in most residential driveways. Perfect for projects in [Riverside/Avondale](/dumpster-rental-riverside-avondale-fl), [San Marco](/dumpster-rental-san-marco-fl), and other established Jacksonville neighborhoods.
 
 ### [20-Yard Dumpster](/20-yard-dumpster-rental)
 
@@ -1268,7 +1268,7 @@ Call (904) 240-5598 or [book online](https://app.icans.ai/customer-portal/904dum
 
 No, you do not need a permit for a dumpster in [Jacksonville](/) if it is placed on your private property (driveway or yard) for 30 days or less and does not obstruct sidewalks or rights-of-way. A permit is required only if the dumpster must be placed on a public street or right-of-way. Contact the City of Jacksonville Public Works Department at (904) 255-8200 for right-of-way permits.
 
-At 904 Dumpster, we place dumpsters on driveways 99% of the time, no permit needed. After 2,000+ deliveries across Jacksonville since 2016, our drivers know the placement rules for every neighborhood, from the HOA communities in Ponte Vedra to the narrow streets in [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville). Here is the complete guide by area.
+At 904 Dumpster, we place dumpsters on driveways 99% of the time, no permit needed. After 2,000+ deliveries across Jacksonville since 2016, our drivers know the placement rules for every neighborhood, from the HOA communities in Ponte Vedra to the narrow streets in [Riverside](/dumpster-rental-riverside-avondale-fl). Here is the complete guide by area.
 
 ### No Permit Needed
 - Dumpster placed on your private property (driveway, yard)

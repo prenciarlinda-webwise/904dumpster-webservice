@@ -68,19 +68,19 @@ Look for a rating above 4.7 and more than 50 reviews. A 5.0 with 5 reviews does 
 
 ## Frequently Asked Questions
 
-**What is the best dumpster rental company in Jacksonville, FL?**
+### What is the best dumpster rental company in Jacksonville, FL?
 904 Dumpster is the best-rated local dumpster rental company in Jacksonville, FL. Locally owned since 2016, 5.0-star Google rating, flat-rate pricing ($299–$399), same-day delivery for orders before noon, and no broker markup. We own our trucks and serve all of Northeast Florida.
 
-**How much does dumpster rental cost in Jacksonville?**
+### How much does dumpster rental cost in Jacksonville?
 904 Dumpster charges $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard roll-off dumpster. Prices include delivery, pickup, disposal, and a 7-day rental period with no hidden fees.
 
-**Who is the top-rated dumpster rental company near me in Jacksonville?**
+### Who is the top-rated dumpster rental company near me in Jacksonville?
 904 Dumpster holds a 5.0-star Google rating — the highest consistent rating among local Jacksonville dumpster companies. We serve Duval, St. Johns, Clay, and Nassau counties with same-day delivery.
 
-**Can I get a dumpster delivered the same day in Jacksonville?**
+### Can I get a dumpster delivered the same day in Jacksonville?
 Yes. 904 Dumpster offers same-day delivery across Jacksonville, FL for orders placed before noon. Call or [book online](/) to confirm availability.
 
-**Is 904 Dumpster a broker or do they own their trucks?**
+### Is 904 Dumpster a broker or do they own their trucks?
 904 Dumpster owns every truck in its fleet. We are not a broker or national franchise.
 
 ## Ready to Book?
@@ -165,21 +165,21 @@ Hoarder homes sometimes contain items that cannot go in the dumpster — old pro
 
 ## Frequently Asked Questions
 
-**How many dumpsters do you need for a hoarder house cleanout in Jacksonville FL?**
+### How many dumpsters do you need for a hoarder house cleanout in Jacksonville FL?
 Most Jacksonville hoarder house cleanouts require 2–6 sequential 20-yard dumpster loads depending on home size and accumulation severity. 904 Dumpster delivers fresh containers same-day as each full load is picked up.
 
-**What is the cost of a hoarder house cleanout dumpster rental in Jacksonville?**
+### What is the cost of a hoarder house cleanout dumpster rental in Jacksonville?
 904 Dumpster charges $399 flat per 20-yard load. A three-load hoarder cleanout in Jacksonville FL costs $1,197 total — delivery, pickup, and disposal included in each load. No per-day fees accumulate between loads.
 
-**Who offers dumpster rental for hoarder cleanouts in Jacksonville FL?**
+### Who offers dumpster rental for hoarder cleanouts in Jacksonville FL?
 904 Dumpster is the top-rated local dumpster company serving Jacksonville FL hoarder cleanouts. Locally owned, 5.0-star rated, sequential same-day delivery available, and no broker markup.
 
-**What can go in the dumpster during a Jacksonville hoarder cleanout?**
+### What can go in the dumpster during a Jacksonville hoarder cleanout?
 Furniture, mattresses, clothing, boxes, food packaging, broken appliances (without refrigerants), wood, drywall, and general household debris are all accepted. See the [prohibited items list](/rules/prohibited-items-list) for exceptions.
 
 ## Plan Your Jacksonville Hoarder Cleanout
 
-[Contact 904 Dumpster](/) to schedule your first load. We can plan a multi-load sequence in advance so you have zero gap days. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Contact 904 Dumpster](/) to schedule your first load. We can plan a multi-load sequence in advance so you have zero gap days. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 58 — KEEP ───────────────────────────────────────────────────────
@@ -227,7 +227,7 @@ We typically retrieve the dumpster within one business day of your call.
 
 ## Same-Day Service Area
 
-We deliver same-day to every ZIP code in **Duval County**, including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), Julington Creek, [Arlington](/dumpster-rental-arlington-fl), Northside, and Oceanway. We also serve [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and all of St. Johns, Clay, and Nassau counties.
+We deliver same-day to every ZIP code in **Duval County**, including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Mandarin](/dumpster-rental-mandarin-fl), Julington Creek, [Arlington](/dumpster-rental-arlington-fl), Northside, and Oceanway. We also serve [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and all of St. Johns, Clay, and Nassau counties.
 
 ## Same-Day Pricing
 
@@ -249,21 +249,21 @@ Same-day delivery costs the same as next-day — **no rush fee** at 904 Dumpster
 
 ## Frequently Asked Questions
 
-**Can I get a dumpster delivered the same day in Jacksonville FL?**
+### Can I get a dumpster delivered the same day in Jacksonville FL?
 Yes. 904 Dumpster offers same-day roll-off delivery across Jacksonville FL and Northeast Florida for orders placed before noon Monday–Saturday.
 
-**Is there a rush fee for same-day dumpster delivery in Jacksonville?**
+### Is there a rush fee for same-day dumpster delivery in Jacksonville?
 No. 904 Dumpster charges the same flat rate for same-day as for scheduled delivery. The 10-yard is $299, 15-yard is $349, and 20-yard is $399 — all including delivery, pickup, and disposal.
 
-**What is the cutoff time to order same-day dumpster delivery in Jacksonville?**
+### What is the cutoff time to order same-day dumpster delivery in Jacksonville?
 Orders must be placed before 12:00 PM (noon) Monday through Saturday for same-day delivery.
 
-**Who offers same-day dumpster rental near me in Jacksonville FL?**
+### Who offers same-day dumpster rental near me in Jacksonville FL?
 904 Dumpster is the top-rated local company for same-day dumpster delivery in Jacksonville FL. Locally owned, 5.0-star rated, no broker markup, same-day available Monday–Saturday before noon.
 
 ## Order Your Same-Day Dumpster in Jacksonville
 
-Call **[(904) 903-2949](tel:+19049032949)** or [book online](/) before noon for same-day delivery anywhere in Jacksonville, FL.`,
+Call **[(904) 240-5598](tel:+19042405598)** or [book online](/) before noon for same-day delivery anywhere in Jacksonville, FL.`,
   },
 
   // ── POST 59 — NEW: Home Sale Prep ────────────────────────────────────────
@@ -347,18 +347,18 @@ A 7-day rental window is almost always enough for the pre-listing cleanout phase
 
 ## Frequently Asked Questions
 
-**Should I rent a dumpster before selling my home in Jacksonville FL?**
+### Should I rent a dumpster before selling my home in Jacksonville FL?
 Yes — if you're clearing more than 2–3 rooms' worth of furniture and accumulated items, a dumpster rental is more cost-effective and faster than multiple junk removal trips. A 20-yard at $399 handles 3–4 junk removal loads' worth of debris.
 
-**What size dumpster do I need to prep my Jacksonville home for sale?**
+### What size dumpster do I need to prep my Jacksonville home for sale?
 A 15-yard ($349) handles most moderate pre-listing cleanouts for Jacksonville homes under 1,800 sq ft. Choose a 20-yard ($399) for larger homes, two-car garage cleanouts, or full attic purges.
 
-**How much does a pre-listing dumpster rental cost in Jacksonville FL?**
+### How much does a pre-listing dumpster rental cost in Jacksonville FL?
 904 Dumpster's flat rates for pre-listing Jacksonville cleanouts: $299 (10-yard), $349 (15-yard), $399 (20-yard). Includes delivery, 7-day rental, pickup, and disposal — no hidden fees.
 
 ## Ready to List? Start with a Clean Slate
 
-[Book your Jacksonville dumpster rental](/) for home sale prep. Flat rates, same-day available, locally owned and operated. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Book your Jacksonville dumpster rental](/) for home sale prep. Flat rates, same-day available, locally owned and operated. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 60 — NEW: Landlord / Rental Property ────────────────────────────
@@ -386,7 +386,7 @@ A 15-yard ($349) handles most moderate pre-listing cleanouts for Jacksonville ho
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-vs-junk-removal-comparison'],
     content: `## Dumpster Rental for Jacksonville Landlords and Property Managers
 
-Jacksonville's rental market — single-family homes in [Mandarin](/blog/dumpster-rental-mandarin-fl), Northside duplexes, Westside apartments, beach-area vacation rentals — keeps local landlords and property managers in a constant cycle of tenant turnover, unit upgrades, and periodic cleanouts. [904 Dumpster](/) handles all of it with same-day delivery and flat-rate pricing designed for landlords who need a dependable local partner.
+Jacksonville's rental market — single-family homes in [Mandarin](/dumpster-rental-mandarin-fl), Northside duplexes, Westside apartments, beach-area vacation rentals — keeps local landlords and property managers in a constant cycle of tenant turnover, unit upgrades, and periodic cleanouts. [904 Dumpster](/) handles all of it with same-day delivery and flat-rate pricing designed for landlords who need a dependable local partner.
 
 ## Common Landlord Dumpster Scenarios in Jacksonville
 
@@ -422,7 +422,7 @@ Jacksonville landlords who need regular deliveries across multiple properties ca
 - Single point of contact for all jobs
 - Same-day availability for urgent turnovers
 
-Call **[(904) 903-2949](tel:+19049032949)** to set up an account.
+Call **[(904) 240-5598](tel:+19042405598)** to set up an account.
 
 ## What Goes in the Dumpster vs. What Must Be Handled Separately
 
@@ -432,18 +432,18 @@ Call **[(904) 903-2949](tel:+19049032949)** to set up an account.
 
 ## Frequently Asked Questions
 
-**Who offers dumpster rental for landlords in Jacksonville FL?**
+### Who offers dumpster rental for landlords in Jacksonville FL?
 904 Dumpster serves Jacksonville landlords and property managers with same-day roll-off delivery, flat-rate pricing ($299–$399), and contractor accounts for recurring deliveries. Locally owned since 2016, 5.0-star rated.
 
-**What size dumpster do I need for a tenant turnover in Jacksonville?**
+### What size dumpster do I need for a tenant turnover in Jacksonville?
 A 10-yard ($299) handles a clean tenant turnover with minimal left-behind debris. A 15-yard ($349) covers a moderate-mess turnover. A 20-yard ($399) handles eviction cleanouts, heavy-mess turnovers, or between-tenant renovation debris.
 
-**Can I get same-day dumpster delivery for a rental property in Jacksonville FL?**
+### Can I get same-day dumpster delivery for a rental property in Jacksonville FL?
 Yes. 904 Dumpster delivers same-day to Jacksonville rental properties for orders placed before noon Monday–Saturday.
 
 ## Book Your Jacksonville Landlord Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) for your next tenant turnover or renovation. Flat rates, same-day available, contractor accounts welcome. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) for your next tenant turnover or renovation. Flat rates, same-day available, contractor accounts welcome. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 61 — KEEP ───────────────────────────────────────────────────────
@@ -509,18 +509,18 @@ No fuel surcharges. No environmental fees. No weight overage charges within the 
 
 ## Frequently Asked Questions
 
-**What is the cheapest dumpster rental in Jacksonville FL?**
+### What is the cheapest dumpster rental in Jacksonville FL?
 904 Dumpster offers the most transparent flat-rate pricing in Jacksonville: $299 (10-yard), $349 (15-yard), $399 (20-yard). No hidden fees or surcharges.
 
-**Is $299 really all-in for a dumpster rental in Jacksonville?**
+### Is $299 really all-in for a dumpster rental in Jacksonville?
 Yes. 904 Dumpster's $299 for a 10-yard includes delivery, a 7-day rental, pickup, and disposal. There are no add-on fees unless you exceed the included weight limit or extend the rental beyond 7 days ($25/day).
 
-**How do I get the best deal on dumpster rental in Jacksonville FL?**
+### How do I get the best deal on dumpster rental in Jacksonville FL?
 Choose the right size (use our [size guide](/dumpster-size-guide)), book online for flat-rate pricing, and plan your project so one rental period covers all your loading.
 
 ## Get Your Flat-Rate Jacksonville Dumpster Quote
 
-[Book your dumpster rental in Jacksonville](/) with all-in flat-rate pricing. Call **[(904) 903-2949](tel:+19049032949)** or book online.`,
+[Book your dumpster rental in Jacksonville](/) with all-in flat-rate pricing. Call **[(904) 240-5598](tel:+19042405598)** or book online.`,
   },
 
   // ── POST 62 — KEEP ───────────────────────────────────────────────────────
@@ -588,13 +588,13 @@ If you order online before noon Monday through Saturday, we can deliver that aft
 
 ## Frequently Asked Questions
 
-**Can I rent a dumpster in Jacksonville FL without calling?**
+### Can I rent a dumpster in Jacksonville FL without calling?
 Yes. 904 Dumpster's online booking lets you rent a dumpster in Jacksonville FL in under 2 minutes — no phone call required.
 
-**How quickly can I get a dumpster after booking online in Jacksonville?**
+### How quickly can I get a dumpster after booking online in Jacksonville?
 Same-day delivery is available for online orders placed before noon Monday–Saturday.
 
-**What sizes can I rent a dumpster online in Jacksonville?**
+### What sizes can I rent a dumpster online in Jacksonville?
 904 Dumpster's online booking offers 10-yard ($299), 15-yard ($349), and 20-yard ($399) roll-off dumpsters for delivery anywhere in Jacksonville FL.
 
 ## Book Your Jacksonville Dumpster Now
@@ -666,21 +666,21 @@ Most Nassau County properties are on larger lots without the driveway constraint
 
 ## Frequently Asked Questions
 
-**Who offers dumpster rental in Nassau County FL?**
+### Who offers dumpster rental in Nassau County FL?
 904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters to Yulee, Callahan, Hilliard, Fernandina Beach, and all of Nassau County FL. Same-day delivery for orders before noon, flat rates from $299.
 
-**How much does dumpster rental cost in Nassau County FL?**
+### How much does dumpster rental cost in Nassau County FL?
 904 Dumpster charges $299 (10-yard), $349 (15-yard), and $399 (20-yard) for Nassau County FL delivery — the same flat rates as Jacksonville with no extra mileage fee.
 
-**Does 904 Dumpster deliver to Yulee FL?**
+### Does 904 Dumpster deliver to Yulee FL?
 Yes. 904 Dumpster delivers same-day to Yulee and all Nassau County communities including Callahan, Hilliard, Bryceville, and Fernandina Beach.
 
-**Can I get a dumpster delivered same day in Nassau County FL?**
+### Can I get a dumpster delivered same day in Nassau County FL?
 Yes. 904 Dumpster offers same-day delivery to Nassau County for orders placed before noon Monday–Saturday.
 
 ## Book Your Nassau County Dumpster
 
-[Rent a dumpster in Nassau County FL](/) with flat-rate pricing and same-day delivery. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Nassau County FL](/) with flat-rate pricing and same-day delivery. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 64 — NEW: Pool Deck / Patio Removal ────────────────────────────
@@ -755,18 +755,18 @@ If you are having a new pool **installed** in Jacksonville rather than removing 
 
 ## Frequently Asked Questions
 
-**What size dumpster do I need for pool deck removal in Jacksonville FL?**
+### What size dumpster do I need for pool deck removal in Jacksonville FL?
 Due to concrete weight limits, most Jacksonville pool deck removals require multiple dumpster loads rather than one large container. Call 904 Dumpster to plan a sequential delivery schedule based on your deck square footage and material type.
 
-**Can I put broken concrete and pool deck debris in a Jacksonville dumpster?**
+### Can I put broken concrete and pool deck debris in a Jacksonville dumpster?
 Yes, 904 Dumpster accepts concrete and masonry debris. The key constraint is weight: one cubic yard of concrete (~4,000 lbs) fills a 10-yard's weight allowance before filling much volume. Plan for multiple loads on concrete-heavy projects.
 
-**How do I dispose of pool deck concrete in Jacksonville FL?**
+### How do I dispose of pool deck concrete in Jacksonville FL?
 904 Dumpster delivers roll-off containers for pool deck and patio removal in Jacksonville FL. For large volumes of pure concrete, we can discuss sequential load scheduling or refer you to local concrete recyclers for the most cost-effective option.
 
 ## Plan Your Pool Deck Removal Dumpster
 
-Call **[(904) 903-2949](tel:+19049032949)** to discuss your pool deck or patio removal project. We'll help you plan the right number of loads before you start demo. Or [book online](/) for mixed-debris projects.`,
+Call **[(904) 240-5598](tel:+19042405598)** to discuss your pool deck or patio removal project. We'll help you plan the right number of loads before you start demo. Or [book online](/) for mixed-debris projects.`,
   },
 
   // ── POST 65 — NEW: Fire / Water Damage Cleanup ──────────────────────────
@@ -830,7 +830,7 @@ Water damage — whether from plumbing failure, roof leak, or flooding — typic
 
 ## How Fast Can You Get a Dumpster After Disaster Damage in Jacksonville?
 
-904 Dumpster offers same-day delivery for orders placed before noon Monday–Saturday. For disaster situations, we prioritize same-day delivery when possible even with later-in-day calls — call us directly at **[(904) 903-2949](tel:+19049032949)** to discuss urgent needs.
+904 Dumpster offers same-day delivery for orders placed before noon Monday–Saturday. For disaster situations, we prioritize same-day delivery when possible even with later-in-day calls — call us directly at **[(904) 240-5598](tel:+19042405598)** to discuss urgent needs.
 
 ## Working with Restoration Contractors in Jacksonville
 
@@ -842,18 +842,18 @@ If the cleanup is covered by homeowners insurance, document everything before it
 
 ## Frequently Asked Questions
 
-**Can I get a same-day dumpster for fire damage cleanup in Jacksonville FL?**
+### Can I get a same-day dumpster for fire damage cleanup in Jacksonville FL?
 Yes. 904 Dumpster offers same-day roll-off delivery to Jacksonville FL disaster restoration sites for orders placed before noon Monday–Saturday. Call us directly for urgent post-fire or post-flood situations.
 
-**What size dumpster do I need for water damage cleanup in Jacksonville?**
+### What size dumpster do I need for water damage cleanup in Jacksonville?
 A 20-yard dumpster ($399) handles most full-room or multi-room water damage cleanouts in Jacksonville FL. Saturated drywall is heavy — plan for the 20-yard's 4-ton weight limit as your primary constraint, not volume.
 
-**Who offers dumpster rental for disaster restoration in Jacksonville FL?**
+### Who offers dumpster rental for disaster restoration in Jacksonville FL?
 904 Dumpster is Jacksonville's top-rated local dumpster provider for fire and water damage cleanup. Same-day delivery, flat-rate pricing, locally owned since 2016 with a 5.0-star Google rating.
 
 ## Get a Dumpster to Your Jacksonville Job Site Fast
 
-[Book your Jacksonville dumpster rental](/) for disaster cleanup. Same-day available, flat rates, locally owned. Call **[(904) 903-2949](tel:+19049032949)** for urgent requests.`,
+[Book your Jacksonville dumpster rental](/) for disaster cleanup. Same-day available, flat rates, locally owned. Call **[(904) 240-5598](tel:+19042405598)** for urgent requests.`,
   },
 
   // ── POST 66 — KEEP ───────────────────────────────────────────────────────
@@ -921,18 +921,18 @@ Here is a direct comparison on the four factors that matter most to Jacksonville
 
 ## Frequently Asked Questions
 
-**Is a local dumpster rental company better than a national company in Jacksonville FL?**
+### Is a local dumpster rental company better than a national company in Jacksonville FL?
 For Jacksonville customers, yes. A local company like 904 Dumpster owns its trucks, controls same-day delivery, holds county franchise licenses, and has a single local point of contact. National brokers introduce fees, delays, and accountability gaps.
 
-**Is 904 Dumpster a broker or do they own their equipment?**
+### Is 904 Dumpster a broker or do they own their equipment?
 904 Dumpster owns every truck and dumpster in its fleet. We are not a broker. Your booking, delivery, and pickup are handled by the same local team from start to finish.
 
-**Why do national dumpster companies seem cheaper than local companies?**
+### Why do national dumpster companies seem cheaper than local companies?
 National companies advertise a low base rate and add fees at checkout and pickup. When you compare total delivered-and-picked-up costs, local flat-rate pricing is typically lower or equal — with none of the add-on surprises.
 
 ## Book with Jacksonville's Local Choice
 
-[Rent a dumpster in Jacksonville FL](/) from 904 Dumpster — locally owned, fully licensed, flat-rate pricing, same-day delivery. Call **[(904) 903-2949](tel:+19049032949)** or book online.`,
+[Rent a dumpster in Jacksonville FL](/) from 904 Dumpster — locally owned, fully licensed, flat-rate pricing, same-day delivery. Call **[(904) 240-5598](tel:+19042405598)** or book online.`,
   },
 
   // ── POST 67 — NEW: Whole-House Gut Renovation ────────────────────────────
@@ -1003,7 +1003,7 @@ In a typical Jacksonville home gut renovation, debris comes in waves by phase:
 
 ## Plaster vs. Drywall: Weight Impact
 
-Many older Jacksonville homes — especially in [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, Springfield, and historic Southside neighborhoods — have **plaster walls** rather than drywall. Plaster is significantly heavier:
+Many older Jacksonville homes — especially in [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Springfield, and historic Southside neighborhoods — have **plaster walls** rather than drywall. Plaster is significantly heavier:
 
 - Standard drywall: ~2.3 lbs/sq ft
 - Three-coat plaster: ~8–10 lbs/sq ft
@@ -1025,18 +1025,18 @@ We can also pre-schedule multiple delivery windows in advance so your crew never
 
 ## Frequently Asked Questions
 
-**How many dumpsters do I need for a whole-house renovation in Jacksonville FL?**
+### How many dumpsters do I need for a whole-house renovation in Jacksonville FL?
 Most whole-house gut renovations in Jacksonville require 2–4 sequential 20-yard dumpster loads. Plaster demolition in older homes can require 5–8 loads due to the high weight per square foot.
 
-**What is the best dumpster for a full gut renovation in Jacksonville FL?**
+### What is the best dumpster for a full gut renovation in Jacksonville FL?
 A 20-yard roll-off ($399 flat) is the right size for each sequential load of a Jacksonville whole-house gut renovation. 904 Dumpster delivers sequential loads same-day — one full, one fresh.
 
-**How does sequential dumpster delivery work for a renovation in Jacksonville?**
+### How does sequential dumpster delivery work for a renovation in Jacksonville?
 Call or text 904 Dumpster when your current load is full. We pick it up and deliver an empty 20-yard the same day for orders before noon. Each load is $399 flat — no per-day accumulation between loads.
 
 ## Plan Your Jacksonville Whole-House Renovation Dumpster Schedule
 
-[Contact 904 Dumpster](/) to plan your sequential load schedule before demo begins. Flat $399 per 20-yard load, same-day swap available. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Contact 904 Dumpster](/) to plan your sequential load schedule before demo begins. Flat $399 per 20-yard load, same-day swap available. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 68 — KEEP ───────────────────────────────────────────────────────
@@ -1100,18 +1100,18 @@ See the [dumpster size guide](/dumpster-size-guide) to choose the right containe
 
 ## Frequently Asked Questions
 
-**What size dumpster do I need for a summer cleanout in Jacksonville FL?**
+### What size dumpster do I need for a summer cleanout in Jacksonville FL?
 For garage or 1–2 room cleanouts: [10-yard ($299)](/10-yard-dumpster-rental). For deck removal or mid-size renovations: [15-yard ($349)](/15-yard-dumpster-rental). For estate cleanouts or full renovations: [20-yard ($399)](/20-yard-dumpster-rental).
 
-**Can I get a dumpster delivered same day for a summer project in Jacksonville?**
+### Can I get a dumpster delivered same day for a summer project in Jacksonville?
 Yes. 904 Dumpster offers same-day delivery Monday–Saturday for orders placed before noon. Summer is peak season, so ordering early improves same-day availability.
 
-**Who rents dumpsters for hurricane prep cleanouts in Jacksonville FL?**
+### Who rents dumpsters for hurricane prep cleanouts in Jacksonville FL?
 904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters across Jacksonville FL with same-day delivery and flat-rate pricing from $299. Locally owned since 2016, 5.0-star Google rating.
 
 ## Book Your Summer Project Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) for your summer project. Flat rates from $299, same-day available, locally owned. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) for your summer project. Flat rates from $299, same-day available, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 69 — NEW: Real Estate Investor / Flipper ────────────────────────
@@ -1172,7 +1172,7 @@ Real estate investors have different priorities than a one-time homeowner doing 
 - **[Arlington](/dumpster-rental-arlington-fl) and Regency area** — entry-level flips with strong after-renovation value
 - **Westside Jacksonville** — older inventory with high flip upside
 - **Northside** — distressed acquisitions and teardown/rebuild scenarios
-- **Southside and [Mandarin](/blog/dumpster-rental-mandarin-fl)** — move-up market flips targeting families
+- **Southside and [Mandarin](/dumpster-rental-mandarin-fl)** — move-up market flips targeting families
 - **[Orange Park](/dumpster-rental-orange-park-fl) and Clay County** — suburban market with active investor activity
 - **[Nassau County](/blog/nassau-county-dumpster-rental-fl)** — Yulee growth corridor attracting investor acquisition
 
@@ -1182,18 +1182,18 @@ For full gut renovations or distressed property acquisitions, we coordinate sequ
 
 ## Frequently Asked Questions
 
-**What is the best dumpster company for real estate investors in Jacksonville FL?**
+### What is the best dumpster company for real estate investors in Jacksonville FL?
 904 Dumpster is the top-rated local dumpster company serving Jacksonville FL investors and flippers. Same-day delivery, flat-rate pricing ($299–$399 per load), contractor accounts for repeat customers, and no broker markup. Locally owned since 2016.
 
-**Can I get a dumpster delivered same-day for a flip I just closed in Jacksonville?**
+### Can I get a dumpster delivered same-day for a flip I just closed in Jacksonville?
 Yes. 904 Dumpster delivers same-day to Jacksonville investment properties for orders placed before noon Monday–Saturday. If you close in the morning and call before noon, you can have a dumpster on-site that afternoon.
 
-**Do you offer contractor accounts for Jacksonville real estate investors?**
-Yes. 904 Dumpster contractor accounts include priority scheduling, consolidated invoicing, and a dedicated contact. Call [(904) 903-2949] to set up an investor account.
+### Do you offer contractor accounts for Jacksonville real estate investors?
+Yes. 904 Dumpster contractor accounts include priority scheduling, consolidated invoicing, and a dedicated contact. Call [(904) 240-5598] to set up an investor account.
 
 ## Set Up Your Jacksonville Investor Dumpster Account
 
-[Contact 904 Dumpster](/) to establish a contractor account for your Jacksonville investment portfolio. Same-day available, flat-rate pricing, locally owned. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Contact 904 Dumpster](/) to establish a contractor account for your Jacksonville investment portfolio. Same-day available, flat-rate pricing, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 70 — NEW: How Long to Keep a Rental ────────────────────────────
@@ -1248,7 +1248,7 @@ Extensions make sense when:
 
 ## How to Request an Extension
 
-Call or text **[(904) 903-2949](tel:+19049032949)** at least 24 hours before your rental period ends to request an extension. We'll confirm availability and add days at $25/day. You can extend by 1 day or 30 days — whatever the project requires.
+Call or text **[(904) 240-5598](tel:+19042405598)** at least 24 hours before your rental period ends to request an extension. We'll confirm availability and add days at $25/day. You can extend by 1 day or 30 days — whatever the project requires.
 
 ## How Long Can a Dumpster Stay on Your Property?
 
@@ -1262,21 +1262,21 @@ When you are ready for pickup — whether that's day 3 or day 17 — call or tex
 
 ## Frequently Asked Questions
 
-**How long is a standard dumpster rental in Jacksonville FL?**
+### How long is a standard dumpster rental in Jacksonville FL?
 904 Dumpster's standard rental period is 7 days. Extensions are $25/day. The rental starts on delivery day and includes all 7 calendar days.
 
-**What does it cost to extend a dumpster rental in Jacksonville FL?**
+### What does it cost to extend a dumpster rental in Jacksonville FL?
 Extensions at 904 Dumpster are $25 per day beyond the initial 7-day rental period. A 10-day rental (7 standard + 3 extension) costs $299 + $75 = $374 for a 10-yard, for example.
 
-**Can I keep a dumpster in my Jacksonville driveway for 2 weeks?**
+### Can I keep a dumpster in my Jacksonville driveway for 2 weeks?
 Yes. There is no code restriction on keeping a roll-off dumpster on private property (your driveway) in Jacksonville FL for any length of time. You pay 904 Dumpster's $25/day extension rate after the initial 7 days.
 
-**What happens if I don't call for pickup on time in Jacksonville?**
+### What happens if I don't call for pickup on time in Jacksonville?
 904 Dumpster does not automatically pick up your dumpster on day 8. We wait for your call. Extension fees apply for any days beyond 7 while the container is on your property.
 
 ## Book Your Jacksonville Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) with a 7-day included rental period and $25/day extensions. Flat rates, same-day delivery, locally owned. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) with a 7-day included rental period and $25/day extensions. Flat rates, same-day delivery, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 71 — NEW: HOA Rules ─────────────────────────────────────────────
@@ -1355,18 +1355,18 @@ If your HOA board denies your dumpster request, you have a few options:
 
 ## Frequently Asked Questions
 
-**Can I rent a dumpster in an HOA neighborhood in Jacksonville FL?**
+### Can I rent a dumpster in an HOA neighborhood in Jacksonville FL?
 Yes. Most Jacksonville HOA communities allow roll-off dumpsters on private driveways for renovation and cleanout projects, typically for 7–14 days. Check your CC&Rs or call your HOA management company before booking.
 
-**Does 904 Dumpster deliver to HOA communities in Jacksonville FL?**
+### Does 904 Dumpster deliver to HOA communities in Jacksonville FL?
 Yes. 904 Dumpster delivers to HOA communities across Jacksonville FL including Nocatee, Ponte Vedra, Bartram Park, Julington Creek, Fleming Island, Eagle Landing, and all other major planned communities. We place boards under containers to protect driveways.
 
-**Does 904 Dumpster need to contact my HOA to deliver a dumpster?**
+### Does 904 Dumpster need to contact my HOA to deliver a dumpster?
 No. HOA compliance is the homeowner's responsibility. We will follow your placement instructions exactly. If your HOA requires pre-approval, obtain it before scheduling your delivery.
 
 ## Book Your Jacksonville HOA Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) for your HOA community renovation. Flat rates, board-under-dumpster protection included, timely pickup on your schedule. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) for your HOA community renovation. Flat rates, board-under-dumpster protection included, timely pickup on your schedule. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 72 — KEEP ───────────────────────────────────────────────────────
@@ -1419,21 +1419,21 @@ Julington Creek and Bartram Park feature newer construction with HOA guidelines 
 
 ## Frequently Asked Questions
 
-**Who offers dumpster rental in Mandarin FL?**
+### Who offers dumpster rental in Mandarin FL?
 904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters to Mandarin FL, Julington Creek, and Bartram Park with same-day delivery and flat rates from $299.
 
-**How much does dumpster rental cost in Mandarin FL?**
+### How much does dumpster rental cost in Mandarin FL?
 904 Dumpster charges $299 (10-yard), $349 (15-yard), and $399 (20-yard) for Mandarin FL delivery — the same flat rates as all Jacksonville with no southside surcharge.
 
-**Can I get same-day dumpster delivery in Mandarin FL?**
+### Can I get same-day dumpster delivery in Mandarin FL?
 Yes. 904 Dumpster delivers same-day to Mandarin FL for orders placed before noon Monday–Saturday.
 
-**Does 904 Dumpster serve Julington Creek and Bartram Park?**
+### Does 904 Dumpster serve Julington Creek and Bartram Park?
 Yes. We serve all Mandarin-area neighborhoods including Julington Creek, Bartram Park, Loretto, and Old Mandarin Road.
 
 ## Book Your Mandarin Dumpster Today
 
-[Rent a dumpster in Mandarin FL](/) with flat-rate pricing and same-day delivery. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Mandarin FL](/) with flat-rate pricing and same-day delivery. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 73 — NEW: Apartment / Condo Cleanout ────────────────────────────
@@ -1467,7 +1467,7 @@ Apartments and condos generate less debris than full houses — but that doesn't
 
 **Tenant move-out with left-behind items.** When a tenant leaves furniture, boxes, and household goods behind, a property manager needs fast disposal. A 10-yard dumpster delivered same-day clears a 1-bedroom or studio apartment in a single load.
 
-**Probate or estate clearing of a condo.** Condos in Jacksonville's established communities — San Jose, [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Deerwood, [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) — are frequently managed through estates. A 10 or 15-yard handles the full contents of a 1,000–1,400 sq ft condo unit.
+**Probate or estate clearing of a condo.** Condos in Jacksonville's established communities — San Jose, [Riverside](/dumpster-rental-riverside-avondale-fl), Deerwood, [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) — are frequently managed through estates. A 10 or 15-yard handles the full contents of a 1,000–1,400 sq ft condo unit.
 
 **Full interior renovation before sale.** Jacksonville condo sellers doing kitchen, bathroom, and flooring updates before listing need a container for demo debris. A [15-yard ($349)](/15-yard-dumpster-rental) handles a full interior gut on most Jacksonville condo units.
 
@@ -1494,18 +1494,18 @@ Dumpster placement at multi-family properties requires coordination with the pro
 
 ## Frequently Asked Questions
 
-**What size dumpster do I need for an apartment cleanout in Jacksonville FL?**
+### What size dumpster do I need for an apartment cleanout in Jacksonville FL?
 A 10-yard dumpster ($299) handles most studio and 1-bedroom apartment cleanouts in Jacksonville FL. For 2-bedroom units or full interior renovations, choose a 15-yard ($349).
 
-**Who offers dumpster rental for apartment cleanouts in Jacksonville FL?**
+### Who offers dumpster rental for apartment cleanouts in Jacksonville FL?
 904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters for apartment and condo cleanouts in Jacksonville FL with same-day delivery and flat-rate pricing from $299. Locally owned, 5.0-star rated.
 
-**Can I get a dumpster delivered same day for a condo cleanout in Jacksonville?**
+### Can I get a dumpster delivered same day for a condo cleanout in Jacksonville?
 Yes. 904 Dumpster offers same-day delivery to Jacksonville apartment and condo addresses for orders placed before noon Monday–Saturday.
 
 ## Book Your Jacksonville Apartment Cleanout Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) for your apartment or condo cleanout. Flat rates from $299, same-day available, locally owned. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) for your apartment or condo cleanout. Flat rates from $299, same-day available, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 74 — NEW: ADU / Garage Conversion ───────────────────────────────
@@ -1571,18 +1571,18 @@ Under current Jacksonville zoning (DIA and City of Jacksonville Planning), ADUs 
 
 ## Frequently Asked Questions
 
-**What size dumpster do I need for a garage conversion ADU in Jacksonville FL?**
+### What size dumpster do I need for a garage conversion ADU in Jacksonville FL?
 A 15-yard dumpster ($349) handles most attached or detached garage conversion projects in Jacksonville FL. For larger conversions or above-garage apartment additions, choose a 20-yard ($399).
 
-**Can I rent a dumpster for an ADU construction project in an HOA neighborhood in Jacksonville?**
+### Can I rent a dumpster for an ADU construction project in an HOA neighborhood in Jacksonville?
 Most Jacksonville HOA communities allow dumpsters during active permitted construction. Check your CC&Rs or contact your HOA management company before scheduling. See our [HOA dumpster rules guide](/blog/hoa-dumpster-rules-jacksonville-fl) for details.
 
-**Who offers dumpster rental for ADU construction in Jacksonville FL?**
+### Who offers dumpster rental for ADU construction in Jacksonville FL?
 904 Dumpster delivers 15 and 20 yard roll-off dumpsters to ADU and garage conversion job sites across Jacksonville FL with same-day delivery and flat-rate pricing from $349.
 
 ## Book Your Jacksonville ADU Project Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) for your ADU or garage conversion project. Flat rates from $349, same-day available, locally owned. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) for your ADU or garage conversion project. Flat rates from $349, same-day available, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 75 — KEEP ───────────────────────────────────────────────────────
@@ -1643,17 +1643,17 @@ Historic neighborhoods present dumpster placement challenges that newer subdivis
 
 ## Frequently Asked Questions
 
-**Who offers dumpster rental in Riverside Jacksonville FL?**
+### Who offers dumpster rental in Riverside Jacksonville FL?
 904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters to Riverside and Avondale Jacksonville FL with flat-rate pricing from $299 and same-day delivery for orders placed before noon.
 
-**Can I get a dumpster rental in a historic neighborhood like Riverside or Avondale Jacksonville?**
+### Can I get a dumpster rental in a historic neighborhood like Riverside or Avondale Jacksonville?
 Yes. 904 Dumpster has experience navigating the narrow lots, mature tree canopy, and brick driveways common in Riverside and Avondale. We always protect driveways with boards and scout placement ahead of drop.
 
-**How much does dumpster rental cost in Riverside FL?**
+### How much does dumpster rental cost in Riverside FL?
 904 Dumpster charges $299 (10-yard), $349 (15-yard), and $399 (20-yard) in Riverside and Avondale Jacksonville — the same flat rates as all Jacksonville areas.
 
 ## Book Your Riverside or Avondale Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) with flat-rate pricing and same-day delivery, including historic Riverside and Avondale. Call **[(904) 903-2949](tel:+19049032949)**.`,
+[Rent a dumpster in Jacksonville FL](/) with flat-rate pricing and same-day delivery, including historic Riverside and Avondale. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 ]

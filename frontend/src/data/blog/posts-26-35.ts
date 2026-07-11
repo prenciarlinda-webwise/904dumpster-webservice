@@ -243,7 +243,7 @@ Move all vehicles out of the driveway and away from the house. Park them down th
 
 ### Alert Your Neighbors
 
-A roof replacement is loud and creates dust. Let your neighbors know the dates of the project so they can bring in patio furniture, close windows, and move their own vehicles if needed. This is especially important in Jacksonville neighborhoods with tighter lot spacing like [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, Murray Hill, and Springfield.
+A roof replacement is loud and creates dust. Let your neighbors know the dates of the project so they can bring in patio furniture, close windows, and move their own vehicles if needed. This is especially important in Jacksonville neighborhoods with tighter lot spacing like [Riverside](/dumpster-rental-riverside-avondale-fl), San Marco, Murray Hill, and Springfield.
 
 ### Secure Attic and Interior Items
 
@@ -498,7 +498,7 @@ These ranges reflect the cost to remove a concrete slab or driveway when you hir
 
 **Rebar or wire mesh.** Reinforced concrete with embedded rebar or wire mesh is harder to break apart and takes longer to process. Expect a 20-30 percent cost increase for reinforced slabs.
 
-**Accessibility.** If the driveway is in a tight space, on a slope, or has limited access for heavy equipment, the cost increases. Jacksonville homes in older neighborhoods like [Riverside, Avondale](/blog/dumpster-rental-riverside-avondale-jacksonville), and San Marco sometimes have access challenges.
+**Accessibility.** If the driveway is in a tight space, on a slope, or has limited access for heavy equipment, the cost increases. Jacksonville homes in older neighborhoods like [Riverside, Avondale](/dumpster-rental-riverside-avondale-fl), and San Marco sometimes have access challenges.
 
 **Disposal method.** How the contractor handles the debris affects the total price. Some haul it themselves, some require you to rent a dumpster, and some use a combination approach.
 
@@ -1135,7 +1135,7 @@ Several factors can push your actual debris volume above these estimates:
 
 ## Demo Dumpster Rental for Jacksonville Neighborhoods
 
-Jacksonville's older neighborhoods are particularly active for gut rehab and renovation projects. Homes in [Riverside, Avondale](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, Springfield, Murray Hill, and the beaches communities often undergo full gut rehabs that return historic properties to their former condition or adapt them for modern living.
+Jacksonville's older neighborhoods are particularly active for gut rehab and renovation projects. Homes in [Riverside, Avondale](/dumpster-rental-riverside-avondale-fl), San Marco, Springfield, Murray Hill, and the beaches communities often undergo full gut rehabs that return historic properties to their former condition or adapt them for modern living.
 
 We deliver demolition dumpsters throughout these neighborhoods and the broader Northeast Florida region including [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Orange Park](/dumpster-rental-orange-park-fl), and [St. Augustine](/dumpster-rental-st-augustine-fl).
 

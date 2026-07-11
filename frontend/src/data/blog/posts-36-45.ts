@@ -110,7 +110,7 @@ If your project involves a mix of heavy materials like concrete and lightweight 
 
 ## Estimating Debris for Jacksonville-Area Projects
 
-Jacksonville homes have some unique characteristics that affect debris volume. Many homes built in the 1960s through 1980s in neighborhoods like [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), and the Westside have multiple layers of flooring, including original hardwood under vinyl under carpet. Each additional layer increases the volume and weight of debris during a renovation.
+Jacksonville homes have some unique characteristics that affect debris volume. Many homes built in the 1960s through 1980s in neighborhoods like [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/dumpster-rental-mandarin-fl), and the Westside have multiple layers of flooring, including original hardwood under vinyl under carpet. Each additional layer increases the volume and weight of debris during a renovation.
 
 Coastal properties in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), and [Neptune Beach](/dumpster-rental-neptune-beach-fl) often have storm-damaged materials that need removal. Homes in [St. Augustine](/dumpster-rental-st-augustine-fl) and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) frequently involve larger lot cleanups with both indoor and outdoor debris.
 
@@ -255,7 +255,7 @@ This is one of the most common questions homeowners ask, and it directly affects
 
 However, conversions done without permits can actually decrease property value. Unpermitted work creates problems during home inspections, title searches, and mortgage appraisals. The cost of pulling proper permits is minimal compared to the long-term value, and it ensures the work meets safety codes for electrical, plumbing, and structural integrity.
 
-Neighborhoods in Jacksonville where garage conversions tend to add the most value include [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, Murray Hill, Springfield, and the beaches communities in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) where space is at a premium.
+Neighborhoods in Jacksonville where garage conversions tend to add the most value include [Riverside](/dumpster-rental-riverside-avondale-fl), San Marco, Murray Hill, Springfield, and the beaches communities in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) where space is at a premium.
 
 ## Waste Management Tips for Garage Conversions
 
@@ -1281,7 +1281,7 @@ Outdoor condenser units need at least 2 to 3 feet of clearance on all sides for 
 
 ### Attic Insulation Assessment
 
-Jacksonville's heat makes attic insulation a critical factor in keeping your home comfortable. If your home was built before the 1990s, the insulation may be inadequate by modern standards. Homes in neighborhoods like [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), Murray Hill, and the Westside frequently have attics with insufficient or damaged insulation.
+Jacksonville's heat makes attic insulation a critical factor in keeping your home comfortable. If your home was built before the 1990s, the insulation may be inadequate by modern standards. Homes in neighborhoods like [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/dumpster-rental-mandarin-fl), Murray Hill, and the Westside frequently have attics with insufficient or damaged insulation.
 
 If you decide to replace attic insulation, the old material generates significant waste. Fiberglass batt insulation from a 1,500-square-foot attic can produce 4 to 6 cubic yards of waste. A [10-yard dumpster](/10-yard-dumpster-rental) handles the removal phase well. For more on tackling attic projects, see our [attic and basement cleanout guide](/blog/attic-basement-cleanout-decluttering-disposal).
 
@@ -1564,7 +1564,7 @@ For more details on what commercial construction and renovation materials can be
 
 We provide commercial dumpster rental service throughout Northeast Florida:
 
-- **Duval County:** All of Jacksonville including Downtown, Southside, Northside, Westside, [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), and the Beaches
+- **Duval County:** All of Jacksonville including Downtown, Southside, Northside, Westside, [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/dumpster-rental-mandarin-fl), and the Beaches
 - **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee, World Golf Village
 - **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
 - **[Nassau County](/blog/nassau-county-dumpster-rental-fl):** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Yulee, Callahan

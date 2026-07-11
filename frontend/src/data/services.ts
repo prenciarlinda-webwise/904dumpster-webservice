@@ -134,6 +134,7 @@ export const SERVICES: ServicePage[] = [
         answer: 'Yes, you can put concrete in a 10 yard dumpster, but the 2,000-pound weight limit fills up quickly. A 10-yard bin filled entirely with concrete would far exceed the limit, so the 10-yard works best for small amounts of concrete mixed with other debris. For concrete-only loads like a driveway tear-out, call 904 Dumpster at (904) 240-5598 for heavy-debris pricing.',
       },
     ],
+    quickAnswer: 'A 10 yard dumpster rental costs $299 flat at 904 Dumpster, book online or call (904) 240-5598. The container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, holds 1 ton of debris, and fits in nearly any driveway.\n\nIt is the right size for garage cleanouts, attic purges, and single-room renovations across Jacksonville. Same-day delivery is available for orders placed before noon, with pickup and disposal included in the flat rate.',
     customPage: true,
   },
   {
@@ -427,6 +428,7 @@ export const SERVICES: ServicePage[] = [
         answer: 'Standard roll-off dumpster dimensions at 904 Dumpster: 10 yard is 12 feet long, 7.5 feet wide, 3.6 feet high; 15 yard is 14 feet long, 7.5 feet wide, 4.5 feet high; 20 yard is 14 feet long, 7.5 feet wide, 5.8 feet high. All three fit a standard residential driveway and require about 14 feet of overhead clearance for the delivery truck.',
       },
     ],
+    quickAnswer: 'Dumpster sizes at 904 Dumpster run 10, 15, and 20 yard, priced at $299, $349, and $399 flat — book the right one online or call (904) 240-5598. The 10-yard suits small cleanouts, the 15-yard (our most popular) handles roofing and kitchen remodels, and the 20-yard covers whole-house projects.\n\nAll three fit a standard Jacksonville driveway. If you are unsure which size to book, sizing up costs only $50 more, so most first-time renters choose the 15-yard as the safe middle option.',
     customPage: true,
   },
 

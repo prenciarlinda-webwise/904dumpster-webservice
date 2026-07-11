@@ -230,7 +230,7 @@ Clay County requires haulers to appear on its official [franchise hauler list](h
 
 ## Orange Park: The Cross-River Route
 
-Orange Park sits across the St. Johns River from [Mandarin](/blog/dumpster-rental-mandarin-fl) and downtown Jacksonville, and most deliveries arrive via I-295 in about 25 minutes. Coverage runs the 32065, 32073, and 32003 ZIP codes, from the historic Park Avenue town center to OakLeaf Plantation and the Argyle and Lakeside corridors along Blanding Boulevard. The most common Orange Park renovation projects are OakLeaf subdivision cleanouts, mid-century remodels near Park Avenue, and rental-property turnovers along Blanding. The [20-yard dumpster](/20-yard-dumpster-rental) is the most-booked size because most Orange Park lots handle the larger footprint without issue.
+Orange Park sits across the St. Johns River from [Mandarin](/dumpster-rental-mandarin-fl) and downtown Jacksonville, and most deliveries arrive via I-295 in about 25 minutes. Coverage runs the 32065, 32073, and 32003 ZIP codes, from the historic Park Avenue town center to OakLeaf Plantation and the Argyle and Lakeside corridors along Blanding Boulevard. The most common Orange Park renovation projects are OakLeaf subdivision cleanouts, mid-century remodels near Park Avenue, and rental-property turnovers along Blanding. The [20-yard dumpster](/20-yard-dumpster-rental) is the most-booked size because most Orange Park lots handle the larger footprint without issue.
 
 ## Middleburg: Rural Delivery Considerations
 

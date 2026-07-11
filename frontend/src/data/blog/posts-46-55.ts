@@ -29,7 +29,7 @@ Understanding what debris your porch project will generate helps you choose the 
 
 ### Demolition Debris from Existing Structures
 
-If you are converting an existing open patio or replacing an old screened porch, demolition is the first phase. Old concrete pads, cracked pavers, deteriorated wood framing, rusted aluminum frames, torn screening, damaged railings, and rotting deck boards all have to go. In older Jacksonville homes, especially in neighborhoods like [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), San Marco, and Murray Hill, existing porch structures may include multiple layers of materials added over the decades. You might find old lattice panels, layers of paint-covered trim, and outdated roofing materials underneath what is visible.
+If you are converting an existing open patio or replacing an old screened porch, demolition is the first phase. Old concrete pads, cracked pavers, deteriorated wood framing, rusted aluminum frames, torn screening, damaged railings, and rotting deck boards all have to go. In older Jacksonville homes, especially in neighborhoods like [Riverside](/dumpster-rental-riverside-avondale-fl), San Marco, and Murray Hill, existing porch structures may include multiple layers of materials added over the decades. You might find old lattice panels, layers of paint-covered trim, and outdated roofing materials underneath what is visible.
 
 Concrete removal from an existing patio slab creates some of the heaviest waste. If your project involves breaking up a concrete pad for new footings or a different layout, consider our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option, which is designed specifically for heavy materials.
 
@@ -466,7 +466,7 @@ Improper ductwork routing, missing bathroom exhaust fans, inadequate attic venti
 
 ## Things to Look for When Buying an Old House
 
-If you are in the market for an older Jacksonville home, particularly in historic neighborhoods like Springfield, [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, or San Marco, knowing things to look for when buying an old house can save you from costly surprises.
+If you are in the market for an older Jacksonville home, particularly in historic neighborhoods like Springfield, [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, or San Marco, knowing things to look for when buying an old house can save you from costly surprises.
 
 | What to Check | Why It Matters | Potential Waste If Fixed |
 |---|---|---|
@@ -666,7 +666,7 @@ Florida's humidity means bathrooms with poor ventilation often develop mold behi
 
 ### Older Home Considerations
 
-Jacksonville neighborhoods like [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, Ortega, and Springfield have many homes built before 1970. These homes may have lead paint, asbestos-containing tiles or adhesives, and galvanized plumbing that are all specific to older construction. Materials containing asbestos require professional abatement and cannot go in a standard dumpster. Have suspect materials tested before demolition. For a full list of restricted materials, see our [guide to what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Jacksonville neighborhoods like [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Ortega, and Springfield have many homes built before 1970. These homes may have lead paint, asbestos-containing tiles or adhesives, and galvanized plumbing that are all specific to older construction. Materials containing asbestos require professional abatement and cannot go in a standard dumpster. Have suspect materials tested before demolition. For a full list of restricted materials, see our [guide to what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
 
 We serve homeowners throughout Northeast Florida including [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and [Middleburg](/dumpster-rental-middleburg-fl). [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598** to get a dumpster delivered before your renovation begins.
 

@@ -11,6 +11,7 @@ import { EDUCATIONAL_POSTS } from './posts-educational'
 import { AI_VISIBILITY_POSTS } from './posts-ai-visibility'
 import { POSTS_56_TO_75 } from './posts-56-75'
 import { POSTS_76_TO_87 } from './posts-76-87'
+import { BUCKET_B_AEO_POSTS } from './posts-bucket-b-aeo'
 
 export const BLOG_POSTS: BlogPost[] = [
   ...EXISTING_POSTS,
@@ -25,4 +26,5 @@ export const BLOG_POSTS: BlogPost[] = [
   ...AI_VISIBILITY_POSTS,
   ...POSTS_56_TO_75,
   ...POSTS_76_TO_87,
+  ...BUCKET_B_AEO_POSTS,
 ]

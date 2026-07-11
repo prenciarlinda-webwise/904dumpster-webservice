@@ -818,7 +818,7 @@ To get started, call 904 Dumpster at **(904) 240-5598** and let us know you are 
 
 904 Dumpster serves contractors throughout the Jacksonville metropolitan area and surrounding Northeast Florida communities. Our full service area includes:
 
-- **Duval County:** All of Jacksonville, [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/blog/dumpster-rental-mandarin-fl), Southside, Westside, Northside, San Marco, [Riverside](/blog/dumpster-rental-riverside-avondale-jacksonville), Avondale, Beaches communities
+- **Duval County:** All of Jacksonville, [Arlington](/dumpster-rental-arlington-fl), [Mandarin](/dumpster-rental-mandarin-fl), Southside, Westside, Northside, San Marco, [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Beaches communities
 - **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), World Golf Village, Nocatee, Fruit Cove
 - **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), Oakleaf
 - **[Nassau County](/blog/nassau-county-dumpster-rental-fl):** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), Yulee, Callahan, [Hilliard](/dumpster-rental-hilliard-fl)
