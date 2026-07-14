@@ -188,7 +188,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
     content: `
 ## How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide
 
-Weight limits are the part of dumpster rental that catches most people off guard. You order a dumpster, fill it up, and then get hit with an overage charge because the contents weighed more than expected. The truth is that volume and weight are two very different things. A 20-yard dumpster full of cardboard boxes weighs far less than the same dumpster half-filled with concrete. Understanding dumpster weight limits before you rent saves you from surprise fees and helps you choose the right container for your project.
+Weight limits are the part of dumpster rental that catches most people off guard. You order a dumpster, fill it up, and then get hit with an overage charge because the contents weighed more than expected. The truth is that volume and weight are two very different things. A 20-yard dumpster full of cardboard boxes weighs far less than the same dumpster half-filled with concrete. Understanding dumpster weight limits before you rent saves you from surprise fees and helps you choose the right container for your project. For a side-by-side comparison of dimensions, pricing, and capacity across all three sizes, see our [dumpster size guide](/dumpster-size-guide) — this article goes deeper specifically on weight and tonnage.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving [Jacksonville and Northeast Florida](/) since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 

@@ -367,6 +367,18 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
               you want a real recommendation based on your project - 10 years of Jacksonville deliveries means
               we have seen your project before.
             </p>
+            <p>
+              Want the full breakdown of weight limits by material, what an empty dumpster weighs, and how to
+              avoid an overage charge entirely? See our{' '}
+              <Link href="/blog/dumpster-weight-limits-tonnage-guide" className="text-primary font-semibold hover:underline" title="Dumpster Weight Limits and Tonnage Guide">
+                dumpster weight limits and tonnage guide
+              </Link>{' '}
+              for the deep dive. Sizing a container for a business project instead of a home cleanout? Our{' '}
+              <Link href="/commercial-dumpster-rental-jacksonville-fl" className="text-primary font-semibold hover:underline" title="Commercial Dumpster Rental Jacksonville FL">
+                commercial dumpster rental guide
+              </Link>{' '}
+              covers COI requirements, business-hours scheduling, and volume pricing for recurring project work.
+            </p>
           </div>
         </div>
       </section>
