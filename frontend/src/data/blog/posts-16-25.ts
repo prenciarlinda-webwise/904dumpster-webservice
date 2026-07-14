@@ -179,6 +179,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
     publishedDate: '2026-06-08T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '8 min read',
     featuredImage: '/images/dumpster-jacksonville.jpg',
     tags: ['dumpster weight limit', 'dumpster weight calculator', 'how much does a dumpster weigh', 'dumpster tonnage', '20 yard dumpster weight limit', '30 yard dumpster weight limit', 'dumpster weight capacity', 'roll off dumpster weight'],
@@ -207,17 +208,15 @@ These weights matter for the delivery truck and for your driveway. The combined 
 
 ## Dumpster Weight Limits by Size
 
-Every dumpster rental comes with a weight allowance included in the base price. Exceeding that limit results in overage charges, typically billed per ton over the included amount. Here are the standard weight limits across the industry:
+Every dumpster rental comes with a weight allowance included in the base price. Exceeding that limit results in overage charges, typically billed per ton over the included amount. Here is what 904 Dumpster includes with each size:
 
-| Dumpster Size | Typical Weight Limit | Common Overage Rate |
+| Dumpster Size | Weight Included | Overage Rate |
 |---------------|---------------------|-------------------|
-| 10-yard | 2 - 3 tons | $50 - $75 per ton |
-| 15-yard | 3 - 4 tons | $50 - $75 per ton |
-| 20-yard | 4 - 5 tons | $50 - $75 per ton |
-| 30-yard | 5 - 7 tons | $50 - $100 per ton |
-| 40-yard | 6 - 8 tons | $50 - $100 per ton |
+| 10-yard | 1 ton (2,000 lbs) | $75 per ton (Duval County) |
+| 15-yard | 1.5 tons (3,000 lbs) | $75-$100 per ton depending on county |
+| 20-yard | 2 tons (4,000 lbs) | $75-$100 per ton depending on county |
 
-At 904 Dumpster, our flat-rate pricing includes a generous weight allowance with each rental. We will let you know the exact weight included with your [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), or [20-yard dumpster](/20-yard-dumpster-rental) when you book.
+904 Dumpster tops out at the 20-yard; we do not offer 30 or 40-yard containers. If you see "industry standard" weight limits elsewhere quoting higher tonnage for those sizes, that reflects other companies' equipment, not ours. We will confirm the exact weight included with your [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), or [20-yard dumpster](/20-yard-dumpster-rental) when you book.
 
 ### Dumpster Sizes for Your Project
 
@@ -227,16 +226,16 @@ At 904 Dumpster, our flat-rate pricing includes a generous weight allowance with
 
 ## How Many Tons Does a 20-Yard Dumpster Hold?
 
-A 20-yard dumpster typically holds between 4 and 5 tons of material (8,000 to 10,000 pounds). How much weight you can put in a 20-yard dumpster depends on what you are loading. Here is a practical breakdown:
+904 Dumpster's 20-yard dumpster includes a 2-ton (4,000 pound) weight allowance. How much of that allowance you use depends on what you are loading. Here is a practical breakdown:
 
 | Material Type | Estimated Weight per Cubic Yard | 20-Yard Dumpster Capacity |
 |--------------|-------------------------------|--------------------------|
 | Household junk | 150 - 300 lbs | Fills by volume before weight |
-| Wood/lumber | 300 - 500 lbs | Fills by volume before weight |
-| Drywall | 500 - 650 lbs | May approach weight limit |
-| Asphalt shingles | 800 - 1,000 lbs | Hits weight limit at ~5-6 cubic yards |
-| Concrete/brick | 2,000 - 2,400 lbs | Hits weight limit at ~2-3 cubic yards |
-| Dirt/soil | 2,200 - 2,600 lbs | Hits weight limit at ~2 cubic yards |
+| Wood/lumber | 300 - 500 lbs | May hit weight limit around 8-13 cubic yards for dense lumber |
+| Drywall | 500 - 650 lbs | Hits weight limit at ~6-8 cubic yards |
+| Asphalt shingles | 800 - 1,000 lbs | Hits weight limit at ~4-5 cubic yards |
+| Concrete/brick | 2,000 - 2,400 lbs | Hits weight limit at ~1.5-2 cubic yards |
+| Dirt/soil | 2,200 - 2,600 lbs | Hits weight limit at ~1.5-2 cubic yards |
 
 The takeaway: for light materials like household junk, old furniture, and general debris, you will fill the dumpster to the brim before worrying about weight. For heavy materials like [concrete](/concrete-disposal-dumpster-jacksonville-fl), roofing shingles, or dirt, the weight limit becomes the limiting factor long before you run out of space. The EPA's research on [the weight of construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) shows why dense C&D material maxes out a container by tonnage rather than volume.
 
@@ -293,7 +292,7 @@ Ready to rent? [Book your dumpster online](https://app.icans.ai/customer-portal/
 
 ### How much weight can you put in a 20-yard dumpster?
 
-Most 20-yard dumpsters have a weight limit of 4 to 5 tons (8,000 to 10,000 pounds). For household junk, furniture, and general debris, you will typically fill the container by volume before reaching the weight limit. Heavy materials like concrete or roofing shingles will hit the weight limit much sooner.
+904 Dumpster's 20-yard dumpster includes a weight limit of 2 tons (4,000 pounds). For household junk and general debris, you will typically fill the container by volume before reaching the weight limit. Heavy materials like concrete or roofing shingles will hit the weight limit much sooner.
 
 ### How much does an empty dumpster weigh?
 

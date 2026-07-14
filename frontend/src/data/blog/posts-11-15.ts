@@ -348,6 +348,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-21',
+    updatedDate: '2026-07-14',
     readTime: '7 min read',
     featuredImage: '/images/roll-off-dumpster-rental-jacksonville-fl.jpg',
     tags: ['dumpster rental cost fernandina beach', 'nassau county dumpster', 'amelia island dumpster rental', 'fernandina beach renovation', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
@@ -391,9 +392,8 @@ Here is how 904 Dumpster compares:
 
 | Feature | 904 Dumpster | National Brokers (Average) |
 |---------|-------------|--------------------------|
-| 10-yard price | $299 | $400 - $550 |
-| 15-yard price | $349 | $450 - $600 |
-| 20-yard price | $399 | $500 - $700 |
+| 15-yard price | $409 | $450 - $600 |
+| 20-yard price | $459 | $500 - $700 |
 | Rental period | 5 days included | 5-7 days (varies) |
 | Weight included | 1.5 - 2 tons | Often 1 ton or less |
 | Hidden fees | None | Fuel, environmental, admin fees common |
@@ -407,7 +407,7 @@ Fernandina Beach and Amelia Island have a unique mix of historic properties, bea
 
 ### Historic Home Renovations in Downtown Fernandina
 
-Downtown Fernandina Beach, centered around Centre Street, has some of the most beautifully preserved Victorian architecture in Florida. Renovating these homes in the 32034 zip code often involves removing old plaster, lathe, hardwood flooring, cabinetry, and sometimes structural elements. The debris from a single-room renovation in a historic home can fill a [10-yard dumpster](/10-yard-dumpster-rental), while a larger whole-house project typically calls for a [15-yard](/15-yard-dumpster-rental) or [20-yard dumpster](/20-yard-dumpster-rental).
+Downtown Fernandina Beach, centered around Centre Street, has some of the most beautifully preserved Victorian architecture in Florida. Renovating these homes in the 32034 zip code often involves removing old plaster, lathe, hardwood flooring, cabinetry, and sometimes structural elements. The debris from a single-room renovation in a historic home can fill a [15-yard dumpster](/15-yard-dumpster-rental), while a larger whole-house project typically calls for a [20-yard dumpster](/20-yard-dumpster-rental).
 
 ### Beach House Cleanouts and Remodels
 
@@ -417,7 +417,7 @@ If you are also dealing with [kitchen renovation debris](/blog/kitchen-renovatio
 
 ### Vacation Rental Turnovers and Cleanouts
 
-Amelia Island is a major vacation rental market. Property owners frequently update and refresh rental properties between seasons, replacing furniture, mattresses, appliances, and decor. A 10-yard dumpster is usually sufficient for a vacation rental cleanout, and the 3-day rental period gives you plenty of time to complete the work between guests.
+Amelia Island is a major vacation rental market. Property owners frequently update and refresh rental properties between seasons, replacing furniture, mattresses, appliances, and decor. A 15-yard dumpster is usually sufficient for a vacation rental cleanout, and the 5-day rental period gives you plenty of time to complete the work between guests.
 
 ### New Construction in Yulee and Wildlight
 
@@ -431,8 +431,8 @@ Not sure which size to rent? Here is a practical guide based on common Fernandin
 
 | Project Type | Recommended Size | Why |
 |-------------|-----------------|-----|
-| Garage cleanout | 10-yard | Fits typical garage contents, easy driveway fit |
-| Single-room renovation | 10-yard | Cabinets, flooring, drywall from one room |
+| Garage cleanout | 15-yard | Fits typical garage contents, easy driveway fit |
+| Single-room renovation | 15-yard | Cabinets, flooring, drywall from one room |
 | Roofing tear-off (up to 25 squares) | 15-yard | Shingles are heavy; 15-yard handles the weight |
 | Kitchen or bathroom remodel | 15-yard | Cabinets, countertops, fixtures, flooring, drywall |
 | Whole-house renovation | 20-yard | Multiple rooms of debris, mixed materials |
@@ -458,7 +458,7 @@ Delivery is typically next-day for Nassau County orders placed before noon. Same
 
 Amelia Island has narrower lots and tighter driveways than many mainland neighborhoods, especially in the historic downtown area and older beach communities. Here are some tips for successful dumpster placement:
 
-**Measure your driveway first.** Our 10-yard dumpster is 12 feet long and 7.5 feet wide. The 15-yard and 20-yard are 14 feet long and 7.5 feet wide. Make sure you have enough length and width, plus about 20 feet of overhead clearance for the delivery truck's arm.
+**Measure your driveway first.** Our 15-yard and 20-yard dumpsters are 14 feet long and 7.5 feet wide (the 10-yard size is only available in Duval County). Make sure you have enough length and width, plus about 20 feet of overhead clearance for the delivery truck's arm.
 
 **Watch for overhead obstructions.** Trees, power lines, and low-hanging branches are common on Amelia Island properties. Let us know about any potential obstructions when you book so our driver can plan accordingly.
 
@@ -486,7 +486,7 @@ Ready to get started? You have two easy options:
 
 ### How much does a dumpster rental cost in Fernandina Beach?
 
-A dumpster rental in Fernandina Beach costs $349 for a 15-yard and $399 for a 20-yard at 904 Dumpster. All prices include delivery, pickup, disposal, and a 5-day rental period. There are no hidden fees or surcharges for Nassau County delivery.
+A dumpster rental in Fernandina Beach costs $409 for a 15-yard and $459 for a 20-yard at 904 Dumpster (the 10-yard size is only available in Duval County). All prices include delivery, pickup, disposal, and a 5-day rental period. There are no hidden fees or surcharges for Nassau County delivery.
 
 ### Do you deliver dumpsters to Amelia Island?
 

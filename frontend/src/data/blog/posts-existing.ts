@@ -11,6 +11,7 @@ export const EXISTING_POSTS: BlogPost[] = [
     category: 'local-guides',
     author: '904 Dumpster',
     publishedDate: '2026-02-23',
+    updatedDate: '2026-07-14',
     readTime: '5 min read',
     featuredImage: '/images/dumpster-rental-middleburg-fl.jpg',
     tags: ['clay county dumpster rental', 'orange park dumpster rental', 'clay county franchise hauler', 'fleming island dumpster rental', 'middleburg dumpster rental', 'green cove springs dumpster rental', '904 dumpster clay county'],
@@ -48,13 +49,11 @@ If you live in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](
 
 ## Dumpster Rental Sizes Available in Clay County
 
-We deliver three roll-off dumpster sizes throughout Clay County:
+We deliver two roll-off dumpster sizes throughout Clay County (the 10-yard is only available in Duval County):
 
-**10-Yard Dumpster ($299)** - 12ft x 7.5ft x 3.6ft. Holds 1 ton. Best for garage cleanouts, single-room renovations, and small landscaping projects. Fits easily in Clay County driveways and cul-de-sacs.
+**15-Yard Dumpster ($409)** - 14ft x 7.5ft x 4.5ft. Holds 1.5 tons. Ideal for garage cleanouts, roofing tear-offs, kitchen remodels, and medium estate cleanouts. Our most popular size for Fleming Island and Oakleaf homeowners.
 
-**15-Yard Dumpster ($349)** - 14ft x 7.5ft x 4.5ft. Holds 1.5 tons. Ideal for roofing tear-offs, kitchen remodels, and medium estate cleanouts. Our most popular size for Fleming Island and Oakleaf homeowners.
-
-**20-Yard Dumpster ($399)** - 14ft x 7.5ft x 5.8ft. Holds 2 tons. Built for whole-house renovations, construction debris, and large property cleanouts. Frequently rented by contractors working in new developments around Middleburg and Green Cove Springs.
+**20-Yard Dumpster ($459)** - 14ft x 7.5ft x 5.8ft. Holds 2 tons. Built for whole-house renovations, construction debris, and large property cleanouts. Frequently rented by contractors working in new developments around Middleburg and Green Cove Springs.
 
 All prices include delivery, pickup, disposal, and a 5-day rental period. No hidden fees.
 
@@ -76,7 +75,7 @@ Same-day delivery is available in most Clay County areas when you book before no
 
 Renting a dumpster from 904 Dumpster in Clay County takes less than five minutes:
 
-1. **Choose your size** - 10, 15, or 20-yard based on your project
+1. **Choose your size** - 15 or 20-yard based on your project
 2. **Book online or call** - [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598
 3. **We deliver** - Same-day or next-day to your Clay County address
 4. **Fill your dumpster** - You have 5 days (extensions available at $15/day)
@@ -100,7 +99,7 @@ No permit is needed if the dumpster is placed on your private property, such as 
 
 ### How much does a dumpster rental cost in Clay County?
 
-Dumpster rental in Clay County costs $299 to $399 at 904 Dumpster, depending on size. The 10-yard is $299, the 15-yard is $349, and the 20-yard is $399. All prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental.
+Dumpster rental in Clay County costs $409 to $459 at 904 Dumpster, depending on size. The 15-yard is $409, and the 20-yard is $459 (the 10-yard is only available in Duval County). All prices include delivery, pickup, disposal, and a 5-day rental period.
 
 ### Does 904 Dumpster deliver to Orange Park and Fleming Island?
 

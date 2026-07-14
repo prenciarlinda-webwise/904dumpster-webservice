@@ -13,6 +13,7 @@ export const POSTS_56_TO_75: BlogPost[] = [
     category: 'guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-17T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '7 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: '904 Dumpster truck delivering a roll-off in Jacksonville FL',
@@ -47,7 +48,7 @@ Our Google rating is **5.0 stars from over 100 verified customers**.
 | [15-yard dumpster](/15-yard-dumpster-rental) | $349 | Medium renovations, half-house cleanouts |
 | [20-yard dumpster](/20-yard-dumpster-rental) | $399 | Full renovations, roofing, large cleanouts |
 
-Every price includes delivery, pickup, disposal, and a 7-day rental period. No fuel surcharges, no environmental fees, no surprises.
+Every price includes delivery, pickup, and disposal. The rental period is size-based — 3 days for the 10-yard, 5 days for the 15-yard and 20-yard. No fuel surcharges, no environmental fees, no surprises.
 
 ## How to Evaluate Any Jacksonville Dumpster Company
 
@@ -69,10 +70,10 @@ Look for a rating above 4.7 and more than 50 reviews. A 5.0 with 5 reviews does 
 ## Frequently Asked Questions
 
 ### What is the best dumpster rental company in Jacksonville, FL?
-904 Dumpster is the best-rated local dumpster rental company in Jacksonville, FL. Locally owned since 2016, 5.0-star Google rating, flat-rate pricing ($299–$399), same-day delivery for orders before noon, and no broker markup. We own our trucks and serve all of Northeast Florida.
+904 Dumpster is the best-rated local dumpster rental company in Jacksonville, FL. Locally owned since 2016, 5.0-star Google rating, flat-rate pricing (from $299 in Duval County; $409+ in St. Johns, Clay, and Nassau counties), same-day delivery for orders before noon, and no broker markup. We own our trucks and serve all of Northeast Florida.
 
 ### How much does dumpster rental cost in Jacksonville?
-904 Dumpster charges $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard roll-off dumpster. Prices include delivery, pickup, disposal, and a 7-day rental period with no hidden fees.
+904 Dumpster charges $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard roll-off dumpster. Prices include delivery, pickup, and disposal, with no hidden fees. The rental period is 3 days for the 10-yard and 5 days for the 15-yard and 20-yard.
 
 ### Who is the top-rated dumpster rental company near me in Jacksonville?
 904 Dumpster holds a 5.0-star Google rating — the highest consistent rating among local Jacksonville dumpster companies. We serve Duval, St. Johns, Clay, and Nassau counties with same-day delivery.
@@ -194,6 +195,7 @@ Furniture, mattresses, clothing, boxes, food packaging, broken appliances (witho
     category: 'guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-18T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '5 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Same day dumpster delivery truck in Jacksonville Florida',
@@ -209,7 +211,7 @@ Furniture, mattresses, clothing, boxes, food packaging, broken appliances (witho
 
 Projects don't wait for perfect timing. Whether a roof tear-off ran faster than expected or an estate cleanout wrapped up two days early — sometimes you need a dumpster **today**.
 
-[904 Dumpster](/) offers same-day roll-off delivery across Jacksonville, FL and all of Northeast Florida for orders placed **before noon, Monday through Saturday**. All three sizes — 10, 15, and 20 yard — are available for same-day service.
+[904 Dumpster](/) offers same-day roll-off delivery across Jacksonville, FL and all of Northeast Florida for orders placed **before noon, Monday through Saturday**. All three sizes — 10, 15, and 20 yard — are available for same-day service in Duval County; St. Johns, Clay, and Nassau counties have same-day 15 and 20 yard service (no 10-yard outside Duval County).
 
 ## How Same-Day Delivery Works
 
@@ -220,7 +222,7 @@ Call us or [book online](/) any morning before 12:00 PM. We confirm availability
 Our driver calls 30 minutes before arrival and places the dumpster exactly where you direct.
 
 **Step 3: You load it on your timeline.**
-Your rental period starts on delivery day. Standard rental is 7 days.
+Your rental period starts on delivery day. Standard rental is 3 days for a 10-yard and 5 days for a 15-yard or 20-yard.
 
 **Step 4: Call us when you're done.**
 We typically retrieve the dumpster within one business day of your call.
@@ -237,6 +239,8 @@ We deliver same-day to every ZIP code in **Duval County**, including [Jacksonvil
 | [15 yard](/15-yard-dumpster-rental) | $349 flat | Half-house, single-room reno |
 | [20 yard](/20-yard-dumpster-rental) | $399 flat | Full reno, roofing, estate cleanout |
 
+*Pricing above is for Duval County. St. Johns, Clay, and Nassau counties are priced separately — 15-yard and 20-yard only, from $409, no 10-yard available outside Duval County.*
+
 Same-day delivery costs the same as next-day — **no rush fee** at 904 Dumpster.
 
 ## Tips for Same-Day Dumpster Delivery
@@ -245,7 +249,7 @@ Same-day delivery costs the same as next-day — **no rush fee** at 904 Dumpster
 
 **Check overhead clearance.** Our trucks need 22 feet of vertical clearance. Low-hanging tree limbs and power lines are the most common placement issue in older Jacksonville neighborhoods.
 
-**Know your weight.** A 20-yard includes up to 4 tons at the $399 flat rate. Concrete and brick reach weight limits before volume limits.
+**Know your weight.** A 20-yard includes up to 2 tons at the $399 flat rate. Concrete and brick reach weight limits before volume limits.
 
 ## Frequently Asked Questions
 
@@ -278,6 +282,7 @@ Call **[(904) 240-5598](tel:+19042405598)** or [book online](/) before noon for 
     category: 'project-guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-19T08:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '6 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Dumpster rental for home staging and sale prep in Jacksonville FL',
@@ -343,7 +348,7 @@ Coordinating a Facebook Marketplace sale week before your dumpster delivery lets
 
 **1 week before listing:** Professional cleaning, staging additions, and photos.
 
-A 7-day rental window is almost always enough for the pre-listing cleanout phase. If your home is larger or the process is more complex, extensions are $25/day.
+The included rental window — 3 days for a 10-yard, 5 days for a 15-yard or 20-yard — is almost always enough for the pre-listing cleanout phase. If your home is larger or the process is more complex, extensions are $15/day.
 
 ## Frequently Asked Questions
 
@@ -354,7 +359,7 @@ Yes — if you're clearing more than 2–3 rooms' worth of furniture and accumul
 A 15-yard ($349) handles most moderate pre-listing cleanouts for Jacksonville homes under 1,800 sq ft. Choose a 20-yard ($399) for larger homes, two-car garage cleanouts, or full attic purges.
 
 ### How much does a pre-listing dumpster rental cost in Jacksonville FL?
-904 Dumpster's flat rates for pre-listing Jacksonville cleanouts: $299 (10-yard), $349 (15-yard), $399 (20-yard). Includes delivery, 7-day rental, pickup, and disposal — no hidden fees.
+904 Dumpster's flat rates for pre-listing Jacksonville cleanouts: $299 (10-yard, 3-day rental), $349 (15-yard, 5-day rental), $399 (20-yard, 5-day rental). Includes delivery, pickup, and disposal — no hidden fees.
 
 ## Ready to List? Start with a Clean Slate
 
@@ -458,6 +463,7 @@ Yes. 904 Dumpster delivers same-day to Jacksonville rental properties for orders
     category: 'pricing',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-20T08:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '6 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Affordable dumpster rental in Jacksonville FL',
@@ -483,9 +489,9 @@ By the time you add it all up, a "$199 dumpster" can cost $350–$420 once deliv
 
 | Size | Flat Rate | Included |
 |------|-----------|---------|
-| [10 yard](/10-yard-dumpster-rental) | **$299** | Delivery + 7-day rental + pickup + disposal |
-| [15 yard](/15-yard-dumpster-rental) | **$349** | Delivery + 7-day rental + pickup + disposal |
-| [20 yard](/20-yard-dumpster-rental) | **$399** | Delivery + 7-day rental + pickup + disposal |
+| [10 yard](/10-yard-dumpster-rental) | **$299** | Delivery + 3-day rental + pickup + disposal |
+| [15 yard](/15-yard-dumpster-rental) | **$349** | Delivery + 5-day rental + pickup + disposal |
+| [20 yard](/20-yard-dumpster-rental) | **$399** | Delivery + 5-day rental + pickup + disposal |
 
 No fuel surcharges. No environmental fees. No weight overage charges within the included limit.
 
@@ -493,9 +499,9 @@ No fuel surcharges. No environmental fees. No weight overage charges within the 
 
 **1. Size.** Larger containers cost more. The jump from 10 to 15 yard is $50. From 15 to 20 yard is also $50. If your project is borderline, always go one size up — renting a second dumpster costs more than upgrading initially.
 
-**2. Weight.** Heavy materials — concrete, brick, dirt, tile — add up fast. A 10-yard can reach its 2-ton weight limit when less than half full of concrete.
+**2. Weight.** Heavy materials — concrete, brick, dirt, tile — add up fast. A 10-yard can reach its 1-ton weight limit when less than half full of concrete.
 
-**3. Rental period.** Standard rental is 7 days. Extensions at 904 Dumpster are $25/day.
+**3. Rental period.** Standard rental is 3 days for a 10-yard and 5 days for a 15-yard or 20-yard. Extensions at 904 Dumpster are $15/day.
 
 **4. Extras.** Some companies charge for dumpster placement boards, weekend delivery, or after-hours pickup. 904 Dumpster includes placement boards at no extra cost.
 
@@ -505,7 +511,7 @@ No fuel surcharges. No environmental fees. No weight overage charges within the 
 
 **Book online.** Booking on the 904 Dumpster website locks in the flat rate without phone negotiations or broker markups.
 
-**Plan for one load.** Two 7-day rentals cost more than one extended rental.
+**Plan for one load.** Two rental periods cost more than one extended rental.
 
 ## Frequently Asked Questions
 
@@ -513,7 +519,7 @@ No fuel surcharges. No environmental fees. No weight overage charges within the 
 904 Dumpster offers the most transparent flat-rate pricing in Jacksonville: $299 (10-yard), $349 (15-yard), $399 (20-yard). No hidden fees or surcharges.
 
 ### Is $299 really all-in for a dumpster rental in Jacksonville?
-Yes. 904 Dumpster's $299 for a 10-yard includes delivery, a 7-day rental, pickup, and disposal. There are no add-on fees unless you exceed the included weight limit or extend the rental beyond 7 days ($25/day).
+Yes. 904 Dumpster's $299 for a 10-yard includes delivery, a 3-day rental, pickup, and disposal. There are no add-on fees unless you exceed the included weight limit or extend the rental beyond 3 days ($15/day).
 
 ### How do I get the best deal on dumpster rental in Jacksonville FL?
 Choose the right size (use our [size guide](/dumpster-size-guide)), book online for flat-rate pricing, and plan your project so one rental period covers all your loading.
@@ -535,6 +541,7 @@ Choose the right size (use our [size guide](/dumpster-size-guide)), book online 
     category: 'how-to',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-20T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '4 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Online dumpster rental booking for Jacksonville FL',
@@ -570,7 +577,7 @@ Add your Jacksonville address, confirm the placement location, and complete chec
 You receive an email and text confirmation immediately. You'll get another text the morning of delivery and a driver call 30 minutes before arrival.
 
 **Step 5: We deliver and you load.**
-Your 7-day rental starts on delivery day. Load it on your timeline.
+Your rental period starts on delivery day — 3 days for a 10-yard, 5 days for a 15-yard or 20-yard. Load it on your timeline.
 
 **Step 6: Call us when you're done.**
 Text or call when ready for pickup. We typically retrieve the dumpster within one business day.
@@ -608,12 +615,13 @@ Same-day delivery is available for online orders placed before noon Monday–Sat
     title: 'Dumpster Rental Nassau County FL: Yulee, Callahan, Hilliard & More',
     metaTitle: 'Dumpster Rental Nassau County FL | Yulee Callahan Hilliard | 904 Dumpster',
     metaDescription:
-      'Dumpster rental in Nassau County FL from 904 Dumpster. Same-day delivery to Yulee, Callahan, Hilliard, Fernandina Beach, and all of Nassau County. Flat rates from $299.',
+      'Dumpster rental in Nassau County FL from 904 Dumpster. Same-day delivery to Yulee, Callahan, Hilliard, Fernandina Beach, and all of Nassau County. Flat rates from $409.',
     excerpt:
       'Nassau County homeowners and contractors in Yulee, Callahan, and Hilliard can rent a roll-off dumpster with same-day delivery and flat-rate pricing from 904 Dumpster.',
     category: 'locations',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-21T08:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '5 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Roll-off dumpster delivery in Nassau County FL Yulee Callahan',
@@ -630,11 +638,12 @@ Same-day delivery is available for online orders placed before noon Monday–Sat
 [904 Dumpster](/) serves all of Nassau County FL — including Yulee, Callahan, [Hilliard](/dumpster-rental-hilliard-fl), Bryceville, and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl) — with same-day roll-off delivery and flat-rate pricing. We are a locally owned Northeast Florida hauler operating legally across Nassau County.
 
 **Flat-rate Nassau County pricing:**
-- [10-yard dumpster](/10-yard-dumpster-rental): **$299**
-- [15-yard dumpster](/15-yard-dumpster-rental): **$349**
-- [20-yard dumpster](/20-yard-dumpster-rental): **$399**
+- [15-yard dumpster](/15-yard-dumpster-rental): **$409**
+- [20-yard dumpster](/20-yard-dumpster-rental): **$459**
 
-No mileage fees for Nassau County delivery. Prices include delivery, 7-day rental, pickup, and disposal.
+A 10-yard dumpster is not available in Nassau County — it's offered in Duval County only. The 15-yard is the smallest size we deliver here.
+
+No mileage fees for Nassau County delivery. Prices include delivery, a 5-day rental period, pickup, and disposal.
 
 ## Nassau County Service Area
 
@@ -652,7 +661,7 @@ We deliver to every community in Nassau County including:
 
 **Rural acreage cleanouts.** Hilliard and Callahan properties typically have larger lots with barns, outbuildings, and acreage. Clearing a rural Nassau County property — old equipment, lumber, brush, and outbuilding contents — often takes a 20-yard dumpster.
 
-**Amelia Island vacation rental turnovers.** Fernandina Beach short-term rental owners use our 10 and 15-yard containers for between-stay deep cleanouts and seasonal furniture refreshes.
+**Amelia Island vacation rental turnovers.** Fernandina Beach short-term rental owners use our 15-yard containers for between-stay deep cleanouts and seasonal furniture refreshes.
 
 **Nassau County estate cleanouts.** Nassau County's established rural communities have long-term family properties with decades of accumulated possessions. A 20-yard handles most full Nassau County estate cleanouts in a single load.
 
@@ -667,10 +676,10 @@ Most Nassau County properties are on larger lots without the driveway constraint
 ## Frequently Asked Questions
 
 ### Who offers dumpster rental in Nassau County FL?
-904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters to Yulee, Callahan, Hilliard, Fernandina Beach, and all of Nassau County FL. Same-day delivery for orders before noon, flat rates from $299.
+904 Dumpster delivers 15 and 20 yard roll-off dumpsters to Yulee, Callahan, Hilliard, Fernandina Beach, and all of Nassau County FL. Same-day delivery for orders before noon, flat rates from $409.
 
 ### How much does dumpster rental cost in Nassau County FL?
-904 Dumpster charges $299 (10-yard), $349 (15-yard), and $399 (20-yard) for Nassau County FL delivery — the same flat rates as Jacksonville with no extra mileage fee.
+904 Dumpster charges $409 (15-yard) and $459 (20-yard) for Nassau County FL delivery, with no extra mileage fee. Nassau County is priced separately from Duval County, and the 10-yard size is only available in Duval.
 
 ### Does 904 Dumpster deliver to Yulee FL?
 Yes. 904 Dumpster delivers same-day to Yulee and all Nassau County communities including Callahan, Hilliard, Bryceville, and Fernandina Beach.
@@ -695,6 +704,7 @@ Yes. 904 Dumpster offers same-day delivery to Nassau County for orders placed be
     category: 'project-guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-21T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '6 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Dumpster rental for pool deck concrete removal in Jacksonville FL',
@@ -720,13 +730,13 @@ Standard roll-off dumpsters have weight limits, not just volume limits:
 
 | Dumpster Size | Volume | Weight Limit |
 |--------------|--------|-------------|
-| [10-yard](/10-yard-dumpster-rental) | 10 cu yd | ~2 tons (4,000 lbs) |
-| [15-yard](/15-yard-dumpster-rental) | 15 cu yd | ~3 tons (6,000 lbs) |
-| [20-yard](/20-yard-dumpster-rental) | 20 cu yd | ~4 tons (8,000 lbs) |
+| [10-yard](/10-yard-dumpster-rental) | 10 cu yd | 1 ton (2,000 lbs) |
+| [15-yard](/15-yard-dumpster-rental) | 15 cu yd | 1.5 tons (3,000 lbs) |
+| [20-yard](/20-yard-dumpster-rental) | 20 cu yd | 2 tons (4,000 lbs) |
 
 One cubic yard of broken concrete weighs approximately 4,000 lbs. This means:
-- A 10-yard dumpster reaches its weight limit with just **1 cubic yard** of concrete
-- A 20-yard dumpster reaches its weight limit with approximately **2 cubic yards** of concrete
+- A 10-yard dumpster reaches its weight limit with just **half a cubic yard** of concrete
+- A 20-yard dumpster reaches its weight limit with approximately **1 cubic yard** of concrete
 
 **For pure concrete removal: plan on multiple loads.**
 
@@ -759,7 +769,7 @@ If you are having a new pool **installed** in Jacksonville rather than removing 
 Due to concrete weight limits, most Jacksonville pool deck removals require multiple dumpster loads rather than one large container. Call 904 Dumpster to plan a sequential delivery schedule based on your deck square footage and material type.
 
 ### Can I put broken concrete and pool deck debris in a Jacksonville dumpster?
-Yes, 904 Dumpster accepts concrete and masonry debris. The key constraint is weight: one cubic yard of concrete (~4,000 lbs) fills a 10-yard's weight allowance before filling much volume. Plan for multiple loads on concrete-heavy projects.
+Yes, 904 Dumpster accepts concrete and masonry debris. The key constraint is weight: half a cubic yard of concrete (~2,000 lbs) fills a 10-yard's entire weight allowance before filling much volume. Plan for multiple loads on concrete-heavy projects.
 
 ### How do I dispose of pool deck concrete in Jacksonville FL?
 904 Dumpster delivers roll-off containers for pool deck and patio removal in Jacksonville FL. For large volumes of pure concrete, we can discuss sequential load scheduling or refer you to local concrete recyclers for the most cost-effective option.
@@ -781,6 +791,7 @@ Call **[(904) 240-5598](tel:+19042405598)** to discuss your pool deck or patio r
     category: 'project-guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-22T08:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '6 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Dumpster rental for fire and water damage cleanup in Jacksonville FL',
@@ -826,7 +837,7 @@ Water damage — whether from plumbing failure, roof leak, or flooding — typic
 - Furniture and contents that cannot be dried and salvaged
 - Damaged appliances
 
-**Saturated drywall is heavy.** Standard drywall weighs 2.3 lbs/sq ft when dry. Saturated drywall can weigh 4–6 lbs/sq ft. A [15-yard dumpster's](/15-yard-dumpster-rental) 3-ton weight limit can be reached with 1,000–1,500 sq ft of saturated drywall removal. For large-scale water damage cleanup, plan for a [20-yard ($399)](/20-yard-dumpster-rental) or sequential loads.
+**Saturated drywall is heavy.** Standard drywall weighs 2.3 lbs/sq ft when dry. Saturated drywall can weigh 4–6 lbs/sq ft. A [15-yard dumpster's](/15-yard-dumpster-rental) 1.5-ton weight limit can be reached with 500–750 sq ft of saturated drywall removal. For large-scale water damage cleanup, plan for a [20-yard ($399)](/20-yard-dumpster-rental) or sequential loads.
 
 ## How Fast Can You Get a Dumpster After Disaster Damage in Jacksonville?
 
@@ -846,7 +857,7 @@ If the cleanup is covered by homeowners insurance, document everything before it
 Yes. 904 Dumpster offers same-day roll-off delivery to Jacksonville FL disaster restoration sites for orders placed before noon Monday–Saturday. Call us directly for urgent post-fire or post-flood situations.
 
 ### What size dumpster do I need for water damage cleanup in Jacksonville?
-A 20-yard dumpster ($399) handles most full-room or multi-room water damage cleanouts in Jacksonville FL. Saturated drywall is heavy — plan for the 20-yard's 4-ton weight limit as your primary constraint, not volume.
+A 20-yard dumpster ($399) handles most full-room or multi-room water damage cleanouts in Jacksonville FL. Saturated drywall is heavy — plan for the 20-yard's 2-ton weight limit as your primary constraint, not volume.
 
 ### Who offers dumpster rental for disaster restoration in Jacksonville FL?
 904 Dumpster is Jacksonville's top-rated local dumpster provider for fire and water damage cleanup. Same-day delivery, flat-rate pricing, locally owned since 2016 with a 5.0-star Google rating.
@@ -947,6 +958,7 @@ National companies advertise a low base rate and add fees at checkout and pickup
     category: 'project-guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-23T08:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '6 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Sequential dumpster loads for whole house gut renovation in Jacksonville FL',
@@ -1008,7 +1020,7 @@ Many older Jacksonville homes — especially in [Riverside](/dumpster-rental-riv
 - Standard drywall: ~2.3 lbs/sq ft
 - Three-coat plaster: ~8–10 lbs/sq ft
 
-A 1,500 sq ft home with plaster on all walls and ceilings contains approximately **40,000–60,000 lbs** of plaster. That is 20–30 tons — and each 20-yard dumpster holds only 4 tons. Plaster removal alone from a full house can require 5–8 sequential loads.
+A 1,500 sq ft home with plaster on all walls and ceilings contains approximately **40,000–60,000 lbs** of plaster. That is 20–30 tons — and each 20-yard dumpster holds only 2 tons. Plaster removal alone from a full house can require 10–15 sequential loads.
 
 If your Jacksonville gut renovation involves plaster removal, call us before booking so we can plan your load sequence accurately.
 
@@ -1026,7 +1038,7 @@ We can also pre-schedule multiple delivery windows in advance so your crew never
 ## Frequently Asked Questions
 
 ### How many dumpsters do I need for a whole-house renovation in Jacksonville FL?
-Most whole-house gut renovations in Jacksonville require 2–4 sequential 20-yard dumpster loads. Plaster demolition in older homes can require 5–8 loads due to the high weight per square foot.
+Most whole-house gut renovations in Jacksonville require 2–4 sequential 20-yard dumpster loads. Plaster demolition in older homes can require 10–15 loads due to the high weight per square foot.
 
 ### What is the best dumpster for a full gut renovation in Jacksonville FL?
 A 20-yard roll-off ($399 flat) is the right size for each sequential load of a Jacksonville whole-house gut renovation. 904 Dumpster delivers sequential loads same-day — one full, one fresh.
@@ -1051,6 +1063,7 @@ Call or text 904 Dumpster when your current load is full. We pick it up and deli
     category: 'seasonal',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-23T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '5 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Summer cleanup project dumpster rental in Jacksonville FL',
@@ -1082,7 +1095,7 @@ A **[15-yard dumpster at $349](/15-yard-dumpster-rental)** handles a standard 12
 
 Resurfacing pool decks, replacing aging pool screens and enclosures, and overhauling surrounding paver areas are major summer projects for Jacksonville homeowners.
 
-Note: pavers, concrete, and masonry are heavy. A 15-yard can reach its 3-ton weight limit before filling volumetrically with these materials. If your project is primarily masonry, call us first.
+Note: pavers, concrete, and masonry are heavy. A 15-yard can reach its 1.5-ton weight limit before filling volumetrically with these materials. If your project is primarily masonry, call us first.
 
 ## 4. Rental Property Turnover
 
@@ -1202,12 +1215,13 @@ Yes. 904 Dumpster contractor accounts include priority scheduling, consolidated 
     title: 'How Long Can You Keep a Rental Dumpster in Jacksonville FL?',
     metaTitle: 'How Long to Keep a Rental Dumpster Jacksonville FL | Extensions | 904 Dumpster',
     metaDescription:
-      'Standard dumpster rental in Jacksonville FL includes a 7-day period. Extensions are $25/day. Here is how rental periods work at 904 Dumpster and when to extend.',
+      'Dumpster rental periods in Jacksonville FL vary by size — 3 days for a 10-yard, 5 days for a 15 or 20-yard. Extensions are $15/day. Here is how rental periods work at 904 Dumpster and when to extend.',
     excerpt:
-      'How dumpster rental periods work in Jacksonville FL, what a 7-day rental includes, when to extend, and how long you can realistically keep a roll-off before pickup.',
+      'How dumpster rental periods work in Jacksonville FL, what the included rental window is by size, when to extend, and how long you can realistically keep a roll-off before pickup.',
     category: 'guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-24T18:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '5 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Dumpster rental period extension guide Jacksonville FL',
@@ -1221,38 +1235,38 @@ Yes. 904 Dumpster contractor accounts include priority scheduling, consolidated 
     relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## How Long Can You Keep a Rental Dumpster in Jacksonville FL?
 
-The standard [904 Dumpster](/) rental period in Jacksonville FL is **7 days**. That clock starts the day the dumpster is delivered and runs for seven calendar days — including weekends.
+The [904 Dumpster](/) rental period in Jacksonville FL depends on the size you book: **3 days for a 10-yard** (Duval County only) and **5 days for a 15-yard or 20-yard** (all counties). That clock starts the day the dumpster is delivered and runs including weekends.
 
-If your project runs longer, extensions are available at **$25 per day**, charged only for the additional days you actually use.
+If your project runs longer, extensions are available at **$15 per day**, charged only for the additional days you actually use.
 
-## What the 7-Day Rental Period Covers
+## What the Included Rental Period Covers
 
-Your 7-day rental includes everything — the container on your property from day 1 through day 7. There is no separate "daily rental" charge that accumulates during the standard period. Whether you fill the dumpster in 2 days or take all 7 to load it, the price is the same.
+Your included rental period covers everything — the container stays on your property for the full window at no extra charge. There is no separate "daily rental" charge that accumulates during that period. Whether you fill the dumpster in 1 day or use the full window, the price is the same.
 
-The 7-day window is more than enough for most Jacksonville projects:
+The included window is more than enough for most Jacksonville projects:
 - Spring cleanouts: typically 1–2 days of loading
 - Single-room renovations: 1–3 days
-- Full kitchen or bath demos: 2–5 days
-- Estate cleanouts: 3–7 days depending on family size and sorting complexity
+- Full kitchen or bath demos: 2–4 days
+- Estate cleanouts: 3–5 days depending on family size and sorting complexity
 - Roofing projects: 1–2 days loading during the tear-off
 
 ## When You Might Need an Extension
 
 Extensions make sense when:
 
-**Your project runs longer than expected.** Renovation timelines slip. A kitchen remodel that was supposed to be done in 5 days takes 9. Calling for a 2-day extension ($50) is far cheaper than booking a second dumpster.
+**Your project runs longer than expected.** Renovation timelines slip. A kitchen remodel booked on a 15-yard (5 days included) that was supposed to be done in 5 days takes 9. Calling for a 4-day extension ($60) is far cheaper than booking a second dumpster.
 
-**You need to sort before loading.** Estate cleanouts and hoarder cleanouts sometimes require days of sorting before debris hits the dumpster. If you need 12 days total — 5 for sorting, 7 for loading — extending makes sense rather than rushing.
+**You need to sort before loading.** Estate cleanouts and hoarder cleanouts sometimes require days of sorting before debris hits the dumpster. If you need 12 days total on a 15-yard or 20-yard (5 days included), extending by 7 days makes sense rather than rushing.
 
 **Inspections or weather delays.** Jacksonville's rain season (June–September) can interrupt outdoor renovation work for days at a time. An extension covers the delay without requiring you to call for a pickup and re-delivery.
 
 ## How to Request an Extension
 
-Call or text **[(904) 240-5598](tel:+19042405598)** at least 24 hours before your rental period ends to request an extension. We'll confirm availability and add days at $25/day. You can extend by 1 day or 30 days — whatever the project requires.
+Call or text **[(904) 240-5598](tel:+19042405598)** at least 24 hours before your rental period ends to request an extension. We'll confirm availability and add days at $15/day. You can extend by 1 day or 30 days — whatever the project requires.
 
 ## How Long Can a Dumpster Stay on Your Property?
 
-There is no maximum duration set by 904 Dumpster — you can keep a roll-off as long as you need it, paying $25/day after the initial 7-day period.
+There is no maximum duration set by 904 Dumpster — you can keep a roll-off as long as you need it, paying $15/day after the included rental period (3 days for a 10-yard, 5 days for a 15-yard or 20-yard).
 
 However, **Duval County code** and most HOAs have limits on how long a dumpster can sit in a public right-of-way. Street placement permits in Jacksonville are typically issued for 7–14 days maximum. **Private property placement has no county-imposed time limit** — only your project timeline and the extension fee apply.
 
@@ -1263,20 +1277,20 @@ When you are ready for pickup — whether that's day 3 or day 17 — call or tex
 ## Frequently Asked Questions
 
 ### How long is a standard dumpster rental in Jacksonville FL?
-904 Dumpster's standard rental period is 7 days. Extensions are $25/day. The rental starts on delivery day and includes all 7 calendar days.
+904 Dumpster's included rental period depends on size: 3 days for a 10-yard (Duval County only), and 5 days for a 15-yard or 20-yard (all counties). Extensions are $15/day. The rental starts on delivery day.
 
 ### What does it cost to extend a dumpster rental in Jacksonville FL?
-Extensions at 904 Dumpster are $25 per day beyond the initial 7-day rental period. A 10-day rental (7 standard + 3 extension) costs $299 + $75 = $374 for a 10-yard, for example.
+Extensions at 904 Dumpster are $15 per day beyond the included rental period. A 10-day rental on a 10-yard (3 days included + 7 extension days) costs $299 + $105 = $404, for example.
 
 ### Can I keep a dumpster in my Jacksonville driveway for 2 weeks?
-Yes. There is no code restriction on keeping a roll-off dumpster on private property (your driveway) in Jacksonville FL for any length of time. You pay 904 Dumpster's $25/day extension rate after the initial 7 days.
+Yes. There is no code restriction on keeping a roll-off dumpster on private property (your driveway) in Jacksonville FL for any length of time. You pay 904 Dumpster's $15/day extension rate after the included rental period (3 days for a 10-yard, 5 days for a 15-yard or 20-yard).
 
 ### What happens if I don't call for pickup on time in Jacksonville?
-904 Dumpster does not automatically pick up your dumpster on day 8. We wait for your call. Extension fees apply for any days beyond 7 while the container is on your property.
+904 Dumpster does not automatically pick up your dumpster once the included rental period ends. We wait for your call. Extension fees apply for any days beyond the included period while the container is on your property.
 
 ## Book Your Jacksonville Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) with a 7-day included rental period and $25/day extensions. Flat rates, same-day delivery, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
+[Rent a dumpster in Jacksonville FL](/) with an included rental period based on size and $15/day extensions. Flat rates, same-day delivery, locally owned. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── POST 71 — NEW: HOA Rules ─────────────────────────────────────────────
@@ -1291,6 +1305,7 @@ Yes. There is no code restriction on keeping a roll-off dumpster on private prop
     category: 'guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-25T08:00:00-04:00',
+    updatedDate: '2026-07-14',
     readTime: '5 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Dumpster rental in an HOA neighborhood in Jacksonville FL',
@@ -1329,7 +1344,7 @@ Based on our experience delivering to Jacksonville's major HOA communities:
 
 **Most common restriction: private driveway only.** Street placement is almost universally prohibited by Jacksonville HOAs. Dumpsters must stay on the homeowner's private driveway — not in the common road, cul-de-sac, or HOA-owned areas.
 
-**Duration limits.** Many communities cap temporary equipment at 7–14 days. Our standard 7-day rental fits within most HOA windows. If you need longer, some communities require a written extension request to the board.
+**Duration limits.** Many communities cap temporary equipment at 7–14 days. Our included rental period — 3 days for a 10-yard, 5 days for a 15-yard or 20-yard — fits within most HOA windows. If you need longer, some communities require a written extension request to the board.
 
 **Pre-approval requirement.** Some Jacksonville communities (particularly Nocatee's sub-associations and Ponte Vedra Beach estate areas) require written HOA approval before bringing in a dumpster. The approval process typically takes 2–5 business days.
 
@@ -1341,7 +1356,7 @@ Based on our experience delivering to Jacksonville's major HOA communities:
 
 **Precise placement.** We place the container exactly where you direct — behind the property line, at the rear of the driveway, or wherever your HOA requires. Tell us your placement constraint when booking.
 
-**Right-sized container.** Some HOAs restrict container size. If your community requires a smaller footprint, the [10-yard (10 ft long)](/10-yard-dumpster-rental) or [15-yard (12 ft long)](/15-yard-dumpster-rental) are often better fits than the [20-yard (14 ft long)](/20-yard-dumpster-rental).
+**Right-sized container.** Some HOAs restrict container size. If your community requires a smaller footprint, the [10-yard (12 ft long, Duval County only)](/10-yard-dumpster-rental) or [15-yard (14 ft long)](/15-yard-dumpster-rental) are often better fits than the [20-yard (14 ft long)](/20-yard-dumpster-rental).
 
 **Timely pickup.** If your HOA has a duration limit, we can schedule pickup to the specific day — no dumpster sitting past your approved window.
 

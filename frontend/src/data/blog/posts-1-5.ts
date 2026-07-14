@@ -11,6 +11,7 @@ export const POSTS_1_TO_5: BlogPost[] = [
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-02-25',
+    updatedDate: '2026-07-14',
     readTime: '8 min read',
     featuredImage: '/images/dumpster-rental-st-augustine-fl.jpg',
     tags: ['dumpster rental cost st augustine', 'st augustine dumpster prices', 'st johns county dumpster rental', 'roll-off dumpster st augustine', 'how much does it cost to rent a dumpster', 'roll off dumpster prices', 'dumpster prices'],
@@ -97,7 +98,7 @@ The growth areas west and south of St. Augustine proper, including the massive N
 
 ### Garage and Estate Cleanouts
 
-A [10-yard dumpster](/10-yard-dumpster-rental) handles most garage cleanouts in St. Augustine. If you are clearing an entire estate, especially one of the larger homes in Marsh Creek, Palencia, or Old Town, a 15 or 20-yard is more practical. Our [complete home cleanout guide](/blog/complete-guide-home-cleanout-jacksonville) covers the full process step by step.
+A [15-yard dumpster](/15-yard-dumpster-rental) handles most garage cleanouts in St. Augustine (the 10-yard size is only available in Duval County). If you are clearing an entire estate, especially one of the larger homes in Marsh Creek, Palencia, or Old Town, a 20-yard is more practical. Our [complete home cleanout guide](/blog/complete-guide-home-cleanout-jacksonville) covers the full process step by step.
 
 ## How to Book a Dumpster in St. Augustine
 
@@ -129,9 +130,9 @@ For properties within the St. Augustine city limits, contact the Building Depart
 
 ## Frequently Asked Questions
 
-### How much does a 10-yard dumpster cost in St. Augustine?
+### Does 904 Dumpster offer a 10-yard dumpster in St. Augustine?
 
-A 10-yard dumpster in St. Augustine costs $299 from 904 Dumpster. This includes delivery, pickup, disposal at an approved St. Johns County facility, and a 3-day rental period. It holds approximately 3 pickup truck loads of debris and is ideal for garage cleanouts, small remodels, and yard waste projects.
+No. The 10-yard size is only available in Duval County. In St. Augustine and the rest of St. Johns County, the smallest size we offer is the 15-yard dumpster at $449, which includes delivery, pickup, disposal at an approved St. Johns County facility, and a 5-day rental period. It handles garage cleanouts, small remodels, and yard waste projects.
 
 ### Can I get same-day dumpster delivery in St. Augustine?
 
@@ -599,6 +600,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-03',
+    updatedDate: '2026-07-14',
     readTime: '8 min read',
     featuredImage: '/images/10-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['dumpster rental cost orange park', 'clay county dumpster cost', 'orange park dumpster rental', 'roll-off dumpster orange park', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
@@ -677,14 +679,14 @@ Here are the most common projects we handle in the Orange Park area with recomme
 
 | Project Type | Recommended Size | Price | Rental Period |
 |---|---|---|---|
-| Garage cleanout | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
-| Single bathroom remodel | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
-| Kitchen remodel | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
-| Roof tear-off (up to 20 sq) | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
-| Estate/whole-house cleanout | [15-Yard](/15-yard-dumpster-rental) | $349 | 5 days |
-| Major renovation | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
-| New construction debris | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
-| Land clearing | [20-Yard](/20-yard-dumpster-rental) | $399 | 5 days |
+| Garage cleanout | [15-Yard](/15-yard-dumpster-rental) | $409 | 5 days |
+| Single bathroom remodel | [15-Yard](/15-yard-dumpster-rental) | $409 | 5 days |
+| Kitchen remodel | [15-Yard](/15-yard-dumpster-rental) | $409 | 5 days |
+| Roof tear-off (up to 20 sq) | [15-Yard](/15-yard-dumpster-rental) | $409 | 5 days |
+| Estate/whole-house cleanout | [15-Yard](/15-yard-dumpster-rental) | $409 | 5 days |
+| Major renovation | [20-Yard](/20-yard-dumpster-rental) | $459 | 5 days |
+| New construction debris | [20-Yard](/20-yard-dumpster-rental) | $459 | 5 days |
+| Land clearing | [20-Yard](/20-yard-dumpster-rental) | $459 | 5 days |
 
 For roofing projects specifically, our [managing roofing waste guide](/blog/roofing-project-waste-management) covers weight estimates and disposal tips for shingle tear-offs common on Orange Park homes.
 
@@ -692,11 +694,11 @@ For roofing projects specifically, our [managing roofing waste guide](/blog/roof
 
 ### Right-Size Your Dumpster
 
-The most expensive mistake is ordering a dumpster that is too small. If you fill a 10-yard and need a second delivery, you are paying $550 total instead of $349 for a single 15-yard. Our [dumpster size guide](/dumpster-size-guide) includes visual comparisons to help you estimate correctly. When in doubt, go one size up; the $50 difference between sizes is always cheaper than a second delivery.
+The most expensive mistake is ordering a dumpster that is too small. If you fill a 15-yard and need a second delivery, you are paying $818 total instead of $459 for a single 20-yard. Our [dumpster size guide](/dumpster-size-guide) includes visual comparisons to help you estimate correctly. When in doubt, go one size up; the $50 difference between sizes is always cheaper than a second delivery.
 
 ### Load Efficiently
 
-Break down furniture, flatten cardboard boxes, and disassemble large items before loading. Stack flat materials along the walls and fill gaps with smaller debris. An efficiently loaded 10-yard dumpster holds significantly more than a randomly filled one.
+Break down furniture, flatten cardboard boxes, and disassemble large items before loading. Stack flat materials along the walls and fill gaps with smaller debris. An efficiently loaded 15-yard dumpster holds significantly more than a randomly filled one.
 
 ### Know What Goes In
 
@@ -712,7 +714,7 @@ January, February, and mid-summer are our quieter months in Clay County. Spring 
 
 Booking your Orange Park dumpster takes just a few minutes:
 
-1. **Choose your size** - 10, 15, or 20-yard based on your project
+1. **Choose your size** - 15 or 20-yard based on your project
 2. **Book online 24/7** - [Reserve your dumpster](https://app.icans.ai/customer-portal/904dumpster/book/) through our quick checkout
 3. **We deliver** - Same-day delivery when you book before noon
 4. **Fill it up** - Take up to 5 days at your own pace
@@ -739,9 +741,8 @@ For most projects, renting a dumpster from 904 Dumpster and having us handle dis
 
 | Feature | 904 Dumpster | National Broker | DIY Dump Runs |
 |---|---|---|---|
-| 10-Yard Price | $299 | $350-$450 | N/A |
-| 15-Yard Price | $349 | $400-$500 | N/A |
-| 20-Yard Price | $399 | $475-$600 | N/A |
+| 15-Yard Price | $409 | $400-$500 | N/A |
+| 20-Yard Price | $459 | $475-$600 | N/A |
 | Same-Day Delivery | Yes | Rarely | N/A |
 | Clay County Licensed | Yes | Unknown sub | N/A |
 | Hidden Fees | None | Common | Tipping fees vary |
@@ -752,7 +753,7 @@ For most projects, renting a dumpster from 904 Dumpster and having us handle dis
 
 ### How much is a dumpster rental in Orange Park FL?
 
-A dumpster rental in Orange Park costs $349 for a 15-yard and $399 for a 20-yard from 904 Dumpster. All prices include delivery, pickup, disposal at approved Clay County facilities, and a 5-day rental period. No hidden fees.
+A dumpster rental in Orange Park costs $409 for a 15-yard and $459 for a 20-yard from 904 Dumpster (the 10-yard size is only available in Duval County). All prices include delivery, pickup, disposal at approved Clay County facilities, and a 5-day rental period. No hidden fees.
 
 ### Does 904 Dumpster deliver to Oakleaf Plantation?
 

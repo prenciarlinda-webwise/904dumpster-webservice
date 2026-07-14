@@ -196,6 +196,7 @@ Late fall through early spring, roughly November through March, offers the most 
     category: 'cost-savings',
     author: '904 Dumpster',
     publishedDate: '2026-03-09',
+    updatedDate: '2026-07-14',
     readTime: '11 min read',
     featuredImage: '/images/dumpster-rental-ponte-vedra-beach-fl.jpg',
     tags: ['dumpster rental cost ponte vedra', 'ponte vedra dumpster prices', 'ponte vedra beach dumpster', 'nocatee dumpster rental', 'st johns county dumpster rental', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'dumpster prices'],
@@ -288,7 +289,7 @@ Nocatee is one of the fastest-growing communities in the country, and its newer 
 - **Move-in renovations** where new homeowners customize paint, flooring, and fixtures
 - **Fence and deck additions** that generate construction waste
 
-Nocatee projects often involve lighter materials and less demolition, so a 10-yard dumpster handles many jobs. However, the community's strict HOA environment means planning ahead for approval and timing is essential.
+Nocatee projects often involve lighter materials and less demolition, so a 15-yard dumpster (the smallest size available in St. Johns County) handles many jobs. However, the community's strict HOA environment means planning ahead for approval and timing is essential.
 
 ## Ponte Vedra Dumpster Rental vs Other Options
 
@@ -330,14 +331,14 @@ Even with straightforward pricing, there are ways to get the most value from you
 
 | Project Type | Recommended Size | Price |
 |---|---|---|
-| Garage cleanout | 10-yard | $299 |
-| Single bathroom remodel | 10-yard | $299 |
-| Kitchen renovation | 15-yard | $349 |
-| Roofing tear-off (up to 30 squares) | 15-yard | $349 |
-| Whole-house cleanout | 20-yard | $399 |
-| Major renovation | 20-yard | $399 |
-| New construction debris | 15 or 20-yard | $349-$399 |
-| Landscaping overhaul | 10 or 15-yard | $299-$349 |
+| Garage cleanout | 15-yard | $409 |
+| Single bathroom remodel | 15-yard | $409 |
+| Kitchen renovation | 15-yard | $409 |
+| Roofing tear-off (up to 30 squares) | 15-yard | $409 |
+| Whole-house cleanout | 20-yard | $459 |
+| Major renovation | 20-yard | $459 |
+| New construction debris | 15 or 20-yard | $409-$459 |
+| Landscaping overhaul | 15-yard | $409 |
 
 Still unsure which size fits your project? Our [guide to choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) covers dozens of project types with specific recommendations.
 
@@ -384,7 +385,7 @@ Street placement regulations vary depending on your specific location within Pon
 
 ### What happens if I go over the weight limit?
 
-Each dumpster size includes a specific weight allowance, which is 1 ton for the 10-yard, 1.5 tons for the 15-yard, and 2 tons for the 20-yard containers. If your load exceeds the included weight, additional charges apply per ton over the limit. We weigh every container at the disposal facility and will contact you if any overage charges apply. For most residential projects in Ponte Vedra, staying within the weight limit is not an issue.
+Each dumpster size includes a specific weight allowance: 1.5 tons for the 15-yard and 2 tons for the 20-yard container (the 10-yard size is only available in Duval County). If your load exceeds the included weight, additional charges apply per ton over the limit. We weigh every container at the disposal facility and will contact you if any overage charges apply. For most residential projects in Ponte Vedra, staying within the weight limit is not an issue.
 
 ## Related Resources
 
