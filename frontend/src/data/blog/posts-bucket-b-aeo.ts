@@ -21,7 +21,7 @@ export const BUCKET_B_AEO_POSTS: BlogPost[] = [
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Roll-off dumpster loaded for a Jacksonville FL debris haul',
     tags: ['landfill near me jacksonville', 'dump near me jacksonville fl', 'dumps near me', 'garbage dump near me', 'trash dump near me jacksonville', 'waste trash dump'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['what-is-a-transfer-station', 'what-cannot-go-in-dumpster', 'dumpster-rental-cost-complete-pricing-guide'],
     about: [
       { name: 'Landfill', sameAs: 'https://en.wikipedia.org/wiki/Landfill' },
@@ -102,7 +102,7 @@ For any project generating more than a truckload or two of debris, [book a 904 D
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Sorted recyclables ready for drop-off in Jacksonville FL',
     tags: ['recycling center near me jacksonville', 'recycle near me jacksonville fl', 'recycling centers near me', 'cardboard recycling near me', 'recyclers close to me'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'construction-demolition-recycling-insights', 'what-cannot-go-in-dumpster'],
     about: [
       { name: 'Recycling', sameAs: 'https://en.wikipedia.org/wiki/Recycling' },
@@ -169,7 +169,7 @@ For moves, renovations, and cleanouts that produce more than curbside recycling 
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Household hazardous waste sorted for proper disposal in Jacksonville FL',
     tags: ['hazardous waste disposal near me jacksonville', 'household hazardous waste jacksonville fl', 'where to dispose of paint jacksonville', 'how to dispose of pool chemicals'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['where-to-dispose-of-old-paint-jacksonville', 'what-cannot-go-in-dumpster', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     about: [
       { name: 'Hazardous waste', sameAs: 'https://en.wikipedia.org/wiki/Hazardous_waste' },
@@ -237,7 +237,7 @@ Once the hazardous items are set aside, [book a 904 Dumpster roll-off online](ht
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Household batteries sorted for recycling in Jacksonville FL',
     tags: ['battery disposal near me jacksonville', 'battery recycling near me jacksonville fl', 'where to recycle car battery jacksonville', 'rechargeable battery disposal'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['how-to-dispose-of-electronics-e-waste', 'what-cannot-go-in-dumpster', 'hazardous-waste-disposal-near-me-jacksonville-fl'],
     about: [
       { name: 'Battery recycling', sameAs: 'https://en.wikipedia.org/wiki/Battery_recycling' },

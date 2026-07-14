@@ -732,7 +732,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
     readTime: '8 min read',
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['what fits in 15 yard dumpster', '15 yard dumpster capacity', '15 yard dumpster projects', 'kitchen remodel dumpster', 'roof tear-off dumpster', 'spring cleanout dumpster', '15 yard dumpster loading tips', 'mid-size dumpster projects'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What Actually Fits in a 15-Yard Dumpster

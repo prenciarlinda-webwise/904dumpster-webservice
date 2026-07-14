@@ -22,7 +22,7 @@ export const POSTS_56_TO_75: BlogPost[] = [
       'top rated dumpster company',
       'local dumpster rental',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: [
       'dumpster-rental-cost-complete-pricing-guide',
       'roll-off-dumpster-rental-complete-guide',
@@ -109,7 +109,7 @@ Yes. 904 Dumpster offers same-day delivery across Jacksonville, FL for orders pl
       'dumpster rental jacksonville fl',
       'hoarding cleanup dumpster jacksonville',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-vs-junk-removal-comparison'],
     content: `## Hoarder House Cleanout Dumpster Rental in Jacksonville FL
 
@@ -203,7 +203,7 @@ Furniture, mattresses, clothing, boxes, food packaging, broken appliances (witho
       'dumpster rental jacksonville',
       'roll off dumpster same day',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `## Same-Day Dumpster Rental in Jacksonville, FL
 
@@ -287,7 +287,7 @@ Call **[(904) 240-5598](tel:+19042405598)** or [book online](/) before noon for 
       'pre-listing cleanout dumpster jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-vs-junk-removal-comparison'],
     content: `## Dumpster Rental for Home Sale Prep in Jacksonville FL
 
@@ -382,7 +382,7 @@ A 15-yard ($349) handles most moderate pre-listing cleanouts for Jacksonville ho
       'eviction cleanout dumpster jacksonville',
       'property management dumpster jacksonville',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-vs-junk-removal-comparison'],
     content: `## Dumpster Rental for Jacksonville Landlords and Property Managers
 
@@ -467,7 +467,7 @@ Yes. 904 Dumpster delivers same-day to Jacksonville rental properties for orders
       'affordable dumpster rental jacksonville',
       'dumpster rental cost jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## How to Find the Cheapest Dumpster Rental in Jacksonville FL
 
@@ -544,7 +544,7 @@ Choose the right size (use our [size guide](/dumpster-size-guide)), book online 
       'dumpster rental online jacksonville',
       'jacksonville dumpster rental booking',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['same-day-dumpster-rental-jacksonville-fl', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## Rent a Dumpster in Jacksonville FL Online
 
@@ -623,7 +623,7 @@ Same-day delivery is available for online orders placed before noon Monday–Sat
       'dumpster rental callahan fl',
       'dumpster rental hilliard fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `## Dumpster Rental in Nassau County FL
 
@@ -704,7 +704,7 @@ Yes. 904 Dumpster offers same-day delivery to Nassau County for orders placed be
       'dumpster for concrete jacksonville fl',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['how-to-dispose-of-concrete-bricks-heavy-debris', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `## Dumpster Rental for Pool Deck and Patio Removal in Jacksonville FL
 
@@ -790,7 +790,7 @@ Call **[(904) 240-5598](tel:+19042405598)** to discuss your pool deck or patio r
       'disaster restoration dumpster jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'hurricane-debris-cleanup-jacksonville'],
     content: `## Dumpster Rental for Fire and Water Damage Cleanup in Jacksonville FL
 
@@ -877,7 +877,7 @@ A 20-yard dumpster ($399) handles most full-room or multi-room water damage clea
       'dumpster rental jacksonville fl comparison',
       '904 dumpster vs national companies',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'cheapest-dumpster-rental-jacksonville-fl'],
     content: `## Local vs. National Dumpster Rental in Jacksonville FL
 
@@ -956,7 +956,7 @@ National companies advertise a low base rate and add fees at checkout and pickup
       'full renovation dumpster rental jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## Whole-House Gut Renovation Dumpster Rental in Jacksonville FL
 
@@ -1060,7 +1060,7 @@ Call or text 904 Dumpster when your current load is full. We pick it up and deli
       'hurricane prep dumpster jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['spring-cleaning-decluttering-guide-jacksonville', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## Top Summer Projects That Need a Dumpster in Jacksonville FL
 
@@ -1135,7 +1135,7 @@ Yes. 904 Dumpster offers same-day delivery Monday–Saturday for orders placed b
       'property flipper dumpster jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['landlord-rental-property-dumpster-jacksonville', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## Dumpster Rental for Real Estate Investors in Jacksonville FL
 
@@ -1217,7 +1217,7 @@ Yes. 904 Dumpster contractor accounts include priority scheduling, consolidated 
       'dumpster rental extension jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## How Long Can You Keep a Rental Dumpster in Jacksonville FL?
 
@@ -1300,7 +1300,7 @@ Yes. There is no code restriction on keeping a roll-off dumpster on private prop
       'roll off dumpster hoa community jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['dumpster-permit-guide-do-you-need-one', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## HOA Rules for Dumpster Rentals in Jacksonville FL
 
@@ -1390,7 +1390,7 @@ No. HOA compliance is the homeowner's responsibility. We will follow your placem
       'julington creek dumpster rental',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `## Dumpster Rental in Mandarin FL
 
@@ -1457,7 +1457,7 @@ Yes. We serve all Mandarin-area neighborhoods including Julington Creek, Bartram
       'small unit cleanout dumpster jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['landlord-rental-property-dumpster-jacksonville', 'dumpster-rental-vs-junk-removal-comparison'],
     content: `## Dumpster Rental for Apartment and Condo Cleanouts in Jacksonville FL
 
@@ -1529,7 +1529,7 @@ Yes. 904 Dumpster offers same-day delivery to Jacksonville apartment and condo a
       'accessory dwelling unit dumpster jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['whole-house-gut-renovation-dumpster-jacksonville', 'hoa-dumpster-rules-jacksonville-fl'],
     content: `## Dumpster Rental for ADU and Garage Conversion Projects in Jacksonville FL
 
@@ -1606,7 +1606,7 @@ Most Jacksonville HOA communities allow dumpsters during active permitted constr
       'historic neighborhood dumpster rental jacksonville',
       'dumpster rental jacksonville fl',
     ],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['best-dumpster-rental-company-jacksonville-fl', 'hoa-dumpster-rules-jacksonville-fl'],
     content: `## Dumpster Rental in Riverside and Avondale, Jacksonville FL
 

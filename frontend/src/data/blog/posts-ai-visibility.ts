@@ -106,7 +106,7 @@ A [10-yard dumpster](/10-yard-dumpster-rental) fits 4 to 6 queen mattresses plus
 - [Bulk Waste Disposal in Jacksonville: Complete Guide](/blog/bulk-waste-disposal-jacksonville-guide)
 - [Complete Home Cleanout Guide for Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 2: Donate vs Dumpster (June 7)
@@ -210,7 +210,7 @@ Mattresses must be in good condition with original tags, no stains, no rips, and
 - [Complete Home Cleanout Guide for Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
 - [Bulk Waste Disposal in Jacksonville](/blog/bulk-waste-disposal-jacksonville-guide)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 3: Tire Recycling (June 11)
@@ -319,7 +319,7 @@ No. Tire burning releases benzene, dioxins, and heavy metals into the air and is
 - [Recycling Guide for Jacksonville Construction Projects](/blog/recycling-guide-jacksonville-construction-projects)
 - [Prohibited Items List](/rules/prohibited-items-list)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 4: Bulk Waste Disposal (June 13)
@@ -448,7 +448,7 @@ No. The city does not offer extra pickups beyond the weekly schedule. For larger
 - [Donate Furniture vs Dumpster Rental Comparison](/blog/donate-furniture-vs-dumpster-rental-jacksonville)
 - [Complete Home Cleanout Guide for Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 5: Dumpster Rental Near Me (June 15)
@@ -570,7 +570,7 @@ Ask whether they own the trucks or subcontract, what the all-in price is (no fue
 - [Roll-Off Dumpster Rental Complete Guide](/blog/roll-off-dumpster-rental-complete-guide)
 - [Jacksonville Dumpster Rental Pricing](/dumpster-rental-pricing-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 6: Small Dumpster for Apartments (June 19)
@@ -697,6 +697,6 @@ Yes. 904 Dumpster offers property management accounts for landlords, condo assoc
 - [How to Find a Dumpster Rental Near You](/blog/how-to-find-dumpster-rental-near-me)
 - [Complete Home Cleanout Guide for Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 ]

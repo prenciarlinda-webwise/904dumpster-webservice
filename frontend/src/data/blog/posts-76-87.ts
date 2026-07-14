@@ -108,7 +108,7 @@ Check the phone number's area code, whether pricing is published on the site, an
 - [Best Dumpster Rental Company in Jacksonville FL](/blog/best-dumpster-rental-company-jacksonville-fl)
 - [St. Augustine Dumpster Rental](/dumpster-rental-st-augustine-fl)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 77: Fernandina Beach / Amelia Island / Yulee comprehensive guide (July 4, PM)
@@ -195,7 +195,7 @@ Yes. The Fernandina Beach route covers the historic core, Main Beach Park, South
 - [Dumpster Rental vs Trash Pickup Service](/blog/dumpster-rental-vs-trash-pickup-service)
 - [Fernandina Beach Dumpster Rental](/dumpster-rental-fernandina-beach-fl)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 78: Best Company - Orange Park & Middleburg (July 5, AM)
@@ -282,7 +282,7 @@ Not necessarily a different size, but a different delivery plan. Middleburg's lo
 - [904 Dumpster Named Licensed Franchise Hauler by Clay County](/blog/904-dumpster-clay-county-licensed-franchise-hauler)
 - [Orange Park Dumpster Rental](/dumpster-rental-orange-park-fl)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 79: St. Johns County umbrella (July 5, PM)
@@ -369,7 +369,7 @@ Only if the container sits on a public street rather than private property. St. 
 - [Dumpster Rental Nassau County FL](/blog/nassau-county-dumpster-rental-fl)
 - [St. Augustine Dumpster Rental](/dumpster-rental-st-augustine-fl)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 80: Garbage Bin Rental vs Dumpster Rental (July 6, AM)
@@ -458,7 +458,7 @@ Some do, but many small-bin and cart rental companies are municipal contractors 
 - [Dumpster Rental vs Junk Removal Service Compared](/blog/dumpster-rental-vs-junk-removal-comparison)
 - [Dumpster Rental Pricing](/dumpster-rental-pricing-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 81: 20 Yard Roll Off Dumpster Guide (July 6, PM)
@@ -558,7 +558,7 @@ Usually, if your project exceeds 15 cubic yards. The price difference is typical
 - [Dumpster Weight Limits and Tonnage Guide](/blog/dumpster-weight-limits-tonnage-guide)
 - [20 Yard Dumpster Rental](/20-yard-dumpster-rental)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 82: Monthly Dumpster Rental Cost (July 7, AM)
@@ -641,7 +641,7 @@ For most month-long residential renovations, the 20-yard is the standard pick be
 - [Construction Dumpster Rental Prices by Project Type](/blog/construction-dumpster-rental-prices-by-project-type)
 - [Dumpster Rental Pricing](/dumpster-rental-pricing-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 83: Jacksonville Beach sizes/pricing (July 7, PM)
@@ -724,7 +724,7 @@ No. Jacksonville Beach is part of Duval County, so pricing is identical to the r
 - [Best Dumpster Rental Company in Jacksonville FL](/blog/best-dumpster-rental-company-jacksonville-fl)
 - [Jacksonville Beach Dumpster Rental](/dumpster-rental-jacksonville-beach-fl)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 84: Commercial - Atlantic Beach / Neptune Beach (July 8, AM)
@@ -807,7 +807,7 @@ No. Grease trap waste requires a specialized hauler and cannot go in a standard 
 - [Monthly Dumpster Rental Cost Guide](/blog/monthly-dumpster-rental-cost-guide)
 - [Atlantic Beach Dumpster Rental](/dumpster-rental-atlantic-beach-fl)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 85: Construction Dumpster Prices by Project Type (July 8, PM)
@@ -896,7 +896,7 @@ Concrete, brick, tile, and roofing shingles are the densest common construction 
 - [Kitchen Renovation Debris Disposal Guide](/blog/kitchen-renovation-debris-disposal-guide)
 - [Dumpster Rental Pricing](/dumpster-rental-pricing-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 86: Dumpster Rental vs Trash Pickup Service (July 9, AM)
@@ -983,7 +983,7 @@ For a single item within your city's bulk-item allowance, scheduled bulk pickup 
 - [Garbage Bin Rental vs Dumpster Rental](/blog/garbage-bin-rental-vs-dumpster-rental)
 - [Dumpster Rental Pricing](/dumpster-rental-pricing-jacksonville)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 
   // Post 87: 10 Yard vs 20 Yard comparison (July 9, PM)
@@ -1084,6 +1084,6 @@ You would need a second delivery, which costs more in total than booking the 20-
 - [What Size Dumpster Do I Need? Complete Guide](/blog/dumpster-sizes-explained-complete-guide)
 - [10 Yard Dumpster Rental](/10-yard-dumpster-rental)
     `,
-    status: 'scheduled' as const,
+    status: 'published' as const,
   },
 ]
