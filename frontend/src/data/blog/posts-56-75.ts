@@ -1451,6 +1451,73 @@ Yes. We serve all Mandarin-area neighborhoods including Julington Creek, Bartram
 [Rent a dumpster in Mandarin FL](/) with flat-rate pricing and same-day delivery. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
+  // ── NEW: San Marco ────────────────────────────────────────────────────────
+  {
+    slug: 'dumpster-rental-san-marco-fl',
+    title: 'Dumpster Rental San Marco FL: Same-Day Roll-Off Delivery & Prices',
+    metaTitle: 'Dumpster Rental San Marco FL | Flat Rate From $299 | 904 Dumpster',
+    metaDescription:
+      'Dumpster rental in San Marco FL from 904 Dumpster. 10, 15, and 20 yard roll-offs delivered near San Marco Square and St. Nicholas. Same-day delivery, flat rates from $299.',
+    excerpt:
+      'San Marco and St. Nicholas homeowners can rent a roll-off dumpster with same-day delivery from 904 Dumpster at flat rates starting at $299.',
+    category: 'locations',
+    author: '904 Dumpster Team',
+    publishedDate: '2026-07-17T08:00:00-04:00',
+    readTime: '5 min read',
+    featuredImage: '/images/main-hero-dumpster.jpeg',
+    featuredImageAlt: 'Dumpster rental delivery in San Marco FL Jacksonville',
+    tags: [
+      'dumpster rental san marco fl',
+      'san marco jacksonville dumpster rental',
+      'st nicholas dumpster rental',
+      'dumpster rental jacksonville fl',
+    ],
+    status: 'scheduled' as const,
+    relatedSlugs: ['dumpster-rental-riverside-avondale-jacksonville', 'best-dumpster-rental-company-jacksonville-fl'],
+    content: `## Dumpster Rental in San Marco FL
+
+San Marco, St. Nicholas, and the historic streets around San Marco Square are some of Jacksonville's most consistent renovation markets, and [904 Dumpster's San Marco dumpster rental service](/dumpster-rental-san-marco-fl) delivers 10, 15, and 20 yard roll-offs with same-day availability and flat-rate pricing — no extra fee for crossing the river from downtown.
+
+**Flat-rate San Marco pricing:**
+- [10-yard dumpster](/10-yard-dumpster-rental): **$299** — garage cleanouts, attic purges, 1-2 room renovations
+- [15-yard dumpster](/15-yard-dumpster-rental): **$349** — bathroom and kitchen renos, half-house cleanouts
+- [20-yard dumpster](/20-yard-dumpster-rental): **$399** — full renovations, roofing, estate cleanouts
+
+## Why San Marco Homeowners Rely on 904 Dumpster
+
+San Marco's bungalows and Mediterranean Revival homes date to the 1920s through the 1960s, built on lots platted close together near San Marco Square and Balis Park. Narrow streets and tight lot spacing mean the 10-yard is often the practical choice near the Square, while larger homes toward San Marco East and St. Nicholas typically have room for a 15 or 20-yard. Our drivers know the neighborhood and place every container to protect older concrete and paver driveways.
+
+St. Nicholas and the streets near the Baptist Health medical district add another layer of steady renovation and small-business cleanout work. San Marco sits within the City of Jacksonville, so Duval County permit rules apply — no permit is needed on a private driveway, and a Right-of-Way Permit from Jacksonville's Development Services Department covers the rare case where street placement near the Square is unavoidable.
+
+## Popular San Marco Projects
+
+**Bungalow kitchen and bath renovations.** San Marco's 1920s-1960s housing stock is a steady source of kitchen and bathroom remodels. A 15-yard covers most single-room gut jobs.
+
+**Estate cleanouts.** Long-held San Marco homes near the Square and St. Nicholas often change hands after decades with the same family. A 20-yard clears a full-house estate cleanout in one delivery.
+
+**Small commercial cleanouts near the Square.** San Marco Square's shops and restaurants occasionally need a fast, same-day container for build-outs or turnovers. A 10 or 15-yard usually fits the tight commercial footprint.
+
+**Fence, deck, and porch replacement.** Older screened porches and fences throughout San Marco and St. Nicholas generate debris that fills a 15-yard efficiently.
+
+## Frequently Asked Questions
+
+### Who offers dumpster rental in San Marco FL?
+904 Dumpster delivers 10, 15, and 20 yard roll-off dumpsters to San Marco FL and St. Nicholas with same-day delivery and flat rates from $299.
+
+### How much does dumpster rental cost in San Marco FL?
+904 Dumpster charges $299 (10-yard), $349 (15-yard), and $399 (20-yard) for San Marco FL delivery — the same flat rates as the rest of Jacksonville, with no downtown-crossing surcharge.
+
+### Will a dumpster fit on my driveway near San Marco Square?
+In most cases, yes. Streets immediately around San Marco Square and Balis Park tend to have shorter, narrower driveways, so the 10-yard is usually the best fit. Homes further out toward St. Nicholas and San Marco East typically have room for a 15 or 20-yard.
+
+### Do I need a permit for a dumpster in San Marco?
+No permit is needed if the dumpster stays on your private driveway. Placement on the street or a public right-of-way requires a Right-of-Way Permit from Jacksonville's Development Services Department.
+
+## Book Your San Marco Dumpster Today
+
+[Rent a dumpster in San Marco FL](/dumpster-rental-san-marco-fl) with flat-rate pricing and same-day delivery. Call **[(904) 240-5598](tel:+19042405598)**.`,
+  },
+
   // ── POST 73 — NEW: Apartment / Condo Cleanout ────────────────────────────
   {
     slug: 'apartment-condo-cleanout-dumpster-jacksonville',
