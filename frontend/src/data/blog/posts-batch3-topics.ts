@@ -3,7 +3,7 @@ import { BlogPost } from './types'
 export const BATCH3_TOPIC_POSTS: BlogPost[] = [
   {
     slug: 'motor-oil-disposal-near-me-jacksonville-fl',
-    title: 'Motor Oil Disposal Near Me in Jacksonville, FL: Where to Take Used Oil',
+    title: 'Where to Take Used Motor Oil for Disposal in Jacksonville, FL',
     metaTitle: 'Motor Oil Disposal Near Me in Jacksonville FL - Recycling Guide',
     metaDescription: 'Used motor oil cannot go in curbside trash or a roll-off dumpster in Jacksonville FL. Here is where to take it for free recycling, plus what to do with the rest of your cleanout.',
     excerpt: 'Used motor oil is flammable and contaminates everything it touches, so it cannot go in a dumpster or curbside trash. Most Jacksonville auto parts stores take it for free — here is how to find one.',
@@ -60,7 +60,7 @@ Once the used oil and filters are set aside for recycling, [book a 904 Dumpster 
 
   {
     slug: 'scrap-metal-recycling-near-me-jacksonville-fl',
-    title: 'Scrap Metal Recycling Near Me in Jacksonville, FL: Dumpster or Scrap Yard?',
+    title: 'Should Scrap Metal Go in the Dumpster or the Scrap Yard in Jacksonville, FL?',
     metaTitle: 'Scrap Metal Recycling Near Me in Jacksonville FL - Dumpster or Cash',
     metaDescription: 'Unlike batteries or chemicals, scrap metal is allowed in a 904 Dumpster roll-off. Here is when it pays to separate it out for cash at a Jacksonville scrap yard instead.',
     excerpt: 'Old appliances, pipes, and metal furniture are fully allowed in a roll-off dumpster. But scrap yards pay by the pound, so on a bigger job it can be worth separating metal out for cash first.',
@@ -115,7 +115,7 @@ Whether you separate out the metal or not, [book a 904 Dumpster roll-off online]
 
   {
     slug: 'fluorescent-bulb-disposal-near-me-jacksonville-fl',
-    title: 'Fluorescent Bulb Disposal Near Me in Jacksonville, FL: CFL and Tube Recycling',
+    title: 'Fluorescent Bulb and CFL Recycling Guide for Jacksonville, FL',
     metaTitle: 'Fluorescent Bulb Disposal Near Me in Jacksonville FL - CFL Guide',
     metaDescription: 'Fluorescent tubes and CFL bulbs contain mercury and cannot go in curbside trash or a roll-off dumpster in Jacksonville FL. Here is where to recycle them, and why LED bulbs are different.',
     excerpt: 'Fluorescent tubes and CFL bulbs contain a small amount of mercury, so they need separate disposal from a dumpster or curbside trash. LED bulbs do not have this restriction.',
@@ -175,7 +175,7 @@ Once fluorescent bulbs and tubes are set aside for proper recycling, [book a 904
 
   {
     slug: 'asbestos-disposal-jacksonville-fl',
-    title: 'Asbestos Disposal in Jacksonville, FL: What Homeowners Need to Know',
+    title: 'What Jacksonville, FL Homeowners Need to Know About Asbestos Disposal',
     metaTitle: 'Asbestos Disposal Jacksonville FL - What Homeowners Need to Know',
     metaDescription: 'Asbestos-containing material cannot go in a Jacksonville FL roll-off dumpster under any circumstances. Here is how to recognize the risk in older homes and what to do instead.',
     excerpt: 'Asbestos found in popcorn ceilings, old floor tile, or pipe insulation in pre-1980s Jacksonville homes requires a licensed abatement contractor, not a dumpster. Here is what to know before you start demo.',
@@ -234,7 +234,7 @@ Once any confirmed asbestos material has been professionally abated and removed,
 
   {
     slug: 'moving-pod-vs-dumpster-rental-jacksonville-fl',
-    title: 'Moving Pod vs Dumpster Rental in Jacksonville, FL: Which Do You Need?',
+    title: 'Do You Need a Moving Pod or a Dumpster Rental in Jacksonville, FL?',
     metaTitle: 'Moving Pod vs Dumpster Rental Jacksonville FL - Which Is Right',
     metaDescription: 'A moving pod and a dumpster rental solve different problems. Here is how to decide between them, or use both, for a Jacksonville FL move or downsizing project.',
     excerpt: 'A moving pod stores what you are keeping. A dumpster rental hauls away what you are throwing out. Many Jacksonville moves need both at the same time.',

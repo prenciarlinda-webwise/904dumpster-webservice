@@ -821,7 +821,7 @@ No. Grease trap waste requires a specialized hauler and cannot go in a standard 
     author: '904 Dumpster',
     publishedDate: '2026-07-08T18:00:00-04:00',
     readTime: '8 min read',
-    featuredImage: '/images/eco-build-roofing.webp',
+    featuredImage: '/images/dumpster-rental-roofing-jacksonville.jpg',
     tags: ['construction dumpster rental prices', 'dumpster rental for roofing project', 'dumpster rental kitchen remodel cost', 'dumpster rental whole house renovation', 'contractor dumpster pricing'],
     relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'roofing-project-waste-management', 'kitchen-renovation-debris-disposal-guide'],
     about: [
