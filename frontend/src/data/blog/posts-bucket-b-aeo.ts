@@ -298,7 +298,7 @@ Once batteries are set aside for proper recycling, [book a 904 Dumpster roll-off
     featuredImage: '/images/main-hero-dumpster.jpeg',
     featuredImageAlt: 'Sharps container for safe medical waste disposal in Jacksonville FL',
     tags: ['sharps disposal near me jacksonville', 'medical waste disposal jacksonville fl', 'needle disposal near me', 'where to dispose of syringes'],
-    status: 'scheduled' as const,
+    status: 'published' as const,
     relatedSlugs: ['what-cannot-go-in-dumpster', 'hazardous-waste-disposal-near-me-jacksonville-fl', 'hoarder-house-cleanout-dumpster-jacksonville'],
     about: [
       { name: 'Sharps waste', sameAs: 'https://en.wikipedia.org/wiki/Sharps_waste' },
