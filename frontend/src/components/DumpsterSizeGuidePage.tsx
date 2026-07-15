@@ -367,18 +367,84 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
               you want a real recommendation based on your project - 10 years of Jacksonville deliveries means
               we have seen your project before.
             </p>
-            <p>
-              Want the full breakdown of weight limits by material, what an empty dumpster weighs, and how to
-              avoid an overage charge entirely? See our{' '}
-              <Link href="/blog/dumpster-weight-limits-tonnage-guide" className="text-primary font-semibold hover:underline" title="Dumpster Weight Limits and Tonnage Guide">
-                dumpster weight limits and tonnage guide
-              </Link>{' '}
-              for the deep dive. Sizing a container for a business project instead of a home cleanout? Our{' '}
-              <Link href="/commercial-dumpster-rental-jacksonville-fl" className="text-primary font-semibold hover:underline" title="Commercial Dumpster Rental Jacksonville FL">
-                commercial dumpster rental guide
-              </Link>{' '}
-              covers COI requirements, business-hours scheduling, and volume pricing for recurring project work.
+          </div>
+        </div>
+      </section>
+
+      {/* Book by Location - highest-traffic page on the site, pass authority + users to the pages that actually book */}
+      <section className="py-16 lg:py-20 bg-gray-50">
+        <div className="max-w-6xl mx-auto px-4 lg:px-6">
+          <div className="text-center max-w-3xl mx-auto mb-12">
+            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+              Book Your Dumpster by Location
+            </h2>
+            <p className="text-lg text-gray-600">
+              Same-day delivery across Duval, Clay, St. Johns, and Nassau counties. Find your area below for local pricing and delivery details.
             </p>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {[
+              {
+                county: 'Duval County',
+                areas: [
+                  { name: 'Arlington', href: '/dumpster-rental-arlington-fl' },
+                  { name: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl' },
+                  { name: 'Jacksonville Beach', href: '/dumpster-rental-jacksonville-beach-fl' },
+                  { name: 'Mandarin', href: '/dumpster-rental-mandarin-fl' },
+                  { name: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl' },
+                  { name: 'Riverside-Avondale', href: '/dumpster-rental-riverside-avondale-fl' },
+                  { name: 'San Marco', href: '/dumpster-rental-san-marco-fl' },
+                ],
+              },
+              {
+                county: 'Clay County',
+                areas: [
+                  { name: 'Fleming Island', href: '/dumpster-rental-fleming-island-fl' },
+                  { name: 'Green Cove Springs', href: '/dumpster-rental-green-cove-springs-fl' },
+                  { name: 'Middleburg', href: '/dumpster-rental-middleburg-fl' },
+                  { name: 'Orange Park', href: '/dumpster-rental-orange-park-fl' },
+                ],
+              },
+              {
+                county: 'St. Johns County',
+                areas: [
+                  { name: 'Ponte Vedra Beach', href: '/dumpster-rental-ponte-vedra-fl' },
+                  { name: 'St. Augustine', href: '/dumpster-rental-st-augustine-fl' },
+                ],
+              },
+              {
+                county: 'Nassau County',
+                areas: [
+                  { name: 'Fernandina Beach', href: '/dumpster-rental-fernandina-beach-fl' },
+                  { name: 'Hilliard', href: '/dumpster-rental-hilliard-fl' },
+                ],
+              },
+            ].map((group) => (
+              <div key={group.county}>
+                <h3 className="text-sm font-bold uppercase tracking-wider text-primary mb-4">{group.county}</h3>
+                <ul className="space-y-2">
+                  {group.areas.map((area) => (
+                    <li key={area.href}>
+                      <Link href={area.href} className="text-gray-700 hover:text-primary hover:underline" title={`Dumpster Rental ${area.name} FL`}>
+                        {area.name}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+          <div className="text-center mt-10">
+            <a
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Book a Dumpster Rental Online"
+              className="inline-flex items-center justify-center gap-3 bg-primary hover:bg-secondary text-white font-bold text-lg px-8 py-4 rounded-xl transition-all duration-300"
+            >
+              Book Online Now
+              <ArrowRight className="w-5 h-5" />
+            </a>
           </div>
         </div>
       </section>

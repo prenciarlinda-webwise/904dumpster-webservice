@@ -412,8 +412,8 @@ export const SERVICES: ServicePage[] = [
         answer: 'For a single room or garage cleanout, a 10 yard handles it. For 2-3 rooms or a moderate cleanout, the 15 yard fits. For a whole-house or estate cleanout, choose the 20 yard. When you are between two sizes, sizing up at 904 Dumpster only costs $50 more, not double, so the 20 is the safer pick if you are unsure.',
       },
       {
-        question: 'What does a 4 yard dumpster look like?',
-        answer: 'A 4 yard dumpster is the small steel front-load container you see permanently parked behind restaurants, gas stations, and small offices. It is roughly 6 feet long, 4 feet wide, and 4 feet tall, and it is built for weekly trash service, not project debris. For a one-time home cleanout or renovation, a 10 yard roll-off is the right starting size instead.',
+        question: 'What areas does 904 Dumpster deliver to?',
+        answer: 'We deliver same-day across Duval, Clay, St. Johns, and Nassau counties, including Jacksonville, Jacksonville Beach, Arlington, Mandarin, San Marco, Orange Park, Fleming Island, St. Augustine, Ponte Vedra Beach, and Fernandina Beach. Pricing and available sizes vary by county. Find your area on our locations page to see local rates and book online.',
       },
       {
         question: 'What is the difference between a 20 yard and a 25 yard dumpster?',
