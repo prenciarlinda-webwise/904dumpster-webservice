@@ -224,7 +224,7 @@ Mattresses must be in good condition with original tags, no stains, no rips, and
     author: '904 Dumpster',
     publishedDate: '2026-06-05T08:00:00-04:00',
     readTime: '7 min read',
-    featuredImage: '/images/recycling-icon.png',
+    featuredImage: '/images/dumpster-rental-near-me.jpg',
     tags: ['tire recycling jacksonville', 'where to dispose of tires', 'tire disposal fee', 'used tire recycling', 'tire drop off jacksonville', 'recycle tires near me'],
     relatedSlugs: ['how-to-dispose-of-paint-jacksonville', 'what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
     content: `

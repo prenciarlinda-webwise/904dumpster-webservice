@@ -1136,7 +1136,7 @@ Hazardous materials like paint, chemicals, batteries, propane tanks, and refrige
     publishedDate: '2026-04-27',
     updatedDate: '2026-07-14',
     readTime: '10 min read',
-    featuredImage: '/images/junk-removal-jacksonville-fl-vs-dumpster.png',
+    featuredImage: '/images/junk-removal-jacksonville-vs-dumpster.png',
     tags: ['junk removal', 'junk pods', 'take it away dumpster rental', 'dumpster rental and removal', 'remove and dispose', 'whole house junk removal', 'budget roll off', 'dumpster rental vs junk removal'],
     status: 'published' as const,
     relatedSlugs: ['roll-off-dumpster-rental-complete-guide', 'how-to-choose-right-dumpster-size'],

@@ -13,7 +13,7 @@ export const BATCH3_LOCATION_POSTS: BlogPost[] = [
     author: '904 Dumpster Team',
     publishedDate: '2026-07-20T08:00:00-04:00',
     readTime: '5 min read',
-    featuredImage: '/images/main-hero-dumpster.jpeg',
+    featuredImage: '/images/dumpster-rental-near-me-jacksonville.jpg',
     featuredImageAlt: 'Dumpster rental delivery in Arlington FL Jacksonville',
     tags: [
       'dumpster rental arlington fl',
@@ -79,7 +79,7 @@ Yes. Most of these HOAs require 24-hour advance notice to the gatehouse and some
     author: '904 Dumpster Team',
     publishedDate: '2026-07-23T08:00:00-04:00',
     readTime: '5 min read',
-    featuredImage: '/images/main-hero-dumpster.jpeg',
+    featuredImage: '/images/roll-off-dumpster-rental-jacksonville-fl.jpg',
     featuredImageAlt: 'Dumpster rental delivery in Fleming Island FL',
     tags: [
       'dumpster rental fleming island fl',
@@ -146,7 +146,7 @@ The 15-yard is the most popular size for Eagle Harbor and Eagle Landing projects
     author: '904 Dumpster Team',
     publishedDate: '2026-07-26T08:00:00-04:00',
     readTime: '5 min read',
-    featuredImage: '/images/main-hero-dumpster.jpeg',
+    featuredImage: '/images/dumpster-rental-jacksonville-florida.jpg',
     featuredImageAlt: 'Dumpster rental delivery in Green Cove Springs FL',
     tags: [
       'dumpster rental green cove springs fl',
@@ -213,7 +213,7 @@ The 15-yard is the more practical choice for the narrower streets near downtown 
     author: '904 Dumpster Team',
     publishedDate: '2026-07-29T08:00:00-04:00',
     readTime: '5 min read',
-    featuredImage: '/images/main-hero-dumpster.jpeg',
+    featuredImage: '/images/dumpsters-near-me.jpg',
     featuredImageAlt: 'Dumpster rental delivery in Hilliard FL',
     tags: [
       'dumpster rental hilliard fl',

@@ -1409,7 +1409,7 @@ Yes. Branches, leaves, shrubs, mulch, and general yard debris are all accepted i
     author: '904 Dumpster',
     publishedDate: '2026-04-12',
     readTime: '10 min read',
-    featuredImage: '/images/main-hero-dumpster.jpeg',
+    featuredImage: '/images/commercial-dumpster-jacksonville.jpg',
     tags: ['commercial dumpster rentals', 'commercial dumpster cost', 'commercial trash dumpster sizes', 'business dumpster cost', 'dumpster cost per month', 'apartment dumpster size', 'dumpster rental and removal', 'waste dumpster service', 'commercial waste management jacksonville'],
     status: 'published' as const,
     relatedSlugs: ['dumpster-rental-for-homeowners-first-time-guide', 'dumpster-rental-calculator-estimate-debris-volume'],

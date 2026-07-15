@@ -401,7 +401,7 @@ March through early May is the ideal window. Temperatures are comfortable in the
     author: '904 Dumpster',
     publishedDate: '2026-03-01',
     readTime: '8 min read',
-    featuredImage: '/images/residential-dumpster-rental-jacksonville-fl.jpg',
+    featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['bathroom renovation debris', 'bathroom remodel dumpster', 'tile disposal', 'bathroom demolition waste', 'diy bathroom remodel', 'how to remodel a bathroom'],
     status: 'published' as const,
     relatedSlugs: ['kitchen-renovation-debris-disposal', 'how-to-choose-right-dumpster-size'],
