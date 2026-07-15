@@ -2474,10 +2474,18 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative py-20 lg:py-28 bg-secondary overflow-hidden">
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute top-10 right-10 w-40 h-40 border border-white rounded-full" />
-          <div className="absolute bottom-10 left-10 w-60 h-60 border border-white rounded-full" />
+      <section className="relative py-24 lg:py-36 overflow-hidden">
+        <div className="absolute inset-0">
+          <Image
+            src="/images/dumpster-rental-jacksonville-florida.jpg"
+            alt={`Dumpster Rental in ${location.name}, FL - 904 Dumpster`}
+            title={`Dumpster Rental ${location.name} FL`}
+            fill
+            priority
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-secondary/85" />
+          <div className="absolute inset-0 bg-gradient-to-t from-secondary via-secondary/40 to-transparent" />
         </div>
 
         <div className="relative max-w-7xl mx-auto px-4 lg:px-6">
@@ -2491,7 +2499,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
               {location.heroTitle}{' '}
               <span className="text-primary">{location.name}, FL</span>
             </h1>
-            <p className="text-xl text-white/70 mb-8">{location.heroSubtitle}</p>
+            <p className="text-xl text-white/80 mb-8">{location.heroSubtitle}</p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
                 href={`tel:${BUSINESS.phoneRaw}`}
@@ -2511,16 +2519,6 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                 Book Now
                 <ArrowRight className="w-5 h-5" />
               </a>
-            </div>
-            <div className="mt-8 rounded-2xl overflow-hidden">
-              <Image
-                src="/images/dumpster-rental-jacksonville-florida.jpg"
-                alt={`Dumpster Rental in ${location.name}, FL - 904 Dumpster`}
-                title={`Dumpster Rental ${location.name} FL`}
-                width={800}
-                height={400}
-                className="w-full h-48 lg:h-64 object-cover rounded-2xl"
-              />
             </div>
           </div>
         </div>
@@ -2570,59 +2568,45 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
         </div>
       </section>
 
-      {/* About This City */}
-      {location.aboutCity && (
-        <section className="py-20 lg:py-28 bg-white">
-          <div className="max-w-7xl mx-auto px-4 lg:px-6">
-            <div className="grid lg:grid-cols-2 gap-16 items-start">
-              <div>
-                <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                  About {location.name}
-                </span>
-                <h2 className="text-3xl md:text-4xl font-black text-secondary mb-6">
-                  Dumpster Rental Services in {location.name}, {location.state}
-                </h2>
-                <p className="text-gray-600 text-lg leading-relaxed">
-                  {location.aboutCity}
-                </p>
-              </div>
+      {/* Local Content - the real, unique prose per location. Moved up front instead of buried
+          below the box-heavy sections; aboutCity dropped since it duplicated this content. */}
+      {location.localContent && (
+        <section className="py-20 lg:py-24 bg-white">
+          <div className="max-w-6xl mx-auto px-4 lg:px-6">
+            <div className="mb-10">
+              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+                About {location.name}
+              </span>
+              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
+                {location.localContentTitle || `Dumpster Rental Coverage in ${location.name}, ${location.state}`}
+              </h2>
+            </div>
 
-              {/* Service Area Details */}
-              <div className="bg-gray-50 rounded-3xl p-8">
-                <h3 className="text-xl font-bold text-secondary mb-6">Service Area Details</h3>
-                <div className="space-y-4">
-                  <div className="flex items-start gap-3">
-                    <MapPin className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                    <div>
-                      <div className="font-semibold text-secondary">County</div>
-                      <div className="text-gray-600">{location.county} County, Florida</div>
-                    </div>
+            <div className="grid lg:grid-cols-5 gap-8 lg:gap-10 items-stretch">
+              <div
+                className="lg:col-span-3 space-y-5 text-gray-600 leading-relaxed"
+                dangerouslySetInnerHTML={{ __html: location.localContent }}
+              />
+
+              <div className="lg:col-span-2">
+                <div className="rounded-2xl overflow-hidden shadow-lg h-full min-h-[320px]">
+                  <iframe
+                    src={`https://maps.google.com/maps?q=${location.geo.latitude},${location.geo.longitude}&t=&z=12&ie=UTF8&iwloc=&output=embed`}
+                    width="100%"
+                    height="100%"
+                    loading="lazy"
+                    className="border-0 w-full h-full min-h-[320px]"
+                    title={`Dumpster Rental Service Area in ${location.name}, ${location.state}`}
+                    referrerPolicy="no-referrer-when-downgrade"
+                  />
+                </div>
+                <div className="mt-4 text-sm text-gray-600 bg-gray-50 rounded-xl p-4">
+                  <div className="font-bold text-secondary mb-1">{location.name}, {location.state}</div>
+                  <div>{location.county} County{location.zipCodes ? ` · ${location.zipCodes.join(', ')}` : ''}</div>
+                  <div>{location.serviceRadius} service radius</div>
+                  <div className="mt-2 text-primary font-semibold">
+                    <a href={`tel:${BUSINESS.phoneRaw}`} title="Call 904 Dumpster" className="hover:underline">{location.phone}</a>
                   </div>
-                  <div className="flex items-start gap-3">
-                    <Truck className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                    <div>
-                      <div className="font-semibold text-secondary">Service Radius</div>
-                      <div className="text-gray-600">{location.serviceRadius} from {location.name}</div>
-                    </div>
-                  </div>
-                  <div className="flex items-start gap-3">
-                    <Phone className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                    <div>
-                      <div className="font-semibold text-secondary">Local Phone</div>
-                      <a href={`tel:${location.phone.replace(/\D/g, '')}`} className="text-primary hover:underline" title="Call 904 Dumpster">
-                        {location.phone}
-                      </a>
-                    </div>
-                  </div>
-                  {location.zipCodes && (
-                    <div className="flex items-start gap-3">
-                      <MapPin className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
-                      <div>
-                        <div className="font-semibold text-secondary">ZIP Codes Served</div>
-                        <div className="text-gray-600">{location.zipCodes.join(', ')}</div>
-                      </div>
-                    </div>
-                  )}
                 </div>
               </div>
             </div>
@@ -2972,51 +2956,6 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
               <p className="text-sm text-gray-600 italic border-t border-amber-200 pt-4">
                 {location.permitInfo.note}
               </p>
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Local Map + Local-Content Signal Section. Renders only when location authors localContent. */}
-      {location.localContent && (
-        <section className="py-20 lg:py-24 bg-white border-t border-gray-100">
-          <div className="max-w-6xl mx-auto px-4 lg:px-6">
-            <div className="text-center mb-12">
-              <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
-                Local Service Area
-              </span>
-              <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
-                {location.localContentTitle || `Dumpster Rental Coverage in ${location.name}, ${location.state}`}
-              </h2>
-            </div>
-
-            <div className="grid lg:grid-cols-5 gap-8 lg:gap-10 items-stretch">
-              <div
-                className="lg:col-span-3 space-y-5 text-gray-600 leading-relaxed"
-                dangerouslySetInnerHTML={{ __html: location.localContent }}
-              />
-
-              <div className="lg:col-span-2">
-                <div className="rounded-2xl overflow-hidden shadow-lg h-full min-h-[320px]">
-                  <iframe
-                    src={`https://maps.google.com/maps?q=${location.geo.latitude},${location.geo.longitude}&t=&z=12&ie=UTF8&iwloc=&output=embed`}
-                    width="100%"
-                    height="100%"
-                    loading="lazy"
-                    className="border-0 w-full h-full min-h-[320px]"
-                    title={`Dumpster Rental Service Area in ${location.name}, ${location.state}`}
-                    referrerPolicy="no-referrer-when-downgrade"
-                  />
-                </div>
-                <div className="mt-4 text-sm text-gray-600 bg-gray-50 rounded-xl p-4">
-                  <div className="font-bold text-secondary mb-1">{location.name}, {location.state}</div>
-                  <div>{location.county} County</div>
-                  <div>{location.serviceRadius} service radius</div>
-                  <div className="mt-2 text-primary font-semibold">
-                    <a href={`tel:${BUSINESS.phoneRaw}`} title="Call 904 Dumpster" className="hover:underline">{location.phone}</a>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
         </section>
