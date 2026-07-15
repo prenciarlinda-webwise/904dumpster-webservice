@@ -416,16 +416,16 @@ export const SERVICES: ServicePage[] = [
         answer: 'We deliver same-day across Duval, Clay, St. Johns, and Nassau counties, including Jacksonville, Jacksonville Beach, Arlington, Mandarin, San Marco, Orange Park, Fleming Island, St. Augustine, Ponte Vedra Beach, and Fernandina Beach. Pricing and available sizes vary by county. Find your area on our locations page to see local rates and book online.',
       },
       {
-        question: 'What is the difference between a 20 yard and a 25 yard dumpster?',
-        answer: 'A 20 yard dumpster holds 20 cubic yards of debris (about 7 pickup truck loads), with a typical footprint of 14 feet long, 7.5 feet wide, and 5.8 feet tall. A 25 yard is uncommon in the residential roll-off market; most haulers jump straight from 20 to 30. The closest real next step up from a 904 Dumpster 20 yard is a 30 yard, which holds 50% more volume and is reserved for full-home demolition or large construction projects.',
+        question: 'What size dumpster do I need for a commercial or construction project?',
+        answer: 'Most commercial and construction projects in Jacksonville need a 20 yard dumpster, since it holds 7 pickup truck loads and a 2 ton weight allowance for job-site debris. Smaller retail or office cleanouts often work with a 15 yard. See our construction dumpster rental and commercial dumpster rental pages for project-based pricing and COI details.',
       },
       {
         question: 'Is it cheaper to rent a dumpster or go to the dump?',
         answer: 'For a one-time, small load that fits in your pickup truck, a single trip to the Trail Ridge Landfill is cheaper than renting. For anything larger - a full room, a roof tear-off, or 2+ truckloads of debris - a 904 Dumpster roll-off is cheaper once you factor in fuel, your time, multiple landfill gate fees ($35-50 per trip), and the limits on what fits in a pickup. Most Jacksonville homeowners hit break-even at 2-3 truckloads.',
       },
       {
-        question: 'What are standard roll off dumpster dimensions?',
-        answer: 'Standard roll-off dumpster dimensions at 904 Dumpster: 10 yard is 12 feet long, 7.5 feet wide, 3.6 feet high; 15 yard is 14 feet long, 7.5 feet wide, 4.5 feet high; 20 yard is 14 feet long, 7.5 feet wide, 5.8 feet high. All three fit a standard residential driveway and require about 14 feet of overhead clearance for the delivery truck.',
+        question: 'How do I book a dumpster online?',
+        answer: 'Book directly through our online customer portal or call (904) 240-5598. Choose your size, confirm your delivery address, and same-day delivery is available for orders placed before noon Monday through Saturday. No account or deposit required to get a price.',
       },
     ],
     quickAnswer: 'Dumpster sizes at 904 Dumpster run 10, 15, and 20 yard, priced at $299, $349, and $399 flat — book the right one online or call (904) 240-5598. The 10-yard suits small cleanouts, the 15-yard (our most popular) handles roofing and kitchen remodels, and the 20-yard covers whole-house projects.\n\nAll three fit a standard Jacksonville driveway. If you are unsure which size to book, sizing up costs only $50 more, so most first-time renters choose the 15-yard as the safe middle option.',
