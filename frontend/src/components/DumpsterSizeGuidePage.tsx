@@ -280,7 +280,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
           <p className="text-sm text-gray-600 text-center">
             The 20 yard is our largest residential size and the most popular for whole-house cleanouts and multi-room renovations. Same-day delivery is available across all of Duval, Clay, St. Johns, and Nassau counties —{' '}
             <a href="#book-by-location" className="text-primary font-semibold hover:underline">
-              see your service area below
+              dumpster rental service areas near you
             </a>.
           </p>
         </div>
@@ -346,7 +346,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
                     title={`${s.key} Yard Dumpster Rental in Jacksonville`}
                     className="block w-full text-center bg-secondary hover:bg-primary text-white font-bold py-3 rounded-xl transition-colors"
                   >
-                    {s.key} Yard Details
+                    {s.key} Yard Dumpster Rental
                   </Link>
                 </div>
               </div>
@@ -441,7 +441,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
                   {group.areas.map((area) => (
                     <li key={area.href}>
                       <Link href={area.href} className="text-gray-700 hover:text-primary hover:underline" title={`Dumpster Rental ${area.name} FL`}>
-                        {area.name}
+                        Dumpster Rental {area.name}
                       </Link>
                     </li>
                   ))}
@@ -505,7 +505,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
               title="Dumpster Rental Pricing in Jacksonville"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-white font-bold text-lg px-8 py-4 rounded-xl transition-all"
             >
-              See Full Pricing
+              Dumpster Rental Pricing Jacksonville
               <ArrowRight className="w-5 h-5" />
             </Link>
           </div>
