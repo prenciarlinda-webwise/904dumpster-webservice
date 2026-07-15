@@ -39,7 +39,7 @@ export const SOCIAL_LINKS = [
 // Google Reviews - update this when review count changes
 export const REVIEWS = {
   rating: '5.0',
-  count: '153',
+  count: '166',
   bestRating: '5',
   worstRating: '1',
 } as const
