@@ -411,7 +411,7 @@ export const LOCATIONS: Location[] = [
       'Garage conversions',
       'Hurricane damage cleanup',
       'Downsizing and estate cleanouts',
-      'New construction debris removal',
+      'Teardown-lot new construction near the beach',
       'Landscaping and yard cleanups',
     ],
     localInfo: 'Neptune Beach properties often have limited driveway space, making our 10-yard dumpster the most popular choice. This compact size fits perfectly in most Neptune Beach driveways while still providing ample capacity for renovation debris. For larger projects like whole-home renovations or new construction, we can coordinate multiple dumpster swaps to keep your project moving. Street placement may require coordination with the City of Neptune Beach.',
@@ -497,7 +497,7 @@ export const LOCATIONS: Location[] = [
       'Roofing projects for coastal properties',
       'Hurricane preparation and cleanup',
       'Investment property turnovers',
-      'New construction debris removal',
+      'New-build cleanup in developments west of 3rd Street',
       'Large estate cleanouts',
     ],
     localInfo: 'Jacksonville Beach offers a variety of property sizes, from compact beach cottages to larger homes west of the Intracoastal. Our 10-yard dumpster is popular for homes near the ocean with smaller driveways, while the 15 and 20-yard sizes work well for larger properties toward the Intracoastal Waterway. For commercial projects along Beach Boulevard or in the Town Center area, we can coordinate delivery times to minimize impact on your business operations.',
@@ -569,8 +569,8 @@ export const LOCATIONS: Location[] = [
       'Experience with older homes and mature-tree properties',
       'Driveway-friendly equipment for narrow mid-century driveways',
       'Knowledge of Arlington and Duval County permit rules',
-      'All three sizes available (10, 15, 20 yard) at Duval County pricing',
-      'Locally owned, not a national broker',
+      'Familiarity with Fort Caroline and University Park mid-century layouts',
+      'Estate cleanouts as Arlington\'s original homeowner generation transitions',
     ],
     commonProjects: [
       'Roof replacements on 1950s and 1960s Arlington homes',
@@ -611,6 +611,16 @@ export const LOCATIONS: Location[] = [
     ],
     locationType: 'suburban',
     serviceHighlights: ['Same-Day Delivery', 'All 3 Sizes Available', 'Driveway-Friendly Equipment', 'Locally Owned'],
+    permitInfo: {
+      title: 'Arlington & Queens Harbour Placement Requirements',
+      steps: [
+        'Confirm whether the dumpster sits on a private driveway (no permit needed) or the street/right-of-way (Jacksonville Right-of-Way Permit required)',
+        'For Queens Harbour or other gated East Arlington subdivisions, notify HOA management at least 24 hours before delivery',
+        'Confirm your community\'s dumpster day restrictions - some gated subdivisions restrict placement to weekdays only',
+        'Our team can recommend driveway placement options that avoid the city permit process entirely',
+      ],
+      note: 'The large majority of Arlington deliveries go straight to a private driveway with no permit needed - street placement and HOA notice are the exception, not the rule.',
+    },
     neighborhoodSpotlights: [
       {
         name: 'Fort Caroline & Monument Road',
@@ -778,7 +788,7 @@ export const LOCATIONS: Location[] = [
       'Whole-home renovations',
       'Kitchen and bathroom remodels',
       'Garage cleanouts',
-      'Roofing replacement projects',
+      'Roof tear-offs on established Park Avenue homes',
       'Landscaping debris removal',
       'New construction cleanup',
       'Estate and moving cleanouts',
@@ -877,8 +887,8 @@ export const LOCATIONS: Location[] = [
       'Garage cleanouts and organization',
       'Landscaping and outdoor living projects',
       'Moving and downsizing cleanouts',
-      'New construction debris removal',
-      'Roofing replacement projects',
+      'Waterfront remodels on Pace Island',
+      'Storm and tree-debris cleanup after tropical systems',
       'Pool area renovations',
     ],
     localInfo: 'Fleming Island is a master-planned community with active HOAs that may have specific requirements for dumpster placement and duration. We recommend checking with your neighborhood association before scheduling delivery. Our drivers are experienced with Fleming Island neighborhoods and can recommend optimal placement to comply with community guidelines. The 15-yard dumpster is our most popular size for Fleming Island projects, offering ample capacity while maintaining a professional appearance.',
@@ -974,9 +984,9 @@ export const LOCATIONS: Location[] = [
     commonProjects: [
       'Historic home renovations downtown',
       'Estate cleanouts and property transitions',
-      'New construction debris removal',
+      'New-construction cleanup in Magnolia West',
       'Storm debris cleanup',
-      'Roofing replacement projects',
+      'Land clearing on rural County Road 209 acreage',
       'Garage and shed cleanouts',
       'Landscaping and yard debris removal',
       'Commercial property cleanouts',
@@ -1240,8 +1250,8 @@ export const LOCATIONS: Location[] = [
       'Experience navigating gated communities and HOA placement rules',
       'Driveway-friendly equipment for paver and brick driveways',
       'Knowledge of Duval County permit rules for Mandarin',
-      'All three sizes available (10, 15, 20 yard) at Duval County pricing',
-      'Locally owned, not a national broker',
+      'River-adjacent estate lot experience along the St. Johns',
+      'Gatehouse coordination for San Jose Boulevard gated subdivisions',
     ],
     commonProjects: [
       'Kitchen and master bath renovations on established ranch homes',
@@ -1282,6 +1292,16 @@ export const LOCATIONS: Location[] = [
     ],
     locationType: 'suburban',
     serviceHighlights: ['Same-Day Delivery', 'All 3 Sizes Available', 'Gated-Community Experience', 'Locally Owned'],
+    permitInfo: {
+      title: 'Mandarin & San Jose Corridor Placement Requirements',
+      steps: [
+        'Confirm whether the dumpster sits on a private driveway (no permit needed) or the street/right-of-way (Jacksonville Right-of-Way Permit required)',
+        'For gated communities along San Jose Boulevard, notify the gatehouse at least 24 hours before delivery',
+        'Confirm placement will be on the garage apron or side of the home rather than the street, which most gated Mandarin subdivisions require',
+        'Our team coordinates gatehouse access on every gated-community booking',
+      ],
+      note: 'Most Mandarin deliveries go straight to a private driveway with no permit needed - the extra step for gated communities is gatehouse notice, not a government permit.',
+    },
     neighborhoodSpotlights: [
       {
         name: 'Loretto & Old Mandarin Road',
@@ -1339,8 +1359,8 @@ export const LOCATIONS: Location[] = [
       'Board-under-dumpster protection for brick and paver surfaces, included free',
       'Experience with Jacksonville\'s tree canopy preservation rules',
       'Right-of-way permit guidance when a driveway can\'t fit a container',
-      'All three sizes available (10, 15, 20 yard) at Duval County pricing',
-      'Locally owned, not a national broker',
+      'Sequential load planning for multi-room historic gut rehabs',
+      'Familiarity with Craftsman bungalow and Mediterranean Revival housing stock',
     ],
     commonProjects: [
       'Full kitchen gut renovations in Craftsman bungalows',
@@ -1381,6 +1401,16 @@ export const LOCATIONS: Location[] = [
     ],
     locationType: 'historic',
     serviceHighlights: ['Narrow-Lot Placement', 'Brick & Paver Protection', 'Right-of-Way Permit Guidance', 'Locally Owned'],
+    permitInfo: {
+      title: 'Riverside & Avondale Historic District Placement',
+      steps: [
+        'Most Riverside and Avondale driveways predate modern standards, so on-street placement is more common here than in newer suburbs',
+        'A City of Jacksonville right-of-way permit for street placement runs $25-$50',
+        'Both neighborhoods fall within Jacksonville\'s tree canopy preservation zone, so our trucks scout for roughly 22 feet of vertical clearance at the drop point',
+        'Our team can advise on driveway-only placement options that avoid the permit process',
+      ],
+      note: 'A permit is not required when the dumpster stays on private property - only on-street placement, common on the narrowest pre-automobile lots, requires the $25-$50 City of Jacksonville permit.',
+    },
     neighborhoodSpotlights: [
       {
         name: 'Five Points & Riverside Ave',
@@ -1437,8 +1467,8 @@ export const LOCATIONS: Location[] = [
       'Experience with tight, close-set historic lots near the Square',
       'Driveway protection for older concrete and paver surfaces',
       'Knowledge of Duval County permit rules for San Marco',
-      'All three sizes available (10, 15, 20 yard) at Duval County pricing',
-      'Locally owned, not a national broker',
+      'Sizing guidance from San Marco Square\'s tightest lots to San Marco East\'s larger homes',
+      'Familiarity with 1920s-1960s bungalow and Mediterranean Revival housing stock',
     ],
     commonProjects: [
       'Bungalow kitchen and bathroom renovations',
@@ -1479,6 +1509,16 @@ export const LOCATIONS: Location[] = [
     ],
     locationType: 'historic',
     serviceHighlights: ['Same-Day Delivery', 'Tight-Lot Placement Experience', 'Driveway Protection Included', 'Locally Owned'],
+    permitInfo: {
+      title: 'San Marco Square & St. Nicholas Placement Requirements',
+      steps: [
+        'A permit is not required when the dumpster stays on your driveway or private property',
+        'Placement on a public street or right-of-way near the Square or on tighter residential blocks requires a Right of Way Permit from Jacksonville\'s Development Services Department',
+        'Because many San Marco lots are platted close together, we recommend the 10-yard for the tightest streets near Balis Park to avoid needing street placement at all',
+        'Our team can advise on driveway placement options before booking if your lot is unusually tight',
+      ],
+      note: 'The vast majority of San Marco deliveries go straight to a private driveway with no permit needed - it is only the tightest lots immediately around the Square where street placement, and the permit that comes with it, becomes a real consideration.',
+    },
     neighborhoodSpotlights: [
       {
         name: 'San Marco Square & Balis Park',
