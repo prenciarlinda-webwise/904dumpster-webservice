@@ -12,6 +12,7 @@ import {
   Clock,
   Shield,
   DollarSign,
+  Star,
 } from 'lucide-react'
 import { BUSINESS, REVIEWS } from '@/lib/constants'
 import { ServicePageTemplate } from '@/components/ServicePageTemplate'
@@ -2544,7 +2545,7 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
       {/* Service Area Info */}
       <section className="py-12 bg-primary">
         <div className="max-w-7xl mx-auto px-4 lg:px-6">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center text-white">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-6 text-center text-white">
             <div className="flex items-center justify-center gap-2">
               <MapPin className="w-5 h-5" />
               <span>{location.county} County</span>
@@ -2555,11 +2556,15 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
             </div>
             <div className="flex items-center justify-center gap-2">
               <Clock className="w-5 h-5" />
-              <span>Mon-Sun Service</span>
+              <span>Mon-Sat Service</span>
             </div>
             <div className="flex items-center justify-center gap-2">
               <Shield className="w-5 h-5" />
-              <span>Licensed & Insured</span>
+              <span>Licensed &amp; Insured</span>
+            </div>
+            <div className="flex items-center justify-center gap-2 col-span-2 md:col-span-1">
+              <Star className="w-5 h-5" />
+              <span>{REVIEWS.rating}&#9733; ({REVIEWS.count} Reviews)</span>
             </div>
           </div>
         </div>
@@ -2675,6 +2680,37 @@ function LocationPage({ location }: { location: typeof LOCATIONS[0] }) {
                 transparent pricing page
               </Link>.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* How It Works */}
+      <section className="py-20 lg:py-24 bg-gray-50">
+        <div className="max-w-6xl mx-auto px-4 lg:px-6">
+          <div className="text-center max-w-3xl mx-auto mb-14">
+            <span className="inline-block text-primary font-bold text-sm uppercase tracking-wider mb-4">
+              Simple 4-Step Process
+            </span>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-secondary mb-4">
+              How It Works in {location.name}
+            </h2>
+            <p className="text-lg text-gray-600">
+              Booking a dumpster in {location.name} takes a couple of minutes. Here is what happens next.
+            </p>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {[
+              { step: '01', title: 'Choose Your Size', desc: 'Pick 10, 15, or 20 yard, or call and we will recommend the right size for your project.' },
+              { step: '02', title: 'Pick Your Date', desc: 'Book online or by phone. Same-day delivery is available for orders placed before noon Monday through Saturday.' },
+              { step: '03', title: 'We Deliver & Place It', desc: 'Our driver places the container exactly where you need it and protects your driveway on arrival.' },
+              { step: '04', title: 'We Pick It Up', desc: 'Call or text when you are done. We haul it away and handle disposal within the included rental period.' },
+            ].map((item) => (
+              <div key={item.step} className="bg-white rounded-2xl p-6 border border-gray-200 shadow-sm">
+                <div className="text-4xl font-black text-primary/20 mb-3">{item.step}</div>
+                <h3 className="text-lg font-bold text-secondary mb-2">{item.title}</h3>
+                <p className="text-sm text-gray-600">{item.desc}</p>
+              </div>
+            ))}
           </div>
         </div>
       </section>
