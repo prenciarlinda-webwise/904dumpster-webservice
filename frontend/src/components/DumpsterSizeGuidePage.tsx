@@ -404,40 +404,6 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
         </div>
       </section>
 
-      {/* Dumpster Rental by Project Type - route size-guide traffic to money pages, not just size pages */}
-      <section className="py-16 lg:py-20 bg-white">
-        <div className="max-w-6xl mx-auto px-4 lg:px-6">
-          <div className="text-center max-w-3xl mx-auto mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
-              Dumpster Rental by Project Type
-            </h2>
-            <p className="text-lg text-gray-600">
-              Sizing is only half the decision. Pick the guide built for your specific project.
-            </p>
-          </div>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {[
-              { name: 'Residential Dumpster Rental', href: '/residential-dumpster-rental-jacksonville-fl', desc: 'Home cleanouts, renovations, and garage or attic purges.' },
-              { name: 'Commercial Dumpster Rental', href: '/commercial-dumpster-rental-jacksonville-fl', desc: 'Retail, restaurant, and office project-based roll-offs.' },
-              { name: 'Construction Dumpster Rental', href: '/construction-dumpster-rental-jacksonville-fl', desc: 'New builds, additions, and contractor job sites.' },
-              { name: 'Concrete Disposal Dumpster', href: '/concrete-disposal-dumpster-jacksonville-fl', desc: 'Heavy-material sizing for concrete, brick, and dirt.' },
-              { name: 'Demolition Services', href: '/demolition-services-jacksonville-fl', desc: 'Structure tear-downs with permits and haul-away included.' },
-              { name: 'Dumpster for Roofing Projects', href: '/blog/roofing-project-waste-management', desc: 'Shingle tear-off sizing and weight-limit planning.' },
-            ].map((project) => (
-              <Link
-                key={project.href}
-                href={project.href}
-                title={project.name}
-                className="block bg-gray-50 hover:bg-primary/5 border border-gray-200 hover:border-primary rounded-2xl p-6 transition-colors"
-              >
-                <div className="text-lg font-bold text-secondary mb-2">{project.name}</div>
-                <p className="text-sm text-gray-600">{project.desc}</p>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Book by Location - highest-traffic page on the site, pass authority + users to the pages that actually book */}
       <section id="book-by-location" className="py-16 lg:py-20 bg-gray-50 scroll-mt-20">
         <div className="max-w-6xl mx-auto px-4 lg:px-6">
