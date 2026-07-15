@@ -262,11 +262,26 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
               </div>
             ))}
           </div>
-          <p className="text-sm text-gray-600 text-center">
-            The 20 yard is our largest residential size and the most popular for whole-house cleanouts and multi-room renovations.{' '}
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-5">
+            <a
+              href="https://app.icans.ai/customer-portal/904dumpster/book/"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Book a 20 Yard Dumpster Online"
+              className="inline-flex items-center justify-center gap-2 bg-primary hover:bg-secondary text-white font-bold px-6 py-3 rounded-xl transition-all duration-300"
+            >
+              Book a 20 Yard Now
+              <ArrowRight className="w-4 h-4" />
+            </a>
             <Link href="/20-yard-dumpster-rental" title="20 Yard Dumpster Rental Jacksonville FL" className="text-primary font-semibold hover:underline">
-              See full 20 yard specs, pricing, and booking →
+              See full 20 yard specs &amp; pricing →
             </Link>
+          </div>
+          <p className="text-sm text-gray-600 text-center">
+            The 20 yard is our largest residential size and the most popular for whole-house cleanouts and multi-room renovations. Same-day delivery is available across all of Duval, Clay, St. Johns, and Nassau counties —{' '}
+            <a href="#book-by-location" className="text-primary font-semibold hover:underline">
+              see your service area below
+            </a>.
           </p>
         </div>
       </section>
@@ -372,7 +387,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
       </section>
 
       {/* Book by Location - highest-traffic page on the site, pass authority + users to the pages that actually book */}
-      <section className="py-16 lg:py-20 bg-gray-50">
+      <section id="book-by-location" className="py-16 lg:py-20 bg-gray-50 scroll-mt-20">
         <div className="max-w-6xl mx-auto px-4 lg:px-6">
           <div className="text-center max-w-3xl mx-auto mb-12">
             <h2 className="text-3xl md:text-4xl font-black text-secondary mb-4">
