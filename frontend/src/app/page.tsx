@@ -68,9 +68,9 @@ const SERVICE_AREAS = {
     { name: 'Atlantic Beach', href: '/dumpster-rental-atlantic-beach-fl' },
     { name: 'Neptune Beach', href: '/dumpster-rental-neptune-beach-fl' },
     { name: 'Arlington', href: '/dumpster-rental-arlington-fl' },
-    { name: 'Riverside', href: '/residential-dumpster-rental-jacksonville-fl' },
-    { name: 'San Marco', href: '/residential-dumpster-rental-jacksonville-fl' },
-    { name: 'Mandarin', href: '/residential-dumpster-rental-jacksonville-fl' },
+    { name: 'Riverside', href: '/dumpster-rental-riverside-avondale-fl' },
+    { name: 'San Marco', href: '/dumpster-rental-san-marco-fl' },
+    { name: 'Mandarin', href: '/dumpster-rental-mandarin-fl' },
     { name: 'Southside', href: '/residential-dumpster-rental-jacksonville-fl' },
     { name: 'Northside', href: '/residential-dumpster-rental-jacksonville-fl' },
   ],
@@ -804,7 +804,7 @@ export default function HomePage() {
 
             <div className="prose prose-lg max-w-none text-gray-600">
               <p className="mb-4">
-                <Link href="/blog/dumpster-rental-cost-complete-pricing-guide" title="Dumpster Rental Cost Guide" className="text-secondary hover:text-primary underline">Dumpster rental prices in Jacksonville</Link> typically range from $299 to $500+ depending on the provider, size, and what&apos;s included.
+                <Link href="/blog/dumpster-rental-cost-complete-pricing-guide" title="Dumpster Rental Cost Guide" className="text-secondary hover:text-primary underline">Dumpster rental prices in Jacksonville</Link>{' '}typically range from $299 to $500+ depending on the provider, size, and what&apos;s included.
                 At <strong className="text-secondary">904 Dumpster</strong>, our all-inclusive pricing starts at <strong className="text-primary">$299 for a 10-yard dumpster</strong>,
                 <strong className="text-primary"> $349 for a 15-yard</strong>, and <strong className="text-primary">$399 for a 20-yard</strong>.
                 Every rental includes delivery, pickup, and disposal fees at Trail Ridge Landfill. The 10-yard comes with a 3-day rental, while 15 and 20-yard include a 5-day rental. No hidden charges.
@@ -932,7 +932,7 @@ export default function HomePage() {
               <p className="text-gray-600 leading-relaxed mb-6">
                 Our 10-yard holds roughly 3 pickup truck loads, the 15-yard handles roofing tear-offs and kitchen remodels,
                 and the 20-yard fits whole-house renovations while still fitting most Jacksonville driveways.{' '}
-                Still deciding? Our <Link href="/blog/dumpster-sizes-explained-complete-guide" title="Dumpster Sizes Explained" className="text-primary hover:underline">guide to dumpster sizes</Link> compares every option.{' '}
+                Still deciding? Our <Link href="/blog/dumpster-sizes-explained-complete-guide" title="Dumpster Sizes Explained" className="text-primary hover:underline">guide to dumpster sizes</Link>{' '}compares every option.{' '}
                 <BookingTrigger title="Book a Dumpster Rental Online" className="text-primary hover:underline">Book online 24/7</BookingTrigger> or
                 call (904) 240-5598. Our drivers call 30 minutes before arrival and place boards under dumpster feet to protect your driveway.
                 When you&apos;re done loading, call or text for pickup within 24 hours.
@@ -1205,15 +1205,15 @@ export default function HomePage() {
                   <Link href="/dumpster-rental-orange-park-fl" title="Dumpster Rental Orange Park FL" className="text-primary hover:underline">dumpster rental in Orange Park, FL</Link>,{' '}
                   <Link href="/dumpster-rental-fleming-island-fl" title="Dumpster Rental Fleming Island FL" className="text-primary hover:underline">Fleming Island dumpster rentals</Link>,{' '}
                   <Link href="/dumpster-rental-middleburg-fl" title="Dumpster Rental Middleburg FL" className="text-primary hover:underline">Middleburg roll-offs</Link>, and{' '}
-                  <Link href="/dumpster-rental-green-cove-springs-fl" title="Dumpster Rental Green Cove Springs FL" className="text-primary hover:underline">dumpster rental in Green Cove Springs</Link> for
+                  <Link href="/dumpster-rental-green-cove-springs-fl" title="Dumpster Rental Green Cove Springs FL" className="text-primary hover:underline">dumpster rental in Green Cove Springs</Link>{' '}for
                   land clearing and new construction debris.
                 </p>
                 <p>
                   St. Johns County homeowners rely on us for{' '}
-                  <Link href="/dumpster-rental-st-augustine-fl" title="Dumpster Rental St. Augustine FL" className="text-primary hover:underline">dumpster rental in St. Augustine, FL</Link> estate cleanouts and renovation projects, and{' '}
-                  <Link href="/dumpster-rental-ponte-vedra-fl" title="Dumpster Rental Ponte Vedra FL" className="text-primary hover:underline">Ponte Vedra Beach dumpster rentals</Link> for
+                  <Link href="/dumpster-rental-st-augustine-fl" title="Dumpster Rental St. Augustine FL" className="text-primary hover:underline">dumpster rental in St. Augustine, FL</Link>{' '}estate cleanouts and renovation projects, and{' '}
+                  <Link href="/dumpster-rental-ponte-vedra-fl" title="Dumpster Rental Ponte Vedra FL" className="text-primary hover:underline">Ponte Vedra Beach dumpster rentals</Link>{' '}for
                   remodels and additions. In Nassau County we deliver{' '}
-                  <Link href="/dumpster-rental-fernandina-beach-fl" title="Dumpster Rental Fernandina Beach FL" className="text-primary hover:underline">dumpster rental in Fernandina Beach</Link> and Yulee for Amelia Island
+                  <Link href="/dumpster-rental-fernandina-beach-fl" title="Dumpster Rental Fernandina Beach FL" className="text-primary hover:underline">dumpster rental in Fernandina Beach</Link>{' '}and Yulee for Amelia Island
                   waterfront cleanups.
                 </p>
               </div>

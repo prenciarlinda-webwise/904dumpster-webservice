@@ -154,6 +154,10 @@ export const LOCATIONS: Location[] = [
         question: 'Do you offer dumpster rental for businesses in St. Johns County?',
         answer: 'Yes. We provide commercial dumpster rental for St. Johns County businesses, including restaurants and retail buildouts near St. George Street, property managers handling vacation-rental turnovers, and contractors working new-construction sites in Nocatee and World Golf Village. Flat-rate 15 and 20-yard pricing applies to commercial accounts, and we support recurring or multi-container service for ongoing work.',
       },
+      {
+        question: 'What is a roll off container, and do you offer them in St. Augustine?',
+        answer: "A roll off container is an open-top dumpster delivered on a truck that \"rolls off\" onto your driveway or job site, then gets hauled away once you're done loading, the same thing most people mean by \"dumpster rental.\" 904 Dumpster offers 15-yard and 20-yard roll off containers in St. Augustine and throughout St. Johns County at $449 and $499 flat, including delivery, pickup, and disposal. The 15-yard roll off container is the most-requested size for the historic district's tighter driveways.",
+      },
     ],
     locationType: 'historic',
     serviceHighlights: ['Historic District Expertise', 'Permit Assistance', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -260,6 +264,10 @@ export const LOCATIONS: Location[] = [
         question: 'Do you offer commercial dumpster rental for businesses in Middleburg?',
         answer: 'Yes. We provide commercial dumpster rental for Middleburg businesses, including farm-supply and agricultural operations along SR-21, equestrian facility cleanouts, and contractor accounts working new-construction sites. Flat-rate 15 and 20-yard pricing applies to business customers the same as residential, and we can schedule recurring or multi-container service for ongoing commercial work.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to rural Middleburg properties?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Middleburg and southern Clay County, including acreage lots off SR-21 and Henley Road. A roll off dumpster is simply an open-top container the truck rolls off onto your driveway or land and picks up once you are done loading. Flat rates are $409 for the 15-yard and $459 for the 20-yard, delivery and pickup included.',
+      },
     ],
     locationType: 'rural',
     serviceHighlights: ['Rural Property Access', 'Long Driveway OK', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -353,6 +361,10 @@ export const LOCATIONS: Location[] = [
         question: 'Do you deliver to East Atlantic Beach near the oceanfront?',
         answer: 'Yes. East Atlantic Beach, along East Coast Drive and the streets closest to the dunes, is part of our standard 32233 route. Driveways here run narrower than the western side of town, so the 10-yard (12 ft long, 7.5 ft wide) is the most common fit, and our drivers can hand-position the container where access is tight.',
       },
+      {
+        question: 'Do you rent roll off dumpsters in Atlantic Beach, FL?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout Atlantic Beach and the 32233 ZIP, from Selva Marina to East Coast Drive and the streets near Mayport Road. The 10-yard roll off is the most-booked size on the barrier island\'s narrower lots, at $299 flat with delivery, pickup, and disposal included.',
+      },
     ],
     locationType: 'beach',
     serviceHighlights: ['Beach Community Expert', 'Compact Dumpsters', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -440,6 +452,14 @@ export const LOCATIONS: Location[] = [
         question: 'Is street placement allowed in Neptune Beach?',
         answer: 'Street or public right-of-way placement in Neptune Beach (within Duval County) requires a permit from the City of Jacksonville. Driveway placement on private property does not. If your project absolutely needs street placement, we can advise on the permit process or recommend a 10-yard container that fits in a smaller driveway footprint.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Neptune Beach?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout the entire 32266 ZIP, including Penman Road and Florida Boulevard. Because Neptune Beach is only about one square mile with tight lots, the 10-yard roll off dumpster is the most-requested size, at $299 flat with delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Neptune Beach?',
+        answer: 'Yes. We provide commercial dumpster rental for Neptune Beach businesses along Florida Boulevard and near Jarboe Park, including restaurant remodels and shop refreshes. Given the tight lots here, the 10-yard is often the practical commercial choice, though all three sizes are available at flat Duval County rates. A certificate of insurance is available on request for landlords and property managers.',
+      },
     ],
     locationType: 'beach',
     serviceHighlights: ['Compact Dumpsters', 'Beach Driveways', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -521,6 +541,10 @@ export const LOCATIONS: Location[] = [
       {
         question: 'What\'s the most popular size for an oceanfront 1st Street cottage versus a home west of 3rd Street?',
         answer: 'Oceanfront 1st Street cottages and the streets near the boardwalk usually take a 10-yard, both because driveways are short and because most of those properties are doing single-room or single-bathroom updates. Homes west of 3rd Street toward the Intracoastal have wider lots and host whole-home renovations more often, so the 15-yard and 20-yard are more common there.',
+      },
+      {
+        question: 'Do you rent roll off dumpsters in Jacksonville Beach?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters across the entire 32250 ZIP, from the oceanfront to the Intracoastal Waterway. All three sizes are stocked for same-day Jax Beach delivery at flat Duval County rates, $299, $349, and $399, with delivery, pickup, and disposal included.',
       },
     ],
     locationType: 'beach',
@@ -608,6 +632,14 @@ export const LOCATIONS: Location[] = [
         question: 'Do you serve Queens Harbour and the East Arlington gated communities?',
         answer: 'Yes. We deliver to Queens Harbour, Hidden Hills, and the other East Arlington gated subdivisions regularly. Most HOAs in this area require 24-hour advance notice to management for dumpster placement, and some restrict dumpster days to weekdays. Send us your community name and we will coordinate with the gatehouse on arrival.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Arlington?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout Arlington, Fort Caroline, University Park, and Queens Harbour. The 15-yard roll off dumpster is the most-booked size for roof tear-offs on Arlington\'s 1950s and 1960s brick ranches, at $349 flat with delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Arlington?',
+        answer: 'Yes. We provide commercial dumpster rental for Arlington businesses along University Boulevard and the Regency Square corridor, including restaurant equipment swaps, strip-mall tenant buildouts, and office turnovers. Flat-rate 10, 15, and 20-yard pricing applies to commercial accounts, and a certificate of insurance is available on request for property managers and landlords.',
+      },
     ],
     locationType: 'suburban',
     serviceHighlights: ['Same-Day Delivery', 'All 3 Sizes Available', 'Driveway-Friendly Equipment', 'Locally Owned'],
@@ -624,7 +656,7 @@ export const LOCATIONS: Location[] = [
     neighborhoodSpotlights: [
       {
         name: 'Fort Caroline & Monument Road',
-        description: 'Established 1950s-60s homes with mature trees and narrower driveways. Roof tear-offs and interior remodels are the most common projects here.',
+        description: 'Dumpster rental in Fort Caroline and along Monument Road serves established 1950s-60s homes with mature trees and narrower driveways. Roof tear-offs and interior remodels are the most common projects here.',
         popularSize: '15-yard',
       },
       {
@@ -711,6 +743,14 @@ export const LOCATIONS: Location[] = [
       {
         question: 'What\'s the difference for a Nocatee delivery vs. a beach-side Ponte Vedra delivery?',
         answer: 'Nocatee deliveries follow Sonoc and CDD design-review rules: 24-hour notice to management, daytime placement only, and dumpster must be off-site within the rental window. Beach-side Ponte Vedra (Sawgrass, Old Ponte Vedra) tends to be stricter on aesthetic placement (away from the street, sometimes behind a screen) but more flexible on timing. Both areas accept the 20-yard footprint without issue.',
+      },
+      {
+        question: 'Do you deliver roll off dumpsters to Ponte Vedra Beach?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Ponte Vedra Beach, Sawgrass, TPC, and the Nocatee corridor. The 20-yard roll off is the most-booked size here because larger lots and gated-community HOAs typically approve the full container footprint. Rates are $409 for the 15-yard and $459 for the 20-yard, flat, with delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Ponte Vedra Beach?',
+        answer: 'Yes. We provide commercial dumpster rental for businesses around Sawgrass Village and the growing Nocatee Town Center, including boutique buildouts, medical and professional offices, and restaurant openings. Pricing matches our residential St. Johns County rate, $409 for a 15-yard and $459 for a 20-yard, and a certificate of insurance is available on request for property managers.',
       },
     ],
     locationType: 'upscale',
@@ -820,6 +860,14 @@ export const LOCATIONS: Location[] = [
         question: 'What is the best company for dumpster rental in Orange Park, FL?',
         answer: "904 Dumpster is a top-rated choice for dumpster rental in Orange Park, FL. As a locally owned Northeast Florida company operating since 2016, we offer flat-rate 15-yard ($409) and 20-yard ($459) roll-offs across Clay County — delivery, 5-day rental, pickup, and disposal included, with no fuel surcharges or hidden fees. We carry a 5.0-star Google rating and appear on the official Clay County franchise-hauler list. Our daily cross-river route from Jacksonville means same-day delivery to Orange Park, Oakleaf, and Doctors Inlet when you order before noon.",
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Orange Park?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Orange Park, from the Park Avenue town center to Doctors Inlet and Oakleaf. As a licensed Clay County franchise hauler, we cover the 32065, 32073, and 32067 ZIPs with flat rates of $409 for the 15-yard and $459 for the 20-yard, delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Orange Park?',
+        answer: 'Yes. We provide commercial dumpster rental along the Blanding Boulevard corridor and near Orange Park Mall, including retail buildouts, restaurant remodels, and office tenant turnovers. Pricing matches our residential Clay County rate, $409 for a 15-yard and $459 for a 20-yard, and a certificate of insurance is available on request for property managers and landlords.',
+      },
     ],
     locationType: 'suburban',
     serviceHighlights: ['Clay County Licensed', 'Fast Delivery', 'Same-Day Available', 'Franchise Hauler'],
@@ -916,6 +964,10 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do you offer commercial dumpster rental in Fleming Island?',
         answer: 'Yes. We deliver 15 and 20-yard roll-offs for commercial projects in Fleming Island, including retail buildouts along US-17, office renovations, and property-management cleanouts across Eagle Harbor and Fleming Island Plantation. Flat-rate pricing applies to commercial accounts the same as residential, and we can set up recurring or multi-container service for ongoing contractor work.',
+      },
+      {
+        question: 'Do you deliver roll off dumpsters to Fleming Island?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Fleming Island, including Eagle Harbor, Eagle Landing, and Fleming Island Plantation. The 20-yard roll off is the most-booked size here since most lots accommodate the full container footprint. Flat rates are $409 for the 15-yard and $459 for the 20-yard, delivery, pickup, and disposal included.',
       },
     ],
     locationType: 'upscale',
@@ -1021,6 +1073,14 @@ export const LOCATIONS: Location[] = [
         question: 'Who offers Clay County dumpster rental near Green Cove Springs?',
         answer: '904 Dumpster is a licensed Clay County franchise hauler based just north in Jacksonville, and Green Cove Springs — as the county seat — sits at the center of our daily Clay County route. We deliver 15-yard ($409) and 20-yard ($459) roll-offs flat-rate across the entire county, including Orange Park, Fleming Island, and Middleburg on the same schedule. Call (904) 240-5598 or book online for same-day service when ordered before noon.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Green Cove Springs?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Green Cove Springs, from the historic downtown core to rural acreage along County Road 209. As a licensed Clay County franchise hauler, we cover the 32043 ZIP at flat rates of $409 for the 15-yard and $459 for the 20-yard, delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Green Cove Springs?',
+        answer: 'Yes. We provide commercial dumpster rental for the shops and businesses along Walnut Street and the historic downtown core, priced the same as our residential Clay County rate: $409 for a 15-yard and $459 for a 20-yard. A certificate of insurance is available on request, and since Green Cove Springs is the last stop on our daily Clay County route, we recommend booking commercial deliveries in the morning for same-day service.',
+      },
     ],
     locationType: 'historic',
     serviceHighlights: ['Historic Downtown Access', 'County Seat Service', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -1113,6 +1173,14 @@ export const LOCATIONS: Location[] = [
         question: 'Do you offer junk removal in Fernandina Beach?',
         answer: 'Yes. Alongside roll-off dumpster rental, 904 Dumpster offers full-service junk removal in Fernandina Beach and Amelia Island — our crew loads and hauls furniture, appliances, mattresses, and estate-cleanout volume for you. Fernandina is the longest run on our route, so next-day pickup is more common than same-day. See our <a href="/junk-removal-jacksonville-fl" class="text-primary hover:underline" title="Junk Removal Jacksonville FL">junk removal page</a> for pricing tiers, or call (904) 240-5598 for an on-site quote.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Fernandina Beach and Amelia Island?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Fernandina Beach and all of Amelia Island, covering the 32034 ZIP. The 15-yard roll off container is the most-booked size for the historic Centre Street district\'s tighter driveways, at $409 flat; the 20-yard runs $459. Both include delivery, pickup, and disposal.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Fernandina Beach?',
+        answer: 'Yes. We provide commercial dumpster rental for Centre Street shops, restaurants, and inns, as well as hospitality operators renovating between booking seasons across Amelia Island. Pricing matches our residential Nassau County rate, $409 for a 15-yard and $459 for a 20-yard, and a certificate of insurance is available on request for property managers and inn owners.',
+      },
     ],
     locationType: 'historic',
     serviceHighlights: ['Historic District Expert', 'Island Delivery', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -1200,6 +1268,14 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do I need a permit for a dumpster in Hilliard?',
         answer: 'No permit is needed for placement on your private driveway or yard. If the dumpster needs to sit on a public road, shoulder, or right-of-way, a Nassau County permit is required and typically takes a few business days. We can help coordinate the application when you book.',
+      },
+      {
+        question: 'Do you deliver roll off dumpsters to Hilliard, FL?',
+        answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Hilliard and northwest Nassau County, covering the 32046 ZIP. The 20-yard roll off is the most-booked size here since rural projects like barn cleanouts and land clearing generate volume quickly. Flat rates are $409 for the 15-yard and $459 for the 20-yard, delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Hilliard?',
+        answer: 'Yes. We provide commercial dumpster rental for timber operations, farm-supply businesses, and shops along the US-1 corridor in Hilliard, priced the same as residential: $409 for a 15-yard and $459 for a 20-yard. A certificate of insurance is available on request, and booking before 10 AM gives commercial customers the best chance at same-day service.',
       },
     ],
     locationType: 'rural',
@@ -1289,6 +1365,14 @@ export const LOCATIONS: Location[] = [
         question: 'Can your truck clear the oak canopy on Mandarin\'s older streets?',
         answer: 'The roll-off truck needs about 12 feet of overhead clearance to drop a dumpster. Mandarin\'s established neighborhoods have mature live oaks that can hang lower than that in spots. Our drivers scout the approach before lifting and will reposition placement if a branch is in the way — flag low-hanging limbs when you book and we will route the drop accordingly.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Mandarin?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout Mandarin, Loretto, Old Mandarin Road, and the San Jose Boulevard corridor. The 15-yard roll off dumpster is the most-booked size for kitchen and bath renovations on Mandarin\'s established ranch homes, at $349 flat, with delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Mandarin?',
+        answer: 'Yes. We provide commercial dumpster rental along the San Jose Boulevard retail corridor, including shopping centers, medical offices, and restaurants. Pricing matches our residential Duval County rate, $299, $349, and $399 for the 10, 15, and 20-yard, and a certificate of insurance is available on request for shopping-center landlords and property managers.',
+      },
     ],
     locationType: 'suburban',
     serviceHighlights: ['Same-Day Delivery', 'All 3 Sizes Available', 'Gated-Community Experience', 'Locally Owned'],
@@ -1310,7 +1394,7 @@ export const LOCATIONS: Location[] = [
       },
       {
         name: 'San Jose Blvd Gated Communities',
-        description: 'Gated subdivisions with HOA placement rules and river-adjacent estate lots. Advance gatehouse notice keeps deliveries on schedule.',
+        description: 'Dumpster rental along San Jose Blvd serves gated subdivisions with HOA placement rules and river-adjacent estate lots. Advance gatehouse notice keeps deliveries on schedule.',
         popularSize: '20-yard',
       },
       {
@@ -1398,6 +1482,14 @@ export const LOCATIONS: Location[] = [
         question: 'Do you serve Five Points and the St. Johns Ave / King Street shopping corridors?',
         answer: 'Yes, we deliver to residential and commercial properties throughout Five Points, along St. Johns Avenue near the Shoppes of Avondale, and the King Street corridor, in addition to the surrounding Riverside and Avondale residential streets.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to Riverside and Avondale?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout Riverside, Avondale, and Five Points. Because many lots here predate the automobile, the compact 10-yard roll off dumpster is often the right fit, at $299 flat with delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'Do you offer commercial dumpster rental for businesses in Riverside and Avondale?',
+        answer: 'Yes. We provide commercial dumpster rental for the restaurants and shops around Five Points and the Shoppes of Avondale on St. Johns Avenue, including buildouts and interior renovations as tenants turn over. Pricing matches our residential Duval County rate, $299, $349, and $399 for the 10, 15, and 20-yard, and a certificate of insurance is available on request for commercial landlords.',
+      },
     ],
     locationType: 'historic',
     serviceHighlights: ['Narrow-Lot Placement', 'Brick & Paver Protection', 'Right-of-Way Permit Guidance', 'Locally Owned'],
@@ -1414,12 +1506,12 @@ export const LOCATIONS: Location[] = [
     neighborhoodSpotlights: [
       {
         name: 'Five Points & Riverside Ave',
-        description: 'Dense, walkable historic core with the narrowest lots in the service area. The compact 10-yard is the most common fit.',
+        description: 'Dumpster rental around Five Points and Riverside Ave serves the dense, walkable historic core with the narrowest lots in the service area. The compact 10-yard is the most common fit.',
         popularSize: '10-yard',
       },
       {
         name: 'St. Johns Ave & The Shoppes of Avondale',
-        description: 'Bungalow-lined streets around Avondale\'s commercial district. Kitchen and bath gut renovations are the most frequent projects.',
+        description: 'Dumpster rental along St. Johns Ave and The Shoppes of Avondale covers bungalow-lined streets in Avondale\'s commercial district. Kitchen and bath gut renovations are the most frequent projects.',
         popularSize: '15-yard',
       },
       {
@@ -1506,6 +1598,10 @@ export const LOCATIONS: Location[] = [
         question: 'How does 904 Dumpster protect older San Marco driveways?',
         answer: 'We place protective boards under the dumpster\'s contact points on every delivery at no extra charge, which protects older concrete, brick, and paver driveways common in San Marco\'s 1920s-1960s housing stock from cracking or staining.',
       },
+      {
+        question: 'Do you deliver roll off dumpsters to San Marco?',
+        answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout San Marco, St. Nicholas, and the streets around San Marco Square. The 10-yard roll off dumpster is the most-booked size on the tightest lots near the Square, at $299 flat with delivery, pickup, and disposal included.',
+      },
     ],
     locationType: 'historic',
     serviceHighlights: ['Same-Day Delivery', 'Tight-Lot Placement Experience', 'Driveway Protection Included', 'Locally Owned'],
@@ -1522,12 +1618,12 @@ export const LOCATIONS: Location[] = [
     neighborhoodSpotlights: [
       {
         name: 'San Marco Square & Balis Park',
-        description: 'The historic commercial core with the tightest residential lots in the area. The 10-yard is the most common fit here.',
+        description: 'Dumpster rental near San Marco Square and Balis Park serves the historic commercial core with the tightest residential lots in the area. The 10-yard is the most common fit here.',
         popularSize: '10-yard',
       },
       {
         name: 'St. Nicholas',
-        description: 'Bungalow-lined streets just east of the Square with slightly wider driveways. Kitchen and bath renovations are common.',
+        description: 'Dumpster rental in St. Nicholas covers bungalow-lined streets just east of the Square with slightly wider driveways. Kitchen and bath renovations are common.',
         popularSize: '15-yard',
       },
       {
