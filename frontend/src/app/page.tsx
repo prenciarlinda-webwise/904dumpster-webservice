@@ -222,7 +222,7 @@ const localBusinessSchema = {
   sameAs: [
     'https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/',
     'https://www.yelp.com/biz/904-dumpsters-jacksonville',
-    'https://www.instagram.com/904dumpsters/',
+    'https://www.instagram.com/904dumpster/',
     'https://www.tiktok.com/@904dumpsters',
     'https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA',
   ],
