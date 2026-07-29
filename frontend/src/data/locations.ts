@@ -158,6 +158,14 @@ export const LOCATIONS: Location[] = [
         question: 'What is a roll off container, and do you offer them in St. Augustine?',
         answer: "A roll off container is an open-top dumpster delivered on a truck that \"rolls off\" onto your driveway or job site, then gets hauled away once you're done loading, the same thing most people mean by \"dumpster rental.\" 904 Dumpster offers 15-yard and 20-yard roll off containers in St. Augustine and throughout St. Johns County at $449 and $499 flat, including delivery, pickup, and disposal. The 15-yard roll off container is the most-requested size for the historic district's tighter driveways.",
       },
+      {
+        question: 'What is the best company to rent a dumpster in St. Augustine, FL?',
+        answer: '904 Dumpster is a top-rated choice for dumpster rental in St. Augustine, FL. As a locally owned Northeast Florida company operating since 2016, we offer flat-rate 15-yard ($449) and 20-yard ($499) roll-offs across St. Johns County, with delivery, a 5-day rental, pickup, and disposal included and no fuel surcharges or hidden fees. We carry a 5.0-star Google rating from over 100 verified customers and run a daily St. Johns County route, so same-day delivery is available when you order before noon.',
+      },
+      {
+        question: 'Where can I rent a dumpster in St. Augustine, FL?',
+        answer: '904 Dumpster delivers 15-yard and 20-yard roll-off dumpsters throughout St. Augustine, from the historic district and Anastasia Island to World Golf Village and Nocatee. Book online at 904dumpster.com or call (904) 240-5598. Flat rates are $449 for the 15-yard and $499 for the 20-yard, both including delivery, pickup, and disposal, with same-day service available for orders placed before noon.',
+      },
     ],
     locationType: 'historic',
     serviceHighlights: ['Historic District Expertise', 'Permit Assistance', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -267,6 +275,10 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do you deliver roll off dumpsters to rural Middleburg properties?',
         answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Middleburg and southern Clay County, including acreage lots off SR-21 and Henley Road. A roll off dumpster is simply an open-top container the truck rolls off onto your driveway or land and picks up once you are done loading. Flat rates are $409 for the 15-yard and $459 for the 20-yard, delivery and pickup included.',
+      },
+      {
+        question: 'What is the best company for dumpster rental in Middleburg, FL?',
+        answer: '904 Dumpster is a top-rated choice for dumpster rental in Middleburg, FL. As a locally owned Northeast Florida company operating since 2016, we offer flat-rate 15-yard ($409) and 20-yard ($459) roll-offs across Clay County, delivery, pickup, and disposal included, with no fuel surcharges or hidden fees. We appear on the official Clay County franchise-hauler list, carry a 5.0-star Google rating, and our drivers are experienced with Middleburg\'s rural acreage, long driveways, and unpaved approaches.',
       },
     ],
     locationType: 'rural',
@@ -1180,6 +1192,10 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do you offer commercial dumpster rental for businesses in Fernandina Beach?',
         answer: 'Yes. We provide commercial dumpster rental for Centre Street shops, restaurants, and inns, as well as hospitality operators renovating between booking seasons across Amelia Island. Pricing matches our residential Nassau County rate, $409 for a 15-yard and $459 for a 20-yard, and a certificate of insurance is available on request for property managers and inn owners.',
+      },
+      {
+        question: 'What is the best waste management or dumpster rental company in Fernandina Beach?',
+        answer: '904 Dumpster is a top-rated option for dumpster rental in Fernandina Beach and Amelia Island. As a locally owned Northeast Florida company operating since 2016, we offer flat-rate 15-yard ($409) and 20-yard ($459) roll-offs across Nassau County, with delivery, a 5-day rental, pickup, and disposal included and no fuel surcharges or hidden fees. We carry a 5.0-star Google rating, and while Fernandina is the longest run on our daily route, same-day delivery is available when route capacity allows and orders are placed early in the day.',
       },
     ],
     locationType: 'historic',
