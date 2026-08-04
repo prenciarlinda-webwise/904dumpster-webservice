@@ -45,7 +45,7 @@ Gather all important documents first. Look for wills, trusts, insurance policies
 
 Do a walkthrough specifically to identify items that have significant financial or sentimental value. This includes jewelry, antiques, artwork, collections (coins, stamps, firearms), electronics, and family heirlooms.
 
-If you are unsure about the value of certain items, consider hiring a local appraiser. Jacksonville has several estate sale companies and antique dealers in the San Marco and Five Points areas who can provide valuations. Do not throw anything away until you are confident it does not have hidden value.
+If you are unsure about the value of certain items, consider hiring a local appraiser. Jacksonville has several estate sale companies and antique dealers in the [San Marco](/dumpster-rental-san-marco-fl) and Five Points areas who can provide valuations. Do not throw anything away until you are confident it does not have hidden value.
 
 ### Step 3 - Sort Everything into Categories
 
@@ -407,7 +407,7 @@ Fernandina Beach and Amelia Island have a unique mix of historic properties, bea
 
 ### Historic Home Renovations in Downtown Fernandina
 
-Downtown Fernandina Beach, centered around Centre Street, has some of the most beautifully preserved Victorian architecture in Florida. Renovating these homes in the 32034 zip code often involves removing old plaster, lathe, hardwood flooring, cabinetry, and sometimes structural elements. The debris from a single-room renovation in a historic home can fill a [15-yard dumpster](/15-yard-dumpster-rental), while a larger whole-house project typically calls for a [20-yard dumpster](/20-yard-dumpster-rental).
+Downtown Fernandina Beach, centered around Centre Street, has some of the most beautifully preserved Victorian architecture in Florida. Renovating these homes in the 32034 zip code often involves removing old plaster, lathe, hardwood flooring, cabinetry, and sometimes structural elements. The debris from a single-room renovation in a historic home can fill a [15-yard dumpster](/15-yard-dumpster-rental), while a larger whole-house project typically calls for a [20-yard dumpster](/20-yard-dumpster-rental). In fact, a [15 yard roll off container](/dumpster-rental-fernandina-beach-fl) is the single most-requested size for this historic core, while whole-property jobs typically step up to a 20 yd roll off dumpster.
 
 ### Beach House Cleanouts and Remodels
 
@@ -539,7 +539,7 @@ Demolishing a shed, deck, or fence is one of the most satisfying DIY projects yo
 In Jacksonville and Duval County, you generally do not need a permit to demolish a small accessory structure like a shed, a deck that is not attached to the house, or a fence. However, there are exceptions:
 
 - If the structure is attached to your home, such as a covered porch or an attached deck, demolition may require a permit from the City of Jacksonville Building Inspection Division.
-- If you live in a historic district like [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Springfield, or San Marco, additional review may be required before removing visible structures.
+- If you live in a historic district like [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Springfield, or [San Marco](/dumpster-rental-san-marco-fl), additional review may be required before removing visible structures.
 - HOA communities in [Mandarin](/dumpster-rental-mandarin-fl), the Southside, Nocatee, and [Fleming Island](/dumpster-rental-fleming-island-fl) often require architectural review approval before demolishing and rebuilding structures.
 
 When in doubt, call the City of Jacksonville Building Inspection Division at (904) 255-7800 or check our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for more details.

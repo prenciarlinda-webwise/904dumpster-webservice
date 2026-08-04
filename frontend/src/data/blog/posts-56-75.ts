@@ -1319,7 +1319,7 @@ Yes. There is no code restriction on keeping a roll-off dumpster on private prop
     relatedSlugs: ['dumpster-permit-guide-do-you-need-one', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## HOA Rules for Dumpster Rentals in Jacksonville FL
 
-Jacksonville and its suburbs — [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee, [Fleming Island](/dumpster-rental-fleming-island-fl), Bartram Park, Eagle Landing, Julington Creek, and dozens of Southside and Westside communities — are heavily HOA-governed. Nearly every master-planned community has covenants that cover what you can and cannot keep on your property, including roll-off dumpsters.
+Jacksonville and its suburbs — [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee, [Fleming Island](/dumpster-rental-fleming-island-fl), Bartram Park, Eagle Landing, [Julington Creek](/dumpster-rental-mandarin-fl), and dozens of Southside and Westside communities — are heavily HOA-governed. Nearly every master-planned community has covenants that cover what you can and cannot keep on your property, including roll-off dumpsters.
 
 The good news: **most Jacksonville HOA communities allow dumpster rentals on private driveways**. The restrictions typically govern placement (not in common areas, not in the street), duration (usually 7–14 days), and aesthetics (not visible from the street for extended periods).
 
@@ -1448,7 +1448,7 @@ Yes. We serve all Mandarin-area neighborhoods including Julington Creek, Bartram
 
 ## Book Your Mandarin Dumpster Today
 
-[Rent a dumpster in Mandarin FL](/) with flat-rate pricing and same-day delivery. Call **[(904) 240-5598](tel:+19042405598)**.`,
+[Rent a dumpster in Mandarin FL](/dumpster-rental-mandarin-fl) with flat-rate pricing and same-day delivery. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   // ── NEW: San Marco ────────────────────────────────────────────────────────
@@ -1736,6 +1736,6 @@ Yes. 904 Dumpster has experience navigating the narrow lots, mature tree canopy,
 
 ## Book Your Riverside or Avondale Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) with flat-rate pricing and same-day delivery, including historic Riverside and Avondale. Call **[(904) 240-5598](tel:+19042405598)**.`,
+[Rent a dumpster in Riverside Avondale FL](/dumpster-rental-riverside-avondale-fl) with flat-rate pricing and same-day delivery for these historic neighborhoods. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 ]

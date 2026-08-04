@@ -255,7 +255,7 @@ This is one of the most common questions homeowners ask, and it directly affects
 
 However, conversions done without permits can actually decrease property value. Unpermitted work creates problems during home inspections, title searches, and mortgage appraisals. The cost of pulling proper permits is minimal compared to the long-term value, and it ensures the work meets safety codes for electrical, plumbing, and structural integrity.
 
-Neighborhoods in Jacksonville where garage conversions tend to add the most value include [Riverside](/dumpster-rental-riverside-avondale-fl), San Marco, Murray Hill, Springfield, and the beaches communities in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) where space is at a premium.
+Neighborhoods in Jacksonville where garage conversions tend to add the most value include [Riverside](/dumpster-rental-riverside-avondale-fl), [San Marco](/dumpster-rental-san-marco-fl), Murray Hill, Springfield, and the beaches communities in [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl) and [Atlantic Beach](/dumpster-rental-atlantic-beach-fl) where space is at a premium.
 
 ## Waste Management Tips for Garage Conversions
 

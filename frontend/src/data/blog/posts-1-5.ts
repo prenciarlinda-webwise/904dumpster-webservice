@@ -376,7 +376,7 @@ A [10-yard dumpster](/10-yard-dumpster-rental) handles most standard two-car gar
 
 ### Does 904 Dumpster deliver to all Jacksonville neighborhoods?
 
-Yes. We deliver throughout Duval County including the Westside, Southside, Arlington, Mandarin, San Marco, [Riverside](/dumpster-rental-riverside-avondale-fl), the Beaches, and the Northside. We also serve [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and surrounding areas. Same-day delivery is available when you book before noon.
+Yes. We deliver throughout Duval County including the Westside, Southside, Arlington, Mandarin, [San Marco](/dumpster-rental-san-marco-fl), [Riverside](/dumpster-rental-riverside-avondale-fl), the Beaches, and the Northside. We also serve [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and surrounding areas. Same-day delivery is available when you book before noon.
 
 ### When should I start spring cleaning in Jacksonville?
 
@@ -410,7 +410,7 @@ March through early May is the ideal window. Temperatures are comfortable in the
 
 Whether you are tackling a [DIY bathroom remodel](/residential-dumpster-rental-jacksonville-fl) or a full contractor-led renovation, the project generates between 500 and 2,000 pounds of debris. 904 Dumpster recommends a 10-yard dumpster for most single-bathroom remodels, while a 15-yard is the safer choice if you are gutting the entire room down to the studs. Knowing what waste to expect and how to dispose of it properly saves you time, money, and the headache of multiple dump runs.
 
-Bathroom remodels are one of the most popular home improvement projects in [Jacksonville](/), FL. Whether you are updating a guest bathroom in your San Marco bungalow, gutting the master bath in a [Mandarin](/dumpster-rental-mandarin-fl) home, or renovating rental property bathrooms in the [Arlington](/dumpster-rental-arlington-fl) or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
+Bathroom remodels are one of the most popular home improvement projects in [Jacksonville](/), FL. Whether you are updating a guest bathroom in your [San Marco](/dumpster-rental-san-marco-fl) bungalow, gutting the master bath in a [Mandarin](/dumpster-rental-mandarin-fl) home, or renovating rental property bathrooms in the [Arlington](/dumpster-rental-arlington-fl) or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
 
 ## Types of Bathroom Renovation Debris
 
@@ -818,7 +818,7 @@ The 3.6-foot wall height is one of the biggest practical advantages of the 10-ya
 
 ### Driveway Footprint
 
-At 12 feet by 7.5 feet, a 10-yard dumpster takes up roughly the same space as a large SUV. It fits comfortably in almost any driveway in Jacksonville, including the narrower driveways in older neighborhoods like San Marco, [Avondale](/dumpster-rental-riverside-avondale-fl), Riverside, and Springfield. Homeowners in HOA communities like Nocatee, Julington Creek, and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) appreciate the compact footprint because it stays within the driveway and does not block sidewalks or neighboring properties.
+At 12 feet by 7.5 feet, a 10-yard dumpster takes up roughly the same space as a large SUV. It fits comfortably in almost any driveway in Jacksonville, including the narrower driveways in older neighborhoods like [San Marco](/dumpster-rental-san-marco-fl), [Avondale](/dumpster-rental-riverside-avondale-fl), Riverside, and Springfield. Homeowners in HOA communities like Nocatee, [Julington Creek](/dumpster-rental-mandarin-fl), and [Ponte Vedra](/dumpster-rental-ponte-vedra-fl) appreciate the compact footprint because it stays within the driveway and does not block sidewalks or neighboring properties.
 
 ## Projects That Fit Perfectly in a 10-Yard Dumpster
 

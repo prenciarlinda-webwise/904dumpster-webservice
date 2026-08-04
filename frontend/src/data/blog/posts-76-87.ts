@@ -234,7 +234,7 @@ Orange Park sits across the St. Johns River from [Mandarin](/dumpster-rental-man
 
 ## Middleburg: Rural Delivery Considerations
 
-Middleburg properties tend to have longer driveways, gravel approaches, and septic fields that change how a truck stages the drop. A reliable local company routes around the seasonal high-water flooding near Black Creek and avoids soft shoulders that can damage septic lines. Coverage runs the 32068 and 32234 ZIP codes, from the historic Middleburg core out to Lake Asbury and the agricultural acreage along Branan Field-Chaffee Road. As in Orange Park, the 20-yard is the most-booked size here because rural cleanouts (barn tear-outs, brush clearing, hurricane debris) generate more volume than typical suburban projects.
+Middleburg properties tend to have longer driveways, gravel approaches, and septic fields that change how a truck stages the drop. A reliable local company routes around the seasonal high-water flooding near Black Creek and avoids soft shoulders that can damage septic lines. Coverage runs the 32068 and 32234 ZIP codes, from the historic Middleburg core out to Lake Asbury and the agricultural acreage along Branan Field-Chaffee Road. As in Orange Park, a [20 yd roll off dumpster](/dumpster-rental-middleburg-fl) is the most-booked size here because rural cleanouts (barn tear-outs, brush clearing, hurricane debris) generate more volume than typical suburban projects.
 
 ## Pricing for Orange Park and Middleburg
 
