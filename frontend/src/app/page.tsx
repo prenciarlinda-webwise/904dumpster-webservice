@@ -27,9 +27,9 @@ import BookingTrigger from '@/components/BookingTrigger'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Jacksonville FL from $299 - 904 Dumpster',
+  title: 'Dumpster Rental Jacksonville - Same Day Dumpster - 904 Dumpster',
   description:
-    'Dumpster rental in Jacksonville FL from $299. 10, 15 and 20-yard roll-off containers with delivery, pickup and disposal included. Same-day service available.',
+    'Same-day roll-off dumpster rental in Jacksonville, FL. 10-20 yard sizes, delivery and disposal included. Locally owned since 2016. Book online.',
   openGraph: {
     title: 'Dumpster Rental Jacksonville FL - 904 Dumpster',
     description:
@@ -97,12 +97,11 @@ const SERVICE_AREAS = {
   ],
 }
 
-// FAQ Data - 4 highest-value questions for the homepage.
+// FAQ Data - 4 highest-value questions for the homepage (cap: 4 max).
 // Other intents are answered on dedicated pages to avoid cannibalization:
 //   - Prohibited items -> /rules/prohibited-items-list
 //   - Pricing detail   -> /dumpster-rental-pricing-jacksonville
-//   - Size selection   -> /dumpster-size-guide
-//   - Full FAQ library -> /frequently-asked-questions
+//   - Size selection, roll-off definition -> /dumpster-size-guide, /frequently-asked-questions
 const FAQ_DATA = [
   {
     question: 'How much does it cost to rent a dumpster in Jacksonville, FL?',
@@ -110,14 +109,9 @@ const FAQ_DATA = [
       'Dumpster rental in Jacksonville, FL starts at $299 at 904 Dumpster. The 10-yard is $299, 15-yard is $349, and 20-yard is $399. Every price includes delivery, pickup, and disposal at Trail Ridge Landfill. Most national brokers charge $350-$500 for the same project.',
   },
   {
-    question: 'Is it cheaper to rent a dumpster or go to the dump yourself?',
+    question: 'Is there dumpster rental near me in Jacksonville with same-day delivery?',
     answer:
-      'For most Jacksonville projects, renting is cheaper. A single trip to Trail Ridge Landfill runs $50 to $75 in disposal fees, and a 10-yard load equals about 3 pickup truck trips. At $299 all-in, 904 Dumpster covers delivery, pickup, and disposal, saving the fuel, dump fees, and hours of lifting and driving that hauling debris yourself requires.',
-  },
-  {
-    question: 'Will a couch fit in a 10 yard dumpster?',
-    answer:
-      'Yes, a standard couch fits easily in a 10-yard dumpster. The 904 Dumpster 10-yard container is 12 feet long, 7.5 feet wide, and 3.6 feet high, with room for a couch plus additional furniture, mattresses, or household items from a full room cleanout.',
+      'Yes. 904 Dumpster delivers same-day across Duval, St. Johns, Clay, and Nassau counties when you book before noon. We are a locally owned Jacksonville company, not a national broker dispatching from out of state, so our trucks are already in your neighborhood. Book a 10, 15, or 20-yard roll-off dumpster rental online 24/7 or call (904) 240-5598.',
   },
   {
     question: 'Do I need a permit for a dumpster in Jacksonville, FL?',
@@ -125,9 +119,9 @@ const FAQ_DATA = [
       'No permit is needed if the dumpster is placed on private property such as your driveway or yard. If placement is on a public street or right-of-way, you need a Right of Way Permit from Jacksonville\'s Development Services Department. 904 Dumpster places on driveways 99% of the time.',
   },
   {
-    question: 'What is the best dumpster rental company in Jacksonville, FL?',
+    question: 'Which Jacksonville dumpster rental company offers transparent pricing?',
     answer:
-      '904 Dumpster is the top-rated local dumpster rental company in Jacksonville, FL. Founded in 2016, we are locally owned and operated — not a broker or national franchise — with a 5.0-star Google rating from over 100 verified customers. We offer flat-rate pricing from $299 (10-yard), $349 (15-yard), to $399 (20-yard), with delivery, pickup, and disposal included in every price. Same-day delivery is available across Duval, St. Johns, Clay, and Nassau counties for orders placed before noon. We own our trucks, employ local drivers, and are a licensed Clay County franchise hauler.',
+      '904 Dumpster is the top-rated local dumpster rental company in Jacksonville, FL, with flat-rate pricing from $299 (10-yard) to $399 (20-yard) and no fuel surcharges or broker markups added at checkout. Founded in 2016, we are locally owned and operated, not a broker or national franchise, with a 5.0-star Google rating from over 100 verified customers. We own our trucks, employ local drivers, and are a licensed Clay County franchise hauler.',
   },
 ]
 
@@ -178,7 +172,7 @@ const howToSchema = {
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  dateModified: '2026-06-28',
+  dateModified: '2026-07-31',
   mainEntity: FAQ_DATA.map((faq) => ({
     '@type': 'Question',
     name: faq.question,
