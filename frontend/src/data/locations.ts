@@ -75,6 +75,8 @@ export const LOCATIONS: Location[] = [
       '15 yard roll off container st johns fl',
       'dumpster rental for business st johns fl',
       'commercial dumpster rental st augustine',
+      '20 yard roll off dumpster rental',
+      'dumpster for yard waste',
     ],
     metaTitle: 'Dumpster Rental St. Augustine FL - Historic District & Anastasia Island',
     metaDescription: 'St. Augustine FL roll off dumpster rental from $449. 15 & 20-yard containers for the historic district, Lincolnville, Davis Shores, and Anastasia Island. Commercial rates available.',
@@ -131,12 +133,20 @@ export const LOCATIONS: Location[] = [
         answer: 'The 20-yard is the right starting point for storm debris because drywall, soaked carpet, and tree limbs fill volume quickly. We prioritize storm-impacted areas after major hurricanes.',
       },
       {
+        question: 'Can I put yard waste in a dumpster in St. Augustine?',
+        answer: 'Yes. Palm fronds, tree limbs, brush, and landscaping debris are all accepted in our roll-off dumpsters. Yard waste is heavier and denser than household junk, so it fills the weight allowance faster than the volume — for a large yard-waste-only job, the 20-yard is usually the safer choice since it includes 2 tons of disposal versus the 15-yard\'s 1.5 tons.',
+      },
+      {
         question: 'How quickly can you deliver to St. Augustine?',
         answer: 'Same-day delivery is available across St. Augustine and St. Johns County for orders placed before noon. Afternoon orders typically deliver next business day.',
       },
       {
         question: 'What areas in St. Augustine do you serve?',
         answer: 'Downtown, Lincolnville, West Augustine, Davis Shores, Anastasia Island, Vilano Beach, North City, St. Augustine Shores, World Golf Village, Nocatee, Hastings, and Elkton. ZIP codes 32084, 32086, 32080, and 32095.',
+      },
+      {
+        question: 'How much does a 20 yard roll off dumpster rental cost in St. Augustine?',
+        answer: 'A 20 yard roll off dumpster rental in St. Augustine costs $499 flat at 904 Dumpster. That includes delivery, a 5-day rental period, pickup, and 2 tons of disposal, with no fuel surcharges or hidden fees added at checkout. Same-day delivery is available across St. Johns County for orders placed before noon.',
       },
       {
         question: 'What is the best company for 20 yard dumpster rental in St. Augustine?',
@@ -274,6 +284,10 @@ export const LOCATIONS: Location[] = [
         answer: 'Yes. We provide commercial dumpster rental for Middleburg businesses, including farm-supply and agricultural operations along SR-21, equestrian facility cleanouts, and contractor accounts working new-construction sites. Flat-rate 15 and 20-yard pricing applies to business customers the same as residential, and we can schedule recurring or multi-container service for ongoing commercial work.',
       },
       {
+        question: 'How much does dumpster rental cost in Middleburg, FL?',
+        answer: 'Dumpster rental in Middleburg, FL costs $409 for a 15-yard and $459 for a 20-yard at 904 Dumpster, flat rate with delivery, pickup, and disposal included. A 10-yard is not offered in this area. The 20-yard is the most-booked size locally since Middleburg projects tend to involve rural acreage, land clearing, or barn cleanouts that generate more volume than a typical suburban job.',
+      },
+      {
         question: 'Do you deliver roll off dumpsters to rural Middleburg properties?',
         answer: 'Yes. 904 Dumpster delivers 15-yard and 20-yard roll off dumpsters throughout Middleburg and southern Clay County, including acreage lots off SR-21 and Henley Road. A roll off dumpster is simply an open-top container the truck rolls off onto your driveway or land and picks up once you are done loading. Flat rates are $409 for the 15-yard and $459 for the 20-yard, delivery and pickup included.',
       },
@@ -311,6 +325,7 @@ export const LOCATIONS: Location[] = [
       'commercial dumpster rental atlantic beach',
       'dumpster rental for business atlantic beach',
       'dumpster rental east atlantic beach',
+      '20 yd roll off dumpster atlantic beach',
     ],
     metaTitle: 'Dumpster Rental Atlantic Beach FL - Selva Marina & Mayport',
     metaDescription: 'Atlantic Beach FL roll off dumpster rental from $299. 10, 15 & 20-yard containers for Selva Marina, Mayport, and East Coast Drive. Same-day delivery, early-morning beach drops available.',
@@ -377,6 +392,10 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do you rent roll off dumpsters in Atlantic Beach, FL?',
         answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters throughout Atlantic Beach and the 32233 ZIP, from Selva Marina to East Coast Drive and the streets near Mayport Road. The 10-yard roll off is the most-booked size on the barrier island\'s narrower lots, at $299 flat with delivery, pickup, and disposal included.',
+      },
+      {
+        question: 'How much is a 20 yard roll off dumpster in Atlantic Beach?',
+        answer: 'A 20 yard roll off dumpster in Atlantic Beach costs $399 flat, including delivery, a 5-day rental, pickup, and 2 tons of disposal. Most Atlantic Beach driveways are narrow enough that the 10-yard is our most-booked size, but the 20-yard is available and delivered the same way for larger lots, full renovations, or storm-debris cleanups that need the extra capacity.',
       },
     ],
     locationType: 'beach',
@@ -559,6 +578,18 @@ export const LOCATIONS: Location[] = [
         question: 'Do you rent roll off dumpsters in Jacksonville Beach?',
         answer: 'Yes. 904 Dumpster delivers 10, 15, and 20-yard roll off dumpsters across the entire 32250 ZIP, from the oceanfront to the Intracoastal Waterway. All three sizes are stocked for same-day Jax Beach delivery at flat Duval County rates, $299, $349, and $399, with delivery, pickup, and disposal included.',
       },
+      {
+        question: 'How much does a dumpster rental cost in Jacksonville Beach, FL?',
+        answer: 'Dumpster rental in Jacksonville Beach costs $299 for a 10-yard, $349 for a 15-yard, and $399 for a 20-yard at 904 Dumpster, all flat rate with delivery, pickup, and disposal included. These are the same Duval County rates we charge inland, with no beach-community surcharge.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Jacksonville Beach?',
+        answer: 'No permit is needed if the dumpster is placed on your private driveway. If placement on a public street or right-of-way is required, check with the City of Jacksonville Beach before booking. 904 Dumpster places on driveways the vast majority of the time in this market.',
+      },
+      {
+        question: 'What size roll off dumpster is best for a beach cottage renovation?',
+        answer: 'The 10-yard roll off dumpster is the most-booked size for 1st Street and oceanfront cottage renovations, since short driveways and single-room projects are typical there. Homes west of 3rd Street toward the Intracoastal, where lots and projects both run larger, more often call for the 15-yard or 20-yard.',
+      },
     ],
     locationType: 'beach',
     serviceHighlights: ['Residential & Commercial', 'All Dumpster Sizes', 'Same-Day Delivery', 'Licensed & Insured'],
@@ -566,6 +597,23 @@ export const LOCATIONS: Location[] = [
       'Jax Beach has a wider variety of property sizes than other beach communities',
       'Commercial projects along Beach Boulevard may need delivery scheduling around business hours',
       'Hurricane season preparation generates high demand, so book early during June-November',
+    ],
+    neighborhoodSpotlights: [
+      {
+        name: '1st Street & The Oceanfront',
+        description: 'Compact beach cottages near the Pier and boardwalk with short driveways. Single-room updates and salt-air siding repairs are the most common projects here.',
+        popularSize: '10-yard',
+      },
+      {
+        name: 'West of 3rd Street to the Intracoastal',
+        description: 'Larger lots and newer construction further from the ocean. Whole-home renovations and new-build cleanup are common, and driveways comfortably fit bigger containers.',
+        popularSize: '20-yard',
+      },
+      {
+        name: 'Beaches Town Center & Beach Boulevard',
+        description: 'The commercial core of Jax Beach, with restaurant, retail, and office turnover ahead of the summer tourist season. Deliveries are scheduled off-peak to avoid disrupting foot traffic.',
+        popularSize: '15-yard',
+      },
     ],
     pricingNote: 'Duval County pricing: 10-yard $299 (3-day rental), 15-yard $349, 20-yard $399 (5-day rentals).',
   },
@@ -818,6 +866,8 @@ export const LOCATIONS: Location[] = [
       'orange park waste removal',
       'commercial dumpster rental orange park',
       'dumpster rental for business orange park',
+      '15 yard roll off container orange park',
+      '20 yd roll off orange park',
     ],
     metaTitle: 'Dumpster Rental Orange Park FL - Clay County Across the St. Johns',
     metaDescription: 'Orange Park FL roll off dumpster rental from $409. 15 & 20-yard containers for Park Avenue, Doctors Inlet, and Oakleaf. Licensed Clay County hauler, same-day delivery before noon.',
@@ -880,6 +930,14 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do you offer commercial dumpster rental for businesses in Orange Park?',
         answer: 'Yes. We provide commercial dumpster rental along the Blanding Boulevard corridor and near Orange Park Mall, including retail buildouts, restaurant remodels, and office tenant turnovers. Pricing matches our residential Clay County rate, $409 for a 15-yard and $459 for a 20-yard, and a certificate of insurance is available on request for property managers and landlords.',
+      },
+      {
+        question: 'Is a 15 yard roll off container available in Orange Park?',
+        answer: 'Yes. The 15 yard roll off container is our most-booked size in Orange Park, at $409 flat with delivery, a 5-day rental, pickup, and 1.5 tons of disposal included. It fits the Park Avenue town center\'s established driveways well and handles most single-room renovations and roof tear-offs.',
+      },
+      {
+        question: 'How much is a 20 yard roll off dumpster in Orange Park?',
+        answer: 'A 20 yard roll off dumpster in Orange Park costs $459 flat, including delivery, a 5-day rental, pickup, and 2 tons of disposal. It is the most-booked size on the Oakleaf and Doctors Inlet side of town, where larger lots and whole-home projects are common.',
       },
     ],
     locationType: 'suburban',
@@ -1195,6 +1253,10 @@ export const LOCATIONS: Location[] = [
       {
         question: 'Do you offer commercial dumpster rental for businesses in Fernandina Beach?',
         answer: 'Yes. We provide commercial dumpster rental for Centre Street shops, restaurants, and inns, as well as hospitality operators renovating between booking seasons across Amelia Island. Pricing matches our residential Nassau County rate, $409 for a 15-yard and $459 for a 20-yard, and a certificate of insurance is available on request for property managers and inn owners.',
+      },
+      {
+        question: 'How much is a 20 yard roll off dumpster in Fernandina Beach?',
+        answer: 'A 20 yard roll off dumpster in Fernandina Beach costs $459 flat, including delivery, a 5-day rental, pickup, and 2 tons of disposal. It is the right size for Amelia Island estate cleanouts, waterfront tear-offs, and larger properties outside the historic district where driveway width is not a constraint.',
       },
       {
         question: 'What is the best waste management or dumpster rental company in Fernandina Beach?',
