@@ -34,6 +34,9 @@ const SITEMAP = {
     links: [
       { label: 'Jacksonville, FL', href: '/' },
       { label: 'Arlington, FL', href: '/dumpster-rental-arlington-fl' },
+      { label: 'Riverside-Avondale, FL', href: '/dumpster-rental-riverside-avondale-fl' },
+      { label: 'San Marco, FL', href: '/dumpster-rental-san-marco-fl' },
+      { label: 'Mandarin, FL', href: '/dumpster-rental-mandarin-fl' },
       { label: 'St. Augustine, FL', href: '/dumpster-rental-st-augustine-fl' },
       { label: 'Ponte Vedra Beach, FL', href: '/dumpster-rental-ponte-vedra-fl' },
       { label: 'Jacksonville Beach, FL', href: '/dumpster-rental-jacksonville-beach-fl' },

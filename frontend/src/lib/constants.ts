@@ -88,6 +88,10 @@ export const LOCATIONS_JAX_CORE = [
   { label: 'Jacksonville Beach, FL', href: '/dumpster-rental-jacksonville-beach-fl' },
   { label: 'Atlantic Beach, FL', href: '/dumpster-rental-atlantic-beach-fl' },
   { label: 'Neptune Beach, FL', href: '/dumpster-rental-neptune-beach-fl' },
+  { label: 'Arlington, FL', href: '/dumpster-rental-arlington-fl' },
+  { label: 'Riverside-Avondale, FL', href: '/dumpster-rental-riverside-avondale-fl' },
+  { label: 'San Marco, FL', href: '/dumpster-rental-san-marco-fl' },
+  { label: 'Mandarin, FL', href: '/dumpster-rental-mandarin-fl' },
 ] as const
 
 // St. Johns & South
@@ -103,6 +107,7 @@ export const LOCATIONS_CLAY_NASSAU = [
   { label: 'Green Cove Springs, FL', href: '/dumpster-rental-green-cove-springs-fl' },
   { label: 'Middleburg, FL', href: '/dumpster-rental-middleburg-fl' },
   { label: 'Fernandina Beach, FL', href: '/dumpster-rental-fernandina-beach-fl' },
+  { label: 'Hilliard, FL', href: '/dumpster-rental-hilliard-fl' },
 ] as const
 
 // =============================================================================

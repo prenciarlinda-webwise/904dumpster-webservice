@@ -27,7 +27,7 @@ import BookingTrigger from '@/components/BookingTrigger'
 
 // Homepage-specific metadata (overrides layout.tsx default)
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Jacksonville - Same Day Dumpster - 904 Dumpster',
+  title: 'Dumpster Rental Jacksonville, FL - Same Day Dumpster - 904 Dumpster',
   description:
     'Same-day roll-off dumpster rental in Jacksonville, FL. 10-20 yard sizes, delivery and disposal included. Locally owned since 2016. Book online.',
   openGraph: {
@@ -857,7 +857,7 @@ export default function HomePage() {
                 How Dumpster Rental Works
               </h2>
               <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-                Renting a roll-off dumpster in Jacksonville is straightforward. Here&apos;s what to expect from start to finish.
+                Our roll-off dumpster rental service in Jacksonville is straightforward from booking to pickup. Here&apos;s what to expect from start to finish.
               </p>
             </div>
 
