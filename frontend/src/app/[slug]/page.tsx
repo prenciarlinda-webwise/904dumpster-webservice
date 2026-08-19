@@ -354,10 +354,10 @@ function DumpsterSizePage({
               <nav className="flex items-center gap-2 text-white/60 text-sm mb-6">
                 <Link href="/" className="hover:text-white" title="904 Dumpster Home">Dumpster Rental Jacksonville</Link>
                 <span>/</span>
-                <span className="text-white">{size} Yard Dumpster</span>
+                <span className="text-white">{size} Yard Roll-Off Dumpster</span>
               </nav>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-3">
-                {size} Yard <span className="text-primary">Dumpster Rental</span>
+                {size} Yard <span className="text-primary">Roll-Off Dumpster Rental</span>
               </h1>
               <p className="text-sm text-white/50 uppercase tracking-wider mb-6">
                 Roll-off container rental in Jacksonville, FL &bull; from ${dumpster.basePrice}

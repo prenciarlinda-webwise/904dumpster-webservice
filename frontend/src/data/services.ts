@@ -50,8 +50,8 @@ export const SERVICES: ServicePage[] = [
   {
     slug: '10-yard-dumpster-rental',
     type: 'dumpster-size',
-    title: '10 Yard Dumpster Rental',
-    metaTitle: '10 Yard Dumpster Rental Jacksonville FL - $299',
+    title: '10 Yard Roll-Off Dumpster Rental',
+    metaTitle: '10 Yard Roll-Off Dumpster Rental Jacksonville FL - $299',
     metaDescription: '10 yard dumpster rental from $299. 12 ft x 7.5 ft x 3.6 ft roll-off container, 1 ton disposal included, holds 3 pickup truck loads. Free delivery, pickup, and same-day service.',
     keywords: [
       '10 yard dumpster',
@@ -140,8 +140,8 @@ export const SERVICES: ServicePage[] = [
   {
     slug: '15-yard-dumpster-rental',
     type: 'dumpster-size',
-    title: '15 Yard Dumpster Rental',
-    metaTitle: '15 Yard Dumpster Rental Jacksonville FL - $349',
+    title: '15 Yard Roll-Off Dumpster Rental',
+    metaTitle: '15 Yard Roll-Off Dumpster Rental Jacksonville FL - $349',
     metaDescription: '15 yard dumpster rental in Jacksonville FL from $349. 14 x 7.5 x 4.5 ft roll-off, 1.5-ton disposal, fits 25-30 squares of shingles. Book online today.',
     quickAnswer: 'A 15 yard dumpster rental in Jacksonville costs $349 flat at 904 Dumpster. The roll-off measures 14 feet long, 7.5 feet wide, and 4.5 feet tall, holds 15 cubic yards (5 to 6 pickup truck loads), and includes 1.5 tons of disposal and a 5-day rental.\n\nThis is our most-rented size for roofing tear-offs (25 to 30 squares of shingles), kitchen remodels, and mid-size cleanouts.',
     bodyContentTitle: '15 Yard Dumpster Rental in Jacksonville FL',
@@ -235,8 +235,8 @@ export const SERVICES: ServicePage[] = [
   {
     slug: '20-yard-dumpster-rental',
     type: 'dumpster-size',
-    title: '20 Yard Dumpster Rental',
-    metaTitle: '20 Yard Dumpster Rental Jacksonville FL - $399',
+    title: '20 Yard Roll-Off Dumpster Rental',
+    metaTitle: '20 Yard Roll-Off Dumpster Rental Jacksonville FL - $399',
     metaDescription: '20 yard dumpster rental in Jacksonville FL from $399. 14 x 7.5 x 5.8 ft roll-off, 2-ton disposal included, holds 7 pickup loads. Free delivery, book online.',
     quickAnswer: 'A 20 yard dumpster rental in Jacksonville costs $399 flat at 904 Dumpster. The roll-off measures 14 feet long, 7.5 feet wide, and 5.8 feet tall, holds 20 cubic yards (about 7 pickup truck loads), and includes 2 tons of disposal and a 5-day rental.\n\nSame-day delivery is available across Duval, St. Johns, Clay, and Nassau counties when booked before 10 AM. The 20-yard suits whole-house cleanouts, large roof tear-offs, and multi-room renovations.',
     bodyContentTitle: '20 Yard Dumpster Rental in Jacksonville FL',
@@ -864,6 +864,36 @@ export const SERVICES: ServicePage[] = [
       'Landscaping Debris',
       'Pool Deck Removal',
       'Sidewalk Replacement',
+    ],
+    faqs: [
+      {
+        question: 'How much does a concrete disposal dumpster cost in Jacksonville?',
+        answer: 'A concrete disposal dumpster in Jacksonville starts at $350, which includes delivery, pickup, a 5-day rental period, and up to 2 tons of concrete. Overage above the included weight allowance is billed at $75 per additional ton.',
+      },
+      {
+        question: 'How much concrete can I put in a dumpster?',
+        answer: 'Follow the half-fill rule: load a concrete-only dumpster no more than halfway by visual height. A 10-yard concrete roll-off at half-fill holds about 5 cubic yards (roughly 10 tons), and a 15-yard holds about 7.5 cubic yards (15 tons). The weight limit, not the visual volume, is what determines how full you can safely load it.',
+      },
+      {
+        question: 'Does concrete get recycled or does it go to the landfill?',
+        answer: 'Clean concrete loads get routed to local recycling crushers and reground into road base and aggregate rather than going to Trail Ridge Landfill. For a load to qualify, it needs to be pure concrete, brick, masonry, or stone (rebar is fine) — mixing in drywall, wood, or other debris contaminates the load and disqualifies it from recycling.',
+      },
+      {
+        question: 'Can I mix concrete with other renovation debris in the same dumpster?',
+        answer: 'You can, but a standard mixed-debris dumpster will hit its weight limit much faster once concrete is involved, since one cubic yard of concrete weighs 10 to 20 times more than a cubic yard of typical renovation debris. If concrete makes up more than about half your load by weight, call before booking so we can size a concrete-only container correctly instead.',
+      },
+      {
+        question: 'What size dumpster do I need for a driveway removal?',
+        answer: 'A typical two-car residential driveway generates 8 to 12 cubic yards of concrete by weight, which usually calls for a concrete-only container sized and half-filled specifically for that tonnage rather than a standard 15 or 20-yard mixed-debris dumpster. Call us with your driveway dimensions and we will size it accurately.',
+      },
+      {
+        question: 'Do you accept brick, dirt, and stone in a concrete dumpster?',
+        answer: 'Yes. Our concrete disposal dumpster accepts concrete, brick, masonry, stone, and dirt as clean heavy-material loads. Keeping these separate from general renovation debris is what makes the load eligible for recycling instead of landfill disposal.',
+      },
+      {
+        question: 'How fast can I get a concrete dumpster delivered in Jacksonville?',
+        answer: 'Same-day delivery is available across Jacksonville and Duval County for orders placed before noon, with afternoon orders typically delivering the next business day. For multi-day projects like a pool removal, we offer same-day swaps so a full container does not stall the job.',
+      },
     ],
     pricing: {
       startingAt: '$350',
