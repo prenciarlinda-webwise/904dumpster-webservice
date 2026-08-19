@@ -80,7 +80,7 @@ export default function PricingPage() {
   const pricingFaqs = [
     {
       q: 'How much does it cost to rent a dumpster in Jacksonville FL?',
-      a: 'A dumpster rental in Jacksonville costs $299 for a 10-yard, $349 for a 15-yard, or $399 for a 20-yard at 904 Dumpster. Each price is flat-rate and includes delivery, pickup, a 5-day rental period, and disposal of the included tonnage (1 ton, 1.5 tons, and 2 tons respectively).',
+      a: 'The 10-yard is $299 with a 3-day rental and 1 ton of disposal included. The 15-yard is $349 with a 5-day rental and 1.5 tons included. The 20-yard is $399 with a 5-day rental and 2 tons included. All three are flat-rate with delivery and pickup built in — the only things ever added afterward are weight overage ($75/ton past the included allowance) or a rental extension ($15/day) if you ask for one.',
     },
     {
       q: 'Are there hidden fees in 904 Dumpster pricing?',
@@ -147,9 +147,7 @@ export default function PricingPage() {
             Dumpster Rental <span className="text-primary">Pricing</span>
           </h1>
           <p className="text-xl text-white/70 max-w-2xl mx-auto">
-            Transparent, all-inclusive <Link href="/" className="text-white underline decoration-primary/60 hover:decoration-primary">dumpster rental Jacksonville FL</Link>{' '}pricing with no hidden fees. Same flat rates for{' '}
-            <Link href="/dumpster-rental-jacksonville-beach-fl" className="text-white/90 hover:text-white underline decoration-white/30">Jacksonville Beach</Link>,{' '}
-            <Link href="/dumpster-rental-st-augustine-fl" className="text-white/90 hover:text-white underline decoration-white/30">St. Augustine</Link>, and all Northeast Florida locations. See exactly what you will pay before you book.
+            Transparent, all-inclusive <Link href="/" className="text-white underline decoration-primary/60 hover:decoration-primary">dumpster rental Jacksonville FL</Link>{' '}pricing with no hidden fees. See exactly what you will pay before you book, size by size.
           </p>
         </div>
       </section>
@@ -334,7 +332,7 @@ export default function PricingPage() {
               When you compare quotes for <strong>dumpster rental in Jacksonville</strong>, the price you are quoted is rarely the price you pay. Common add-ons that brokers and out-of-town haulers tack on at booking or invoicing include: fuel surcharges ($25 to $50), environmental or admin fees ($15 to $40), driveway protection (sometimes $40 to $75 if not standard), and trip charges if the truck cannot place the container on the first attempt. Our flat rate folds delivery, the rental period, pickup, and disposal into a single number, with weight overage and rental extensions only billed when actually used.
             </p>
             <p>
-              Different parts of the metro area have different price baselines. Pricing in <Link href="/dumpster-rental-st-augustine-fl" className="text-primary hover:underline" title="Dumpster Rental St. Augustine FL">St. Augustine</Link>{' '}and <Link href="/dumpster-rental-fernandina-beach-fl" className="text-primary hover:underline" title="Dumpster Rental Fernandina Beach FL">Fernandina Beach</Link>{' '}runs higher because of the longer drive from our Jacksonville yard, while Clay County deliveries to <Link href="/dumpster-rental-orange-park-fl" className="text-primary hover:underline" title="Dumpster Rental Orange Park FL">Orange Park</Link>, <Link href="/dumpster-rental-fleming-island-fl" className="text-primary hover:underline" title="Dumpster Rental Fleming Island FL">Fleming Island</Link>, and <Link href="/dumpster-rental-middleburg-fl" className="text-primary hover:underline" title="Dumpster Rental Middleburg FL">Middleburg</Link>{' '}match Jacksonville-core rates because we run those routes daily. For the <Link href="/" className="text-primary hover:underline" title="Dumpster Rental Jacksonville FL Homepage">Jacksonville-area homepage</Link>, current pricing, and our service-area map, see the rate cards above or call us for an exact quote tailored to your project and ZIP code.
+              These rates apply to Jacksonville and the rest of Duval County. Pricing runs slightly higher in St. Johns, Clay, and Nassau counties because of the longer drive from our Jacksonville yard — see your <Link href="/locations" className="text-primary hover:underline" title="Service Areas">specific service area</Link> for exact local rates, or call us for a quote tailored to your project and ZIP code.
             </p>
           </div>
         </div>
