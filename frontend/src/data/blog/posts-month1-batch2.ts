@@ -96,7 +96,7 @@ If you are cleaning out a garage in the surrounding areas like [St. Augustine](/
 
 ## What Cannot Go in a Dumpster During Your Garage Cleanout
 
-This is critical information that many homeowners overlook. Certain items commonly found in garages are prohibited from roll-off dumpsters due to environmental and safety regulations. Before you start tossing things, review our full guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+This is critical information that many homeowners overlook. Certain items commonly found in garages are prohibited from roll-off dumpsters due to environmental and safety regulations. Before you start tossing things, review our full guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 **Hazardous materials** are the most common garage items that require special disposal:
 
@@ -173,7 +173,7 @@ Our standard rental period is 5 days, which gives most homeowners plenty of time
 
 ### Do I need a permit for a dumpster in my driveway in Jacksonville?
 
-If the dumpster sits entirely on your private property, such as your driveway, no permit is required in Jacksonville. If you need to place the dumpster on a public street or right-of-way, you may need a permit from the City of Jacksonville. Read our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for complete details on permit requirements and how to apply.
+If the dumpster sits entirely on your private property, such as your driveway, no permit is required in Jacksonville. If you need to place the dumpster on a public street or right-of-way, you may need a permit from the City of Jacksonville. Read our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one) for complete details on permit requirements and how to apply.
 
 ### What is the best time of year for a garage cleanout in Jacksonville?
 
@@ -181,8 +181,8 @@ Late fall through early spring, roughly November through March, offers the most 
 
 ## Related Resources
 
-- [How to Choose the Right Dumpster Size for Your Project](/blog/how-to-choose-right-dumpster-size)
-- [What Cannot Go in a Dumpster: Prohibited Items Guide](/blog/what-cannot-go-in-dumpster)
+- [How to Choose the Right Dumpster Size for Your Project](/blog/dumpster-sizes-explained-complete-guide)
+- [What Cannot Go in a Dumpster: Prohibited Items Guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
 - [Complete Guide to Home Cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
 - [What Fits in a 10-Yard Dumpster: A Visual Guide](/blog/what-fits-in-10-yard-dumpster)
     `,
@@ -201,7 +201,7 @@ Late fall through early spring, roughly November through March, offers the most 
     featuredImage: '/images/dumpster-rental-ponte-vedra-beach-fl.jpg',
     tags: ['dumpster rental cost ponte vedra', 'ponte vedra dumpster prices', 'ponte vedra beach dumpster', 'nocatee dumpster rental', 'st johns county dumpster rental', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'dumpster prices'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-rental-cost-st-augustine-fl', 'dumpster-rental-cost-complete-pricing-guide', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['dumpster-rental-cost-st-augustine-fl', 'dumpster-rental-cost-complete-pricing-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Dumpster Rental Pricing in Ponte Vedra FL
 
@@ -340,7 +340,7 @@ Even with straightforward pricing, there are ways to get the most value from you
 | New construction debris | 15 or 20-yard | $409-$459 |
 | Landscaping overhaul | 15-yard | $409 |
 
-Still unsure which size fits your project? Our [guide to choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) covers dozens of project types with specific recommendations.
+Still unsure which size fits your project? Our [guide to choosing the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) covers dozens of project types with specific recommendations.
 
 ## Scheduling and Delivery in Ponte Vedra
 
@@ -390,7 +390,7 @@ Each dumpster size includes a specific weight allowance: 1.5 tons for the 15-yar
 ## Related Resources
 
 - [Dumpster Rental Cost in St. Augustine FL: Complete Pricing Guide](/blog/dumpster-rental-cost-st-augustine-fl)
-- [How to Choose the Right Dumpster Size for Your Project](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size for Your Project](/blog/dumpster-sizes-explained-complete-guide)
 - [Kitchen Renovation Debris Disposal Guide](/blog/kitchen-renovation-debris-disposal-guide)
 - [Dumpster Rental in Ponte Vedra FL](/dumpster-rental-ponte-vedra-fl)
     `,
@@ -548,7 +548,7 @@ For help choosing the right size, read our [complete dumpster size guide](/dumps
 
 ## What Yard Waste Cannot Go in a Dumpster?
 
-While most yard waste and landscaping debris is accepted in our dumpsters, there are a few important exceptions. For a complete list of prohibited items, check our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+While most yard waste and landscaping debris is accepted in our dumpsters, there are a few important exceptions. For a complete list of prohibited items, check our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 **Accepted yard waste includes:** branches, limbs, leaves, grass clippings, shrubs, hedge trimmings, palm fronds, small root balls, mulch, flower bed plants, weeds, and most organic landscaping materials.
 
@@ -619,8 +619,8 @@ Late fall through early spring, from November through March, is the ideal window
 
 ## Related Resources
 
-- [How to Choose the Right Dumpster Size for Your Project](/blog/how-to-choose-right-dumpster-size)
-- [What Cannot Go in a Dumpster: Prohibited Items Guide](/blog/what-cannot-go-in-dumpster)
+- [How to Choose the Right Dumpster Size for Your Project](/blog/dumpster-sizes-explained-complete-guide)
+- [What Cannot Go in a Dumpster: Prohibited Items Guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
 - [Spring Cleaning Checklist for Jacksonville Homeowners](/blog/spring-cleaning-decluttering-guide-jacksonville)
 - [Managing Roofing Project Waste in Jacksonville](/blog/roofing-project-waste-management)
     `,
@@ -700,7 +700,7 @@ The following materials cannot go in a dumpster and require separate disposal me
 - **Chemicals and solvents:** Paint thinners, adhesives, sealants, and other chemical products in liquid form are prohibited.
 - **Fuel and oil:** Any petroleum products must be disposed of through appropriate channels.
 
-Educate your crews on prohibited materials to avoid contamination issues. For detailed information, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Educate your crews on prohibited materials to avoid contamination issues. For detailed information, see our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## Dumpster Sizing for Construction Projects
 
@@ -847,13 +847,13 @@ Extensions are available at a daily rate. If your project timeline extends beyon
 
 ### Do you place dumpsters in the street if there is no room on the jobsite?
 
-Street placement is possible in some Jacksonville locations, depending on local regulations and traffic conditions. Dumpsters placed on public streets may require permits and must be marked with reflective tape or cones for safety. We can help you determine whether street placement is feasible for your specific jobsite and advise on any permit requirements per our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide).
+Street placement is possible in some Jacksonville locations, depending on local regulations and traffic conditions. Dumpsters placed on public streets may require permits and must be marked with reflective tape or cones for safety. We can help you determine whether street placement is feasible for your specific jobsite and advise on any permit requirements per our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one).
 
 ## Related Resources
 
 - [Construction Dumpster Rental in Jacksonville](/construction-dumpster-rental-jacksonville-fl)
 - [Managing Roofing Project Waste in Northeast Florida](/blog/roofing-project-waste-management)
-- [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
+- [What Cannot Go in a Dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
 - [Concrete Disposal Dumpster Service](/concrete-disposal-dumpster-jacksonville-fl)
     `,
   },
@@ -974,7 +974,7 @@ While our pricing is already flat-rate and competitive, these tips help Atlantic
 
 **Break items down before loading.** Disassemble furniture, cut lumber into shorter pieces, and flatten boxes. This reduces wasted space inside the container and may allow you to use a smaller, less expensive dumpster.
 
-**Know what goes in and what does not.** Placing prohibited items in the dumpster can result in additional disposal fees. Review our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) before you start loading.
+**Know what goes in and what does not.** Placing prohibited items in the dumpster can result in additional disposal fees. Review our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) before you start loading.
 
 **Schedule in advance when possible.** While we offer same-day delivery, scheduling a few days ahead ensures you get your preferred delivery time and avoids any rush charges during peak periods.
 
@@ -986,7 +986,7 @@ Permit requirements for dumpster placement depend on where the container will si
 
 **On a public street or right-of-way:** If you need to place the dumpster on a public street because your driveway cannot accommodate it, you may need to check with the City of Atlantic Beach regarding any permit or notification requirements. Street placement also requires the dumpster to be marked with reflective markers for visibility to motorists.
 
-For detailed permit information covering the Jacksonville Beaches area and broader Duval County, read our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide).
+For detailed permit information covering the Jacksonville Beaches area and broader Duval County, read our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one).
 
 ## Atlantic Beach Dumpster Rental vs Other Options
 
@@ -1067,7 +1067,7 @@ Heavy materials are accepted in our dumpsters, but weight limits apply. The 10-y
 
 ## Related Resources
 
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Bathroom Renovation Waste Disposal Guide](/blog/bathroom-renovation-waste-disposal-guide)
 - [Dumpster Rental in Neptune Beach FL](/dumpster-rental-neptune-beach-fl)
 - [Dumpster Rental in Jacksonville Beach FL](/dumpster-rental-jacksonville-beach-fl)

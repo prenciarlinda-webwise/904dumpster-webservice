@@ -16,7 +16,7 @@ export const POSTS_26_TO_35: BlogPost[] = [
     featuredImage: '/images/roll-off-dumpster-rental.jpg',
     tags: ['roll off container rental', 'roll off dumpsters sizes', 'roll off dumpster rental', 'residential roll off', 'same day roll off dumpster', 'roll off trash dumpsters', 'rental trash containers', 'roll off dumpster size comparison', 'rent roll off dumpster', 'roll away dumpster sizes', 'walk in dumpster rental'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## Roll Off Dumpster Rental Explained
 
@@ -69,7 +69,7 @@ The right size depends on your project type and the volume of debris you expect.
 | Major renovation or addition | [20-yard](/20-yard-dumpster-rental) | Multiple material types generate high volume |
 | New construction | [20-yard](/20-yard-dumpster-rental) | Framing scraps, packaging, drywall cuts, and general debris |
 
-If you are unsure, our team can help you pick the right size. Read our guide on [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size) for a deeper walkthrough, or call us at **(904) 240-5598**.
+If you are unsure, our team can help you pick the right size. Read our guide on [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) for a deeper walkthrough, or call us at **(904) 240-5598**.
 
 ## How Roll Off Dumpster Rental Works
 
@@ -127,7 +127,7 @@ When the dumpster is delivered, ask the driver to position the door facing your 
 
 Most household and construction debris is accepted in a roll off dumpster. This includes furniture, appliances (with refrigerant removed), drywall, lumber, flooring, shingles, yard waste, and general household trash.
 
-Items that cannot go in a roll off dumpster include hazardous materials like paint, chemicals, batteries, propane tanks, motor oil, and tires. For a complete list, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Items that cannot go in a roll off dumpster include hazardous materials like paint, chemicals, batteries, propane tanks, motor oil, and tires. For a complete list, read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 If your project involves heavy materials like concrete, brick, or dirt, check out our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) option designed to handle the extra weight.
 
@@ -180,7 +180,7 @@ A roll off dumpster is an open-top container delivered on a flatbed truck for te
     featuredImage: '/images/dumpster-rental-roofing-jacksonville.jpg',
     tags: ['dumpster for roofing materials', 'roof dumpster rental', 'what size dumpster for roof tear off', 'dumpster size for roof tear off', 'shingle dumpster', 'shingle dumpster calculator', 'roofing waste disposal', 'roof replacement preparation'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Prepare for a Roof Replacement and Plan Debris
 
@@ -301,7 +301,7 @@ As close as possible. The roofing crew will toss debris directly from the roof i
 
 ### Can I put other debris in the roofing dumpster?
 
-Yes, as long as the additional items are acceptable dumpster materials. However, mixing shingles with other debris means the load cannot go to a shingle recycling facility. If you want to maximize recycling, keep roofing materials separate. See our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) for the full list of prohibited items.
+Yes, as long as the additional items are acceptable dumpster materials. However, mixing shingles with other debris means the load cannot go to a shingle recycling facility. If you want to maximize recycling, keep roofing materials separate. See our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for the full list of prohibited items.
 `,
   },
   // Post 28
@@ -318,7 +318,7 @@ Yes, as long as the additional items are acceptable dumpster materials. However,
     featuredImage: '/images/dumpsters-rent-florida.jpg',
     tags: ['yard waste disposal', 'where to dispose of yard waste', 'yard waste dumpster rental', 'lawn waste disposal', 'landscape waste disposal', 'yard clippings disposal', 'yard debris pickup', 'yard waste cleanup', 'landscape dumpster rental', 'garden waste skip', 'how to get rid of dirt from yard', 'yard waste in dumpster'],
     status: 'published' as const,
-    relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## Yard Waste and Landscaping Debris Disposal Guide
 
@@ -471,7 +471,7 @@ Yes, the City of Jacksonville activates storm debris pickup after major weather 
     featuredImage: '/images/dumpster-service-jacksonville-fl.jpg',
     tags: ['cost to remove concrete driveway', 'cost to remove concrete slab', 'asphalt driveway removal cost', 'cost to remove asphalt driveway', 'how much to remove concrete driveway', 'how much does it cost to remove concrete driveway', 'concrete sidewalk replacement', 'concrete disposal dumpster'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Concrete Driveway Removal Cost, Planning, and Disposal
 
@@ -616,11 +616,11 @@ You may need a permit for driveway removal and replacement in Duval County. The 
     featuredImage: '/images/dumpsters-near-me.jpg',
     tags: ['bulk tire disposal', 'who takes old tires for free', 'how to get rid of old tires for free', 'where to recycle tires', 'where can i take old tires for free', 'dispose of tires for free', 'where to take old tires for free', 'where to take used tires', 'tire disposal jacksonville'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Where to Dispose of Old Tires in Jacksonville FL
 
-Whether you have a few tires from a recent vehicle change, a pile left behind by a previous property owner, or a bulk tire disposal need from a commercial operation, [getting rid of old tires in Jacksonville](/) requires knowing your options. Tires cannot go in your regular trash pickup, and they are one of the items that [cannot go in a standard dumpster](/blog/what-cannot-go-in-dumpster). Florida law prohibits disposing of whole tires in landfills, so they need to be recycled or processed through approved facilities. The good news is that Jacksonville has several options for tire disposal, including some that are free.
+Whether you have a few tires from a recent vehicle change, a pile left behind by a previous property owner, or a bulk tire disposal need from a commercial operation, [getting rid of old tires in Jacksonville](/) requires knowing your options. Tires cannot go in your regular trash pickup, and they are one of the items that [cannot go in a standard dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules). Florida law prohibits disposing of whole tires in landfills, so they need to be recycled or processed through approved facilities. The good news is that Jacksonville has several options for tire disposal, including some that are free.
 
 At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -683,7 +683,7 @@ For the rest of your project debris, a [residential dumpster rental](/residentia
 
 | | | |
 |---|---|---|
-| [**Estate Cleanout Guide** - Room-by-room process for clearing a property](/blog/estate-cleanout-guide-jacksonville) | [**Garage Cleanout Guide** - Declutter your garage efficiently](/blog/garage-cleanout-guide-jacksonville) | [**What Can't Go in a Dumpster** - Full list of prohibited items](/blog/what-cannot-go-in-dumpster) |
+| [**Estate Cleanout Guide** - Room-by-room process for clearing a property](/blog/estate-cleanout-guide-jacksonville) | [**Garage Cleanout Guide** - Declutter your garage efficiently](/blog/garage-cleanout-guide-jacksonville) | [**What Can't Go in a Dumpster** - Full list of prohibited items](/blog/what-can-and-cannot-go-in-a-dumpster-rules) |
 
 ## Tire Repurposing and Donation
 
@@ -750,7 +750,7 @@ Recycled tires are processed into several products including crumb rubber for pl
     featuredImage: '/images/dumpster-rental-near.jpg',
     tags: ['where do you throw away electronics', 'e-waste disposal jacksonville', 'e waste recycling', 'things not to recycle', 'items that cannot be recycled', 'electronic waste disposal', 'computer recycling jacksonville', 'tv disposal jacksonville'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## How to Dispose of Electronics and E-Waste Responsibly
 
@@ -842,7 +842,7 @@ If you are doing a major cleanout in Jacksonville, rent a [residential dumpster]
 
 | | | |
 |---|---|---|
-| [**What Can't Go in a Dumpster** - Full prohibited items list](/blog/what-cannot-go-in-dumpster) | [**Estate Cleanout Guide** - Handle the full property cleanup](/blog/estate-cleanout-guide-jacksonville) | [**Recycling Guide** - Recycle construction materials](/blog/recycling-guide-jacksonville-construction-projects) |
+| [**What Can't Go in a Dumpster** - Full prohibited items list](/blog/what-can-and-cannot-go-in-a-dumpster-rules) | [**Estate Cleanout Guide** - Handle the full property cleanup](/blog/estate-cleanout-guide-jacksonville) | [**Recycling Guide** - Recycle construction materials](/blog/recycling-guide-jacksonville-construction-projects) |
 
 For your non-electronic cleanout debris, our dumpsters come in three sizes:
 
@@ -1026,7 +1026,7 @@ If the dumpster is on private property (the job site), no permit is typically re
 
 ### What construction materials cannot go in a dumpster?
 
-Hazardous materials like paint, solvents, chemical adhesives, asbestos-containing materials, and fuel are prohibited. Tires are also not accepted. For a complete list, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Hazardous materials like paint, solvents, chemical adhesives, asbestos-containing materials, and fuel are prohibited. Tires are also not accepted. For a complete list, see our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 `,
   },
   // Post 33
@@ -1043,7 +1043,7 @@ Hazardous materials like paint, solvents, chemical adhesives, asbestos-containin
     featuredImage: '/images/jacksonville-dumpsters.jpg',
     tags: ['demolition dumpster', 'demolition debris calculator', 'demolition dumpster calculator', 'demo bin', 'home deconstruction', 'gut house', 'gutted house', 'full gut rehab', 'studs out remodel', 'gutted building', 'gutted home'],
     status: 'published' as const,
-    relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Plan for Demolition Debris on Demo Projects
 
@@ -1157,7 +1157,7 @@ A demolition dumpster from 904 Dumpster costs $299-$399 depending on the contain
 
 ### What cannot go in a demolition dumpster?
 
-Hazardous materials including asbestos, lead paint debris (if not properly contained), chemical products, paint, batteries, tires, and propane tanks are prohibited. These materials require specialized disposal. For a full list, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Hazardous materials including asbestos, lead paint debris (if not properly contained), chemical products, paint, batteries, tires, and propane tanks are prohibited. These materials require specialized disposal. For a full list, see our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ### Do I need a permit for demolition in Jacksonville?
 
@@ -1182,7 +1182,7 @@ Demolition is the rapid mechanical teardown of a structure or space. Deconstruct
     featuredImage: '/images/dumpster-rental-near-me-jacksonville.jpg',
     tags: ['dog friendly backyards', 'dog friendly back yard', 'best yard for dogs', 'xeriscaping cost', 'xeriscape yard', 'xeriscaping ideas', 'xeriscape backyard', 'yard privacy ideas', 'driveway with border', 'backyard makeover waste'],
     status: 'published' as const,
-    relatedSlugs: ['yard-waste-disposal-guide-what-goes-where', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['yard-waste-disposal-guide-what-goes-where', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Dog-Friendly Backyard Makeover Waste Planning Guide
 
@@ -1317,7 +1317,7 @@ Yes. We deliver throughout Northeast Florida including [Jacksonville Beach](/dum
     featuredImage: '/images/rent-a-dumpster-jacksonville-fl.jpg',
     tags: ['aging in place renovations', 'aging in place remodeler', 'aging-in-place remodeling', 'handicap renovations', 'disability remodeling', 'bathroom remodel for cheap', 'in law suite', 'mother in law suite', 'building an in law suite', 'in law studio', 'in laws quarters'],
     status: 'published' as const,
-    relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['construction-dumpster-rental-contractors-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Aging in Place Home Renovations and Accessibility Remodeling
 
@@ -1384,7 +1384,7 @@ The right dumpster size for your aging in place renovation depends on the scope 
 | Major renovation or addition | Full in-law suite, multiple room overhaul | [20-yard dumpster](/20-yard-dumpster-rental) |
 | New construction (in-law suite addition) | Ground-up addition with site prep | [20-yard dumpster](/20-yard-dumpster-rental), may need multiple loads |
 
-For a detailed comparison of container options, visit our [dumpster size guide](/dumpster-size-guide) or read our guide on [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
+For a detailed comparison of container options, visit our [dumpster size guide](/dumpster-size-guide) or read our guide on [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide).
 
 ## Cost Considerations for Accessibility Remodeling Waste
 

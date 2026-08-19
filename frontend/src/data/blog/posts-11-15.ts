@@ -85,7 +85,7 @@ For most estate cleanouts in Jacksonville, a [15-yard dumpster](/15-yard-dumpste
 
 Most items from an estate cleanout can go in a roll-off dumpster. This includes old furniture, mattresses, clothing, broken appliances, general household trash, books, boxes, kitchenware, yard debris, and non-hazardous materials. If you are clearing out a garage or workshop, scrap wood, drywall, and general construction debris are all acceptable.
 
-However, some items cannot go in a dumpster. Hazardous materials like paint, chemicals, batteries, propane tanks, and motor oil require special disposal. Jacksonville residents can drop off hazardous waste at the [Household Hazardous Waste Facility](https://www.coj.net/departments/neighborhoods/solid-waste) on Ellis Road. For more details about prohibited items, check out our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+However, some items cannot go in a dumpster. Hazardous materials like paint, chemicals, batteries, propane tanks, and motor oil require special disposal. Jacksonville residents can drop off hazardous waste at the [Household Hazardous Waste Facility](https://www.coj.net/departments/neighborhoods/solid-waste) on Ellis Road. For more details about prohibited items, check out our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## Hiring Help for the Heavy Lifting
 
@@ -145,7 +145,7 @@ Plan for two to four weeks if you are working on it part-time with family help. 
 
 ### Do I need a permit for a dumpster during an estate cleanout in Jacksonville?
 
-No permit is needed if the dumpster is placed on private property like a driveway or yard. If the dumpster must go on a public street or right-of-way, a permit from the City of Jacksonville may be required. See our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for details.
+No permit is needed if the dumpster is placed on private property like a driveway or yard. If the dumpster must go on a public street or right-of-way, a permit from the City of Jacksonville may be required. See our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one) for details.
 
 ### What should I do with medications found during an estate cleanout?
 
@@ -159,7 +159,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
 
 - [Complete Guide to Home Cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
 - [Garage Cleanout Guide for Jacksonville Homeowners](/blog/garage-cleanout-guide-jacksonville)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Dumpster Rental Pricing in Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
   },
@@ -177,7 +177,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
     featuredImage: '/images/15-yard-dumpster.jpg',
     tags: ['construction recycling jacksonville', 'recyclable demolition materials', 'recycling guide jacksonville', 'construction waste recycling', 'how to dispose of grease', 'tree debris removal'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'yard-waste-landscaping-debris-disposal-northeast-florida'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'yard-waste-landscaping-debris-disposal-northeast-florida'],
     content: `
 ## What You Can Actually Recycle from Your Jacksonville Project
 
@@ -285,7 +285,7 @@ Not everything from a construction project is recyclable. These materials typica
 - **Painted or treated wood** - Chemical contamination prevents standard wood recycling
 - **Mixed debris loads** - Once materials are co-mingled, sorting becomes impractical
 
-For a complete list of items that cannot go in a dumpster, including hazardous materials, see our [prohibited items guide](/blog/what-cannot-go-in-dumpster).
+For a complete list of items that cannot go in a dumpster, including hazardous materials, see our [prohibited items guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## How Recycling Affects Your Dumpster Rental
 
@@ -332,7 +332,7 @@ We deliver all loads to licensed facilities that follow Florida DEP regulations 
 
 ## Related Resources
 
-- [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
+- [What Cannot Go in a Dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
 - [Yard Waste and Landscaping Debris Disposal in Northeast Florida](/blog/yard-waste-landscaping-debris-disposal-northeast-florida)
 - [Managing Roofing Project Waste](/blog/roofing-project-waste-management)
 - [Construction Dumpster Rental](/construction-dumpster-rental-jacksonville-fl)
@@ -439,7 +439,7 @@ Not sure which size to rent? Here is a practical guide based on common Fernandin
 | Estate or property cleanout | 15 or 20-yard | Depends on home size and volume of contents |
 | New construction cleanup | 20-yard | Lumber, drywall, packaging, concrete |
 
-For a detailed breakdown of what fits in each size, visit our [dumpster size guide](/dumpster-size-guide) or read our guide on [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
+For a detailed breakdown of what fits in each size, visit our [dumpster size guide](/dumpster-size-guide) or read our guide on [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide).
 
 ## Nassau County Delivery Areas
 
@@ -498,7 +498,7 @@ Every rental includes a 5-day rental period. If your project takes longer, you c
 
 ### What cannot go in a dumpster in Nassau County?
 
-Hazardous materials including paint, chemicals, batteries, propane tanks, tires, and motor oil cannot go in a dumpster. Electronics and appliances containing refrigerants like refrigerators and air conditioners also require special handling. For a complete list, see our [guide to prohibited dumpster items](/blog/what-cannot-go-in-dumpster).
+Hazardous materials including paint, chemicals, batteries, propane tanks, tires, and motor oil cannot go in a dumpster. Electronics and appliances containing refrigerants like refrigerators and air conditioners also require special handling. For a complete list, see our [guide to prohibited dumpster items](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ### Do I need a permit for a dumpster in Fernandina Beach?
 
@@ -508,7 +508,7 @@ No permit is needed if the dumpster is placed on your private property such as a
 
 - [Dumpster Rental Cost in Atlantic Beach](/blog/dumpster-rental-cost-atlantic-beach-fl)
 - [Dumpster Rental Cost in St. Augustine](/blog/dumpster-rental-cost-st-augustine-fl)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Dumpster Rental Pricing in Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
   },
@@ -526,7 +526,7 @@ No permit is needed if the dumpster is placed on your private property such as a
     featuredImage: '/images/20-yard-dumpster-driveway-delivery.jpg',
     tags: ['shed demolition jacksonville', 'deck removal dumpster', 'fence demolition diy', 'structure teardown guide', 'demolition dumpster rental', 'deck demolition', 'deck removal'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Tear Down a Shed, Deck, or Fence Yourself
 
@@ -542,7 +542,7 @@ In Jacksonville and Duval County, you generally do not need a permit to demolish
 - If you live in a historic district like [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Springfield, or [San Marco](/dumpster-rental-san-marco-fl), additional review may be required before removing visible structures.
 - HOA communities in [Mandarin](/dumpster-rental-mandarin-fl), the Southside, Nocatee, and [Fleming Island](/dumpster-rental-fleming-island-fl) often require architectural review approval before demolishing and rebuilding structures.
 
-When in doubt, call the City of Jacksonville Building Inspection Division at (904) 255-7800 or check our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for more details.
+When in doubt, call the City of Jacksonville Building Inspection Division at (904) 255-7800 or check our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one) for more details.
 
 ### Utility Check
 
@@ -712,9 +712,9 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
 
 ## Related Resources
 
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
-- [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
+- [What Cannot Go in a Dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
 - [Demolition Services in Jacksonville](/demolition-services-jacksonville-fl)
 `,
   },
@@ -733,7 +733,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['what fits in 15 yard dumpster', '15 yard dumpster capacity', '15 yard dumpster projects', 'kitchen remodel dumpster', 'roof tear-off dumpster', 'spring cleanout dumpster', '15 yard dumpster loading tips', 'mid-size dumpster projects'],
     status: 'published' as const,
-    relatedSlugs: ['what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['what-fits-in-10-yard-dumpster', 'dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What Actually Fits in a 15-Yard Dumpster
 
@@ -901,7 +901,7 @@ Every 15-yard rental from 904 Dumpster includes a 5-day rental period. If your s
 
 - [What Fits in a 10-Yard Dumpster](/blog/what-fits-in-10-yard-dumpster)
 - [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Spring Cleaning Decluttering Guide for Jacksonville](/blog/spring-cleaning-decluttering-guide-jacksonville)
 - [15-Yard Dumpster Rental](/15-yard-dumpster-rental)
 - [Dumpster Rental Pricing in Jacksonville](/dumpster-rental-pricing-jacksonville)

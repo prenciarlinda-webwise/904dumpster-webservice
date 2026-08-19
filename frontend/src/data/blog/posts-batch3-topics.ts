@@ -15,7 +15,7 @@ export const BATCH3_TOPIC_POSTS: BlogPost[] = [
     featuredImageAlt: 'Used motor oil container set aside for recycling in Jacksonville FL',
     tags: ['motor oil disposal near me jacksonville', 'used oil recycling jacksonville fl', 'where to dispose of motor oil', 'oil filter recycling jacksonville'],
     status: 'scheduled' as const,
-    relatedSlugs: ['hazardous-waste-disposal-near-me-jacksonville-fl', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['hazardous-waste-disposal-near-me-jacksonville-fl', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     about: [
       { name: 'Used Oil Recycling', sameAs: 'https://en.wikipedia.org/wiki/Used_motor_oil' },
       { name: 'Jacksonville, Florida', type: 'Place', sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida' },
@@ -42,7 +42,7 @@ Used oil is not simply destroyed. Re-refining facilities process it back into ba
 ## Frequently Asked Questions
 
 ### Can I put used motor oil in my 904 Dumpster rental?
-No. Motor oil is prohibited in roll-off dumpsters because of contamination and fire risk. Set it aside in a sealed container and take it to a recycling drop-off point instead.
+No. Motor oil is prohibited in roll-off dumpsters because of contamination and fire risk. Set it aside in a sealed container and take it to a recycling drop-off point instead. See our [full prohibited items rules](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for what else needs separate handling.
 
 ### Where can I recycle motor oil for free in Jacksonville?
 Most auto parts retailers with Jacksonville locations, including AutoZone, O'Reilly, and Advance Auto Parts, accept used motor oil for free, and most also take used oil filters.
@@ -51,7 +51,11 @@ Most auto parts retailers with Jacksonville locations, including AutoZone, O'Rei
 Yes. Drain the filter for at least 12 to 24 hours before recycling it, and take it to the same retailer accepting your used oil rather than putting it in curbside trash.
 
 ### What if I have old oil mixed with other automotive fluids?
-Do not mix motor oil with antifreeze, gasoline, or other fluids in the same container — mixed fluids are harder to recycle and some retailers will refuse contaminated oil. Keep each fluid in its own sealed, labeled container.
+Do not mix motor oil with antifreeze, gasoline, or other fluids in the same container — mixed fluids are harder to recycle and some retailers will refuse contaminated oil. Keep each fluid in its own sealed, labeled container. For other automotive and household chemicals, see our [hazardous waste disposal guide](/blog/hazardous-waste-disposal-near-me-jacksonville-fl).
+
+## Where This Fits Into a Bigger Garage Cleanout
+
+Motor oil rarely turns up on its own. It is usually one item on a longer list from a garage, workshop, or driveway cleanout that also includes old tires, worn-out tools, scrap metal, and years of general clutter. If you are tackling the whole garage rather than just an oil change, our [garage cleanout guide](/blog/garage-cleanout-guide-jacksonville) walks through sorting and disposal for everything else, and [old tires](/blog/where-to-dispose-of-old-tires-jacksonville) have their own separate disposal path too, just like motor oil.
 
 ## Everything Else Goes in Your Roll-Off
 
@@ -107,6 +111,10 @@ It depends on volume. A small amount of mixed metal usually is not worth a separ
 
 ### Do scrap yards pick up large loads for free?
 Some do, particularly for sizable loads of higher-value metal like copper or aluminum. Call ahead to ask, since pickup availability and minimum load size vary by facility.
+
+## Metal Alongside Other Recyclables
+
+Metal is just one of several materials worth separating on a bigger Jacksonville project. Concrete, clean wood, cardboard, and asphalt all have their own recycling paths too — see our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for the full breakdown of what to pull out of the dumpster load before it ships to the landfill, and how [appliance recycling](/blog/how-to-dispose-of-appliances-jacksonville) works if the metal in question is still a working (or dead) appliance.
 
 ## Book Your Jacksonville Dumpster Today
 
@@ -168,6 +176,10 @@ No. LED bulbs do not contain mercury and can be thrown in regular trash or a dum
 ### What should I do if a fluorescent tube breaks?
 Ventilate the room, avoid vacuuming the area (which can spread mercury vapor), and carefully sweep up the pieces into a sealed container before taking them to a hazardous waste collection point rather than the trash.
 
+## Other Items That Need the Same Careful Handling
+
+Fluorescent bulbs are one of several common renovation and cleanout items that cannot go in a standard dumpster load. [Batteries](/blog/battery-disposal-near-me-jacksonville-fl) have a similar mercury-and-metal-contamination profile, and our [hazardous waste disposal guide](/blog/hazardous-waste-disposal-near-me-jacksonville-fl) covers paint, chemicals, and other items that need a drop-off point instead of a roll-off.
+
 ## Everything Else Goes in Your Roll-Off
 
 Once fluorescent bulbs and tubes are set aside for proper recycling, [book a 904 Dumpster roll-off online](https://app.icans.ai/customer-portal/904dumpster/book/) for the rest of your Jacksonville project, with flat-rate pricing from $299 and same-day delivery. Call **(904) 240-5598** with questions.`,
@@ -226,6 +238,10 @@ Intact, undisturbed asbestos-containing material generally poses low risk. The d
 
 ### Who do I call to remove asbestos in Jacksonville?
 A licensed asbestos abatement contractor, not a general contractor or dumpster company. Abatement contractors are trained and equipped to remove and dispose of asbestos-containing material safely and legally.
+
+## Planning the Rest of Your Demo Project
+
+Once abatement is handled, the rest of a Jacksonville renovation or teardown follows normal disposal rules. Our [demolition debris disposal guide](/blog/demolition-debris-disposal-best-practices) covers planning a larger teardown, and if the project involves a full room or structure rather than a single material, our [demolition services page](/demolition-services-jacksonville-fl) covers what a full-service demo includes beyond just the dumpster.
 
 ## For Everything Else, We're Here
 
@@ -297,6 +313,10 @@ Probably not, if you are keeping everything you own. A dumpster makes sense once
 ### How long can I keep a 904 Dumpster during a move?
 The included rental period is 3 days for a 10-yard or 5 days for a 15-yard or 20-yard. If your move timeline runs longer, extensions are available at a daily rate.
 
+## Sorting Keepers From Discards
+
+Deciding what goes in the pod versus the dumpster is the real work of a move. Our [moving day waste and decluttering guide](/blog/moving-day-waste-declutter-dispose-guide) walks through that sorting process room by room, and if you are weighing a dumpster against hiring a junk removal crew instead of self-loading, our [dumpster rental vs. junk removal comparison](/blog/dumpster-rental-vs-junk-removal-comparison) breaks down which fits a moving timeline better.
+
 ## Book Your Jacksonville Dumpster Today
 
 [Rent a dumpster in Jacksonville FL](/) for the parts of your move you are not keeping. Flat rates from $299, same-day delivery available. Call **[(904) 240-5598](tel:+19042405598)**.`,
@@ -343,6 +363,14 @@ Storage cleanouts are often deadline-driven in a way other cleanouts are not. Au
 **Consider delivery to a driveway instead.** If the facility will not allow on-site placement, having the dumpster delivered to your home and transporting unit contents there in trips is a common workaround. This also works well if you are sorting keepers from discards, since you can stage items at home rather than in a facility aisle.
 
 **Plan for narrow aisles.** Storage facility drive aisles are often tighter than a residential driveway. If on-site delivery is approved, confirm the facility's aisle width and any height restrictions with our team before the truck arrives.
+
+## Common Reasons for a Storage Unit Cleanout
+
+**Auction wins.** If you bought an abandoned unit at auction, you are working against the facility's own removal deadline, usually a matter of days, and you have no idea what condition the contents are in until the door opens. Same-day delivery matters most here, since auction terms rarely give you much runway.
+
+**Inherited units.** A unit that belonged to a family member often mixes genuine keepsakes with years of accumulated clutter, which makes sorting slower than a straightforward move-out. If the rest of the cleanout involves a full estate rather than just a storage unit, our [estate cleanout guide](/blog/estate-cleanout-guide-jacksonville) covers the broader process, including how to pace sorting when the job is emotionally heavier than a typical cleanout.
+
+**Consolidating or downsizing.** Combining two units into one, or giving up a unit entirely after a move, usually means the contents overlap with what came out of an apartment or condo in the first place. Our [apartment and condo cleanout guide](/blog/apartment-condo-cleanout-dumpster-jacksonville) covers sizing for that side of the project if your storage unit and your old living space are being cleared out together.
 
 ## Frequently Asked Questions
 

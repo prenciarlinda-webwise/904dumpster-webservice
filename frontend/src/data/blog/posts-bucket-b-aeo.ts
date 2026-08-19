@@ -22,7 +22,7 @@ export const BUCKET_B_AEO_POSTS: BlogPost[] = [
     featuredImageAlt: 'Roll-off dumpster loaded for a Jacksonville FL debris haul',
     tags: ['landfill near me jacksonville', 'dump near me jacksonville fl', 'dumps near me', 'garbage dump near me', 'trash dump near me jacksonville', 'waste trash dump'],
     status: 'published' as const,
-    relatedSlugs: ['what-is-a-transfer-station', 'what-cannot-go-in-dumpster', 'dumpster-rental-cost-complete-pricing-guide'],
+    relatedSlugs: ['where-does-trash-go-after-you-throw-it-away', 'what-can-and-cannot-go-in-a-dumpster-rules', 'dumpster-rental-cost-complete-pricing-guide'],
     about: [
       { name: 'Landfill', sameAs: 'https://en.wikipedia.org/wiki/Landfill' },
       { name: 'Jacksonville, Florida', type: 'Place', sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida' },
@@ -36,7 +36,7 @@ If you are searching "landfill near me" or "dump near me" in Jacksonville, the s
 
 ## Where Does Jacksonville's Trash Actually Go?
 
-Most Duval County residential trash does not go straight to a landfill. It is collected curbside, hauled to a **transfer station** where it is consolidated into larger loads, then trucked to Trail Ridge Landfill for final disposal. Construction and demolition debris follows a similar path when it is not diverted for recycling. Our companion guide on [what a transfer station is and how waste reaches its final destination](/blog/what-is-a-transfer-station) covers that middle step in more detail.
+Most Duval County residential trash does not go straight to a landfill. It is collected curbside, hauled to a **transfer station** where it is consolidated into larger loads, then trucked to Trail Ridge Landfill for final disposal. Construction and demolition debris follows a similar path when it is not diverted for recycling. Our companion guide on [what a transfer station is and how waste reaches its final destination](/blog/where-does-trash-go-after-you-throw-it-away) covers that middle step in more detail.
 
 If you are hauling debris yourself rather than using curbside pickup, the City of Jacksonville's [Solid Waste Division](https://www.coj.net/departments/solid-waste-division) is the authoritative source for current landfill and transfer station hours, accepted materials, and gate fees, since these change periodically.
 
@@ -103,7 +103,7 @@ For any project generating more than a truckload or two of debris, [book a 904 D
     featuredImageAlt: 'Sorted recyclables ready for drop-off in Jacksonville FL',
     tags: ['recycling center near me jacksonville', 'recycle near me jacksonville fl', 'recycling centers near me', 'cardboard recycling near me', 'recyclers close to me'],
     status: 'published' as const,
-    relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'construction-demolition-recycling-insights', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['recycling-guide-jacksonville-construction-projects', 'scrap-metal-recycling-near-me-jacksonville-fl', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     about: [
       { name: 'Recycling', sameAs: 'https://en.wikipedia.org/wiki/Recycling' },
       { name: 'Duval County, Florida', type: 'Place', sameAs: 'https://en.wikipedia.org/wiki/Duval_County,_Florida' },
@@ -134,7 +134,7 @@ Rules vary slightly by hauler, but across most of Jacksonville, curbside single-
 
 ## When Renovation Debris Needs More Than a Recycling Bin
 
-A single moving box or two of packing material fits your curbside cart. A whole-house move, kitchen renovation, or garage cleanout does not. Once cardboard, packaging, or clean scrap material exceeds what your cart holds in a week, a drop-off center or a dedicated roll-off dumpster becomes the practical option. For construction and demolition projects specifically, our [construction and demolition recycling guide](/blog/construction-demolition-recycling-insights) covers which materials (concrete, metal, clean wood) are worth separating for recycling versus disposing of together.
+A single moving box or two of packing material fits your curbside cart. A whole-house move, kitchen renovation, or garage cleanout does not. Once cardboard, packaging, or clean scrap material exceeds what your cart holds in a week, a drop-off center or a dedicated roll-off dumpster becomes the practical option. For construction and demolition projects specifically, our [construction and demolition recycling guide](/blog/recycling-guide-jacksonville-construction-projects) covers which materials (concrete, metal, clean wood) are worth separating for recycling versus disposing of together.
 
 904 Dumpster roll-off containers are built for mixed debris, not sorted recyclables — see our guide on [what you can actually recycle from your Jacksonville project](/blog/recycling-guide-jacksonville-construction-projects) for how to separate recyclable material before it goes in the bin.
 
@@ -151,6 +151,10 @@ Some construction materials — clean metal, concrete, and untreated wood — ca
 
 ### Do I need a recycling center or a dumpster for a home cleanout?
 If your project is generating sorted, clean recyclable material in large volume (cardboard from a move, scrap metal), a drop-off recycling center is the right destination. If your project is generating mixed debris — old furniture, drywall, flooring, general clutter — a roll-off dumpster from 904 Dumpster is the faster, cheaper option.
+
+## Scrap Metal Deserves Its Own Trip
+
+Scrap metal is worth calling out separately from general recycling, since it is one of the few materials that pays you back rather than just being free to drop off. Old appliances, pipe, and metal furniture are also allowed straight in a roll-off dumpster if separating them out is not worth the trip — see our [scrap metal recycling guide](/blog/scrap-metal-recycling-near-me-jacksonville-fl) for when it makes sense to haul metal to a scrap yard instead.
 
 ## Have More Debris Than Your Recycling Bin Can Handle?
 
@@ -170,7 +174,7 @@ For moves, renovations, and cleanouts that produce more than curbside recycling 
     featuredImageAlt: 'Household hazardous waste sorted for proper disposal in Jacksonville FL',
     tags: ['hazardous waste disposal near me jacksonville', 'household hazardous waste jacksonville fl', 'where to dispose of paint jacksonville', 'how to dispose of pool chemicals'],
     status: 'published' as const,
-    relatedSlugs: ['where-to-dispose-of-old-paint-jacksonville', 'what-cannot-go-in-dumpster', 'what-can-and-cannot-go-in-a-dumpster-rules'],
+    relatedSlugs: ['where-to-dispose-of-old-paint-jacksonville', 'battery-disposal-near-me-jacksonville-fl', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     about: [
       { name: 'Hazardous waste', sameAs: 'https://en.wikipedia.org/wiki/Hazardous_waste' },
       { name: 'Jacksonville, Florida', type: 'Place', sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida' },
@@ -238,7 +242,7 @@ Once the hazardous items are set aside, [book a 904 Dumpster roll-off online](ht
     featuredImageAlt: 'Household batteries sorted for recycling in Jacksonville FL',
     tags: ['battery disposal near me jacksonville', 'battery recycling near me jacksonville fl', 'where to recycle car battery jacksonville', 'rechargeable battery disposal'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-dispose-of-electronics-e-waste', 'what-cannot-go-in-dumpster', 'hazardous-waste-disposal-near-me-jacksonville-fl'],
+    relatedSlugs: ['how-to-dispose-of-electronics-e-waste', 'what-can-and-cannot-go-in-a-dumpster-rules', 'hazardous-waste-disposal-near-me-jacksonville-fl'],
     about: [
       { name: 'Battery recycling', sameAs: 'https://en.wikipedia.org/wiki/Battery_recycling' },
       { name: 'Jacksonville, Florida', type: 'Place', sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida' },
@@ -281,6 +285,10 @@ Rechargeable power tool batteries should go to a retailer or hardware store batt
 ### Are household AA and AAA batteries hazardous waste?
 Standard alkaline batteries are lower-risk than rechargeables, but many places still recommend recycling rather than trashing them. Check the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) for current local guidance.
 
+## Batteries Are One of Several Cleanout Exceptions
+
+Batteries are just one item on the short list of things that cannot go in a roll-off dumpster alongside your general debris. Paint, pool chemicals, propane, and other household chemicals follow the same rule — see our [hazardous waste disposal guide](/blog/hazardous-waste-disposal-near-me-jacksonville-fl) for the full list of what needs a separate drop-off before you start loading the dumpster.
+
 ## Everything Else Goes in Your Roll-Off
 
 Once batteries are set aside for proper recycling, [book a 904 Dumpster roll-off online](https://app.icans.ai/customer-portal/904dumpster/book/) for the rest of your Jacksonville cleanout, with flat-rate pricing from $299 and same-day delivery. Call **(904) 240-5598** with questions.`,
@@ -299,7 +307,7 @@ Once batteries are set aside for proper recycling, [book a 904 Dumpster roll-off
     featuredImageAlt: 'Sharps container for safe medical waste disposal in Jacksonville FL',
     tags: ['sharps disposal near me jacksonville', 'medical waste disposal jacksonville fl', 'needle disposal near me', 'where to dispose of syringes'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'hazardous-waste-disposal-near-me-jacksonville-fl', 'hoarder-house-cleanout-dumpster-jacksonville'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'hazardous-waste-disposal-near-me-jacksonville-fl', 'hoarder-house-cleanout-dumpster-jacksonville'],
     about: [
       { name: 'Sharps waste', sameAs: 'https://en.wikipedia.org/wiki/Sharps_waste' },
       { name: 'Jacksonville, Florida', type: 'Place', sameAs: 'https://en.wikipedia.org/wiki/Jacksonville,_Florida' },

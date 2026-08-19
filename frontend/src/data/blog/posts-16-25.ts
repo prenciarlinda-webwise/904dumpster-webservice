@@ -16,7 +16,7 @@ export const POSTS_16_TO_25: BlogPost[] = [
     featuredImage: '/images/10-yard-vs-20-yard-dumpster-jacksonville.jpg',
     tags: ['dumpster sizes', 'roll off dumpster sizes', 'dumpster dimensions', '10 yard dumpster', '15 yard dumpster', '20 yard dumpster', 'rental dumpster sizes', 'dumpster size guide', 'how big is a dumpster', 'different dumpster sizes'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-weight-limits-tonnage-guide', 'dumpster-rental-cost-complete-pricing-guide'],
+    relatedSlugs: ['roll-off-dumpster-rental-complete-guide', 'dumpster-weight-limits-tonnage-guide', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `
 ## What Size Dumpster Do I Need? Complete Dumpster Size Guide
 
@@ -117,7 +117,7 @@ Many people search for these in-between sizes. Here is what you need to know:
 | [Concrete disposal](/concrete-disposal-dumpster-jacksonville-fl) | [10-yard](/10-yard-dumpster-rental) | Weight limits matter more than volume |
 | [Demolition project](/demolition-services-jacksonville-fl) | [20-yard](/20-yard-dumpster-rental) | Structural debris takes up significant space |
 
-For a more detailed breakdown of sizing by project, visit our [dumpster size guide](/dumpster-size-guide) or read our blog post on [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
+For a more detailed breakdown of sizing by project, visit our [dumpster size guide](/dumpster-size-guide) or read our blog post on [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide).
 
 ## What Is the Largest Dumpster Size Available?
 
@@ -184,7 +184,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
     featuredImage: '/images/dumpster-jacksonville.jpg',
     tags: ['dumpster weight limit', 'dumpster weight calculator', 'how much does a dumpster weigh', 'dumpster tonnage', '20 yard dumpster weight limit', '30 yard dumpster weight limit', 'dumpster weight capacity', 'roll off dumpster weight'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'how-to-choose-right-dumpster-size', 'dumpster-rental-cost-complete-pricing-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `
 ## How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide
 
@@ -276,7 +276,7 @@ Here are practical strategies to stay within your dumpster weight limit:
 
 4. **Ask about weight-specific pricing.** For heavy material projects, some companies offer concrete or clean-fill pricing that accounts for the extra weight. Our [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) service is designed specifically for these materials.
 
-5. **Check what cannot go in the dumpster.** Certain prohibited items can also affect how your load is processed. Review our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) before loading.
+5. **Check what cannot go in the dumpster.** Certain prohibited items can also affect how your load is processed. Review our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) before loading.
 
 ## Weight Limits for Jacksonville Area Projects
 
@@ -330,7 +330,7 @@ Dirt and gravel are extremely heavy, approximately 2,200 to 2,600 pounds per cub
     featuredImage: '/images/affordable-dumpster-rental-jacksonville-fl.jpg',
     tags: ['dumpster rental cost', 'how much to rent a dumpster', 'dumpster rental prices', 'average dumpster rental cost', 'cheap dumpster rental', 'dumpster cost per month', 'dumpster rental faq', '10 yard dumpster cost', '15 yard dumpster cost', '20 yard dumpster cost'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-weight-limits-tonnage-guide', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-weight-limits-tonnage-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How Dumpster Rental Pricing Works in 2026
 
@@ -387,7 +387,7 @@ The biggest factor. Larger containers cost more because they hold more material,
 Most companies include a 5 to 7-day rental period in their base price. Need it longer? Daily extension fees typically range from $10 to $20 per day. If your project will take longer than a week, ask about weekly or monthly rates. Dumpster cost per month ranges from $300 to $600 for smaller containers used on longer-term [commercial projects](/commercial-dumpster-rental-jacksonville-fl).
 
 ### 3. Debris Type
-Standard household junk and construction debris fall under normal pricing. Heavy materials like [concrete, brick, and dirt](/concrete-disposal-dumpster-jacksonville-fl) may require special pricing because they cost more to dispose of at the landfill. Hazardous materials cannot go in a dumpster at all. Check our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) before loading.
+Standard household junk and construction debris fall under normal pricing. Heavy materials like [concrete, brick, and dirt](/concrete-disposal-dumpster-jacksonville-fl) may require special pricing because they cost more to dispose of at the landfill. Hazardous materials cannot go in a dumpster at all. Check our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) before loading.
 
 ### 4. Weight Overages
 Every rental includes a weight allowance. Exceeding it triggers overage charges, usually $50 to $100 per additional ton. Read our [weight limits guide](/blog/dumpster-rental-calculator-estimate-debris-volume) to understand how weight affects your total cost.
@@ -428,7 +428,7 @@ For most projects, a [residential dumpster rental](/residential-dumpster-rental-
 
 2. **Ask for the all-in price.** Do not compare base prices. Compare the total cost including delivery, pickup, disposal, and any other fees.
 
-3. **Right-size your dumpster.** Ordering the correct size the first time is the single best way to save money. Use our [size guide](/blog/how-to-choose-right-dumpster-size) or call us for a recommendation.
+3. **Right-size your dumpster.** Ordering the correct size the first time is the single best way to save money. Use our [size guide](/blog/dumpster-sizes-explained-complete-guide) or call us for a recommendation.
 
 4. **Keep prohibited items out.** Mixing hazardous materials or tires into your load can result in additional sorting fees or load rejection at the landfill.
 
@@ -574,7 +574,7 @@ Whether or not you need a permit, following these placement practices keeps your
 **General tips:**
 - Do not overfill the dumpster above the rim line. This is both a safety issue and a hauling regulation.
 - Keep the area around the dumpster clean. Loose debris on the ground is a code violation in most jurisdictions.
-- Know what cannot go in the dumpster. Hazardous materials, electronics, and certain other items are prohibited. See our complete guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+- Know what cannot go in the dumpster. Hazardous materials, electronics, and certain other items are prohibited. See our complete guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## What Happens If You Place a Dumpster Without a Permit?
 
@@ -1005,7 +1005,7 @@ Your deck and patio took a beating during Jacksonville's hot, humid summer. Year
 - Apply sealant or stain if the existing finish is showing wear
 - Inspect patio pavers for shifting or settling
 
-If your deck is beyond repair and needs replacement, a [20-yard dumpster](/20-yard-dumpster-rental) handles the demolition debris from most residential deck removal projects. See our guide on [choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) for more project-specific recommendations.
+If your deck is beyond repair and needs replacement, a [20-yard dumpster](/20-yard-dumpster-rental) handles the demolition debris from most residential deck removal projects. See our guide on [choosing the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) for more project-specific recommendations.
 
 ### Exterior Home Inspection
 
@@ -1073,7 +1073,7 @@ Fall is also the best time to tackle larger cleanout projects you have been putt
 | [Estate cleanout](/blog/estate-cleanout-guide-jacksonville) | 3-5 days | [15 or 20-yard](/20-yard-dumpster-rental) | $349-$399 |
 | Yard waste + home cleanout | 2-3 days | [15-yard](/15-yard-dumpster-rental) | $349 |
 
-Before you load the dumpster, review our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) to avoid prohibited items. Donate items in good condition before disposing of the rest, as discussed in our [furniture disposal guide](/blog/how-to-dispose-of-old-furniture-guide).
+Before you load the dumpster, review our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) to avoid prohibited items. Donate items in good condition before disposing of the rest, as discussed in our [furniture disposal guide](/blog/how-to-dispose-of-old-furniture-guide).
 
 ## Jacksonville-Specific Fall Considerations
 
@@ -1413,7 +1413,7 @@ Hazardous materials like paint, chemicals, batteries, motor oil, and propane tan
 
 Jacksonville residents can dispose of household hazardous waste at the city's Household Hazardous Waste Facility on Ellis Road. These facilities neutralize, treat, or safely contain hazardous materials to prevent environmental contamination.
 
-For a complete list of items that cannot go in a dumpster (and where to take them instead), read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+For a complete list of items that cannot go in a dumpster (and where to take them instead), read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## How Jacksonville's Waste Numbers Add Up
 
@@ -1473,7 +1473,7 @@ Yes. Donate usable items, recycle properly, separate materials during projects, 
     featuredImage: '/images/dumpster-on-site-jacksonville.png',
     tags: ['what can go in a dumpster', 'what cannot go in a dumpster', 'dumpster rules', 'can you throw paint in a dumpster', 'can you put glass in a dumpster', 'hazardous materials dumpster', 'mattress in dumpster', 'items that cannot be recycled', 'dumpster prohibited items'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'dumpster-sizes-explained-complete-guide', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['hazardous-waste-disposal-near-me-jacksonville-fl', 'dumpster-sizes-explained-complete-guide', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## What Can and Cannot Go in a Dumpster Rental
 

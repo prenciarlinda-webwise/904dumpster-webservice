@@ -1,172 +1,6 @@
 import { BlogPost } from './types'
 
 export const EDUCATIONAL_POSTS: BlogPost[] = [
-  // Post 1: What Is a Transfer Station?
-  {
-    slug: 'what-is-a-transfer-station',
-    title: 'What Is a Transfer Station and How Waste Reaches Its Final Destination',
-    metaTitle: 'What Is a Transfer Station - Waste Transfer Explained Plainly',
-    metaDescription: 'Learn what a transfer station is, how waste moves from dumpster to landfill or recycling facility, and how Jacksonville transfer stations process waste from dumpster rentals.',
-    excerpt: 'Ever wonder where your dumpster waste goes after pickup? Transfer stations are a critical link in the waste management chain. Learn how they work, why they matter, and how Jacksonville handles waste processing.',
-    category: 'sustainability',
-    author: '904 Dumpster',
-    publishedDate: '2026-03-20',
-    readTime: '9 min read',
-    featuredImage: '/images/jacksonville-dumpsters.jpg',
-    tags: ['transfer station', 'waste management', 'waste processing', 'jacksonville waste disposal', 'trail ridge landfill', 'dumpster rental jacksonville', 'recycling facility', 'solid waste', 'waste stream', 'landfill process'],
-    status: 'published' as const,
-    relatedSlugs: ['where-does-trash-go-after-you-throw-it-away', 'recycling-guide-jacksonville-construction-projects', 'what-cannot-go-in-dumpster'],
-    content: `
-## What Is a Transfer Station? How Waste Moves from Your Dumpster to Its Final Destination
-
-When you rent a dumpster and fill it with debris from a renovation, cleanout, or construction project, you probably do not think much about what happens after the truck hauls it away. But between your driveway and the landfill, there is usually an important stop: the transfer station. Understanding how transfer stations work gives you a clearer picture of the waste management process and helps explain why proper sorting and disposal matter.
-
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned [dumpster rental company serving Jacksonville and Northeast Florida](/) since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
-
-## What Exactly Is a Transfer Station?
-
-A transfer station is a facility where waste is temporarily held after collection and before it is transported to its final disposal or processing destination. Think of it as a sorting and consolidation hub for waste. Instead of individual collection trucks driving long distances to a landfill, they unload at a nearby transfer station, where waste is consolidated into larger vehicles for more efficient transport.
-
-Transfer stations serve several key purposes:
-
-- **Consolidation**: Smaller collection vehicles unload waste, which is then loaded onto larger transfer trailers. One transfer trailer can carry the equivalent of several collection truck loads.
-- **Sorting**: Many transfer stations include sorting areas where recyclable materials, hazardous items, and specific waste streams are separated before transport.
-- **Volume reduction**: Some stations compact waste to reduce volume, making transportation more efficient and cost-effective.
-- **Environmental screening**: Operators inspect incoming loads for prohibited items like hazardous chemicals, medical waste, and electronics that require specialized disposal.
-
-## How Does a Transfer Station Work?
-
-The process at a transfer station follows a fairly standard sequence, though specific operations vary by facility.
-
-### Step 1 - Arrival and Weighing
-
-When a collection truck or roll-off hauler arrives at the transfer station, it drives onto a scale. The truck is weighed full, and the weight is recorded. This is important because disposal fees at landfills and recycling facilities are typically charged by the ton.
-
-### Step 2 - Unloading
-
-The truck proceeds to a designated unloading area, often called a tipping floor. This is a large, reinforced concrete area where the truck dumps its load. Tipping floors are designed for heavy use and drainage, with systems in place to capture any liquids that may come out of the waste.
-
-### Step 3 - Inspection and Sorting
-
-Facility workers and sometimes specialized equipment inspect the dumped material. They look for items that should not go to a standard landfill, including:
-
-- Hazardous materials (chemicals, solvents, paint)
-- Recyclable metals, cardboard, and plastics
-- Electronics and appliances
-- Yard waste that can be composted
-- Construction and demolition materials that can be recycled
-
-Some transfer stations have dedicated sorting lines with conveyor belts and manual or automated sorting systems. Others rely primarily on visual inspection and equipment operators using loaders to separate materials.
-
-### Step 4 - Consolidation and Loading
-
-Accepted waste is pushed into compactors or loaded directly into large transfer trailers. These trailers are much larger than the collection trucks that brought the waste in, which makes long-distance transport to the landfill significantly more efficient.
-
-### Step 5 - Outbound Weighing and Transport
-
-The loaded transfer trailer is weighed on the way out, and the net weight of the waste is calculated. The trailer then heads to the appropriate destination, whether that is a landfill, recycling facility, composting operation, or specialized processor.
-
-## The Waste Path from Dumpster to Final Destination
-
-Here is how the full waste path typically looks when you rent a dumpster from [904 Dumpster](https://www.904dumpster.com):
-
-| Stage | What Happens | Location |
-|---|---|---|
-| 1. Collection | Your filled dumpster is picked up by a roll-off truck | Your property |
-| 2. Transfer station | Waste is unloaded, inspected, and consolidated | Local transfer station |
-| 3. Sorting | Recyclables and prohibited items are separated | Transfer station sorting area |
-| 4. Transport | Consolidated waste is loaded into larger vehicles | Transfer station to final site |
-| 5. Final processing | Waste is landfilled, recycled, or composted | Landfill, recycling center, or compost facility |
-
-This process is why what you put in your dumpster matters. Items that are improperly disposed of, such as hazardous chemicals mixed with construction debris, can cause delays, additional fees, and environmental problems at the transfer station. For a detailed list of restricted items, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
-
-## Jacksonville's Waste Infrastructure
-
-Jacksonville has a well-established waste management infrastructure that includes several transfer stations and processing facilities serving Duval County and the surrounding region.
-
-### Trail Ridge Landfill
-
-The Trail Ridge Landfill is the primary disposal facility for the Jacksonville area. Located in western Duval County, Trail Ridge is one of the largest landfills in Florida. It serves as the final destination for most municipal solid waste and construction debris from the greater Jacksonville metropolitan area. The facility is managed in accordance with Florida Department of Environmental Protection regulations, with liners, leachate collection systems, and methane capture technology in place.
-
-### Local Transfer Stations
-
-Jacksonville operates and permits multiple transfer stations throughout Duval County. These facilities are strategically located to minimize the distance collection trucks must travel, keeping fuel costs down and reducing emissions. When 904 Dumpster picks up your roll-off container, the truck typically heads to the nearest authorized facility, where the waste is processed according to its type.
-
-### How Different Waste Streams Are Handled
-
-Not all waste goes to the same place after leaving the transfer station:
-
-- **General household and project debris**: Transported to Trail Ridge Landfill after sorting at the transfer station
-- **Recyclable metals and materials**: Sent to recycling processors where they are broken down and repurposed
-- **Concrete, asphalt, and clean fill**: Often accepted at C&D recycling facilities where they are crushed and reused as aggregate
-- **Yard waste**: Directed to composting facilities or mulching operations
-- **Electronics and appliances**: Routed to specialized recyclers that handle e-waste responsibly
-
-For more details on Jacksonville's recycling infrastructure, check out our [recycling guide for construction projects](/blog/recycling-guide-jacksonville-construction-projects).
-
-## Why Transfer Stations Matter for Dumpster Rental Customers
-
-You might be wondering why any of this matters to you as a homeowner or contractor renting a dumpster. There are several practical reasons.
-
-### Disposal Fees Are Based on Weight and Type
-
-Since transfer stations weigh incoming loads, the disposal cost depends on how much your dumpster weighs. Heavier materials like concrete, dirt, and roofing shingles cost more to dispose of than lighter household debris. This is one reason why [904 Dumpster](https://www.904dumpster.com) offers flat-rate pricing that includes disposal, so you know your cost upfront. Check our [dumpster rental pricing page](/dumpster-rental-pricing-jacksonville) for current rates.
-
-### Prohibited Items Cause Problems at Transfer Stations
-
-When prohibited items like paint, batteries, or chemicals are found in a dumpster load at the transfer station, the entire load may be rejected or assessed additional fees. This is why we provide clear guidelines on what can and cannot go in your rental. Following these rules saves everyone time and money.
-
-### Sorting Helps the Environment
-
-Transfer stations are where the recycling process begins for much of the waste stream. When you separate recyclable materials or keep your dumpster load clean (for example, keeping a load of pure concrete separate from mixed debris), you make the transfer station's job easier and increase the chances that materials will be recycled rather than landfilled.
-
-## How to Be a Better Dumpster Rental Customer
-
-Understanding the transfer station process can help you make smarter choices:
-
-1. **Know what goes in your dumpster**: Review our guide on [what can and cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) before loading.
-2. **Separate heavy materials**: If you have a large amount of concrete or heavy debris, consider a dedicated load rather than mixing it with lighter materials.
-3. **Keep hazardous items out**: Chemicals, solvents, paint, and batteries should never go in a dumpster. Jacksonville offers household hazardous waste collection events throughout the year.
-4. **Choose the right dumpster size**: Overloading a dumpster creates safety issues during transport. Our [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) options cover the majority of residential and commercial projects.
-
-## The Bigger Picture for Waste Reduction and Sustainability
-
-Transfer stations are just one part of the larger waste management ecosystem. The most effective way to reduce landfill burden is to generate less waste in the first place. For renovation and construction projects, this means:
-
-- Ordering materials accurately to reduce excess
-- Donating usable items like cabinets, fixtures, and appliances to organizations like Habitat for Humanity ReStore
-- Recycling metals, cardboard, and clean wood separately
-- Using deconstruction methods instead of demolition when possible
-
-To learn more about where your trash ends up and why it matters, read our post on [where does trash go after you throw it away](/blog/where-does-trash-go-after-you-throw-it-away).
-
-## Book Your Dumpster Rental Today
-
-Whether you are cleaning out a garage, renovating a kitchen, or managing a construction site, 904 Dumpster makes waste disposal simple with flat-rate pricing and reliable service across Jacksonville and Northeast Florida. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Every rental includes delivery, pickup, disposal, and a generous rental period with no hidden fees.
-
-## Frequently Asked Questions
-
-### What is the difference between a transfer station and a landfill?
-
-A transfer station is a temporary holding and sorting facility where waste is consolidated before being transported to its final destination. A landfill is the final disposal site where waste is permanently buried. Transfer stations help make the overall waste management process more efficient by consolidating loads and sorting recyclable materials before anything reaches the landfill.
-
-### Can I take my own waste to a transfer station in Jacksonville?
-
-Some transfer stations in the Jacksonville area accept waste from the public, though fees and accepted materials vary by facility. However, for most homeowners and contractors, renting a dumpster from [904 Dumpster](https://www.904dumpster.com) is more convenient and often more cost-effective than making multiple trips yourself.
-
-### How does waste get sorted at a transfer station?
-
-Sorting methods vary by facility. Some use manual inspection where workers on the tipping floor identify and pull out recyclables, hazardous items, and prohibited materials. More advanced facilities use conveyor belts, screens, magnets, and optical sorters to separate different material types automatically. The goal is to divert as much recyclable material as possible from the landfill-bound waste stream.
-
-### Does the type of waste in my dumpster affect where it goes?
-
-Yes. Clean loads of specific materials like concrete, metal, or yard waste are often directed to specialized recycling or composting facilities rather than the landfill. Mixed loads of general debris typically go through the standard transfer station process and end up at Trail Ridge Landfill. Keeping your loads separated when possible can increase recycling rates and sometimes reduce disposal costs.
-
-### Why does 904 Dumpster care about transfer station processes?
-
-As a locally owned company, we work with Jacksonville's waste infrastructure every day. Understanding how transfer stations and disposal facilities operate helps us provide accurate pricing, clear guidelines on what goes in your dumpster, and responsible disposal of the waste we collect. Our flat-rate pricing at $299, $349, and $399 for [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters includes disposal fees, so you never have to worry about surprise charges from the transfer station.
-`,
-  },
   // Post 2: What Is Waste Diversion?
   {
     slug: 'what-is-waste-diversion',
@@ -361,7 +195,7 @@ Duval County and the surrounding area have multiple recycling and processing fac
     featuredImage: '/images/dumpster-service-jacksonville-fl.jpg',
     tags: ['waste types', 'dumpster waste', 'MSW', 'construction debris', 'yard waste', 'hazardous waste', 'dumpster rental tips', 'waste sorting', 'prohibited items', 'jacksonville waste disposal'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'what-can-and-cannot-go-in-a-dumpster-rules', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'what-can-and-cannot-go-in-a-dumpster-rules', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Dumpster Waste Types and What Goes Where
 
@@ -470,7 +304,7 @@ Hazardous waste is the one category that absolutely cannot go in a roll-off dump
 
 **How to dispose of hazardous waste in Jacksonville:** The City of Jacksonville hosts periodic household hazardous waste collection events where residents can drop off these materials safely and free of charge. You can also contact Duval County's solid waste division for information about permanent drop-off locations.
 
-For a complete list of what is and is not allowed in your dumpster, check out our detailed guides on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) and [dumpster rules and guidelines](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
+For a complete list of what is and is not allowed in your dumpster, check out our detailed guides on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) and [dumpster rules and guidelines](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## Waste Type Quick Reference Chart
 
@@ -526,7 +360,7 @@ Yes, in most cases you can mix general MSW, C&D debris, and yard waste in the sa
 
 ### What happens if prohibited items are found in my dumpster?
 
-If hazardous or prohibited items are discovered during inspection at the disposal facility, the load may be rejected or assessed additional processing fees. These charges are passed through to the customer. The best way to avoid this situation is to review our [prohibited items guide](/blog/what-cannot-go-in-dumpster) before loading and set aside any questionable materials for separate disposal.
+If hazardous or prohibited items are discovered during inspection at the disposal facility, the load may be rejected or assessed additional processing fees. These charges are passed through to the customer. The best way to avoid this situation is to review our [prohibited items guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules) before loading and set aside any questionable materials for separate disposal.
 
 ### How do I know if something is considered hazardous waste?
 
@@ -555,7 +389,7 @@ If you are uncertain about the volume or type of waste your project will generat
     featuredImage: '/images/dumpster-rental-jacksonville.jpg',
     tags: ['illegal dumping', 'jacksonville environment', 'waste disposal laws', 'florida penalties', 'community cleanup', 'report illegal dumping', 'dumpster rental jacksonville', 'environmental impact', 'proper waste disposal', 'jacksonville 630-CITY'],
     status: 'published' as const,
-    relatedSlugs: ['jacksonville-dumpster-permit-guide', 'where-does-trash-go-after-you-throw-it-away', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['dumpster-permit-guide-do-you-need-one', 'where-does-trash-go-after-you-throw-it-away', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## How Illegal Dumping Affects Jacksonville Communities and What You Can Do About It
 
@@ -671,7 +505,7 @@ Jacksonville has a strong tradition of community-led cleanup efforts that comple
 
 These volunteer efforts make a real difference, but they are treating symptoms rather than the cause. Preventing illegal dumping through education, enforcement, and accessible disposal options is the long-term solution.
 
-For more information about Jacksonville permitting and local regulations related to waste management, read our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide).
+For more information about Jacksonville permitting and local regulations related to waste management, read our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one).
 
 ## Book Your Dumpster Rental and Dispose of Waste the Right Way
 
@@ -698,218 +532,6 @@ Construction debris is bulky and heavy, which makes it inconvenient to transport
 ### How can I help reduce illegal dumping in my neighborhood?
 
 Report dumping when you see it through 630-CITY or the MyJax app. Participate in community cleanup events. Talk to neighbors about affordable disposal options like dumpster rental. If your neighborhood has chronic dumping in a specific location, work with your council member and code enforcement to install cameras or improve lighting. Making disposal easy and enforcement visible are the two most effective deterrents.
-`,
-  },
-  // Post 5: Construction and Demolition Recycling
-  {
-    slug: 'construction-demolition-recycling-insights',
-    title: 'Construction and Demolition Recycling Guide for 2026',
-    metaTitle: 'Construction and Demolition Recycling Guide 2026 - C&D Waste Tips',
-    metaDescription: 'Learn about construction and demolition recycling, recyclable C&D materials, EPA regulations, and how Jacksonville contractors can maximize recycling rates in 2026.',
-    excerpt: 'Construction and demolition waste accounts for a massive share of the waste stream, but most of it is recyclable. Learn which C&D materials can be recycled, current regulations, and practical tips for maximizing your project recycling rate.',
-    category: 'construction-waste',
-    author: '904 Dumpster',
-    publishedDate: '2026-03-20',
-    readTime: '9 min read',
-    featuredImage: '/images/dumpster-rental-roofing-jacksonville.jpg',
-    tags: ['construction recycling', 'demolition recycling', 'C&D waste', 'construction debris', 'concrete recycling', 'metal recycling', 'wood recycling', 'EPA regulations', 'jacksonville construction waste', 'green building'],
-    status: 'published' as const,
-    relatedSlugs: ['demolition-debris-disposal-best-practices', 'construction-dumpster-rental-contractors-guide', 'recycling-guide-jacksonville-construction-projects'],
-    content: `
-## Construction and Demolition Recycling Guide for 2026
-
-Construction and demolition waste is one of the largest waste streams in the United States, generating hundreds of millions of tons annually. The good news is that the vast majority of C&D materials are recyclable. Concrete, metals, wood, asphalt, drywall, and many other common construction materials all have established recycling markets. For [Jacksonville contractors, builders, and homeowners](/), understanding C&D recycling is both an environmental responsibility and a practical business decision that can reduce disposal costs and meet growing regulatory requirements.
-
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
-
-## What Is C&D Waste?
-
-Construction and demolition waste encompasses all materials generated during the construction, renovation, remodeling, and demolition of buildings, roads, bridges, and other structures. The EPA defines C&D debris as materials including:
-
-- Concrete, asphalt, and masonry
-- Wood (framing, plywood, trim, cabinetry)
-- Metals (steel beams, rebar, aluminum flashing, copper wiring and piping)
-- Drywall (gypsum board)
-- Roofing materials (asphalt shingles, underlayment, flashing)
-- Flooring (tile, carpet, hardwood, vinyl)
-- Insulation
-- Glass (windows, mirrors)
-- Plastics (piping, packaging, vapor barriers)
-- Brick and block
-- Soil and land-clearing debris
-
-According to EPA estimates, C&D waste accounts for more than 600 million tons annually in the United States, which is more than double the amount of municipal solid waste generated by all households and businesses combined. The sheer volume makes C&D recycling one of the most impactful areas for waste diversion.
-
-## Recyclable C&D Materials Explained in Detail
-
-Not all C&D materials are equally easy to recycle, but most have viable pathways. Here is a detailed look at the most commonly recycled construction and demolition materials.
-
-### Concrete
-
-Concrete is the single largest component of C&D waste by weight and one of the most recyclable. Recycled concrete is crushed and screened to produce recycled concrete aggregate (RCA), which can replace virgin aggregate in:
-
-- Road base and sub-base
-- Parking lot foundations
-- Drainage applications
-- New concrete production (as partial aggregate replacement)
-- Fill material
-
-Concrete recycling is well-established in the Jacksonville area, with several facilities accepting clean concrete for processing. Clean concrete means it is free of rebar (or rebar has been removed), paint, coatings, and other contaminants.
-
-### Metals
-
-Metals are among the most valuable and most recycled C&D materials. Steel, aluminum, and copper all have strong recycling markets:
-
-- **Structural steel and rebar**: Melted and remanufactured into new steel products
-- **Aluminum (flashing, siding, gutters)**: Recycled into new aluminum products with 95% energy savings compared to virgin production
-- **Copper (wiring, piping)**: One of the most valuable scrap materials, recycled repeatedly without quality loss
-- **Mixed ferrous metals**: Sorted magnetically and recycled through scrap processors
-
-In Jacksonville, scrap metal yards readily accept construction metals, and the revenue from metal recycling can partially offset project disposal costs.
-
-### Wood
-
-Wood recycling depends heavily on the type and condition of the wood:
-
-- **Clean, untreated wood**: Can be chipped for mulch, processed into biomass fuel, or used in engineered wood products like particleboard
-- **Painted or stained wood**: Some facilities accept it, but options are more limited
-- **Pressure-treated wood**: More difficult to recycle due to chemical treatments (CCA, ACQ). Some specialized facilities process treated wood, but many recyclers will not accept it
-- **Engineered wood (plywood, OSB, MDF)**: Recyclability varies by facility and adhesive content
-
-For Jacksonville projects, separating clean untreated wood from treated or painted wood significantly improves recyclability.
-
-### Asphalt
-
-Reclaimed asphalt pavement (RAP) is one of the most recycled materials in the country. Old asphalt from driveways, roads, and parking lots is:
-
-- Milled or broken up
-- Transported to an asphalt plant
-- Mixed with new asphalt binder
-- Used in new paving projects
-
-The Florida Department of Transportation actively uses RAP in road construction, making asphalt recycling a well-supported practice in Jacksonville and throughout the state.
-
-### Drywall
-
-Drywall recycling has grown significantly in recent years. The gypsum core of drywall can be:
-
-- Ground and reused in new drywall manufacturing
-- Applied as a soil amendment in agricultural settings
-- Used in cement production
-
-Clean new drywall scraps from construction are the easiest to recycle. Demolition drywall that may contain lead paint, wallpaper, or other contaminants is more challenging but still recyclable at some facilities.
-
-### Roofing Shingles
-
-Asphalt shingles contain valuable materials including asphalt, fiberglass, and mineral granules. Recycled shingles are commonly used as:
-
-- Aggregate supplement in road paving (shingle-derived asphalt)
-- Fuel source at cement kilns
-- Pothole patch material
-
-Shingle recycling is growing but availability varies by region. In Florida, several facilities accept clean asphalt shingles for processing.
-
-## C&D Recycling Rates and 2026 Trends
-
-The C&D recycling landscape continues to evolve. Here are the current trends shaping the industry:
-
-| Material | Approximate Recycling Rate | Trend |
-|---|---|---|
-| Concrete | 70-80% | Stable and well-established |
-| Metals | 90%+ | Strong market demand drives high recycling |
-| Asphalt | 80-90% | Widely recycled with DOT support |
-| Wood | 30-40% | Growing but limited by contamination |
-| Drywall | 15-25% | Increasing as new facilities open |
-| Shingles | 10-20% | Growing slowly with more acceptance |
-| Overall C&D | 40-60% | Increasing with regulatory pressure |
-
-Key trends in 2026 include:
-
-- **Increasing landfill diversion requirements**: More municipalities are implementing C&D recycling mandates or setting diversion targets
-- **Green building standards**: LEED v5 and other updated green building standards are raising the bar for construction waste diversion requirements
-- **Deconstruction over demolition**: A growing movement toward carefully deconstructing buildings to preserve reusable materials rather than demolishing and sorting afterward
-- **Technology improvements**: Better sorting equipment, cleaner processing methods, and expanded markets for recycled materials
-- **Circular economy thinking**: Designing buildings with future material recovery in mind from the start
-
-## EPA Regulations and Compliance
-
-The EPA regulates C&D waste disposal under the Resource Conservation and Recovery Act (RCRA). Key regulatory considerations include:
-
-- **C&D landfill standards**: C&D-specific landfills have different requirements than municipal solid waste landfills, including liner and monitoring specifications
-- **Hazardous materials in C&D waste**: Materials like asbestos, lead paint, and certain treated woods must be handled according to hazardous waste regulations even when they are part of a demolition project
-- **Stormwater management**: C&D processing and storage facilities must comply with stormwater discharge permits
-- **State and local regulations**: Florida and Jacksonville may have additional requirements beyond federal standards
-
-For contractors, the most important compliance issue is ensuring that hazardous materials are identified and handled separately from general C&D debris. Pre-demolition surveys that identify asbestos, lead paint, and other regulated materials are essential for projects involving older buildings.
-
-## How Jacksonville Handles C&D Recycling
-
-Jacksonville's C&D recycling infrastructure includes:
-
-- **Private C&D processing facilities**: Several privately operated facilities in the Jacksonville area accept, sort, and process construction and demolition debris
-- **Concrete crushing operations**: Dedicated facilities that accept clean concrete and produce recycled aggregate
-- **Metal scrap yards**: Numerous scrap processors throughout Duval County that buy construction metals
-- **Transfer stations with sorting**: Some local transfer stations separate recyclable C&D materials from general debris before transport
-
-The availability of these facilities makes it practical for Jacksonville contractors and homeowners to achieve meaningful recycling rates on their projects.
-
-## Benefits of C&D Recycling
-
-The case for recycling construction and demolition materials is strong from multiple angles:
-
-- **Environmental**: Reduces landfill consumption, conserves natural resources, and lowers the energy and emissions associated with producing virgin materials
-- **Economic**: Can reduce disposal costs (recycling facilities often charge less than landfill tipping fees for clean loads), generates revenue from scrap metals, and extends the life of existing landfills
-- **Regulatory compliance**: Meets or exceeds requirements for green building certifications, municipal diversion mandates, and project specifications
-- **Community benefit**: Reduces truck traffic to landfills, decreases illegal dumping of C&D materials, and supports local recycling businesses
-
-## Tips for Contractors to Maximize C&D Recycling
-
-If you are a contractor working in Jacksonville, here are practical steps to increase your recycling rate:
-
-1. **Conduct a waste audit**: Before starting a project, estimate what materials will be generated and identify recycling opportunities
-2. **Set up source separation on site**: Designate separate areas or containers for concrete, metals, clean wood, and mixed debris. Source separation dramatically improves recyclability
-3. **Use a dedicated dumpster for recyclables**: Consider renting a separate dumpster for clean, recyclable materials. Contact [904 Dumpster](https://www.904dumpster.com) to discuss multi-container setups for larger projects
-4. **Salvage before demolition**: Remove reusable fixtures, doors, hardware, and materials before demolition begins
-5. **Train your crew**: Make sure everyone on the job site understands the sorting system and knows what goes where
-6. **Track and document**: Keep records of waste generated, recycled, and landfilled for compliance reporting and continuous improvement
-7. **Choose recyclable materials**: When specifying materials for new construction, prefer products made from recycled content and materials that are readily recyclable at end of life
-
-For more contractor-specific guidance, check out our [construction dumpster rental guide for contractors](/blog/construction-dumpster-rental-contractors-guide) and our guide on [demolition debris disposal best practices](/blog/demolition-debris-disposal-best-practices).
-
-## How 904 Dumpster Supports C&D Projects
-
-We work with contractors and homeowners across Jacksonville on construction and demolition projects of all sizes. Our [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) service includes:
-
-- **Flexible sizing**: [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), and [20-yard](/20-yard-dumpster-rental) dumpsters to match your project scope
-- **Flat-rate pricing**: $299, $349, and $399 with delivery, pickup, and disposal included
-- **Fast turnaround**: Same-day or next-day delivery across Jacksonville and Northeast Florida
-- **Knowledgeable service**: We can advise on dumpster sizing, loading best practices, and waste type considerations
-
-## Book Your Construction Dumpster Today
-
-Whether you are managing a small renovation or a large demolition project, 904 Dumpster delivers reliable, affordable service. [Book online 24/7](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598**. Visit our [pricing page](/dumpster-rental-pricing-jacksonville) for current rates.
-
-## Frequently Asked Questions
-
-### What percentage of construction waste can be recycled?
-
-Studies consistently show that 70 to 90 percent of C&D materials are potentially recyclable. Concrete, metals, asphalt, wood, and drywall all have established recycling markets. The actual recycling rate achieved depends on how well materials are sorted on the job site and the availability of local recycling infrastructure. Jacksonville has solid C&D recycling infrastructure for most material types.
-
-### Is C&D recycling required by law in Jacksonville?
-
-As of 2026, Jacksonville does not have a blanket mandate requiring C&D recycling for all projects. However, certain project types, particularly those seeking LEED certification or working under government contracts, may have specific waste diversion requirements. Florida's solid waste regulations also set standards for C&D landfills that indirectly encourage recycling by making landfill disposal more regulated and expensive.
-
-### How do I separate C&D materials on a small residential project?
-
-Even on a small project, basic sorting makes a difference. Set aside metals in one pile, keep clean concrete separate from mixed debris, and collect clean wood separately from painted or treated wood. If you are renting a dumpster for a home renovation, simply keeping the heaviest recyclable materials (concrete, metals) separate from general debris is a good start. Our team can advise on the best approach for your specific project.
-
-### Does recycling C&D waste cost more than landfilling it?
-
-Not necessarily. For clean, single-material loads like concrete or metal, recycling is often cheaper than landfill disposal. Metal recycling can actually generate revenue. Mixed loads that require sorting cost more to process, which is why source separation on the job site is so important. Overall, a well-planned waste management approach that includes recycling typically costs the same or less than sending everything to the landfill.
-
-### Can 904 Dumpster provide separate containers for recyclable C&D materials?
-
-Yes. For larger projects that generate significant volumes of specific materials, we can set up multiple dumpsters to keep recyclable materials separated. Contact us at **(904) 240-5598** to discuss your project needs and we will recommend the most cost-effective approach.
 `,
   },
   // Post 6: Dumpster Rental Pricing Models Explained
@@ -1142,7 +764,7 @@ If you need more time, just call us. We offer affordable daily extension rates i
     featuredImage: '/images/30-Yard-Dumpster.jpeg',
     tags: ['30 yard dumpster', '30 yd dumpster', '30 cubic yard dumpster', '30 yard dumpster dimensions', '30 yard dumpster size', 'how big is a 30 yard dumpster', '30 yard container dimensions', 'dumpster sizes 30 yard', 'large dumpster rental jacksonville'],
     status: 'published' as const,
-    relatedSlugs: ['what-fits-in-15-yard-dumpster', 'what-fits-in-10-yard-dumpster', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['what-fits-in-15-yard-dumpster', 'what-fits-in-10-yard-dumpster', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What a 30 yard dumpster actually is, in plain English
 
@@ -1177,7 +799,7 @@ Volume is 30 cubic yards. The practical capacity depends entirely on what you're
 - **Bagged household clutter from a hoarder cleanout:** Roughly 8 to 10 pickup truck loads of bagged goods.
 - **Demolition debris from a multi-room teardown:** A 1,800 square foot teardown typically fits with room to spare.
 
-For a side-by-side breakdown of what each smaller size holds, see our [dumpster size guide](/dumpster-size-guide) or [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
+For a side-by-side breakdown of what each smaller size holds, see our [dumpster size guide](/dumpster-size-guide) or [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide).
 
 ## Projects that genuinely need a 30 yard
 
@@ -1225,7 +847,7 @@ For deeper dives on each smaller size, see our [10 yard guide](/blog/what-fits-i
 
 ## What does not go in a 30 yard dumpster
 
-Size doesn't change the prohibited-items list. Even the largest residential roll-off cannot accept hazardous chemicals, paint and paint-related materials, automotive fluids, batteries, refrigerants, asbestos, medical waste, propane tanks, or tires. For the full list and Jacksonville-specific disposal alternatives, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster). Liquid waste in any form is prohibited regardless of container size.
+Size doesn't change the prohibited-items list. Even the largest residential roll-off cannot accept hazardous chemicals, paint and paint-related materials, automotive fluids, batteries, refrigerants, asbestos, medical waste, propane tanks, or tires. For the full list and Jacksonville-specific disposal alternatives, see our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules). Liquid waste in any form is prohibited regardless of container size.
 
 For heavier specialty materials like concrete, brick, and stone, mixing them with general debris in a 30 yard is the fastest way to blow past the weight allowance. Concrete in particular should go in a dedicated heavy-debris container rather than a mixed-load 30 yard.
 
@@ -1261,7 +883,7 @@ Pricing varies by market and hauler, but 30 yard rentals in Northeast Florida ty
 
 - [What fits in a 15 yard dumpster](/blog/what-fits-in-15-yard-dumpster)
 - [What fits in a 10 yard dumpster](/blog/what-fits-in-10-yard-dumpster)
-- [How to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size)
+- [How to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide)
 - [Dumpster sizes explained](/blog/dumpster-sizes-explained-complete-guide)
 - [20 yard dumpster rental](/20-yard-dumpster-rental)
 - [Jacksonville dumpster rental pricing](/dumpster-rental-pricing-jacksonville)

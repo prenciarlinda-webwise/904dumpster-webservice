@@ -513,6 +513,19 @@ No fuel surcharges. No environmental fees. No weight overage charges within the 
 
 **Plan for one load.** Two rental periods cost more than one extended rental.
 
+**Confirm you're booking with a local hauler, not a broker.** A lot of the "cheapest dumpster rental" search results in Jacksonville are actually national lead-generation sites that take your booking, then hand it off to whichever local hauler bids lowest that week — with a markup added on top. Broker-sourced quotes are also where surprise fuel and environmental fees tend to originate, since the broker isn't the one setting the final price. Booking directly with a locally owned company that owns its own trucks, like 904 Dumpster, cuts that markup out entirely. Our [full pricing breakdown](/blog/dumpster-rental-cost-complete-pricing-guide) covers exactly what a fair, itemized dumpster quote should include if you're comparing multiple companies.
+
+## Red Flags in a "Cheap" Dumpster Quote
+
+A few warning signs are worth watching for before you book based on price alone:
+
+- **A quote with no weight limit specified.** If a company won't tell you the included tonnage upfront, assume overage fees are how they plan to make up the difference.
+- **"Starting at" pricing with no size attached.** A price with no container size listed is a teaser rate for the smallest option, not what most projects will actually pay.
+- **No mention of the rental period.** A cheap daily rate can still cost more than a flat multi-day rate if your project runs long.
+- **Reluctance to give a phone quote in writing.** A company confident in its pricing will confirm the total cost, including any conditions, before you book.
+
+For a sense of who else operates in this market and how their pricing structures compare, see our guide to the [best dumpster rental company in Jacksonville, FL](/blog/best-dumpster-rental-company-jacksonville-fl).
+
 ## Frequently Asked Questions
 
 ### What is the cheapest dumpster rental in Jacksonville FL?
@@ -1694,7 +1707,7 @@ Most Jacksonville HOA communities allow dumpsters during active permitted constr
 
 Riverside and Avondale are among Jacksonville's most actively renovated historic neighborhoods. Craftsman bungalows, Tudor revivals, and Spanish Mediterranean homes from the 1920s through 1950s are continuously being restored by homeowners who want to preserve the character while modernizing the systems.
 
-[904 Dumpster](/) delivers to Riverside and Avondale addresses with the same flat-rate pricing as all of Jacksonville — and the placement experience these older neighborhoods require.
+[904 Dumpster](/) delivers to Riverside and Avondale addresses with the same flat-rate pricing as all of Jacksonville — and the placement experience these older neighborhoods require. For full service-area details, permit guidance, and neighborhood-specific sizing, see our [Riverside-Avondale dumpster rental page](/dumpster-rental-riverside-avondale-fl).
 
 **Flat-rate pricing for Riverside/Avondale:**
 - [10-yard](/10-yard-dumpster-rental): **$299**

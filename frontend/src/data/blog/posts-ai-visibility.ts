@@ -226,7 +226,7 @@ Mattresses must be in good condition with original tags, no stains, no rips, and
     readTime: '7 min read',
     featuredImage: '/images/dumpster-rental-near-me.jpg',
     tags: ['tire recycling jacksonville', 'where to dispose of tires', 'tire disposal fee', 'used tire recycling', 'tire drop off jacksonville', 'recycle tires near me'],
-    relatedSlugs: ['how-to-dispose-of-paint-jacksonville', 'what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['where-to-dispose-of-old-paint-jacksonville', 'what-can-and-cannot-go-in-a-dumpster-rules', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 Old tires cost $1 to $5 each to recycle [in Jacksonville](/). They are banned from every dumpster, every landfill, and every curbside trash pickup route in Florida under the [Florida Solid Waste Management Act](https://floridadep.gov/waste). That ban is why tires cannot go in a 904 Dumpster roll-off and why most tire shops in Jacksonville will accept your old tires when you buy replacement tires. When tires are tangled up with a larger pile of junk, our [junk removal in Jacksonville](/junk-removal-jacksonville-fl) crews can haul the rest while you route the tires to a recycler. This guide lists the actual drop-off locations and the rules that apply when you have more than a handful to get rid of.
 
@@ -314,8 +314,8 @@ No. Tire burning releases benzene, dioxins, and heavy metals into the air and is
 
 ## Related Resources
 
-- [What Cannot Go in a Dumpster: Complete Prohibited Items List](/blog/what-cannot-go-in-dumpster)
-- [How to Dispose of Paint in Jacksonville FL](/blog/how-to-dispose-of-paint-jacksonville)
+- [What Cannot Go in a Dumpster: Complete Prohibited Items List](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
+- [How to Dispose of Paint in Jacksonville FL](/blog/where-to-dispose-of-old-paint-jacksonville)
 - [Recycling Guide for Jacksonville Construction Projects](/blog/recycling-guide-jacksonville-construction-projects)
 - [Prohibited Items List](/rules/prohibited-items-list)
     `,
@@ -464,7 +464,7 @@ No. The city does not offer extra pickups beyond the weekly schedule. For larger
     readTime: '8 min read',
     featuredImage: '/images/main-hero-dumpster.jpeg',
     tags: ['dumpster rental near me', 'find local dumpster rental', 'local vs national dumpster', 'dumpster broker vs hauler', 'how to find dumpster rental', 'fastest dumpster delivery'],
-    relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
+    relatedSlugs: ['dumpster-rental-cost-complete-pricing-guide', 'dumpster-sizes-explained-complete-guide', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 A search for "dumpster rental near me" returns three different types of companies: local haulers, national brokers, and franchise hybrids. They look identical on the search results page, but the experience and the pricing differ a lot once you book. This guide explains how to tell them apart, what to ask before booking, and how to find a real local company in your service area.
 
@@ -566,7 +566,7 @@ Ask whether they own the trucks or subcontract, what the all-in price is (no fue
 ## Related Resources
 
 - [Dumpster Rental Cost: Complete Pricing Guide](/blog/dumpster-rental-cost-complete-pricing-guide)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Roll-Off Dumpster Rental Complete Guide](/blog/roll-off-dumpster-rental-complete-guide)
 - [Jacksonville Dumpster Rental Pricing](/dumpster-rental-pricing-jacksonville)
     `,
@@ -586,7 +586,7 @@ Ask whether they own the trucks or subcontract, what the all-in price is (no fue
     readTime: '8 min read',
     featuredImage: '/images/10-yard-dumpster.avif',
     tags: ['small dumpster rental', 'apartment dumpster rental', 'condo dumpster rental', 'dumpster for apartment cleanout', 'HOA dumpster rules', 'small dumpster jacksonville'],
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'jacksonville-dumpster-permit-guide', 'how-to-find-dumpster-rental-near-me'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-permit-guide-do-you-need-one', 'how-to-find-dumpster-rental-near-me'],
     content: `
 Renting a dumpster for an apartment or condo [cleanout in Jacksonville](/) works differently than a single-family home rental. You do not have a driveway, the HOA may have placement rules, the parking lot is shared, and a street drop may need a city permit. The good news: a 10-yard dumpster fits in two parking spaces and handles most one-bedroom or two-bedroom unit cleanouts at $299. This guide walks through where to place it, how to get HOA approval, and when a smaller option works.
 
@@ -613,7 +613,7 @@ For larger condos (3+ bedrooms) or renovation work that includes flooring, drywa
 
 **Option 2: Tenant's assigned driveway or carport (rare).** Some condo complexes assign individual driveways or carport spaces. If yours does, this is the simplest placement.
 
-**Option 3: Street placement with a permit.** If parking lot placement is not allowed (some downtown high-rises, dense urban condos), the dumpster goes on a public street with a permit from the [City of Jacksonville Public Works](https://www.jacksonville.gov/departments/public-works.aspx). Permits typically take 3 to 5 business days and cost $50 to $100. See our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide) for the full process.
+**Option 3: Street placement with a permit.** If parking lot placement is not allowed (some downtown high-rises, dense urban condos), the dumpster goes on a public street with a permit from the [City of Jacksonville Public Works](https://www.jacksonville.gov/departments/public-works.aspx). Permits typically take 3 to 5 business days and cost $50 to $100. See our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one) for the full process.
 
 ## HOA Rules and What They Usually Require
 
@@ -644,7 +644,7 @@ The four most common apartment-scale rental scenarios:
 
 For apartment and condo cleanouts, the dumpster accepts almost everything you are clearing: furniture, mattresses, household items, kitchen items, electronics, miscellaneous boxes, broken items, and most renovation debris (drywall, cabinets, flooring, tile). The exclusions are the same as residential rentals:
 
-- Hazardous waste (paint, chemicals, batteries) - see our [paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville)
+- Hazardous waste (paint, chemicals, batteries) - see our [paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville)
 - Tires - see our [tire recycling guide](/blog/where-to-recycle-tires-jacksonville-fl)
 - Refrigerators and AC units (unless refrigerants professionally removed)
 - Medical waste, ammunition, propane tanks
@@ -676,7 +676,7 @@ For a one-bedroom apartment move-out, the 10-yard at $299 is usually enough. For
 
 ### Will an HOA let me put a dumpster in the parking lot?
 
-Most Jacksonville apartment and condo HOAs allow temporary dumpster placement in designated parking spaces with advance notice and a certificate of insurance. Confirm in writing with property management before booking. If parking lot placement is denied, the alternative is street placement with a [Jacksonville Public Works permit](/blog/jacksonville-dumpster-permit-guide).
+Most Jacksonville apartment and condo HOAs allow temporary dumpster placement in designated parking spaces with advance notice and a certificate of insurance. Confirm in writing with property management before booking. If parking lot placement is denied, the alternative is street placement with a [Jacksonville Public Works permit](/blog/dumpster-permit-guide-do-you-need-one).
 
 ### Do I need a permit to rent a dumpster for an apartment in Jacksonville?
 
@@ -692,8 +692,8 @@ Yes. 904 Dumpster offers property management accounts for landlords, condo assoc
 
 ## Related Resources
 
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
-- [Jacksonville Dumpster Permit Guide](/blog/jacksonville-dumpster-permit-guide)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
+- [Jacksonville Dumpster Permit Guide](/blog/dumpster-permit-guide-do-you-need-one)
 - [How to Find a Dumpster Rental Near You](/blog/how-to-find-dumpster-rental-near-me)
 - [Complete Home Cleanout Guide for Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
     `,

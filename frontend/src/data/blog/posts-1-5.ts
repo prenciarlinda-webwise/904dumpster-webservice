@@ -16,7 +16,7 @@ export const POSTS_1_TO_5: BlogPost[] = [
     featuredImage: '/images/dumpster-rental-st-augustine-fl.jpg',
     tags: ['dumpster rental cost st augustine', 'st augustine dumpster prices', 'st johns county dumpster rental', 'roll-off dumpster st augustine', 'how much does it cost to rent a dumpster', 'roll off dumpster prices', 'dumpster prices'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', '904-dumpster-clay-county-licensed-franchise-hauler'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', '904-dumpster-clay-county-licensed-franchise-hauler'],
     content: `
 ## How Much Does a Dumpster Rental Cost in St. Augustine FL?
 
@@ -118,7 +118,7 @@ You can also call (904) 240-5598 to book over the phone or ask questions about y
 
 In most cases, you do not need a permit for a dumpster rental in St. Augustine if the dumpster is placed on your private property, such as your driveway or yard. If your project requires placing the dumpster on a public street or right-of-way, you may need a permit from the City of St. Augustine or St. Johns County, depending on your location.
 
-For properties within the St. Augustine city limits, contact the Building Department at (904) 825-1065. For unincorporated St. Johns County, contact the Public Works Department. We cover this topic in more detail in our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide), which includes tips that apply throughout Northeast Florida.
+For properties within the St. Augustine city limits, contact the Building Department at (904) 825-1065. For unincorporated St. Johns County, contact the Public Works Department. We cover this topic in more detail in our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one), which includes tips that apply throughout Northeast Florida.
 
 ## Tips to Save Money on Your St. Augustine Dumpster Rental
 
@@ -144,7 +144,7 @@ You typically do not need a permit if the dumpster is placed on your private pro
 
 ### What can I put in a dumpster in St. Augustine?
 
-Most household and construction debris is accepted, including furniture, drywall, lumber, roofing shingles, appliances (with Freon removed), yard waste, and general junk. Prohibited items include hazardous materials, paint, tires, batteries, and electronics. For a complete list, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Most household and construction debris is accepted, including furniture, drywall, lumber, roofing shingles, appliances (with Freon removed), yard waste, and general junk. Prohibited items include hazardous materials, paint, tires, batteries, and electronics. For a complete list, read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ### Is 904 Dumpster cheaper than national dumpster rental companies?
 
@@ -154,7 +154,7 @@ In most cases, yes. National brokers and franchise haulers typically charge $350
 
 - [Dumpster Rental St. Augustine FL](/dumpster-rental-st-augustine-fl)
 - [Dumpster Size Guide](/dumpster-size-guide)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
   },
@@ -172,7 +172,7 @@ In most cases, yes. National brokers and franchise haulers typically charge $350
     featuredImage: '/images/spring-cleaning-dumpster-jacksonville.png',
     tags: ['spring cleaning jacksonville', 'decluttering guide', 'spring cleanout dumpster', 'jacksonville home cleanup', 'spring cleaning', 'how to declutter your home', 'daily weekly monthly cleaning schedule', 'home cleanouts'],
     status: 'published' as const,
-    relatedSlugs: ['complete-guide-home-cleanout-jacksonville', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['complete-guide-home-cleanout-jacksonville', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## The Ultimate Spring Cleaning Decluttering Guide for Jacksonville Homeowners
 
@@ -237,7 +237,7 @@ Clothing and bedroom clutter are the biggest sources of wasted space in most Jac
 Jacksonville garages are notorious clutter magnets. Between yard equipment, holiday decorations, half-finished projects, and storm supplies, most two-car garages barely fit one car.
 
 **Toss:**
-- Dried-out paint cans (check our [paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville) for proper handling)
+- Dried-out paint cans (check our [paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) for proper handling)
 - Rusty tools, broken lawn equipment, and frayed extension cords
 - Old chemicals, pesticides, and pool chemicals past their shelf life
 - Cardboard boxes that have absorbed Florida humidity and are warping
@@ -308,7 +308,7 @@ If your spring cleaning will generate more than a few bags of trash, a dumpster 
 | Whole-house declutter | [15-Yard](/15-yard-dumpster-rental) | $349 |
 | Whole-house + yard + shed | [20-Yard](/20-yard-dumpster-rental) | $399 |
 
-Not sure which size fits your cleanout? Read our [guide to choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) for visual comparisons and project examples.
+Not sure which size fits your cleanout? Read our [guide to choosing the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) for visual comparisons and project examples.
 
 > REVIEW: "Fast and efficient service. Excellent price will use again highly recommended" - Sarah Phillips, Google Review
 
@@ -358,7 +358,7 @@ While most spring cleaning debris goes right into the dumpster, a few items are 
 - Appliances containing Freon (unless professionally drained)
 - Medical waste
 
-For a complete list with disposal alternatives for each item, read our [what cannot go in a dumpster guide](/blog/what-cannot-go-in-dumpster).
+For a complete list with disposal alternatives for each item, read our [what cannot go in a dumpster guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## Frequently Asked Questions
 
@@ -385,7 +385,7 @@ March through early May is the ideal window. Temperatures are comfortable in the
 ## Related Resources
 
 - [Complete Guide to Home Cleanouts in Jacksonville](/blog/complete-guide-home-cleanout-jacksonville)
-- [What Cannot Go in a Dumpster](/blog/what-cannot-go-in-dumpster)
+- [What Cannot Go in a Dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules)
 - [Residential Dumpster Rental](/residential-dumpster-rental-jacksonville-fl)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
@@ -404,7 +404,7 @@ March through early May is the ideal window. Temperatures are comfortable in the
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['bathroom renovation debris', 'bathroom remodel dumpster', 'tile disposal', 'bathroom demolition waste', 'diy bathroom remodel', 'how to remodel a bathroom'],
     status: 'published' as const,
-    relatedSlugs: ['kitchen-renovation-debris-disposal', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['kitchen-renovation-debris-disposal', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Handle Bathroom Renovation Waste and Debris
 
@@ -441,7 +441,7 @@ Older Jacksonville homes, especially those built before 1980 in neighborhoods li
 - **Asbestos tile or pipe insulation** - Floor tiles, adhesives, and pipe wrapping in pre-1980 homes may contain asbestos. If you suspect asbestos, have it tested before demolition. The Duval County Health Department can provide guidance.
 - **Mold-damaged drywall** - While not hazardous waste, heavily molded drywall should be bagged before placing in the dumpster to contain spores. This is extremely common in Jacksonville bathrooms due to our high humidity.
 
-For a complete list of items that cannot go in a dumpster, read our [prohibited items guide](/blog/what-cannot-go-in-dumpster).
+For a complete list of items that cannot go in a dumpster, read our [prohibited items guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## Choosing the Right Dumpster Size for Your Bathroom Remodel
 
@@ -585,7 +585,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
 ## Related Resources
 
 - [Kitchen Renovation Debris Disposal](/blog/kitchen-renovation-debris-disposal-guide)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Construction Dumpster Rental](/construction-dumpster-rental-jacksonville-fl)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
@@ -605,7 +605,7 @@ A typical full-gut bathroom renovation generates 1,000 to 2,500 lbs of debris. T
     featuredImage: '/images/10-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['dumpster rental cost orange park', 'clay county dumpster cost', 'orange park dumpster rental', 'roll-off dumpster orange park', 'how much does it cost to rent a dumpster', 'dumpster rental cost', 'roll off dumpster prices'],
     status: 'published' as const,
-    relatedSlugs: ['904-dumpster-clay-county-licensed-franchise-hauler', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['904-dumpster-clay-county-licensed-franchise-hauler', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Dumpster Rental Pricing in Orange Park FL for 2026
 
@@ -702,7 +702,7 @@ Break down furniture, flatten cardboard boxes, and disassemble large items befor
 
 ### Know What Goes In
 
-Avoid placing prohibited items in the dumpster, as some generate extra fees for removal. Check our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) before you start loading.
+Avoid placing prohibited items in the dumpster, as some generate extra fees for removal. Check our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) before you start loading.
 
 ### Book During Off-Peak Times
 
@@ -726,7 +726,7 @@ Prefer to talk to a real person? Call (904) 240-5598 and we will help you choose
 
 You do not need a permit to place a dumpster on your own property in Orange Park or unincorporated Clay County. If you need to place the dumpster on a public street or county right-of-way, contact Clay County Public Works at (904) 284-6374 for permit requirements. Within the Town of Orange Park limits, contact Town Hall at (904) 264-0576.
 
-Most Orange Park homeowners place dumpsters in their driveway, which requires no permit and keeps the dumpster off public roads. Our drivers place protective boards under the dumpster wheels to prevent any marks on your driveway surface. For more details on permit requirements across the region, see our [Jacksonville dumpster permit guide](/blog/jacksonville-dumpster-permit-guide).
+Most Orange Park homeowners place dumpsters in their driveway, which requires no permit and keeps the dumpster off public roads. Our drivers place protective boards under the dumpster wheels to prevent any marks on your driveway surface. For more details on permit requirements across the region, see our [Jacksonville dumpster permit guide](/blog/dumpster-permit-guide-do-you-need-one).
 
 ## Orange Park Disposal Facilities
 
@@ -775,7 +775,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
 
 - [Dumpster Rental Orange Park FL](/dumpster-rental-orange-park-fl)
 - [904 Dumpster: Clay County Licensed Franchise Hauler](/blog/904-dumpster-clay-county-licensed-franchise-hauler)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [Dumpster Rental Pricing Jacksonville](/dumpster-rental-pricing-jacksonville)
 `,
   },
@@ -793,7 +793,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     featuredImage: '/images/10-yard-dumpster-rental.jpg',
     tags: ['10 yard dumpster capacity', 'what fits in 10 yard dumpster', 'small dumpster rental', '10 yard dumpster projects', '10 yard dumpster dimensions', '10 yd dumpster', '10 cubic yard dumpster', 'how big is a 10 yard dumpster'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 
@@ -844,7 +844,7 @@ This is the number-one use for 10-yard dumpsters in Jacksonville. The typical tw
 - Shelving units and workbenches
 - 10-20 bags of miscellaneous junk
 - Holiday decorations you no longer use
-- Old paint cans and dried chemicals (check our [paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville) for proper handling of liquid paint)
+- Old paint cans and dried chemicals (check our [paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) for proper handling of liquid paint)
 
 ### Small Bathroom Remodel
 
@@ -983,7 +983,7 @@ A 10-yard dumpster rental in Jacksonville costs $299 from 904 Dumpster. This fla
 
 - [10-Yard Dumpster Rental](/10-yard-dumpster-rental)
 - [Dumpster Size Guide](/dumpster-size-guide)
-- [How to Choose the Right Dumpster Size](/blog/how-to-choose-right-dumpster-size)
+- [How to Choose the Right Dumpster Size](/blog/dumpster-sizes-explained-complete-guide)
 - [20-Yard Dumpster Guide](/20-yard-dumpster-rental)
 `,
   },

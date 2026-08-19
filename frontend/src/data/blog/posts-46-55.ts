@@ -15,7 +15,7 @@ export const POSTS_46_TO_55: BlogPost[] = [
     featuredImage: '/images/10-yard-dumpster-rental-cost.jpg',
     tags: ['screened in porch exterior', 'how to screen in porch', 'how to make screen panels for porch', 'porch renovation waste', 'porch construction debris', 'screen porch project planning', 'porch debris removal jacksonville', 'home improvement waste disposal'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Screened-In Porch Project Debris and Waste Planning
 
@@ -96,7 +96,7 @@ New construction porches generate less demolition waste but more packaging and m
 
 ## Items That Cannot Go in the Dumpster
 
-Even during a screened-in porch project, certain materials require separate disposal. Paint cans with liquid paint, solvents, adhesive chemicals, and any materials containing asbestos (sometimes found in older porch ceiling tiles or siding) cannot go into a roll-off dumpster. For a full list of restricted items, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Even during a screened-in porch project, certain materials require separate disposal. Paint cans with liquid paint, solvents, adhesive chemicals, and any materials containing asbestos (sometimes found in older porch ceiling tiles or siding) cannot go into a roll-off dumpster. For a full list of restricted items, read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## Keeping Your Jacksonville Property Clean During the Project
 
@@ -145,7 +145,7 @@ In Jacksonville, no permit is needed if the dumpster sits on your private drivew
     featuredImage: '/images/10-yard-dumpster-rental-near-me.jpg',
     tags: ['how to find roof leak', 'how to find a leak on a shingle roof', 'roof leak repair preparation', 'roofing debris disposal', 'roof replacement waste', 'roofing waste jacksonville', 'shingle disposal', 'roof repair planning'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## How to Find and Prepare for a Roof Leak Repair
 
@@ -249,7 +249,7 @@ Your roofing contractor may provide their own dumpster, or they may ask you to a
 
 Asphalt shingles are one of the most common forms of construction waste in Northeast Florida. The good news is that asphalt shingles can often be recycled. Several facilities in the Jacksonville area accept old shingles for processing into road base material and other asphalt products. When you rent a dumpster from 904 Dumpster, we handle the hauling and proper disposal for you.
 
-Items that come off roofs but cannot go in a standard dumpster include any materials containing asbestos, which may be found in roofing materials on homes built before 1980. If your home is older, your contractor should test suspect materials before removal. For more about restricted items, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Items that come off roofs but cannot go in a standard dumpster include any materials containing asbestos, which may be found in roofing materials on homes built before 1980. If your home is older, your contractor should test suspect materials before removal. For more about restricted items, see our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 We serve homeowners throughout Northeast Florida including [St. Augustine](/dumpster-rental-st-augustine-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and [Orange Park](/dumpster-rental-orange-park-fl). No matter where your roof project is located, we deliver fast with the same flat-rate pricing.
 
@@ -294,7 +294,7 @@ For a minor patch repair involving just a few shingles and a vent boot, heavy-du
     featuredImage: '/images/15-yard-dumpster-rental-cost.jpg',
     tags: ['how to remove laminate wood flooring', 'how to remove laminate tile flooring', 'laminate floor removal tool', 'how much to rip up carpet', 'how long does subfloor last', 'wood floors refinishing', 'wood floor sanding and refinishing', 'wood floor installation cost', 'flooring waste disposal'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Flooring Removal Waste and How to Dispose of It
 
@@ -422,7 +422,7 @@ Carpet can be removed from a full house in one to two days. Laminate removal typ
     featuredImage: '/images/20-yard-dumpster-rental-near-me.jpg',
     tags: ['common building code violations', 'house code violations', 'home violations', 'do you need a permit to finish an attic', 'things to look for when buying an old house', 'building code jacksonville', 'home renovation permits', 'code violation cleanup'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'roll-off-dumpster-rental-complete-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'roll-off-dumpster-rental-complete-guide'],
     content: `
 ## Building Code Violations Every Homeowner Should Know
 
@@ -560,7 +560,7 @@ Some work, like installing smoke detectors or improving ventilation, can be done
     featuredImage: '/images/small-dumpster-rentals.png',
     tags: ['laundry renovation cost', 'laundry room renovation price', 'bathroom remodel order', 'bathroom remodel for cheap', 'bathroom renovation waste', 'bathroom demolition debris', 'laundry room renovation waste', 'bathroom remodel disposal'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'flooring-removal-waste-disposal-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'flooring-removal-waste-disposal-guide'],
     content: `
 ## Laundry Room and Bathroom Renovation Waste Planning
 
@@ -666,7 +666,7 @@ Florida's humidity means bathrooms with poor ventilation often develop mold behi
 
 ### Older Home Considerations
 
-Jacksonville neighborhoods like [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Ortega, and Springfield have many homes built before 1970. These homes may have lead paint, asbestos-containing tiles or adhesives, and galvanized plumbing that are all specific to older construction. Materials containing asbestos require professional abatement and cannot go in a standard dumpster. Have suspect materials tested before demolition. For a full list of restricted materials, see our [guide to what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Jacksonville neighborhoods like [Riverside](/dumpster-rental-riverside-avondale-fl), Avondale, Ortega, and Springfield have many homes built before 1970. These homes may have lead paint, asbestos-containing tiles or adhesives, and galvanized plumbing that are all specific to older construction. Materials containing asbestos require professional abatement and cannot go in a standard dumpster. Have suspect materials tested before demolition. For a full list of restricted materials, see our [guide to what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 We serve homeowners throughout Northeast Florida including [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl), and [Middleburg](/dumpster-rental-middleburg-fl). [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call us at **(904) 240-5598** to get a dumpster delivered before your renovation begins.
 
@@ -711,7 +711,7 @@ If your update is limited to painting, replacing fixtures, and swapping a vanity
     featuredImage: '/images/when-to-rent-dumpster-jacksonville.png',
     tags: ['old appliances disposal', 'dispose appliances', 'disposal of appliances', 'where to throw away appliances', 'disposal of hot water heater', 'will the garbage man take a hot water heater', 'can you take a dishwasher to the dump', 'where to throw away dishwasher', 'appliance disposal jacksonville'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'what-cannot-go-in-dumpster'],
+    relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'what-can-and-cannot-go-in-a-dumpster-rules'],
     content: `
 ## How to Dispose of Appliances in Jacksonville FL
 
@@ -840,7 +840,7 @@ Costs range from free (city bulk pickup or scrap yard) to $299-$399 for a dumpst
     featuredImage: '/images/20-yard-dumpster.jpg',
     tags: ['yard drainage solutions', 'landscape water drainage', 'yard not draining water', 'how to get rid of gravel', 'how to dispose of gravel', 'gravel removal cost', 'how to dispose of landscape rocks', 'how to get rid of extra dirt', 'where to throw dirt away', 'where to take dirt', 'dirt wanted'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'how-to-dispose-of-rocks-dirt-landscaping'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'how-to-dispose-of-rocks-dirt-landscaping'],
     content: `
 ## Yard Drainage Solutions and Debris Removal
 
@@ -1121,7 +1121,7 @@ Habitat for Humanity ReStore, The Salvation Army, and Goodwill all accept furnit
 
 ### What should I not put in a dumpster when decluttering?
 
-Hazardous materials like paint, chemicals, batteries, propane tanks, and refrigerants are not accepted in dumpsters. Electronics and tires may also have restrictions. See our full guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) for a complete list.
+Hazardous materials like paint, chemicals, batteries, propane tanks, and refrigerants are not accepted in dumpsters. Electronics and tires may also have restrictions. See our full guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for a complete list.
 `,
   },
   // Post 54
@@ -1139,7 +1139,7 @@ Hazardous materials like paint, chemicals, batteries, propane tanks, and refrige
     featuredImage: '/images/junk-removal-jacksonville-vs-dumpster.png',
     tags: ['junk removal', 'junk pods', 'take it away dumpster rental', 'dumpster rental and removal', 'remove and dispose', 'whole house junk removal', 'budget roll off', 'dumpster rental vs junk removal'],
     status: 'published' as const,
-    relatedSlugs: ['roll-off-dumpster-rental-complete-guide', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['roll-off-dumpster-rental-complete-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Dumpster Rental vs Junk Removal Compared
 
@@ -1271,7 +1271,7 @@ Ask yourself these questions:
 4. **How much volume am I dealing with?** High volume favors dumpster rental. Low volume may favor junk removal.
 5. **How quickly do I need it done?** Both offer fast service, but junk removal crews finish in hours versus days for self-loading.
 
-For more guidance on choosing the right dumpster size, read our [complete guide to choosing the right dumpster size](/blog/how-to-choose-right-dumpster-size) or our [roll-off dumpster rental guide](/blog/roll-off-dumpster-rental-complete-guide). [Book a dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**.
+For more guidance on choosing the right dumpster size, read our [complete guide to choosing the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) or our [roll-off dumpster rental guide](/blog/roll-off-dumpster-rental-complete-guide). [Book a dumpster online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **(904) 240-5598**.
 
 ## Frequently Asked Questions
 

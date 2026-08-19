@@ -15,7 +15,7 @@ export const POSTS_36_TO_45: BlogPost[] = [
     featuredImage: '/images/20-yard-dumpster.jpg',
     tags: ['dumpster calculator', 'dumpster weight calculator', 'debris calculator', 'dumpster yard calculator', 'calculate dumpster size', 'cubic yards in feet', 'how much is a cubic yard of trash', 'demolition debris calculator'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-rental-for-homeowners-first-time-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-rental-for-homeowners-first-time-guide'],
     content: `
 ## Dumpster Rental Calculator and Debris Volume Estimator
 
@@ -82,7 +82,7 @@ Volume is only half the equation. Every dumpster also has a weight limit, and ex
 - **Concrete and masonry**: about 2,000+ lbs per cubic yard
 - **Roofing shingles**: about 750-1,000 lbs per cubic yard
 
-If your project involves heavy materials like concrete, tile, or brick, you may need a specialized [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) or should plan to fill the container only partially to stay within weight limits. For more details on what materials are accepted, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+If your project involves heavy materials like concrete, tile, or brick, you may need a specialized [concrete disposal dumpster](/concrete-disposal-dumpster-jacksonville-fl) or should plan to fill the container only partially to stay within weight limits. For more details on what materials are accepted, read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ### Dumpster Sizes for Your Project
 
@@ -134,7 +134,7 @@ It depends entirely on the material. A cubic yard of household junk weighs about
 
 ### What size dumpster do I need for a home renovation?
 
-For a single-room renovation like a bathroom or kitchen, a [10-yard dumpster](/10-yard-dumpster-rental) is usually sufficient. For whole-home renovations or projects involving multiple rooms, a [15-yard](/15-yard-dumpster-rental) or [20-yard dumpster](/20-yard-dumpster-rental) is the better choice. Check our [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size) guide for more detailed recommendations.
+For a single-room renovation like a bathroom or kitchen, a [10-yard dumpster](/10-yard-dumpster-rental) is usually sufficient. For whole-home renovations or projects involving multiple rooms, a [15-yard](/15-yard-dumpster-rental) or [20-yard dumpster](/20-yard-dumpster-rental) is the better choice. Check our [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) guide for more detailed recommendations.
 
 ### Can I put heavy materials like concrete in a regular dumpster?
 
@@ -159,7 +159,7 @@ Call us and we will schedule a swap or a second delivery. It happens, and we mak
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['garage conversion waste', 'garage conversion permit jacksonville', 'how much does it cost to convert a garage', 'garage conversion without permit', 'will converting a garage add value', 'permit to convert garage to living space', 'garage renovation debris', 'garage conversion jacksonville'],
     status: 'published' as const,
-    relatedSlugs: ['garage-cleanout-guide-jacksonville', 'how-to-choose-right-dumpster-size'],
+    relatedSlugs: ['garage-cleanout-guide-jacksonville', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## Garage Conversion Guide and Waste Planning
 
@@ -227,7 +227,7 @@ The finishing phase includes drywall installation, flooring, painting, trim work
 
 - **Drywall:** Scrap pieces, dust, and joint compound containers
 - **Flooring:** Offcuts from laminate, tile, or carpet; old underlayment; packaging
-- **Paint:** Empty cans and plastic sheeting (note: liquid paint cannot go in dumpsters, see our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster))
+- **Paint:** Empty cans and plastic sheeting (note: liquid paint cannot go in dumpsters, see our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules))
 - **Trim and cabinetry:** Wood offcuts, packaging, and hardware waste
 
 ## How Much Waste Does a Garage Conversion Produce?
@@ -304,150 +304,6 @@ A properly permitted garage conversion that meets building codes for habitable s
 Most garage conversions take 4 to 8 weeks depending on scope, permit approval times, and contractor availability. Plan for the first week to involve cleanout and demolition, which is the most waste-intensive period. Our standard 5-day dumpster rental covers that initial phase well, and you can extend or schedule a second rental for the later phases.
 `,
   },
-  // Post 38
-  {
-    slug: 'kitchen-renovation-waste-preparation-guide',
-    title: 'How to Prepare for a Kitchen Renovation Debris Cleanup',
-    metaTitle: 'Kitchen Renovation Waste Guide - Jacksonville FL Debris',
-    metaDescription: 'Preparing for a kitchen renovation in Jacksonville? Learn what debris to expect from demo, cabinets, flooring, and countertops, and plan your waste removal.',
-    excerpt: 'Kitchen renovations produce more waste than most homeowners expect. From cabinets and countertops to flooring and appliances, this guide helps you prepare for the debris side of your Jacksonville kitchen remodel.',
-    category: 'home-improvement',
-    author: '904 Dumpster',
-    publishedDate: '2026-06-04T18:00:00-04:00',
-    readTime: '10 min read',
-    featuredImage: '/images/jacksonville-dumpster-rental.jpg',
-    tags: ['kitchen renovation waste', 'kitchen remodel debris', 'kitchen renovation blog', 'kitchen remodel 101', 'how much to remove ceramic tile', 'laminate floor removal', 'renovation blog', 'home renovation blog', 'home improvement blogs'],
-    status: 'published' as const,
-    relatedSlugs: ['dumpster-rental-calculator-estimate-debris-volume', 'recycling-guide-jacksonville-construction-projects'],
-    content: `
-## How to Prepare for a Kitchen Renovation Cleanup
-
-A kitchen renovation is one of the most impactful home improvement projects you can take on, but it also generates one of the largest volumes of waste. Ripping out old cabinets, countertops, flooring, backsplash, and appliances from an [average Jacksonville kitchen](/) produces 6 to 12 cubic yards of debris before new materials even arrive. If you do not plan for waste removal before demolition day, you will find yourself surrounded by piles of broken tile, splintered cabinets, and old drywall with nowhere to put it.
-
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
-
-## Why Kitchen Renovations Produce So Much Waste
-
-Kitchens are densely packed rooms. Every square foot of wall and floor space is covered with something: cabinets above and below, countertops, backsplash tile, flooring that often has multiple layers, appliances, lighting fixtures, and plumbing fixtures. When you strip all of that out, the volume of material is staggering.
-
-A typical Jacksonville kitchen ranges from 100 to 250 square feet, but the waste it produces is disproportionate to its size because of the density and weight of the materials involved. Ceramic tile is heavy. Granite and quartz countertops are extremely heavy. Wood cabinets are bulky. And the adhesives, grout, and substrate layers underneath everything add even more volume and weight.
-
-## What Waste to Expect at Each Stage
-
-### Stage 1 - Kitchen Cleanout and Preparation
-
-Before any demolition begins, the kitchen needs to be completely emptied. Every dish, utensil, small appliance, pantry item, and cleaning supply needs to move to another room. This is also a good time to sort through what you actually use versus what has been sitting in cabinets untouched for years.
-
-Many homeowners discover that their kitchen cleanout alone fills several trash bags with expired food, broken utensils, and items they no longer need. Consider donating usable kitchen items to Goodwill or Habitat for Humanity ReStore in Jacksonville before the renovation starts.
-
-### Stage 2 - Appliance Removal
-
-Old appliances are among the first items removed. A standard kitchen has a refrigerator, stove or range, dishwasher, microwave (often built-in), and possibly a garbage disposal and range hood. These appliances are bulky and heavy, but many can be donated, sold, or recycled rather than thrown in a dumpster.
-
-Jacksonville has several appliance recycling options, and many scrap metal dealers will pick up old appliances for free because of their metal value. If appliances are in working condition, organizations like Habitat for Humanity ReStore accept donations. For broken appliances that cannot be donated, they can go in your dumpster. Read our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for more options.
-
-### Stage 3 - Cabinet and Countertop Demolition
-
-This is where the bulk of kitchen renovation waste comes from. A typical set of upper and lower cabinets from a U-shaped or L-shaped kitchen produces 3 to 6 cubic yards of waste. Cabinets are bulky because of their box construction, and breaking them down with a pry bar reduces their volume significantly.
-
-Countertop waste varies dramatically by material:
-
-| Countertop Material | Weight per Linear Foot | Disposal Notes |
-|--------------------|-----------------------|----------------|
-| Laminate | 5-10 lbs | Lightweight, easy to break down |
-| Granite | 20-25 lbs | Very heavy, handle carefully |
-| Quartz | 20-25 lbs | Very heavy, similar to granite |
-| Butcher block | 10-15 lbs | Can sometimes be recycled as wood |
-| Concrete | 25-30 lbs | Extremely heavy, watch weight limits |
-
-If your kitchen has granite or quartz countertops, the weight adds up fast. A 30-linear-foot countertop in granite weighs 600 to 750 pounds. Factor this into your dumpster weight planning.
-
-### Stage 4 - Flooring Removal
-
-Kitchen flooring removal is often the most labor-intensive part of the waste equation, especially in older Jacksonville homes where multiple layers of flooring have been installed over the decades. It is common to find vinyl over tile over hardwood, each layer requiring removal before new flooring goes down. If your home was built before 1978, be aware that the [EPA Renovation, Repair and Painting rule](https://www.epa.gov/lead/renovation-repair-and-painting-program) requires lead-safe work practices when disturbing painted surfaces.
-
-**Ceramic tile removal** is particularly waste-heavy. The tile itself weighs about 4 pounds per square foot, and the mortar bed underneath can weigh another 5 to 10 pounds per square foot. For a 200-square-foot kitchen, ceramic tile and mortar alone can produce 1,800 to 2,800 pounds of debris.
-
-**Laminate flooring removal** produces lighter waste but still significant volume. Laminate planks, underlayment foam, and any adhesive or transition strips need disposal. A 200-square-foot kitchen produces roughly 1 to 2 cubic yards of laminate waste.
-
-**Vinyl flooring** is the lightest option to remove but can be complicated in older homes where it was glued directly to a plywood subfloor. In some cases, the subfloor comes up with the vinyl and needs replacement.
-
-### Stage 5 - Backsplash and Drywall
-
-Removing backsplash tile almost always damages the drywall behind it. Plan to replace the drywall in the backsplash area at minimum. If water damage is discovered behind the sink or dishwasher area, which is common in Jacksonville's humid climate, you may end up replacing larger sections of drywall.
-
-Drywall waste adds up quickly. A standard 4x8-foot sheet of drywall weighs about 50 to 60 pounds. Even replacing just the backsplash sections of a kitchen can produce 200 to 300 pounds of drywall waste.
-
-### Dumpster Sizes for Your Project
-
-| | | |
-|---|---|---|
-| [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
-
-## Choosing the Right Dumpster for Your Kitchen Renovation
-
-Based on hundreds of kitchen renovation dumpster rentals throughout Jacksonville, here are our recommendations:
-
-| Kitchen Size | Scope of Work | Recommended Dumpster |
-|-------------|--------------|---------------------|
-| Small galley kitchen | Cabinets, counters, and flooring | [10-Yard](/10-yard-dumpster-rental) |
-| Average L-shaped kitchen | Full gut including backsplash and drywall | [15-Yard](/15-yard-dumpster-rental) |
-| Large U-shaped kitchen | Full gut with heavy countertops and tile | [15-Yard](/15-yard-dumpster-rental) or [20-Yard](/20-yard-dumpster-rental) |
-| Kitchen plus adjacent rooms | Kitchen and dining/laundry renovation | [20-Yard](/20-yard-dumpster-rental) |
-
-For more help choosing, see our [dumpster size guide](/dumpster-size-guide) or our [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size) blog post.
-
-## Preparing Your Jacksonville Home for Kitchen Demo Day
-
-### Clear a Path
-
-The path from your kitchen to the dumpster in your driveway needs to be completely clear. Remove rugs, fragile items, and anything in hallways and doorways that could be bumped or damaged. Protect hardwood floors in adjacent rooms with heavy-duty drop cloths or cardboard.
-
-### Set Up a Temporary Kitchen
-
-Your kitchen will be completely unusable during demolition and potentially for weeks afterward. Set up a temporary cooking and eating area in another room with a microwave, mini fridge, paper plates, and your coffee maker. Jacksonville has plenty of great restaurants for the nights when you just cannot deal with another microwave meal.
-
-### Cover and Seal Adjacent Rooms
-
-Kitchen demolition produces enormous amounts of dust, especially when removing tile, drywall, and grout. Seal doorways to adjacent rooms with plastic sheeting and painter's tape. This is particularly important in Florida where HVAC systems run frequently and can spread construction dust throughout the entire house.
-
-### Schedule Dumpster Delivery
-
-[Book your dumpster](https://app.icans.ai/customer-portal/904dumpster/book/) at least two days before demolition begins. Having the container on-site and ready means debris goes directly from the kitchen into the dumpster without intermediate staging. We deliver throughout Jacksonville and surrounding communities including [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), [St. Augustine](/dumpster-rental-st-augustine-fl), and [Fernandina Beach](/dumpster-rental-fernandina-beach-fl).
-
-> REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
-
-## What Cannot Go in the Dumpster from a Kitchen Renovation
-
-Most kitchen renovation debris is accepted in our dumpsters, but there are a few exceptions. Liquid paint, chemical solvents, and refrigerators that still contain refrigerant require special disposal. If your old refrigerator needs the refrigerant removed before disposal, many HVAC companies in Jacksonville offer this service for a small fee. For a complete list of restricted items, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
-
-## Frequently Asked Questions
-
-### How much debris does a kitchen renovation produce?
-
-A typical Jacksonville kitchen renovation produces 6 to 12 cubic yards of debris, weighing 2,000 to 5,000 pounds depending on materials. Kitchens with ceramic tile floors and granite countertops produce heavier waste, while kitchens with laminate and vinyl produce lighter but still significant volumes.
-
-### How much does it cost to remove ceramic tile flooring?
-
-Professional ceramic tile removal in Jacksonville typically costs $3 to $6 per square foot for labor. The dumpster rental for tile disposal starts at $299 for a [10-yard container](/10-yard-dumpster-rental). For a 200-square-foot kitchen, total tile removal and disposal costs range from $875 to $1,475.
-
-### What size dumpster do I need for a kitchen remodel?
-
-Most kitchen renovations in Jacksonville fit well in a [15-yard dumpster](/15-yard-dumpster-rental). Smaller galley kitchens can get by with a [10-yard](/10-yard-dumpster-rental), and large kitchens with heavy tile and stone countertops may need a [20-yard](/20-yard-dumpster-rental). When in doubt, size up. The price difference is only $50, and it is cheaper than ordering a second container.
-
-### Can I donate old kitchen cabinets instead of throwing them away?
-
-Yes, if they are in reasonable condition. Habitat for Humanity ReStore on North Main Street in Jacksonville accepts used cabinets, countertops, sinks, and appliances. Donating usable materials reduces your waste volume and may provide a tax deduction.
-
-### How long should I rent a dumpster for a kitchen renovation?
-
-Our standard rental includes 5 days, which covers the demolition phase of most kitchen renovations. If your project timeline is longer, we offer affordable extensions. Many homeowners rent one dumpster for demo and a second later for construction waste from the rebuild phase.
-
-### Do I need to sort kitchen renovation debris for recycling?
-
-Sorting is not required but can reduce disposal costs. Metal fixtures, copper pipes, and steel appliances can go to scrap yards. Clean wood from cabinets can sometimes be recycled. See our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) for details on local recycling options.
-`,
-  },
   // Post 39
   {
     slug: 'basement-renovation-waste-planning-guide',
@@ -462,7 +318,7 @@ Sorting is not required but can reduce disposal costs. Metal fixtures, copper pi
     featuredImage: '/images/20-yard-dumpster-rental-prices-near-me.jpg',
     tags: ['basement renovation waste', 'fix leaking basement wall', 'leak in foundation wall', 'how to turn a basement into an apartment', 'why does my basement smell musty', 'basement efficiency apartment', 'cost to turn basement into apartment', 'check foundation of house'],
     status: 'published' as const,
-    relatedSlugs: ['kitchen-renovation-waste-preparation-guide', 'attic-basement-cleanout-decluttering-disposal'],
+    relatedSlugs: ['kitchen-renovation-debris-disposal-guide', 'attic-basement-cleanout-decluttering-disposal'],
     content: `
 ## Basement Renovation Waste Guide from Leaks to Living Space
 
@@ -511,7 +367,7 @@ Common items found during Jacksonville basement cleanouts include:
 - Tools, paint cans, and workshop materials
 - Sporting equipment and toys
 
-Be aware that some items commonly stored in basements cannot go in a dumpster. Paint, chemicals, batteries, propane tanks, and other hazardous materials require special disposal through the [City of Jacksonville Household Hazardous Waste program](https://www.coj.net/departments/neighborhoods/solid-waste). For details, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+Be aware that some items commonly stored in basements cannot go in a dumpster. Paint, chemicals, batteries, propane tanks, and other hazardous materials require special disposal through the [City of Jacksonville Household Hazardous Waste program](https://www.coj.net/departments/neighborhoods/solid-waste). For details, read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ### How to Organize an Unfinished Basement
 
@@ -854,7 +710,7 @@ Once the junk is gone, clean the space thoroughly. Sweep, vacuum, and wipe down 
 | Basement cleanout (moderate) | 6-10 cubic yards | [15-Yard](/15-yard-dumpster-rental) |
 | Full attic and basement combined | 10-18 cubic yards | [15-Yard](/15-yard-dumpster-rental) or [20-Yard](/20-yard-dumpster-rental) |
 
-For help choosing, read our [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size) guide or check the [dumpster size guide](/dumpster-size-guide) page.
+For help choosing, read our [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide) guide or check the [dumpster size guide](/dumpster-size-guide) page.
 
 ## Frequently Asked Questions
 
@@ -876,7 +732,7 @@ The cost depends on how much work you do yourself. A DIY attic cleanout with a [
 
 ### What should I not put in a dumpster during a cleanout?
 
-Hazardous materials including paint, chemicals, batteries, propane tanks, and motor oil cannot go in a dumpster. Electronics with batteries should be recycled separately. Check our complete guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster) for the full list.
+Hazardous materials including paint, chemicals, batteries, propane tanks, and motor oil cannot go in a dumpster. Electronics with batteries should be recycled separately. Check our complete guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for the full list.
 `,
   },
   // Post 42
@@ -893,7 +749,7 @@ Hazardous materials including paint, chemicals, batteries, propane tanks, and mo
     featuredImage: '/images/cheap-dumpster-rental-near-me.jpg',
     tags: ['where can i dispose of old paint', 'can you throw paint cans in a dumpster', 'paint disposal jacksonville', 'hazardous materials dumpster', 'latex paint disposal', 'oil based paint disposal', 'paint recycling jacksonville', 'household hazardous waste jacksonville'],
     status: 'published' as const,
-    relatedSlugs: ['what-cannot-go-in-dumpster', 'recycling-guide-jacksonville-construction-projects'],
+    relatedSlugs: ['what-can-and-cannot-go-in-a-dumpster-rules', 'recycling-guide-jacksonville-construction-projects'],
     content: `
 ## Where to Dispose of Old Paint in Jacksonville FL
 
@@ -952,7 +808,7 @@ This is one of the most frequently asked questions we receive, and the answer ha
 
 **Cans with liquid oil-based paint:** Absolutely not. Oil-based paint is hazardous waste and must never go in a dumpster, curbside bin, or regular trash regardless of the amount.
 
-For a complete guide to prohibited dumpster items, read our post on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster).
+For a complete guide to prohibited dumpster items, read our post on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules).
 
 ## How to Dry Out Latex Paint for Disposal
 
@@ -1047,7 +903,7 @@ For major renovation projects that generate multiple gallons of old paint, sched
     featuredImage: '/images/residential-dumpster.jpg',
     tags: ['residential dumpster rental', 'household dumpster rental', 'dumpster rental residential', 'driveway dumpster rental', 'need to rent a dumpster', 'how long can you rent a dumpster for', 'dumpster rental faq', 'online dumpster rental', 'quick dumpster rental'],
     status: 'published' as const,
-    relatedSlugs: ['how-to-choose-right-dumpster-size', 'dumpster-rental-calculator-estimate-debris-volume'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-rental-calculator-estimate-debris-volume'],
     content: `
 ## Dumpster Rental for Homeowners and First-Timers
 
@@ -1115,7 +971,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is our largest option and handles
 |---|---|---|
 | [**10-Yard Dumpster** - $299 - Perfect for small cleanouts](/10-yard-dumpster-rental) | [**15-Yard Dumpster** - $349 - Ideal for mid-size projects](/15-yard-dumpster-rental) | [**20-Yard Dumpster** - $399 - Best for large renovations](/20-yard-dumpster-rental) |
 
-For a detailed comparison with photos, visit our [dumpster size guide](/dumpster-size-guide) or read our blog post on [how to choose the right dumpster size](/blog/how-to-choose-right-dumpster-size).
+For a detailed comparison with photos, visit our [dumpster size guide](/dumpster-size-guide) or read our blog post on [how to choose the right dumpster size](/blog/dumpster-sizes-explained-complete-guide).
 
 ## What Does a Dumpster Rental Cost?
 
@@ -1182,7 +1038,7 @@ Certain materials cannot go in a roll-off dumpster:
 - Medical waste
 - Appliances containing refrigerant (must be evacuated first)
 
-For the complete list, read our guide on [what cannot go in a dumpster](/blog/what-cannot-go-in-dumpster). If you have paint to dispose of, see our [Jacksonville paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville).
+For the complete list, read our guide on [what cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules). If you have paint to dispose of, see our [Jacksonville paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville).
 
 ## Tips for First-Time Dumpster Renters
 
@@ -1315,7 +1171,7 @@ Summer is the perfect time for a garage cleanout. You need the space for vehicle
 
 The average Jacksonville garage cleanout produces 5 to 10 cubic yards of waste. Old paint cans, broken tools, rusted equipment, outdated holiday decorations, and boxes of items you forgot you had all need somewhere to go. Our [garage cleanout guide](/blog/garage-cleanout-guide-jacksonville) walks through the entire process.
 
-**Important paint note:** If you find old paint during your garage cleanout, remember that liquid paint cannot go in a dumpster. See our [Jacksonville paint disposal guide](/blog/how-to-dispose-of-paint-jacksonville) for proper disposal locations.
+**Important paint note:** If you find old paint during your garage cleanout, remember that liquid paint cannot go in a dumpster. See our [Jacksonville paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) for proper disposal locations.
 
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
