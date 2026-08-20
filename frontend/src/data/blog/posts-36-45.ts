@@ -903,7 +903,7 @@ For major renovation projects that generate multiple gallons of old paint, sched
     featuredImage: '/images/residential-dumpster.jpg',
     tags: ['residential dumpster rental', 'household dumpster rental', 'dumpster rental residential', 'driveway dumpster rental', 'need to rent a dumpster', 'how long can you rent a dumpster for', 'dumpster rental faq', 'online dumpster rental', 'quick dumpster rental'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-rental-calculator-estimate-debris-volume'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-rental-calculator-estimate-debris-volume', 'same-day-dumpster-rental-jacksonville-fl'],
     content: `
 ## Dumpster Rental for Homeowners and First-Timers
 
@@ -1107,6 +1107,10 @@ Call us and we will swap it. If you need a larger dumpster, we can exchange it f
 ### Where does the trash go after you throw it away?
 
 Great question. Read our blog post on [where does trash go after you throw it away](/blog/where-does-trash-go-after-you-throw-it-away) for a detailed look at the path from your dumpster to the disposal facility.
+
+### Does dumpster rental include pickup and disposal, or do I need to hire a separate hauler?
+
+It's included. The flat rate you pay 904 Dumpster covers delivery, pickup, and disposal — once you're done filling the dumpster, we haul it away and handle disposal at Trail Ridge Landfill ourselves. You never need to hire a separate hauling or disposal company. This is different from some national broker sites, where the "dumpster rental" price only covers delivery and drop-off, and pickup gets billed as an add-on. Confirm what's included before booking with any provider.
 `,
   },
   // Post 44

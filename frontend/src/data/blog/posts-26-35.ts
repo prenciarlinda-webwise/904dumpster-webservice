@@ -16,7 +16,7 @@ export const POSTS_26_TO_35: BlogPost[] = [
     featuredImage: '/images/roll-off-dumpster-rental.jpg',
     tags: ['roll off container rental', 'roll off dumpsters sizes', 'roll off dumpster rental', 'residential roll off', 'same day roll off dumpster', 'roll off trash dumpsters', 'rental trash containers', 'roll off dumpster size comparison', 'rent roll off dumpster', 'roll away dumpster sizes', 'walk in dumpster rental'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'what-can-and-cannot-go-in-a-dumpster-rules'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'what-can-and-cannot-go-in-a-dumpster-rules', 'same-day-dumpster-rental-jacksonville-fl'],
     content: `
 ## Roll Off Dumpster Rental Explained
 

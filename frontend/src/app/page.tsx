@@ -830,7 +830,9 @@ export default function HomePage() {
               </p>
 
               <p className="mb-4">
-                Looking for <strong className="text-secondary">dumpster rental Jacksonville</strong> residents actually recommend? 904 Dumpster runs <strong className="text-secondary">same-day delivery</strong> across Duval, St. Johns, Clay, and Nassau counties for orders placed before noon. To <strong className="text-secondary">rent a dumpster in Jacksonville FL</strong> today, book online or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary hover:underline">{BUSINESS.phone}</a>: <strong className="text-primary">flat-rate pricing</strong>, no fuel surcharges, no broker markups, no per-ton overage tricks.
+                Looking for <strong className="text-secondary">dumpster rental Jacksonville</strong> residents actually recommend? 904 Dumpster runs{' '}
+                <Link href="/blog/same-day-dumpster-rental-jacksonville-fl" title="Same-Day Dumpster Rental Jacksonville FL" className="text-secondary hover:text-primary underline">same-day delivery</Link>{' '}
+                across Duval, St. Johns, Clay, and Nassau counties for orders placed before noon. To <strong className="text-secondary">rent a dumpster in Jacksonville FL</strong> today, book online or call <a href={`tel:${BUSINESS.phoneRaw}`} className="text-primary hover:underline">{BUSINESS.phone}</a>: <strong className="text-primary">flat-rate pricing</strong>, no fuel surcharges, no broker markups, no per-ton overage tricks.
               </p>
             </div>
 
@@ -1288,7 +1290,10 @@ export default function HomePage() {
                 <h3 className="text-xl font-bold text-white mb-3">Same-Day Dumpster Delivery</h3>
                 <p className="text-white/70 leading-relaxed">
                   Book before noon and get your dumpster delivered the same day throughout Jacksonville and surrounding areas.
-                  Need a pickup sooner than expected? Call or text, and most pickups happen within 24 hours.
+                  Need a pickup sooner than expected? Call or text, and most pickups happen within 24 hours.{' '}
+                  <Link href="/blog/same-day-dumpster-rental-jacksonville-fl" title="Same-Day Dumpster Rental Jacksonville FL" className="text-primary hover:underline font-semibold">
+                    See exactly how it works →
+                  </Link>
                 </p>
               </div>
 

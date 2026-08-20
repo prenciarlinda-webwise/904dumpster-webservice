@@ -27,6 +27,7 @@ export const POSTS_56_TO_75: BlogPost[] = [
     relatedSlugs: [
       'dumpster-rental-cost-complete-pricing-guide',
       'roll-off-dumpster-rental-complete-guide',
+      'same-day-dumpster-rental-jacksonville-fl',
     ],
     content: `## What Makes the Best Dumpster Rental Company in Jacksonville?
 
