@@ -43,6 +43,10 @@ const CITY_WIKIPEDIA_URLS: Record<string, string> = {
   'Green Cove Springs': 'https://en.wikipedia.org/wiki/Green_Cove_Springs,_Florida',
   'Fernandina Beach': 'https://en.wikipedia.org/wiki/Fernandina_Beach,_Florida',
   Arlington: 'https://en.wikipedia.org/wiki/Arlington,_Jacksonville',
+  Hilliard: 'https://en.wikipedia.org/wiki/Hilliard,_Florida',
+  Mandarin: 'https://en.wikipedia.org/wiki/Mandarin,_Jacksonville',
+  'San Marco': 'https://en.wikipedia.org/wiki/San_Marco,_Jacksonville',
+  'Riverside-Avondale': 'https://en.wikipedia.org/wiki/Riverside,_Jacksonville',
 }
 
 const COUNTY_WIKIPEDIA_URLS: Record<string, string> = {
