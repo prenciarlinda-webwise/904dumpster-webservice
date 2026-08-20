@@ -18,7 +18,7 @@ import {
   Zap,
   Calendar,
 } from 'lucide-react'
-import { BUSINESS, REVIEWS } from '@/lib/constants'
+import { BUSINESS, REVIEWS, FEATURED_REVIEWS } from '@/lib/constants'
 import { FAQSection } from '@/components/FAQSection'
 import { GoogleReviews } from '@/components/GoogleReviews'
 import { HeroReviewSlider } from '@/components/HeroReviewSlider'
@@ -275,6 +275,19 @@ const localBusinessSchema = {
     bestRating: REVIEWS.bestRating,
     worstRating: REVIEWS.worstRating,
   },
+  // Individual reviews (not just the aggregate) so AI answer engines have real
+  // quoted testimonial text to draw from, not just the numeric score.
+  review: FEATURED_REVIEWS.map((r) => ({
+    '@type': 'Review',
+    author: { '@type': 'Person', name: r.author },
+    datePublished: r.datePublished,
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: r.ratingValue,
+      bestRating: REVIEWS.bestRating,
+    },
+    reviewBody: r.reviewBody,
+  })),
   // Local expertise signals for Google's Helpful Content update
   knowsAbout: [
     'Jacksonville dumpster rental',

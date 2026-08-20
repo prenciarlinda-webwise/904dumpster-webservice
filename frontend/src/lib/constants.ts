@@ -44,6 +44,44 @@ export const REVIEWS = {
   worstRating: '1',
 } as const
 
+// A small, rotating sample of real Google reviews for Review schema (not just
+// aggregateRating) so AI answer engines have actual quoted testimonial text to
+// draw from, not just the numeric score. Dates are approximated from Google's
+// relative "X weeks ago" labels at the time each was pulled (2026-08-20) —
+// re-check against exact GBP timestamps if day-level precision ever matters.
+export const FEATURED_REVIEWS = [
+  {
+    author: 'Melissa Piscitelli',
+    ratingValue: '5',
+    datePublished: '2026-08-19',
+    reviewBody: 'These guys are responsive, do exactly what you need, and keep you in the loop every step of the way. Would rent from them every time.',
+  },
+  {
+    author: 'Cornel Buiciuc',
+    ratingValue: '5',
+    datePublished: '2026-07-16',
+    reviewBody: "I'm a contractor so I used multiple dumpster companies. If you're looking for a reliable company this is it. Professional, on time, no gimmicks, good prices.",
+  },
+  {
+    author: 'Georgina Shllaku',
+    ratingValue: '5',
+    datePublished: '2026-03-19',
+    reviewBody: 'Great experience with 904 Dumpster! Fast delivery, easy scheduling, and excellent customer service. Everything was on time, pricing was fair, and the process was completely hassle-free. Highly recommend!',
+  },
+  {
+    author: 'Fernando Hernández',
+    ratingValue: '5',
+    datePublished: '2026-07-09',
+    reviewBody: "I've used this team on several remodeling projects. They're easy to schedule, consistently on time with deliveries and pickups, and always reliable. I highly recommend them.",
+  },
+  {
+    author: 'Velibor Ivanic',
+    ratingValue: '5',
+    datePublished: '2025-11-06',
+    reviewBody: 'Great company to work with. Professional, on time, and best price in Jax.',
+  },
+] as const
+
 // =============================================================================
 // SERVICES MEGA MENU STRUCTURE
 // =============================================================================
