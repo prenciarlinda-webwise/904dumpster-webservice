@@ -826,8 +826,6 @@ If you have latex paint that you want to dispose of in your regular trash or dum
 
 Paint disposal comes up frequently during home renovation and cleanout projects. If you are doing a [kitchen renovation](/blog/kitchen-renovation-debris-disposal-guide), [garage cleanout](/blog/garage-cleanout-guide-jacksonville), or whole-house renovation, you will likely encounter old paint that previous owners left behind.
 
-These projects often call for a fresh coat as much as clearing out the old one. If you need a [painter jacksonville fl](https://www.paint-techs.com/) homeowners trust for the new coat, Paint Techs is a local painting company that often works the same renovation projects our dumpsters do — paint going up on the walls while the rest of the debris goes in the driveway.
-
 During major cleanout and renovation projects, consider these steps:
 
 1. Collect all paint cans from the property into one staging area
