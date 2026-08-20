@@ -252,6 +252,17 @@ export default function Footer() {
                 WebWise - Website And SEO Agency
               </a>
             </p>
+            <div className="mt-3 flex flex-wrap items-center justify-center gap-x-4 gap-y-1">
+              <a href="/llms.txt" title="llms.txt" className="text-white/25 text-xs hover:text-primary transition-colors">
+                llms.txt
+              </a>
+              <a href="/llms-full.txt" title="llms-full.txt" className="text-white/25 text-xs hover:text-primary transition-colors">
+                llms-full.txt
+              </a>
+              <a href="/ai-context.json" title="ai-context.json" className="text-white/25 text-xs hover:text-primary transition-colors">
+                ai-context.json
+              </a>
+            </div>
           </div>
         </div>
       </div>
