@@ -1058,6 +1058,10 @@ If you are planning a weekend cleanout, book your dumpster for a Thursday or Fri
 
 If you live in an HOA community in Jacksonville, [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), or [Fleming Island](/dumpster-rental-fleming-island-fl), check your association rules before booking. Some HOAs restrict dumpster placement, require advance notice, or limit how long a container can remain on property.
 
+### Cover It at Night
+
+A dumpster sitting in your driveway looks like free disposal to anyone walking by, and neighbors are more likely than you'd think to quietly add their own bags once it's out of your sight. A tarp or a couple of pallets leaned against the open side at night keeps your rental from slowly filling up with other people's trash before you have even started your own project.
+
 > REVIEW: "904 Dumpster was by far the best dumpster service I've used yet. Dumpsters were in great shape, empty when they were dropped and the price was very good!" - Paul Yarger, Google Review
 
 ## How Long Can You Rent a Dumpster?
