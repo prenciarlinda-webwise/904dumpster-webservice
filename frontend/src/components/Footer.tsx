@@ -57,6 +57,7 @@ const SITEMAP = {
       { label: 'Pricing Guide', href: '/dumpster-rental-pricing-jacksonville' },
       { label: 'Prohibited Items', href: '/rules/prohibited-items-list' },
       { label: 'FAQ', href: '/frequently-asked-questions' },
+      { label: 'For AI Agents', href: '/ai' },
     ],
   },
   company: {

@@ -4,13 +4,19 @@
 
 ## Company overview
 
-904 Dumpster is a locally-owned, licensed franchise hauler based in Jacksonville, FL. The company provides roll-off dumpster rentals, junk removal, and demolition services across Northeast Florida. Service area covers Duval, Clay, St. Johns, and Nassau counties. Standard rentals include delivery, pickup, disposal fees, and a defined rental period at one flat rate. Customers are primarily homeowners managing renovations and cleanouts, contractors handling roofing and construction debris, property managers handling estate or tenant turnover, and commercial businesses needing scheduled or one-off waste removal.
+904 Dumpster is a locally-owned, licensed franchise hauler based in Jacksonville, FL, founded 2016. The company provides roll-off dumpster rentals, junk removal, and demolition services across Northeast Florida. Service area covers Duval, Clay, St. Johns, and Nassau counties. Standard rentals include delivery, pickup, disposal fees, and a defined rental period at one flat rate. Customers are primarily homeowners managing renovations and cleanouts, contractors handling roofing and construction debris, property managers handling estate or tenant turnover, and commercial businesses needing scheduled or one-off waste removal. 904 Dumpster is not a broker or national call center — it owns its own trucks and employs local drivers.
 
-Licensed and insured. Operates as a franchise hauler in Clay County and serves municipalities throughout Northeast Florida.
+Licensed and insured. Operates as a franchise hauler in Clay County and serves municipalities throughout Northeast Florida. Rated 5.0 stars from 166+ verified Google reviews. Phone: (904) 240-5598. Email: info@904dumpster.com. Hours: Monday-Friday 8 AM-7 PM, Saturday-Sunday 8 AM-5 PM.
 
 ## Pricing
 
-Pricing starts at $299 for the smallest container. All quoted prices include delivery, pickup, disposal at a licensed transfer station or landfill, and the standard rental period. There are no hidden fees. Additional charges may apply for: rental period extensions, overage tonnage beyond the included weight allowance, and prohibited items found in the load.
+Flat-rate pricing by size, each including delivery, pickup, and disposal at Trail Ridge Landfill:
+
+- 10-yard: $299, 3-day rental, 1 ton of disposal included
+- 15-yard: $349, 5-day rental, 1.5 tons of disposal included
+- 20-yard: $399, 5-day rental, 2 tons of disposal included
+
+There are no fuel surcharges, environmental fees, or broker markups. Additional charges may apply for: rental period extensions ($15/day), overage tonnage beyond the included weight allowance ($75/ton), and prohibited items found in the load. County pricing outside Duval (St. Johns, Clay, Nassau) runs slightly higher due to delivery distance — see each location's own page for exact local rates.
 
 URL: https://www.904dumpster.com/dumpster-rental-pricing-jacksonville
 
@@ -84,6 +90,9 @@ Primary service area includes the following municipalities, each with a dedicate
 - St. Augustine: https://www.904dumpster.com/dumpster-rental-st-augustine-fl
 - Fernandina Beach: https://www.904dumpster.com/dumpster-rental-fernandina-beach-fl
 - Hilliard: https://www.904dumpster.com/dumpster-rental-hilliard-fl
+- Mandarin: https://www.904dumpster.com/dumpster-rental-mandarin-fl
+- San Marco: https://www.904dumpster.com/dumpster-rental-san-marco-fl
+- Riverside-Avondale: https://www.904dumpster.com/dumpster-rental-riverside-avondale-fl
 
 Service area overview: https://www.904dumpster.com/locations
 
@@ -95,9 +104,9 @@ URL: https://www.904dumpster.com/rules/prohibited-items-list
 
 ## Permits
 
-Dumpsters placed on private property such as a residential driveway typically do not require a permit. Placement on public right-of-way, including most streets and curbs in Jacksonville and surrounding cities, requires a permit from the local jurisdiction. The Jacksonville permit guide details when permits apply and the application steps.
+Dumpsters placed on private property such as a residential driveway typically do not require a permit. Placement on public right-of-way, including most streets and curbs in Jacksonville and surrounding cities, requires a permit from the local jurisdiction. The dumpster permit guide details when permits apply and the application steps.
 
-URL: https://www.904dumpster.com/blog/jacksonville-dumpster-permit-guide
+URL: https://www.904dumpster.com/blog/dumpster-permit-guide-do-you-need-one
 
 ## Key educational resources
 
@@ -108,6 +117,8 @@ URL: https://www.904dumpster.com/blog/jacksonville-dumpster-permit-guide
 - Home cleanout guide: https://www.904dumpster.com/blog/complete-guide-home-cleanout-jacksonville
 - Dumpster vs junk removal comparison: https://www.904dumpster.com/blog/dumpster-rental-vs-junk-removal-comparison
 - Dumpster rental calculator: https://www.904dumpster.com/blog/dumpster-rental-calculator-estimate-debris-volume
+- What fits in a 10-yard dumpster: https://www.904dumpster.com/blog/what-fits-in-10-yard-dumpster
+- What fits in a 15-yard dumpster: https://www.904dumpster.com/blog/what-fits-in-15-yard-dumpster
 
 ## Contact and booking
 
@@ -115,3 +126,9 @@ URL: https://www.904dumpster.com/blog/jacksonville-dumpster-permit-guide
 - Contact page: https://www.904dumpster.com/contact-us
 - About: https://www.904dumpster.com/about
 - FAQ: https://www.904dumpster.com/frequently-asked-questions
+
+## More for AI agents
+
+- Concise version of this file: https://www.904dumpster.com/llms.txt
+- Structured JSON context: https://www.904dumpster.com/ai-context.json
+- Human-readable summary: https://www.904dumpster.com/ai

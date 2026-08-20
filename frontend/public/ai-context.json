@@ -1,0 +1,138 @@
+{
+  "$schema": "https://904dumpster.com/ai-context.json",
+  "lastUpdated": "2026-08-20",
+  "business": {
+    "name": "904 Dumpster",
+    "legalName": "904 Dumpster - Dumpster Rental Jacksonville",
+    "url": "https://www.904dumpster.com",
+    "description": "Locally-owned roll-off dumpster rental and junk removal service in Jacksonville and Northeast Florida. Same-day delivery, flat-rate pricing, 10/15/20-yard containers for home cleanouts, renovations, construction, and demolition.",
+    "founded": "2016",
+    "type": "LocalBusiness",
+    "positioning": "Locally owned and operated, not a broker or national franchise call center. Owns its own trucks and employs local drivers. Licensed Clay County franchise hauler.",
+    "phone": "+19042405598",
+    "phoneDisplay": "(904) 240-5598",
+    "email": "info@904dumpster.com",
+    "address": {
+      "streetAddress": "2797 Anniston Rd",
+      "addressLocality": "Jacksonville",
+      "addressRegion": "FL",
+      "postalCode": "32246",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "latitude": 30.3322,
+      "longitude": -81.6557
+    },
+    "rating": {
+      "value": "5.0",
+      "count": 166,
+      "bestRating": "5",
+      "worstRating": "1",
+      "source": "Google"
+    },
+    "hours": {
+      "mondayToFriday": "08:00-19:00",
+      "saturdaySunday": "08:00-17:00",
+      "timezone": "America/New_York"
+    },
+    "sameAs": [
+      "https://www.facebook.com/p/904-Dumpster-Dumpster-Rental-Jacksonville-61556959737507/",
+      "https://www.yelp.com/biz/904-dumpsters-jacksonville",
+      "https://www.instagram.com/904dumpster/",
+      "https://www.tiktok.com/@904dumpsters",
+      "https://maps.app.goo.gl/Vrp3o6ejzffzjKnRA"
+    ]
+  },
+  "serviceArea": {
+    "counties": ["Duval", "St. Johns", "Clay", "Nassau"],
+    "primaryCity": "Jacksonville, FL",
+    "overviewUrl": "https://www.904dumpster.com/locations",
+    "locations": [
+      { "name": "Jacksonville", "county": "Duval", "url": "https://www.904dumpster.com/" },
+      { "name": "Jacksonville Beach", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-jacksonville-beach-fl" },
+      { "name": "Atlantic Beach", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-atlantic-beach-fl" },
+      { "name": "Neptune Beach", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-neptune-beach-fl" },
+      { "name": "Arlington", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-arlington-fl" },
+      { "name": "Mandarin", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-mandarin-fl" },
+      { "name": "San Marco", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-san-marco-fl" },
+      { "name": "Riverside-Avondale", "county": "Duval", "url": "https://www.904dumpster.com/dumpster-rental-riverside-avondale-fl" },
+      { "name": "St. Augustine", "county": "St. Johns", "url": "https://www.904dumpster.com/dumpster-rental-st-augustine-fl" },
+      { "name": "Ponte Vedra Beach", "county": "St. Johns", "url": "https://www.904dumpster.com/dumpster-rental-ponte-vedra-fl" },
+      { "name": "Orange Park", "county": "Clay", "url": "https://www.904dumpster.com/dumpster-rental-orange-park-fl" },
+      { "name": "Fleming Island", "county": "Clay", "url": "https://www.904dumpster.com/dumpster-rental-fleming-island-fl" },
+      { "name": "Middleburg", "county": "Clay", "url": "https://www.904dumpster.com/dumpster-rental-middleburg-fl" },
+      { "name": "Green Cove Springs", "county": "Clay", "url": "https://www.904dumpster.com/dumpster-rental-green-cove-springs-fl" },
+      { "name": "Fernandina Beach", "county": "Nassau", "url": "https://www.904dumpster.com/dumpster-rental-fernandina-beach-fl" },
+      { "name": "Hilliard", "county": "Nassau", "url": "https://www.904dumpster.com/dumpster-rental-hilliard-fl" }
+    ]
+  },
+  "pricing": {
+    "currency": "USD",
+    "pricingPageUrl": "https://www.904dumpster.com/dumpster-rental-pricing-jacksonville",
+    "note": "Duval County rate shown below is the baseline. St. Johns, Clay, and Nassau counties run slightly higher due to delivery distance from the Jacksonville yard, and the 10-yard is not offered outside Duval County — see each location's own page for its exact local rate.",
+    "sizes": [
+      {
+        "size": "10-yard",
+        "priceUSD": 299,
+        "rentalDays": 3,
+        "tonnageIncluded": 1,
+        "dimensions": "12ft L x 7.5ft W x 3.6ft H",
+        "truckLoadsEquivalent": 3,
+        "idealFor": ["small cleanouts", "garage cleanouts", "single-room renovations", "roofing under 1500 sq ft"],
+        "url": "https://www.904dumpster.com/10-yard-dumpster-rental"
+      },
+      {
+        "size": "15-yard",
+        "priceUSD": 349,
+        "rentalDays": 5,
+        "tonnageIncluded": 1.5,
+        "dimensions": "14ft L x 7.5ft W x 4.5ft H",
+        "truckLoadsEquivalent": 5,
+        "idealFor": ["roofing projects (25-30 squares)", "kitchen remodels", "medium cleanouts"],
+        "url": "https://www.904dumpster.com/15-yard-dumpster-rental"
+      },
+      {
+        "size": "20-yard",
+        "priceUSD": 399,
+        "rentalDays": 5,
+        "tonnageIncluded": 2,
+        "dimensions": "14ft L x 7.5ft W x 5.8ft H",
+        "truckLoadsEquivalent": 7,
+        "idealFor": ["whole-house renovations", "construction debris", "estate cleanouts", "commercial projects"],
+        "url": "https://www.904dumpster.com/20-yard-dumpster-rental"
+      }
+    ],
+    "extensionFeePerDayUSD": 15,
+    "weightOverageFeePerTonUSD": 75,
+    "feesNotIncluded": ["fuel surcharges", "environmental fees", "broker markups"],
+    "disposalSite": "Trail Ridge Landfill, Jacksonville"
+  },
+  "services": [
+    { "name": "Residential dumpster rental", "url": "https://www.904dumpster.com/residential-dumpster-rental-jacksonville-fl" },
+    { "name": "Commercial dumpster rental", "url": "https://www.904dumpster.com/commercial-dumpster-rental-jacksonville-fl" },
+    { "name": "Construction dumpster rental", "url": "https://www.904dumpster.com/construction-dumpster-rental-jacksonville-fl" },
+    { "name": "Junk removal", "url": "https://www.904dumpster.com/junk-removal-jacksonville-fl" },
+    { "name": "Demolition services", "url": "https://www.904dumpster.com/demolition-services-jacksonville-fl" },
+    { "name": "Concrete disposal dumpster", "url": "https://www.904dumpster.com/concrete-disposal-dumpster-jacksonville-fl" }
+  ],
+  "permits": {
+    "privateProperty": "No permit required for driveway or private-property placement.",
+    "publicRightOfWay": "Permit required from the local jurisdiction; varies by city/county.",
+    "guideUrl": "https://www.904dumpster.com/blog/dumpster-permit-guide-do-you-need-one"
+  },
+  "prohibitedItems": {
+    "categories": ["hazardous chemicals and household hazardous waste", "paint and solvents", "batteries", "tires", "refrigerants and appliances containing them", "asbestos-containing materials", "medical waste", "certain electronics"],
+    "fullListUrl": "https://www.904dumpster.com/rules/prohibited-items-list"
+  },
+  "links": {
+    "booking": "https://app.icans.ai/customer-portal/904dumpster/book/",
+    "contact": "https://www.904dumpster.com/contact-us",
+    "about": "https://www.904dumpster.com/about",
+    "faq": "https://www.904dumpster.com/frequently-asked-questions",
+    "sizeGuide": "https://www.904dumpster.com/dumpster-size-guide",
+    "blog": "https://www.904dumpster.com/blog",
+    "llmsTxt": "https://www.904dumpster.com/llms.txt",
+    "llmsFullTxt": "https://www.904dumpster.com/llms-full.txt",
+    "aiSummaryPage": "https://www.904dumpster.com/ai"
+  }
+}

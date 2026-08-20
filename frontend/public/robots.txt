@@ -9,3 +9,8 @@ Host: https://www.904dumpster.com
 
 # Sitemaps
 Sitemap: https://www.904dumpster.com/sitemap.xml
+
+# For AI agents / LLM crawlers
+# https://www.904dumpster.com/llms.txt
+# https://www.904dumpster.com/llms-full.txt
+# https://www.904dumpster.com/ai-context.json

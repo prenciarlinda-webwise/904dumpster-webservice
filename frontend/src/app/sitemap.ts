@@ -18,6 +18,7 @@ const PAGE_LAST_MODIFIED: Record<string, string> = {
   locations: '2026-05-07',
   pricing: '2026-05-07',
   faq: '2026-05-01',
+  ai: '2026-08-20',
   blog: '2026-05-07',
   prohibitedItems: '2026-03-15',
   privacy: '2026-01-15',
@@ -70,6 +71,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(PAGE_LAST_MODIFIED.blog),
       changeFrequency: 'weekly',
       priority: 0.8,
+    },
+    {
+      url: `${BASE_URL}/ai`,
+      lastModified: new Date(PAGE_LAST_MODIFIED.ai),
+      changeFrequency: 'monthly',
+      priority: 0.5,
     },
     {
       url: `${BASE_URL}/rules/prohibited-items-list`,
