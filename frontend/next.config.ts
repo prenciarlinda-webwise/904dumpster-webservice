@@ -54,6 +54,11 @@ const nextConfig: NextConfig = {
             key: 'Referrer-Policy',
             value: 'origin-when-cross-origin',
           },
+          {
+            // 2026-08-21 SEO audit: force HTTPS on repeat visits / subdomains.
+            key: 'Strict-Transport-Security',
+            value: 'max-age=31536000; includeSubDomains; preload',
+          },
         ],
       },
     ]
@@ -66,6 +71,20 @@ const nextConfig: NextConfig = {
   // ============================================================================
   async redirects() {
     return [
+      // ========================================================================
+      // APEX DOMAIN -> WWW (canonical host)
+      // The bare apex was serving a full duplicate copy of the site with no
+      // host-level redirect (rel=canonical pointed to www, but that's a hint,
+      // not a guarantee, and it didn't consolidate inbound links/citations
+      // that use the bare domain). Added 2026-08-21 SEO audit.
+      // ========================================================================
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: '904dumpster.com' }],
+        destination: 'https://www.904dumpster.com/:path*',
+        statusCode: 301,
+      },
+
       // ========================================================================
       // SLUG MIGRATIONS (localized service URLs - "/[service]-jacksonville-fl")
       // ========================================================================
