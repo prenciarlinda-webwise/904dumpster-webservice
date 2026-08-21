@@ -327,7 +327,7 @@ Deciding what goes in the pod versus the dumpster is the real work of a move. Ou
     title: 'Storage Unit Cleanout Dumpster Guide for Jacksonville, FL',
     metaTitle: 'Storage Unit Cleanout Dumpster Jacksonville FL - Sizing Guide',
     metaDescription: 'Closing out a Jacksonville FL storage unit on a deadline? Here is what dumpster size fits your unit, plus placement logistics for facility rules.',
-    excerpt: 'Clearing out a storage unit often comes with a hard deadline. Here is how to size a dumpster to your unit and handle facility placement rules.',
+    excerpt: 'A 10x10 storage unit typically fills a 15-yard dumpster; a 10x20 unit needs a 20-yard. 904 Dumpster delivers same-day in Jacksonville FL for orders placed before noon.',
     category: 'project-guides',
     author: '904 Dumpster Team',
     publishedDate: '2026-08-16T08:00:00-04:00',
@@ -350,11 +350,43 @@ Storage unit cleanouts almost always come with a deadline attached: a move-out d
 | 10x15 | Multi-room furniture, larger appliances | 15 to 20-yard |
 | 10x20 | Full household contents, vehicle-adjacent storage | 20-yard |
 
-These are general guidelines, not exact measurements — a 10x10 unit packed with dense furniture may need more capacity than a loosely packed one. If you are unsure, sizing up one level avoids a second delivery.
+These are general guidelines, not exact measurements. A 10x10 unit packed with dense furniture may need more capacity than a loosely packed one. If you are unsure, sizing up one level avoids a second delivery.
 
-## Why Speed Matters for Storage Cleanouts
+## How Much a Dumpster Actually Holds
 
-Storage cleanouts are often deadline-driven in a way other cleanouts are not. Auction cutoffs, move-out dates tied to a final billing cycle, and grace periods after consolidating units all create a hard stop. Same-day delivery for orders before noon means you can often go from booking to actively clearing the unit within hours, not days.
+Dumpster capacity is measured in cubic yards. One cubic yard equals 27 cubic feet, so a [10-yard dumpster](/10-yard-dumpster-rental) holds 270 cubic feet, a [15-yard](/15-yard-dumpster-rental) holds 405 cubic feet, and a [20-yard](/20-yard-dumpster-rental) holds 540 cubic feet. A storage unit's raw floor-to-ceiling volume is larger than these numbers suggest (a 10x10 unit with an 8-foot ceiling is 800 cubic feet of airspace), but unit contents never pack that dense: furniture leaves gaps, boxes stack unevenly, and facility aisles mean most renters do not floor-to-ceiling pack anyway. The size table above already accounts for that real-world packing ratio, not the raw airspace number.
+
+## Weight Limits for Storage Unit Debris
+
+Weight matters as much as volume for storage units, and it depends heavily on what is inside. A 10-yard comes with a 1-ton (2,000 lb) allowance, a 15-yard with 1.5 tons (3,000 lb), and a 20-yard with 2 tons (4,000 lb). Units heavy on furniture and boxed household goods rarely hit these limits before running out of space. Units heavy on books, tools, file cabinets, or old electronics can hit the weight limit well before the container looks full, since paper and metal run far denser than furniture per cubic foot. If your unit leans toward the second category, it is worth mentioning that to us when you book so we can flag whether you are closer to a weight-based or space-based fit.
+
+## Common Items in Storage Units and How to Handle Them
+
+**Mattresses.** Allowed in the dumpster but bulky enough to plan for; if a mattress is the bulk of what you are clearing, our [mattress disposal guide](/blog/how-to-dispose-of-mattress-jacksonville) covers sizing and drop-off alternatives.
+
+**Electronics.** Old TVs, computers, and monitors are common in long-term storage and are restricted from general dumpster disposal in Duval County. See our [electronics and e-waste disposal guide](/blog/how-to-dispose-of-electronics-e-waste) for where these actually go.
+
+**Paint, propane, and aerosols.** Storage units sometimes hold leftover renovation supplies that count as hazardous material and cannot go in a roll-off. Our [paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) covers the Duval County drop-off process; the same household hazardous waste facility handles propane and aerosol cans.
+
+**Batteries.** Car batteries, rechargeable batteries, and bulk alkaline batteries are also excluded. Auto parts stores and electronics retailers take these back for recycling, usually for free.
+
+For a full rules breakdown beyond these four categories, our [complete dumpster rules guide](/blog/what-can-and-cannot-go-in-a-dumpster-rules) covers everything else that needs separate handling.
+
+## Step-by-Step: Clearing a Unit in One Day
+
+**1. Confirm the facility's dumpster policy before you book.** Call ahead so you are not booking a delivery the facility will not allow on-site (see placement logistics below).
+
+**2. Book before noon for same-day delivery.** Same-day delivery windows fill up, so booking early in the day gives you the most flexibility on drop-off time.
+
+**3. Sort at the unit door, not inside the aisle.** Working from the doorway keeps the facility's shared aisle clear for other renters and staff, and it is faster than working from the back of a packed unit.
+
+**4. Load heavy, dense items first.** Furniture and appliances at the bottom of the dumpster stabilize the load; boxes and lighter debris go on top. This also keeps you under the weight limit longer since dense material settles rather than bridging air gaps.
+
+**5. Do a final walkthrough.** Storage units accumulate items in corners and behind furniture that are easy to miss on a first pass, especially in inherited or auction units where you did not pack the space yourself.
+
+## Florida's Self-Storage Auction Timeline
+
+If you won a unit at auction, the tight deadline is not arbitrary. Florida's Self-Storage Facility Act (Florida Statutes Chapter 83, Part IV) requires a renter's account to be delinquent before a facility can begin the lien process, then requires written notice and public advertisement of the sale before the facility can legally sell off the contents. By the time a unit reaches auction, the facility has already been through that notice period, and it typically wants the unit emptied within days of the sale, not weeks. Same-day dumpster delivery is what makes that timeline workable.
 
 ## Placement Logistics at Storage Facilities
 
@@ -362,15 +394,19 @@ Storage cleanouts are often deadline-driven in a way other cleanouts are not. Au
 
 **Consider delivery to a driveway instead.** If the facility will not allow on-site placement, having the dumpster delivered to your home and transporting unit contents there in trips is a common workaround. This also works well if you are sorting keepers from discards, since you can stage items at home rather than in a facility aisle.
 
-**Plan for narrow aisles.** Storage facility drive aisles are often tighter than a residential driveway. If on-site delivery is approved, confirm the facility's aisle width and any height restrictions with our team before the truck arrives.
+**Plan for narrow aisles.** Storage facility drive aisles run 12 to 14 feet wide in most Jacksonville facilities, tighter than a residential driveway. If on-site delivery is approved, confirm the facility's aisle width and any height restrictions with our team before the truck arrives.
 
 ## Common Reasons for a Storage Unit Cleanout
 
-**Auction wins.** If you bought an abandoned unit at auction, you are working against the facility's own removal deadline, usually a matter of days, and you have no idea what condition the contents are in until the door opens. Same-day delivery matters most here, since auction terms rarely give you much runway.
+**Auction wins.** You are working against the facility's removal deadline and usually have no idea what condition the contents are in until the door opens.
 
-**Inherited units.** A unit that belonged to a family member often mixes genuine keepsakes with years of accumulated clutter, which makes sorting slower than a straightforward move-out. If the rest of the cleanout involves a full estate rather than just a storage unit, our [estate cleanout guide](/blog/estate-cleanout-guide-jacksonville) covers the broader process, including how to pace sorting when the job is emotionally heavier than a typical cleanout.
+**Inherited units.** A unit that belonged to a family member often mixes genuine keepsakes with years of accumulated clutter, which makes sorting slower than a straightforward move-out. If the rest of the cleanout involves a full estate rather than just a storage unit, our [estate cleanout guide](/blog/estate-cleanout-guide-jacksonville) covers the broader process.
 
-**Consolidating or downsizing.** Combining two units into one, or giving up a unit entirely after a move, usually means the contents overlap with what came out of an apartment or condo in the first place. Our [apartment and condo cleanout guide](/blog/apartment-condo-cleanout-dumpster-jacksonville) covers sizing for that side of the project if your storage unit and your old living space are being cleared out together.
+**Consolidating or downsizing.** Combining two units into one, or giving up a unit entirely after a move, usually means the contents overlap with what came out of an apartment or condo in the first place. Our [apartment and condo cleanout guide](/blog/apartment-condo-cleanout-dumpster-jacksonville) covers sizing for that side of the project.
+
+## Dumpster Rental vs. Other Disposal Options
+
+For a unit with real volume (10x10 or larger), a dumpster rental is usually the cheapest per-cubic-yard option: $349 flat for a 15-yard covers delivery, a 5-day rental, pickup, and disposal. A full-service junk removal crew costs more per job since you are paying for labor, not just disposal, but it is worth it if the unit is at a facility that will not allow on-site dumpster placement and you cannot transport contents yourself. Self-hauling in a pickup truck only makes sense for a 5x5 unit's worth of material; beyond that, multiple landfill trips and gate fees add up to more than a flat-rate dumpster.
 
 ## Frequently Asked Questions
 

@@ -799,9 +799,6 @@ export default async function BlogPostPage({
                 id="quick-answer"
                 className="mb-10 p-6 bg-white border-l-4 border-primary rounded-r-lg shadow-sm"
               >
-                <p className="text-xs font-bold uppercase tracking-wider text-primary mb-2">
-                  Quick Answer
-                </p>
                 <p className="text-base md:text-lg text-secondary leading-relaxed mb-0">
                   {post.excerpt}
                 </p>

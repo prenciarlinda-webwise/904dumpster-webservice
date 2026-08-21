@@ -116,7 +116,6 @@ export function ServicePageTemplate({
         <section className="py-12 bg-white border-b border-gray-100">
           <div className="max-w-4xl mx-auto px-4 lg:px-6">
             <div id="answer-intro" className="bg-primary/5 border-l-4 border-primary p-6 lg:p-8 rounded-r-lg">
-              <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
               <div className="text-base lg:text-lg text-gray-700 leading-relaxed space-y-4">
                 {quickAnswer.split('\n\n').map((para, i) => (
                   <p key={i}>{para}</p>

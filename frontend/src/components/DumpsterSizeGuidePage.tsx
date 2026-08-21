@@ -253,7 +253,6 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
             20 Yard Dumpster Dimensions
           </h2>
           <div className="bg-white border-l-4 border-primary rounded-r-lg p-6 mb-6 shadow-sm">
-            <p className="text-xs font-bold uppercase tracking-wider text-primary mb-3">Quick Answer</p>
             <p className="text-base md:text-lg text-gray-700 leading-relaxed">
               A <strong>20 yard dumpster measures 14 feet long × 7.5 feet wide × 5.8 feet tall</strong> (168 in × 90 in × 70 in). It holds 20 cubic yards — about 540 cubic feet, or 7 full-size pickup truck loads — and weighs roughly 5,500 lbs empty. The footprint is identical to the 15-yard container but the walls are 1.3 feet taller, giving 33% more usable volume. A standard two-car Jacksonville driveway fits the 20-yard without overhang.
             </p>
