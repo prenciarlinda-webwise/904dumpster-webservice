@@ -793,7 +793,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     featuredImage: '/images/10-yard-dumpster-rental.jpg',
     tags: ['10 yard dumpster capacity', 'what fits in 10 yard dumpster', 'small dumpster rental', '10 yard dumpster projects', '10 yard dumpster dimensions', '10 yd dumpster', '10 cubic yard dumpster', 'how big is a 10 yard dumpster'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'what-fits-in-15-yard-dumpster', 'dumpster-weight-limits-tonnage-guide'],
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 

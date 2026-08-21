@@ -55,6 +55,15 @@ const SIZES = [
   },
 ]
 
+// "What fits" deep-dive posts for the sizes that have one. Links the hub page
+// down to its supporting spoke content so Google reads this as one cluster
+// instead of the size-guide and the blog posts independently competing for
+// the same dimension/capacity queries.
+const WHAT_FITS_SLUGS: Partial<Record<'10' | '15' | '20', string>> = {
+  '10': 'what-fits-in-10-yard-dumpster',
+  '15': 'what-fits-in-15-yard-dumpster',
+}
+
 const LARGER_SIZES = [
   {
     label: '30 yard',
@@ -348,6 +357,15 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
                   >
                     {s.key} Yard Dumpster Rental
                   </Link>
+                  {WHAT_FITS_SLUGS[s.key] && (
+                    <Link
+                      href={`/blog/${WHAT_FITS_SLUGS[s.key]}`}
+                      title={`What Fits in a ${s.key} Yard Dumpster`}
+                      className="block w-full text-center text-primary text-sm font-semibold hover:underline mt-3"
+                    >
+                      See exactly what fits in a {s.key} yard →
+                    </Link>
+                  )}
                 </div>
               </div>
             ))}
@@ -367,7 +385,11 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
               Jacksonville home project lands in the 10, 15, or 20 yard range. Two numbers in the chart decide
               which one fits: <strong>volume in cubic yards</strong> and <strong>weight limit in tons</strong>.
               Volume tells you how much debris the container holds; weight limit tells you whether the contents
-              push you into an overage charge.
+              push you into an overage charge. Our{' '}
+              <Link href="/blog/dumpster-weight-limits-tonnage-guide" className="text-primary font-semibold hover:underline" title="Dumpster Weight Limits and Tonnage Guide">
+                dumpster weight limits guide
+              </Link>{' '}
+              breaks down tonnage by material if your project is on the heavy side.
             </p>
             <p>
               For light, bulky debris like furniture, drywall, or attic clutter, volume is the limit you hit

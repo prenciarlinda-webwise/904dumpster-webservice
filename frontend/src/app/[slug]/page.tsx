@@ -217,6 +217,15 @@ export default async function DynamicPage({
       return (
         <>
           <DumpsterSizeGuidePage service={service} />
+          {/* Service Schema - every other custom/service page gets this; was missing here */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(
+                generateServiceSchema(service.title, service.description, true)
+              ),
+            }}
+          />
           {/* Breadcrumb Schema */}
           <script
             type="application/ld+json"

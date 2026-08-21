@@ -184,7 +184,7 @@ A [20-yard dumpster](/20-yard-dumpster-rental) is the standard choice for roofin
     featuredImage: '/images/dumpster-jacksonville.jpg',
     tags: ['dumpster weight limit', 'dumpster weight calculator', 'how much does a dumpster weigh', 'dumpster tonnage', '20 yard dumpster weight limit', '30 yard dumpster weight limit', 'dumpster weight capacity', 'roll off dumpster weight'],
     status: 'published' as const,
-    relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-sizes-explained-complete-guide', 'dumpster-rental-cost-complete-pricing-guide'],
+    relatedSlugs: ['what-fits-in-10-yard-dumpster', 'what-fits-in-15-yard-dumpster', 'dumpster-rental-cost-complete-pricing-guide'],
     content: `
 ## How Much Does a Dumpster Weigh? Weight Limits and Tonnage Guide
 

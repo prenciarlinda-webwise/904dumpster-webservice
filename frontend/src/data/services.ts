@@ -352,8 +352,8 @@ export const SERVICES: ServicePage[] = [
     slug: 'dumpster-size-guide',
     type: 'guide',
     title: 'Dumpster Sizes Chart',
-    metaTitle: 'Dumpster Sizes Chart - 10, 15 & 20 Yard Dimensions Side by Side',
-    metaDescription: 'Side-by-side dumpster sizes chart with dimensions, weight limits, and pickup-truck-load capacity for 10, 15, and 20 yard roll-off containers. Compare standard residential dumpster sizes with photos and project recommendations.',
+    metaTitle: 'Dumpster Sizes Chart - 10, 15 & 20 Yard',
+    metaDescription: 'Compare 10, 15, and 20 yard dumpster dimensions, weight limits, and pickup-truck loads side by side. Find the right size for your Jacksonville project.',
     keywords: [
       'dumpster sizes',
       'roll off dumpster sizes',
