@@ -39,6 +39,18 @@ A single quart of used motor oil can contaminate a large volume of water if it r
 
 Used oil is not simply destroyed. Re-refining facilities process it back into base lubricating oil, and some is processed into fuel oil. According to the [EPA](https://www.epa.gov/recycle/managing-reusing-and-recycling-used-oil), a single gallon of used oil can be re-refined into 2.5 quarts of new lubricating oil, and just one oil change's worth of improperly dumped used oil can contaminate up to a million gallons of fresh water. That is part of why retailers take it for free: it has real recycling value, unlike genuinely hazardous waste that requires paid disposal.
 
+## How Much Oil a Typical DIY Change Produces
+
+Most passenger cars hold 4 to 6 quarts of oil, and larger trucks and SUVs with bigger engines can take up to 8 quarts. That means a single oil change rarely fills more than a gallon jug for drop-off, well under the amount most retailers will accept in one visit. If you are changing oil on multiple vehicles or catching up on a backlog, a standard 5-gallon jug with a sealable cap is worth keeping in the garage between recycling trips rather than juggling several smaller containers.
+
+## Storing Used Oil Safely Until You Recycle It
+
+Keep used oil in a clean container with a secure lid, ideally one that originally held oil rather than a food or chemical container that could react with it. Store it away from heat sources and out of direct sun, since oil containers left in a hot Jacksonville garage or driveway can warp or crack over months of storage. Never mix used oil with antifreeze, gasoline, brake fluid, or water. Even a small amount of contamination can get an entire batch rejected by a recycler, since re-refining depends on the oil being reasonably pure.
+
+## Oil-Soaked Rags Are Their Own Hazard
+
+Rags used to wipe up spilled oil, clean a drain pan, or handle a filter should not go straight into a trash bag or a dumpster while still oily. Oil-soaked rags piled together can generate enough heat through oxidation to ignite on their own, a real fire risk in a closed garage or a loaded dumpster. Lay them flat to fully dry outdoors first, or seal them in a metal container, before disposing of them with your general debris.
+
 ## Frequently Asked Questions
 
 ### Can I put used motor oil in my 904 Dumpster rental?
@@ -52,6 +64,10 @@ Yes. Drain the filter for at least 12 to 24 hours before recycling it, and take 
 
 ### What if I have old oil mixed with other automotive fluids?
 Do not mix motor oil with antifreeze, gasoline, or other fluids in the same container — mixed fluids are harder to recycle and some retailers will refuse contaminated oil. Keep each fluid in its own sealed, labeled container. For other automotive and household chemicals, see our [hazardous waste disposal guide](/blog/hazardous-waste-disposal-near-me-jacksonville-fl).
+
+## Synthetic Oil Follows the Same Recycling Path
+
+Synthetic and synthetic-blend oils are recycled the same way as conventional oil. Retailers and household hazardous waste programs do not sort by oil type, so there is no separate process to look for. Oil filters are handled the same way regardless of what oil was in them: drain the filter fully, then most retailers that accept used oil will also take the steel canister for recycling once it no longer drips.
 
 ## Where This Fits Into a Bigger Garage Cleanout
 
@@ -97,6 +113,18 @@ Old appliances (even without copper wiring removed), filing cabinets and metal s
 ## Deciding Which Option Makes Sense
 
 Weigh the time cost of a separate scrap-yard trip against the payout. A pickup-truck load of mixed steel appliances might bring $20 to $40, which usually is not worth a special trip on a small job. A demolition or full renovation generating hundreds of pounds of copper pipe, aluminum, or structural steel is a different story, and some scrap dealers will even do free pickup for large enough loads, which removes the hauling problem entirely.
+
+## How Scrap Yards Price Different Metals
+
+Pricing runs by category, and the categories are not close. Copper pays the most per pound by a wide margin, followed by brass and aluminum, with steel paying the least of the common metals. Prices for all of them move daily with commodity markets, so a yard's posted rate today will not match what it paid last month. Copper wiring pulled from old appliances or pipe is worth separating out specifically, since it is usually the single highest-value material in a typical cleanout.
+
+## Preparing Metal to Get a Better Rate
+
+Separate ferrous metal (steel and iron, which stick to a magnet) from non-ferrous metal (copper, aluminum, brass, which do not) before you arrive, since a mixed load often gets sorted and priced at the lowest category present rather than weighed by individual material. Stripping non-metal attachments, plastic housings, insulation on wire, wood handles, also raises the payout, because yards pay for the metal weight, not the weight of what is attached to it.
+
+## What Scrap Yards Typically Will Not Take As-Is
+
+Refrigerators, freezers, and window AC units contain refrigerant that has to be professionally recovered before most yards will accept the unit, since releasing refrigerant into the air violates EPA rules. Ask the yard whether they handle freon recovery on-site or require documentation that it was already removed; if not, [our appliance disposal guide](/blog/how-to-dispose-of-appliances-jacksonville) covers the recovery step before scrapping a working or dead refrigeration unit.
 
 ## Frequently Asked Questions
 
@@ -161,6 +189,18 @@ Fluorescent tubes and CFL bulbs use a small amount of mercury vapor to produce l
 ## Do LED Bulbs Need Special Disposal?
 
 No. LED bulbs do not contain mercury, so they can go in regular curbside trash or directly in your roll-off dumpster along with general debris. This is a common point of confusion during a lighting upgrade: the fluorescent and CFL bulbs coming out need special handling, but the LED bulbs going in do not.
+
+## How Many Bulbs a Retailer Will Take Per Visit
+
+In-store take-back bins are built for household quantities, typically a handful of CFLs or a few tubes per visit, not a full box from a commercial retrofit. If you are clearing out a larger quantity, such as replacing lighting through an entire office or rental property, call ahead to ask whether the store has a limit, or go straight to a household hazardous waste collection point, which is generally set up to handle bigger drop-offs.
+
+## Fluorescent Tubes Need More Careful Handling Than CFLs
+
+A spiral CFL bulb is compact and reasonably sturdy for transport, but a 4-foot or 8-foot fluorescent tube is fragile and easy to snap in a car trunk or truck bed. Lay tubes flat, keep them separated so they cannot roll into each other, and transport them the same day you plan to drop them off rather than storing them loose in a garage where they are more likely to get knocked over.
+
+## Why Vacuuming a Broken Bulb Makes It Worse
+
+A shop vacuum or regular vacuum cleaner does not filter mercury vapor. Running one over a broken bulb aerosolizes the mercury and spreads it through the vacuum's exhaust and into the room's air, which is the opposite of containing it. Sweeping the pieces into a sealed container by hand, with gloves, is the safer approach every time.
 
 ## Frequently Asked Questions
 
