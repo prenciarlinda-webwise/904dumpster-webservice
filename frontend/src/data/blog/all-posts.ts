@@ -12,7 +12,6 @@ import { AI_VISIBILITY_POSTS } from './posts-ai-visibility'
 import { POSTS_56_TO_75 } from './posts-56-75'
 import { POSTS_76_TO_87 } from './posts-76-87'
 import { BUCKET_B_AEO_POSTS } from './posts-bucket-b-aeo'
-import { BATCH3_LOCATION_POSTS } from './posts-batch3-locations'
 import { BATCH3_TOPIC_POSTS } from './posts-batch3-topics'
 import { BATCH4_TOPIC_POSTS } from './posts-batch4-topics'
 
@@ -30,7 +29,6 @@ export const BLOG_POSTS: BlogPost[] = [
   ...POSTS_56_TO_75,
   ...POSTS_76_TO_87,
   ...BUCKET_B_AEO_POSTS,
-  ...BATCH3_LOCATION_POSTS,
   ...BATCH3_TOPIC_POSTS,
   ...BATCH4_TOPIC_POSTS,
 ]

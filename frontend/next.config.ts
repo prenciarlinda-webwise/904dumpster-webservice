@@ -114,6 +114,15 @@ const nextConfig: NextConfig = {
       // ========================================================================
       { source: '/blog/page/:page*', destination: '/blog', statusCode: 301 },
       { source: '/category/waste-management-guidelines', destination: '/blog', statusCode: 301 },
+      // Removed 2026-08-21: near-duplicate blog posts that shared a slug with
+      // (and cannibalized) the richer, already-established location pages.
+      { source: '/blog/dumpster-rental-arlington-fl', destination: '/dumpster-rental-arlington-fl', statusCode: 301 },
+      { source: '/blog/dumpster-rental-fleming-island-fl', destination: '/dumpster-rental-fleming-island-fl', statusCode: 301 },
+      { source: '/blog/dumpster-rental-green-cove-springs-fl', destination: '/dumpster-rental-green-cove-springs-fl', statusCode: 301 },
+      { source: '/blog/dumpster-rental-hilliard-fl', destination: '/dumpster-rental-hilliard-fl', statusCode: 301 },
+      { source: '/blog/dumpster-rental-mandarin-fl', destination: '/dumpster-rental-mandarin-fl', statusCode: 301 },
+      { source: '/blog/dumpster-rental-san-marco-fl', destination: '/dumpster-rental-san-marco-fl', statusCode: 301 },
+      { source: '/blog/dumpster-rental-riverside-avondale-jacksonville', destination: '/dumpster-rental-riverside-avondale-fl', statusCode: 301 },
       { source: '/category/dumpster-rental-tips', destination: '/blog', statusCode: 301 },
       { source: '/resources', destination: '/blog', statusCode: 301 },
       { source: '/best-time-to-rent-dumpster-jacksonville', destination: '/blog', statusCode: 301 },
