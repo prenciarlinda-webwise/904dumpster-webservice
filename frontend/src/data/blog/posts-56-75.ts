@@ -5,7 +5,7 @@ export const POSTS_56_TO_75: BlogPost[] = [
   {
     slug: 'best-dumpster-rental-company-jacksonville-fl',
     title: 'Best Dumpster Rental Company in Jacksonville FL (2026 Guide)',
-    metaTitle: 'Best Dumpster Rental Company Jacksonville FL 2026 | 904 Dumpster',
+    metaTitle: 'Best Dumpster Rental Company Jacksonville FL (2026)',
     metaDescription:
       'Looking for the best dumpster rental company in Jacksonville FL? 904 Dumpster is locally owned, 5-star rated, and offers flat-rate pricing with same-day delivery. Compare your options.',
     excerpt:
@@ -546,12 +546,12 @@ Choose the right size (use our [size guide](/dumpster-size-guide)), book online 
   // ── POST 62 — KEEP ───────────────────────────────────────────────────────
   {
     slug: 'rent-a-dumpster-jacksonville-fl-online',
-    title: 'How to Rent a Dumpster in Jacksonville FL Online (Step-by-Step)',
-    metaTitle: 'Rent a Dumpster Jacksonville FL Online | Book in 2 Minutes | 904 Dumpster',
+    title: 'How to Book a Dumpster Online in Jacksonville FL (Step-by-Step)',
+    metaTitle: 'Book a Dumpster Online in Jacksonville FL - Step-by-Step',
     metaDescription:
-      'Rent a dumpster in Jacksonville FL online in under 2 minutes. Choose your size, pick your date, and 904 Dumpster delivers same day. Flat rates from $299.',
+      'Book a dumpster online in under 2 minutes: choose your size, pick a date, and 904 Dumpster delivers same day. Flat rates from $299, no phone call required.',
     excerpt:
-      'The fastest way to rent a dumpster in Jacksonville FL — choose your size, confirm your date, and get delivery. How the online booking process works at 904 Dumpster.',
+      'Step-by-step walkthrough of the online booking process at 904 Dumpster — choose your size, confirm your date, and get delivery without picking up the phone.',
     category: 'how-to',
     author: '904 Dumpster Team',
     publishedDate: '2026-06-20T18:00:00-04:00',
@@ -567,11 +567,11 @@ Choose the right size (use our [size guide](/dumpster-size-guide)), book online 
     ],
     status: 'published' as const,
     relatedSlugs: ['same-day-dumpster-rental-jacksonville-fl', 'best-dumpster-rental-company-jacksonville-fl'],
-    content: `## Rent a Dumpster in Jacksonville FL Online
+    content: `## How to Book a Dumpster Online in Jacksonville FL
 
-Renting a [dumpster in Jacksonville FL](/) takes about two minutes when you book directly on the 904 Dumpster website. No phone tag, no negotiating, no waiting for a callback.
+Booking a [dumpster in Jacksonville FL](/) takes about two minutes when you book directly on the 904 Dumpster website. No phone tag, no negotiating, no waiting for a callback.
 
-## Step-by-Step: How to Rent a Dumpster Online in Jacksonville
+## Step-by-Step: The Online Booking Process
 
 **Step 1: Choose your dumpster size.**
 Select the size that fits your project:

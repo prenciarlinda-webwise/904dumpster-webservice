@@ -1391,6 +1391,11 @@ export default function HomePage() {
                   excerpt: 'Room-by-room declutter plan with donation tips, a dumpster checklist, and Jacksonville-specific advice.',
                   href: '/blog/spring-cleaning-decluttering-guide-jacksonville',
                 },
+                {
+                  title: 'Best Dumpster Rental Company in Jacksonville FL',
+                  excerpt: 'What to check before booking: licensing, flat-rate pricing, and how to compare local providers.',
+                  href: '/blog/best-dumpster-rental-company-jacksonville-fl',
+                },
               ].map((post, i) => (
                 <Link
                   key={i}
