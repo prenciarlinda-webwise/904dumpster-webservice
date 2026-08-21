@@ -25,6 +25,8 @@ At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster 
 
 ## What Is a Cubic Yard and Why Does It Matter?
 
+A standard residential dumpster holds 10 to 20 cubic yards (270 to 540 cubic feet). 904 Dumpster offers three sizes: 10-yard, 15-yard, and 20-yard.
+
 Every roll-off dumpster is measured in cubic yards. One cubic yard equals a space that is 3 feet long, 3 feet wide, and 3 feet tall, which is 27 cubic feet total. When you hear someone say they rented a "10-yard dumpster," that means the container holds 10 cubic yards, or 270 cubic feet of debris.
 
 Understanding cubic yards is the foundation of estimating your dumpster size. Most people think in terms of truckloads or trash bags, but converting those measurements into cubic yards gives you a much more accurate picture of what you actually need.

@@ -20,7 +20,7 @@ export const POSTS_16_TO_25: BlogPost[] = [
     content: `
 ## What Size Dumpster Do I Need? Complete Dumpster Size Guide
 
-The three sizes most homeowners actually rent are the [10-yard dumpster](/10-yard-dumpster-rental) (12 x 8 x 3.5 ft, single-room projects), the [15-yard dumpster](/15-yard-dumpster-rental) (16 x 7.5 x 4.5 ft, multi-room renovations and roofs), and the [20-yard dumpster](/20-yard-dumpster-rental) (22 x 7.5 x 4.5 ft, whole-house cleanouts). Order too small and you pay for a second haul. Order too large and you pay for space you do not use. Whether you are cleaning out a garage, tearing off a roof, or managing a construction site, picking the right size up front is the first step toward a budget-friendly project.
+The three sizes most homeowners actually rent are the [10-yard dumpster](/10-yard-dumpster-rental) (12 x 7.5 x 3.6 ft, single-room projects), the [15-yard dumpster](/15-yard-dumpster-rental) (14 x 7.5 x 4.5 ft, multi-room renovations and roofs), and the [20-yard dumpster](/20-yard-dumpster-rental) (14 x 7.5 x 5.8 ft, whole-house cleanouts). Order too small and you pay for a second haul. Order too large and you pay for space you do not use. Whether you are cleaning out a garage, tearing off a roof, or managing a construction site, picking the right size up front is the first step toward a budget-friendly project.
 
 [904 Dumpster](/) is a locally owned [jacksonville dumpster rental](/) company serving Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
 
@@ -40,11 +40,11 @@ Here is a side-by-side comparison of every common dumpster size available in the
 |---------------|-------------------------------|----------|------------------------------|----------|
 | **7-Yard** | 10 ft x 5 ft x 3.5 ft | 7 cubic yards | ~2 loads | Very small cleanouts |
 | **8-Yard** | 6 ft x 5 ft x 4.5 ft | 8 cubic yards | ~2.5 loads | Small commercial use |
-| **10-Yard** | 12 ft x 8 ft x 3.5 ft | 10 cubic yards | ~3 loads | Garage cleanouts, small remodels |
+| **10-Yard** | 12 ft x 7.5 ft x 3.6 ft | 10 cubic yards | ~3 loads | Garage cleanouts, small remodels |
 | **12-Yard** | 12 ft x 8 ft x 4 ft | 12 cubic yards | ~3.5 loads | Mid-size cleanouts |
 | **14-Yard** | 14 ft x 7.5 ft x 4.5 ft | 14 cubic yards | ~4 loads | Larger residential projects |
-| **15-Yard** | 16 ft x 7.5 ft x 4.5 ft | 15 cubic yards | ~4.5 loads | Whole-room renovations |
-| **20-Yard** | 22 ft x 7.5 ft x 4.5 ft | 20 cubic yards | ~6 loads | Major renovations, roofing |
+| **15-Yard** | 14 ft x 7.5 ft x 4.5 ft | 15 cubic yards | ~4.5 loads | Whole-room renovations |
+| **20-Yard** | 14 ft x 7.5 ft x 5.8 ft | 20 cubic yards | ~6 loads | Major renovations, roofing |
 | **30-Yard** | 22 ft x 8 ft x 6 ft | 30 cubic yards | ~9 loads | Whole-house gut, large commercial |
 | **40-Yard** | 22 ft x 8 ft x 8 ft | 40 cubic yards | ~12 loads | Commercial demolition |
 
@@ -52,7 +52,7 @@ Not all sizes are available in every market. Here in Jacksonville, the most popu
 
 ## How Big Is a 10-Yard Dumpster?
 
-A [10-yard dumpster](/10-yard-dumpster-rental) is the smallest roll-off container we offer and the most popular choice for single-room projects. At roughly 12 feet long, 8 feet wide, and 3.5 feet tall, it fits comfortably in most Jacksonville driveways without blocking the sidewalk or street.
+A [10-yard dumpster](/10-yard-dumpster-rental) is the smallest roll-off container we offer and the most popular choice for single-room projects. At 12 feet long, 7.5 feet wide, and 3.6 feet tall, it fits comfortably in most Jacksonville driveways without blocking the sidewalk or street.
 
 **What a 10-yard dumpster holds:**
 - Contents of a single-car garage cleanout
@@ -64,7 +64,7 @@ A 10-yard is the average dumpster size for homeowners doing a weekend cleanout. 
 
 ## How Big Is a 15-Yard Dumpster?
 
-A [15-yard dumpster](/15-yard-dumpster-rental) measures approximately 16 feet long, 7.5 feet wide, and 4.5 feet tall. This is the sweet spot for most residential projects that involve more than one room but less than a full home renovation. How big is a 15 cubic yard dumpster in practical terms? It holds about 4.5 pickup truck loads of debris.
+A [15-yard dumpster](/15-yard-dumpster-rental) measures 14 feet long, 7.5 feet wide, and 4.5 feet tall. This is the sweet spot for most residential projects that involve more than one room but less than a full home renovation. How big is a 15 cubic yard dumpster in practical terms? It holds about 4.5 pickup truck loads of debris.
 
 **What a 15-yard dumpster holds:**
 - A full [estate cleanout](/blog/estate-cleanout-guide-jacksonville) for a 2-3 bedroom home
@@ -76,7 +76,7 @@ The 15-yard is our most versatile size and the one we recommend most often to ho
 
 ## What Are the Dimensions of a 20-Yard Dumpster?
 
-A [20-yard dumpster](/20-yard-dumpster-rental) typically measures 22 feet long, 7.5 feet wide, and 4.5 feet tall. The 20-yard roll-off dumpster dimensions make it the largest container we offer and the go-to choice for major home renovation projects and [construction jobs](/construction-dumpster-rental-jacksonville-fl).
+A [20-yard dumpster](/20-yard-dumpster-rental) measures 14 feet long, 7.5 feet wide, and 5.8 feet tall, holding 20 cubic yards, or 540 cubic feet. It is the largest container we offer and the go-to choice for major home renovation projects and [construction jobs](/construction-dumpster-rental-jacksonville-fl).
 
 **What a 20-yard dumpster holds:**
 - Whole-house cleanouts for 4+ bedroom homes
@@ -217,6 +217,10 @@ Every dumpster rental comes with a weight allowance included in the base price. 
 | 20-yard | 2 tons (4,000 lbs) | $75-$100 per ton depending on county |
 
 904 Dumpster tops out at the 20-yard; we do not offer 30 or 40-yard containers. If you see "industry standard" weight limits elsewhere quoting higher tonnage for those sizes, that reflects other companies' equipment, not ours. We will confirm the exact weight included with your [10-yard](/10-yard-dumpster-rental), [15-yard](/15-yard-dumpster-rental), or [20-yard dumpster](/20-yard-dumpster-rental) when you book.
+
+## How Many Cubic Feet Is Each Dumpster Size?
+
+One cubic yard equals 27 cubic feet. A 10-yard dumpster holds 270 cubic feet, a 15-yard holds 405 cubic feet, and a 20-yard holds 540 cubic feet. These are volume figures, not weight, use the tonnage table above for weight limits.
 
 ### Dumpster Sizes for Your Project
 

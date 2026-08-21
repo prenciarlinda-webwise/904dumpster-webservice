@@ -212,7 +212,7 @@ export default function DumpsterSizeGuidePage({ service }: { service: ServicePag
                     <td className="px-4 py-5 text-gray-700 whitespace-nowrap">
                       {s.dims.length} ft x {s.dims.width} ft x {s.dims.height} ft
                     </td>
-                    <td className="px-4 py-5 text-gray-700">{s.cubicYards} cubic yards</td>
+                    <td className="px-4 py-5 text-gray-700 whitespace-nowrap">{s.cubicYards} cubic yards ({s.cubicYards * 27} cu ft)</td>
                     <td className="px-4 py-5 text-gray-700">~{s.loads} loads</td>
                     <td className="px-4 py-5 text-gray-700 whitespace-nowrap">{s.tons} ton{s.tons !== 1 ? 's' : ''} included</td>
                     <td className="px-4 py-5 text-gray-700 whitespace-nowrap">{s.days} days</td>
