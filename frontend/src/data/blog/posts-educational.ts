@@ -21,7 +21,7 @@ export const EDUCATIONAL_POSTS: BlogPost[] = [
 
 Every renovation, cleanout, and construction project generates waste. But not all of that waste needs to end up in a landfill. Waste diversion is the practice of redirecting materials away from disposal in landfills or incinerators and toward more productive uses like recycling, composting, donation, and reuse. Whether you are a homeowner tackling a garage cleanout or a contractor managing a job site, understanding waste diversion can save you money, reduce your environmental impact, and help [Jacksonville](/) move toward its sustainability goals.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has routed Jacksonville and Northeast Florida debris to the correct disposal and recycling facilities since 2016, with 10, 15, and 20-yard containers starting at $299.
 
 ## Defining Waste Diversion
 
@@ -201,7 +201,7 @@ Duval County and the surrounding area have multiple recycling and processing fac
 
 When you rent a dumpster, one of the most important things to understand is what type of waste you are dealing with. Different waste types have different disposal requirements, weight considerations, and pricing implications. Mixing the wrong materials can result in additional charges, rejected loads, or even environmental violations. This guide breaks down the main categories of waste you will encounter during residential and commercial projects, which dumpster size works best for each, and how 904 Dumpster handles [different waste streams in Jacksonville](/).
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has sorted Jacksonville waste by type since 2016, offering 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## The Five Main Categories of Waste
 
@@ -395,7 +395,7 @@ If you are uncertain about the volume or type of waste your project will generat
 
 Illegal dumping is a persistent problem in [Jacksonville and across Northeast Florida](/). From mattresses tossed on the side of rural roads to construction debris piled in vacant lots, illegally dumped waste degrades neighborhoods, harms the environment, threatens public health, and costs taxpayers real money. Understanding the scope of the problem, its consequences, and the available solutions, including affordable dumpster rental, is an important step toward cleaner, healthier communities.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has offered a legal, affordable disposal alternative in Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299 flat.
 
 ## What Is Illegal Dumping?
 

@@ -22,7 +22,7 @@ export const POSTS_26_TO_35: BlogPost[] = [
 
 A roll off dumpster rental is an open-top container delivered on a flatbed truck for temporary project use. At [904 Dumpster](/), we deliver three roll-off sizes across Jacksonville: the [10-yard](/10-yard-dumpster-rental) at $299, the [15-yard](/15-yard-dumpster-rental) at $349, and the [20-yard](/20-yard-dumpster-rental) at $399, all flat-rate with no hidden fees. This guide covers how roll off dumpsters work, the container sizes available, what pricing actually includes, and how to book [dumpster rental jacksonville](/) when your project starts tomorrow.
 
-904 Dumpster is a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has operated in Jacksonville and Northeast Florida since 2016, offering 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## What Is a Roll Off Dumpster?
 
@@ -186,7 +186,7 @@ A roll off dumpster is an open-top container delivered on a flatbed truck for te
 
 A roof replacement is one of the largest home improvement projects you will ever take on, and it generates a surprising amount of waste. A typical single-layer tear-off on a 2,000 square foot home produces between 3,000 and 5,000 pounds of old shingles, underlayment, flashing, and nails. If your [Jacksonville home](/) has multiple layers of shingles, that number can double. Preparing your property for the roofing crew and planning for debris disposal are two things that often get overlooked but make a huge difference in how smoothly the project goes.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+Roof replacement debris piles up fast, and [904 Dumpster](/) has hauled it across Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299.
 
 ## How Much Waste Does a Roof Replacement Produce?
 
@@ -324,7 +324,7 @@ Yes, as long as the additional items are acceptable dumpster materials. However,
 
 Every homeowner in [Jacksonville](/) deals with yard waste at some point. Whether it is a weekend of trimming hedges and raking leaves, a full landscape renovation, storm cleanup after a summer thunderstorm, or clearing an overgrown lot, you need to know where to dispose of yard waste and which method is the most efficient for your situation. The options range from curbside pickup and yard debris drop-off sites to landscape dumpster rental for larger projects. This guide covers all of them so you can choose the right approach for your specific yard waste cleanup.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has served Jacksonville yard-waste projects since 2016, offering 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## What Counts as Yard Waste?
 
@@ -477,7 +477,7 @@ Yes, the City of Jacksonville activates storm debris pickup after major weather 
 
 Removing a concrete driveway is one of those projects where the demolition itself is only half the challenge. The other half is figuring out what to do with thousands of pounds of broken concrete. A standard two-car driveway contains 15-25 cubic yards of concrete weighing 30,000-50,000 pounds or more. Whether you are replacing an old cracked driveway, converting to pavers, or changing your landscape layout entirely, understanding the cost to remove a concrete driveway and planning for the disposal of all that material will keep your project on budget and on schedule.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+Driveway removal produces some of the heaviest debris a homeowner will haul, and [904 Dumpster](/) has served Jacksonville since 2016 with 10, 15, and 20-yard containers from $299.
 
 ## How Much Does It Cost to Remove a Concrete Driveway?
 
@@ -622,7 +622,7 @@ You may need a permit for driveway removal and replacement in Duval County. The 
 
 Whether you have a few tires from a recent vehicle change, a pile left behind by a previous property owner, or a bulk tire disposal need from a commercial operation, [getting rid of old tires in Jacksonville](/) requires knowing your options. Tires cannot go in your regular trash pickup, and they are one of the items that [cannot go in a standard dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules). Florida law prohibits disposing of whole tires in landfills, so they need to be recycled or processed through approved facilities. The good news is that Jacksonville has several options for tire disposal, including some that are free.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has served Jacksonville and Northeast Florida since 2016, with 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## Why Tires Require Special Disposal
 
@@ -756,7 +756,7 @@ Recycled tires are processed into several products including crumb rubber for pl
 
 Every year, American households generate millions of tons of electronic waste: old computers, broken televisions, outdated smartphones, dead printers, and dozens of other devices that have reached the end of their useful life. If you are [cleaning out your home, office, or garage in Jacksonville](/) and wondering where to throw away electronics, the answer is not your regular trash bin and not a standard dumpster. Electronic waste, or e-waste, contains hazardous materials like lead, mercury, cadmium, and flame retardants that can leach into soil and groundwater when improperly disposed of. Responsible e-waste disposal protects both the environment and your personal data.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/), locally owned since 2016, offers 10, 15, and 20-yard dumpster rentals across Jacksonville starting at $299 flat.
 
 ## What Is E-Waste?
 
@@ -899,7 +899,7 @@ Florida does not have a statewide ban on e-waste in household trash, but certain
 
 Managing construction waste efficiently is one of the factors that separates well-run job sites from chaotic ones. Whether you are framing a new build, gutting a kitchen, or [managing a commercial renovation in Jacksonville](/), having the right construction site dumpster in place from day one keeps your crew productive, your site clean, and your project on schedule. This guide covers everything contractors and project managers need to know about construction dumpster rental, from choosing the right construction waste container to managing costs and scheduling pickups across multiple job sites.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+Jacksonville contractors have relied on [904 Dumpster](/) since 2016 for job-site debris, with 10, 15, and 20-yard roll-off containers priced flat from $299.
 
 ## Why Construction Sites Need Dedicated Dumpsters
 
@@ -1049,7 +1049,7 @@ Hazardous materials like paint, solvents, chemical adhesives, asbestos-containin
 
 Demolition projects generate more waste per square foot than almost any other type of construction work. Whether you are doing a full gut rehab of a [Jacksonville bungalow](/), a studs-out remodel of a kitchen and bathroom, or overseeing the teardown of an entire structure, the debris volume can be staggering. A single gutted room can fill a 10-yard dumpster, and a full gut house project on a typical 1,500 square foot home can produce 20-40 cubic yards of demolition debris weighing tens of thousands of pounds. Planning for this waste before the first wall comes down is essential to keeping your project on budget and your site safe.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+Demolition debris is dense and often heavy, and [904 Dumpster](/) has hauled it across Jacksonville and Northeast Florida since 2016, offering 10, 15, and 20-yard containers from $299.
 
 ## Types of Demolition Projects and What They Generate
 
@@ -1188,7 +1188,7 @@ Demolition is the rapid mechanical teardown of a structure or space. Deconstruct
 
 Creating a dog-friendly backyard is one of the most rewarding home improvement projects for pet owners, but it also generates more waste than most people expect. Tearing out old fencing, removing existing landscaping, pulling up damaged sod, replacing worn decking, and clearing space for new dog-safe features all produce debris that needs to go somewhere. Whether you are installing a xeriscape yard, adding privacy fencing, replacing a driveway border, or building a dedicated dog run, planning for waste disposal before you start saves time, money, and frustration. This guide walks [Jacksonville dog owners](/) through the waste planning side of a backyard makeover so you can focus on creating the best yard for dogs.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+[904 Dumpster](/) has served Jacksonville backyard projects since 2016, with 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## Common Dog-Friendly Backyard Projects and Their Waste
 
@@ -1323,7 +1323,7 @@ Yes. We deliver throughout Northeast Florida including [Jacksonville Beach](/dum
 
 As [Jacksonville's population](/) ages, more homeowners are choosing to renovate their existing homes rather than move to assisted living facilities. Aging in place renovations range from simple grab bar installations to complete bathroom overhauls, doorway widening, and the construction of full mother-in-law suites. These accessibility remodeling projects make homes safer and more comfortable for aging residents or family members with disabilities, but they also generate construction waste that needs to be handled. Whether you are doing a bathroom remodel, building an in-law suite, or making multiple accessibility modifications throughout the house, understanding what waste to expect and how to dispose of it keeps your project moving smoothly.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a locally owned dumpster rental company serving Jacksonville and Northeast Florida since 2016. We provide 10, 15, and 20-yard roll-off dumpsters for residential and commercial projects with flat-rate pricing starting at $299.
+Home-modification projects generate their own kind of debris, and [904 Dumpster](/) has served Jacksonville homeowners with it since 2016, offering 10, 15, and 20-yard containers from $299.
 
 ## Common Aging in Place Renovations and Their Waste
 
