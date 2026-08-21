@@ -4,7 +4,7 @@ export const BATCH3_LOCATION_POSTS: BlogPost[] = [
   {
     slug: 'dumpster-rental-arlington-fl',
     title: 'Same-Day Dumpster Rental Pricing in Arlington FL',
-    metaTitle: 'Dumpster Rental Arlington FL | Flat Rate From $299 | 904 Dumpster',
+    metaTitle: 'Dumpster Rental Arlington FL - Flat Rate From $299',
     metaDescription:
       'Dumpster rental in Arlington FL from 904 Dumpster. 10, 15, and 20 yard roll-offs delivered to Fort Caroline, University Park, and Queens Harbour. Same-day delivery, flat rates from $299.',
     excerpt:
@@ -70,7 +70,7 @@ Yes. Most of these HOAs require 24-hour advance notice to the gatehouse and some
   {
     slug: 'dumpster-rental-fleming-island-fl',
     title: 'Dumpster Rental Pricing in Fleming Island FL',
-    metaTitle: 'Dumpster Rental Fleming Island FL | From $409 | 904 Dumpster',
+    metaTitle: 'Dumpster Rental Fleming Island FL - From $409',
     metaDescription:
       'Dumpster rental in Fleming Island FL from 904 Dumpster. 15 and 20 yard roll-offs delivered to Eagle Harbor, Eagle Landing, and Pace Island. HOA-friendly, flat rates from $409.',
     excerpt:
@@ -137,7 +137,7 @@ The 15-yard is the most popular size for Eagle Harbor and Eagle Landing projects
   {
     slug: 'dumpster-rental-green-cove-springs-fl',
     title: 'Dumpster Rental Pricing in Green Cove Springs FL',
-    metaTitle: 'Dumpster Rental Green Cove Springs FL | From $409 | 904 Dumpster',
+    metaTitle: 'Dumpster Rental Green Cove Springs FL - From $409',
     metaDescription:
       'Dumpster rental in Green Cove Springs FL from 904 Dumpster. 15 and 20 yard roll-offs for the historic downtown and rural Clay County acreage. Flat rates from $409.',
     excerpt:
@@ -204,7 +204,7 @@ The 15-yard is the more practical choice for the narrower streets near downtown 
   {
     slug: 'dumpster-rental-hilliard-fl',
     title: 'Rural Dumpster Rental Pricing in Hilliard FL',
-    metaTitle: 'Dumpster Rental Hilliard FL | From $409 | 904 Dumpster',
+    metaTitle: 'Dumpster Rental Hilliard FL - From $409',
     metaDescription:
       'Dumpster rental in Hilliard FL from 904 Dumpster. 15 and 20 yard roll-offs for northwest Nassau County acreage, barn tear-offs, and storm debris. Flat rates from $409.',
     excerpt:

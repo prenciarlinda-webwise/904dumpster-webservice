@@ -163,7 +163,7 @@ For moves, renovations, and cleanouts that produce more than curbside recycling 
   {
     slug: 'hazardous-waste-disposal-near-me-jacksonville-fl',
     title: 'Hazardous Waste Disposal Near Me in Jacksonville, FL: Paint, Chemicals & Propane',
-    metaTitle: 'Hazardous Waste Disposal Near Me in Jacksonville FL | 904 Dumpster',
+    metaTitle: 'Hazardous Waste Disposal Near Me in Jacksonville FL',
     metaDescription: 'Old paint, pool chemicals, pesticides, or a propane tank to get rid of in Jacksonville? Household hazardous waste cannot go in a roll-off dumpster or curbside trash. Here is what to do instead.',
     excerpt: 'Paint, chemicals, pesticides, and propane tanks cannot go in curbside trash or a roll-off dumpster in Jacksonville. Here is why, and what to do with the hazardous items so 904 Dumpster can handle the rest of your cleanout.',
     category: 'sustainability',
@@ -296,7 +296,7 @@ Once batteries are set aside for proper recycling, [book a 904 Dumpster roll-off
   {
     slug: 'sharps-medical-waste-disposal-near-me-jacksonville-fl',
     title: 'Sharps Disposal Near Me in Jacksonville, FL: Safe Needle & Medical Waste Guide',
-    metaTitle: 'Sharps Disposal Near Me in Jacksonville FL | Medical Waste Guide',
+    metaTitle: 'Sharps Disposal Near Me in Jacksonville FL - Medical Waste Guide',
     metaDescription: 'Needles, syringes, and other sharps require special disposal in Jacksonville FL and cannot go in curbside trash or a dumpster. Here is how to dispose of them safely, plus what 904 Dumpster can still help with.',
     excerpt: 'Needles and syringes are never safe to put in curbside trash or a roll-off dumpster. Here is how Jacksonville residents can dispose of sharps safely, and what 904 Dumpster can handle for the rest of a cleanout.',
     category: 'sustainability',
