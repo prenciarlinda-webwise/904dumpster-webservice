@@ -35,6 +35,14 @@ To become a franchise hauler, a company must:
 - Use approved disposal facilities
 - Maintain proper equipment and safety standards
 
+## Why Clay County Requires Franchise Hauler Licensing
+
+Clay County uses a franchise hauler system specifically for solid waste collection and roll-off container service, which means a company must apply and be approved by the county before legally operating within it, not just carry a general business license. That is a more involved bar than the "appropriate permits" model used in neighboring [Duval](/), St. Johns, and Nassau counties, where 904 Dumpster also operates. Clay County's approach exists because the county directly manages its franchise agreements for waste collection, giving it more direct oversight over who is authorized to haul debris within its jurisdiction.
+
+## How to Verify Any Hauler's Franchise Status Yourself
+
+Before booking with any company for a Clay County project, not just 904 Dumpster, pull up the [official franchise haulers list](https://www.claycountygov.com/community/garbage-and-recycling/franchise-haulers) directly on claycountygov.com and search for the company name. This takes under a minute and is the single most reliable way to confirm a hauler is actually authorized to operate in the county, rather than relying on a badge or claim on the company's own website. If a company is not listed, ask them directly why. A very recent application is a different situation from simply not being licensed at all, and a legitimate hauler should be able to explain the gap.
+
 ## What This Means for Clay County Residents
 
 If you live in [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl), Oakleaf, or anywhere in unincorporated Clay County, you can rent a roll-off dumpster from 904 Dumpster knowing that:
@@ -134,6 +142,10 @@ A home cleanout in [Jacksonville](/) typically takes 2-5 days and costs between 
 
 After completing over 2,000 dumpster deliveries for Jacksonville cleanout projects since 2016, we have seen what works and what wastes time. This guide shares the system that gets results.
 
+## Supplies to Have on Hand Before You Start
+
+A few basics make a cleanout run faster: heavy-duty contractor bags for anything not going in the dumpster whole, a box cutter and packing tape for items being donated or sold, work gloves, and a furniture dolly if the project involves moving anything heavy down stairs or across a yard to the dumpster. Having these ready before the dumpster arrives means the first day of loading is not lost to a supply run.
+
 ## Step 1 - Assess the Scope
 
 Before ordering a dumpster or gathering supplies, walk through every room and assess what needs to go. Make notes about:
@@ -165,6 +177,14 @@ Jacksonville has numerous donation centers including Goodwill, Salvation Army, a
 | Whole house or estate cleanout | [20-Yard Dumpster](/20-yard-dumpster-rental) | $399 | 7 pickup truck loads |
 
 Not sure which size fits your project? Check out our complete [dumpster size comparison guide](/blog/dumpster-sizes-explained-complete-guide) for detailed dimensions and project examples.
+
+## Room-by-Room Time Estimates
+
+Sorting time varies more by decision-making than by physical labor. A single bedroom or home office with no sentimental items typically takes 2 to 4 hours to fully sort. A garage or attic, where items have accumulated for years and decisions come slower, often takes a full day on its own. For a whole-house cleanout, budgeting the bulk of your rental period for sorting rather than hauling reflects how most Jacksonville cleanouts actually go: physically moving items into the dumpster is fast once a decision is made, but making the decision is what takes the time.
+
+## Handling Items That Will Not Sell or Donate
+
+Not everything falls neatly into keep, donate, sell, or dumpster. Scrap metal (old appliances, plumbing fixtures, wiring) is often worth more at a scrap yard than the effort of donating it; see our [scrap metal recycling guide](/blog/scrap-metal-recycling-near-me-jacksonville-fl) for what qualifies and where to take it. Working but outdated appliances that donation centers will not accept still have value at a scrap facility rather than taking up dumpster space and weight allowance; our [appliance disposal guide](/blog/how-to-dispose-of-appliances-jacksonville) covers the full range of options.
 
 ## Tips for an Efficient Cleanout
 
@@ -298,6 +318,10 @@ A typical kitchen renovation produces several categories of waste:
 - Insulation behind walls
 - Electrical and plumbing components
 
+## What Weighs the Most in a Kitchen Gut
+
+Granite and quartz countertops are by far the heaviest single component of a kitchen renovation, commonly running 15 to 20 pounds per square foot installed, which means a typical kitchen's countertop slab alone can weigh several hundred pounds before cabinets or flooring are even factored in. Tile flooring and tile backsplash are the next heaviest, followed by cabinets (heavier when solid wood than particleboard) and drywall. Appliances, once emptied, are bulky more than heavy relative to their size. Loading the countertop and tile debris first, on the bottom of the dumpster, both protects lighter debris loaded on top and makes it easier to gauge how much weight allowance is left for the rest of the gut.
+
 ## Which Dumpster Size for a Kitchen Remodel?
 
 | Kitchen Project | Recommended Size | Price | Why |
@@ -337,6 +361,10 @@ Cabinets in good condition can often be donated to organizations like Habitat fo
 ### Paint and Chemicals
 
 Leftover paint, stain, and solvents from your kitchen remodel cannot go in a dumpster. See our [paint disposal guide for Jacksonville](/blog/where-to-dispose-of-old-paint-jacksonville) for free drop-off options.
+
+## Getting Value Out of What You're Removing Before It Hits the Dumpster
+
+Cabinets in good condition, working appliances being replaced only for style reasons, and stone countertops without cracks or chips all have resale or donation value that disappears once they are demoed into pieces. Habitat for Humanity ReStore accepts intact cabinet sets and often coordinates pickup for larger donations, and local resale marketplaces move usable appliances and countertops quickly in the Jacksonville area, sometimes with same-week pickup that saves both the item's value and the dumpster space it would have taken up. This only works ahead of demo day, since anything already removed for the sink cutout or disconnected wiring is much harder to sell as a complete unit.
 
 ## Timeline for Debris Management
 
@@ -442,6 +470,14 @@ For roofing projects, we recommend:
 
 **Multiple Dumpsters**
 Large commercial roofs or multi-layer residential roofs may require multiple dumpsters or scheduled swap-outs. Need help estimating? See our [dumpster size comparison guide](/blog/dumpster-sizes-explained-complete-guide).
+
+## Metal, Tile, and Other Roofing Materials
+
+Not every Jacksonville roof is asphalt shingle. Metal roofing panels are lighter per square than shingles but bulkier and harder to compact, since removed panels do not break down or nest together the way torn shingles do, which means volume becomes the limiting factor rather than weight. Concrete or clay tile roofing is the opposite extreme, running significantly heavier than asphalt per square, and a full tile tear-off on anything but a small roof will typically need the 20-yard's 2-ton allowance or a swap-out schedule even on roofs that would fit a 15-yard in shingle form. Confirming which material you are removing, not just the square footage, is the more accurate way to size the dumpster.
+
+## Recycling Value in Removed Metal Roofing
+
+Unlike asphalt shingles, which go straight to the landfill, removed metal roofing panels have scrap value and can often be sold separately rather than loaded into the dumpster with everything else. Setting metal panels aside during tear-off, rather than mixing them into the general debris pile, both frees up weight allowance in the dumpster for the rest of the tear-off and can offset part of the project's disposal cost. See our [scrap metal recycling guide](/blog/scrap-metal-recycling-near-me-jacksonville-fl) for current pricing by metal type.
 
 ## Dumpster Placement for Roofing
 
@@ -634,6 +670,14 @@ Heavy materials can easily exceed dumpster weight limits:
 ### Cost Considerations
 Heavy material disposal often costs more per ton than general debris. Separating materials can reduce overall costs.
 
+## Diverting Demolition Debris From the Landfill
+
+Not all demolition debris has to go to the landfill. Clean, unpainted wood and dimensional lumber can sometimes be chipped or reused rather than landfilled, metal (rebar, wiring, aluminum siding, copper plumbing) has scrap value and is worth separating out before loading, and concrete and masonry are frequently accepted separately at recycling facilities that crush it for use as road base rather than burying it. Separating these materials during demo, rather than mixing everything into one load, both reduces the weight hitting your dumpster's ton allowance and can reduce the total disposal cost. See our [construction recycling guide](/blog/recycling-guide-jacksonville-construction-projects) for a full material-by-material breakdown.
+
+## DIY Demolition vs Hiring a Contractor
+
+Interior demo limited to non-structural elements (cabinets, non-load-bearing walls, flooring, fixtures) is a common DIY project when paired with a dumpster for debris. Anything touching a load-bearing wall, structural framing, or utilities crosses into work that Jacksonville permitting requires a licensed contractor for, regardless of whether the homeowner is doing the physical labor. If a project's scope is unclear, a quick call to the City of Jacksonville Building Inspection Division before starting demo is faster than finding out mid-project that a permit was required.
+
 ## Jacksonville Demolition Permits
 
 Before starting any demolition project in Jacksonville/Duval County:
@@ -818,6 +862,10 @@ A dumpster on your property allows:
 - Privacy for personal items disposal
 
 Review our [dumpster size guide](/blog/dumpster-sizes-explained-complete-guide) to choose the right container for your cleanup.
+
+## Sizing a Dumpster for Storm Damage
+
+Storm debris volume is harder to estimate upfront than a planned renovation, since it depends entirely on what came down rather than a predictable room-by-room scope. A single large downed tree, once cut into manageable sections, can fill a meaningful portion of a 20-yard dumpster on its own, before any roofing, fencing, or household debris is added. For properties with significant tree damage plus structural debris, starting with the [20-yard](/20-yard-dumpster-rental) and arranging a swap-out if more capacity is needed is more practical than guessing at a smaller size and running out of room mid-cleanup.
 
 ## Insurance and Debris Removal
 
