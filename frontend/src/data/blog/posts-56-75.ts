@@ -607,6 +607,18 @@ Online booking locks your rate instantly. Our flat rates — $299, $349, $399 �
 
 If you order online before noon Monday through Saturday, we can deliver that afternoon. Just select "today" as your delivery date during checkout.
 
+## What to Have Ready Before You Start
+
+Booking goes faster if you know three things before you open the site: your delivery address, where on the property the dumpster should sit (driveway, side yard, or street), and roughly how much clearance is available above and around that spot for a delivery truck. If your property has a gate code, an HOA placement rule, or a low tree branch near the drop zone, jot that down too so you can add it as a note during checkout instead of calling back afterward.
+
+## Placement Notes During Checkout
+
+The address field alone does not tell a driver exactly where to put the container on a property. Use the notes field during checkout to specify driveway versus street, any gate or access code, and any obstacle to avoid (mailbox, sprinkler head, low-hanging limb). The more specific the note, the less likely a driver needs to call you for clarification on delivery day.
+
+## Changing or Canceling an Online Booking
+
+Plans change. If you need to adjust your delivery date, swap a size, or cancel before the truck is dispatched, call **[(904) 240-5598](tel:+19042405598)** rather than trying to rebook online, since online checkout is built for new orders, not modifying an existing one. Changes are easiest the earlier you call, especially for same-day orders where the truck may already be routed.
+
 ## Frequently Asked Questions
 
 ### Can I rent a dumpster in Jacksonville FL without calling?
@@ -686,6 +698,14 @@ We deliver to every community in Nassau County including:
 ## Nassau County Notes on Placement
 
 Most Nassau County properties are on larger lots without the driveway constraints of urban Jacksonville. Placement is often on a gravel or packed-earth driveway, yard area, or commercial lot. We place boards under the container on gravel to prevent ruts and on paved surfaces to protect the finish.
+
+## Why Nassau County Pricing Differs From Duval County
+
+Nassau County rates run higher than Duval because every delivery originates from our Jacksonville yard and covers a longer round trip than an in-city drop. The price difference reflects that added drive time and fuel, not a different service level; the container, rental period, and included tonnage are the same containers we run in Duval, just priced for the distance.
+
+## Bryceville and the Western County Line
+
+Bryceville sits inland along the Nassau-Duval county line, more rural than Yulee or Fernandina Beach and without a dedicated town center the way Callahan has. Long private drives and gated agricultural properties are common here, similar to what our drivers see further south in Hilliard. If your Bryceville property has a locked gate or a drive longer than a typical residential lot, note it during booking so we can route the delivery correctly on the first attempt.
 
 ## Frequently Asked Questions
 
@@ -934,6 +954,10 @@ Here is a direct comparison on the four factors that matter most to Jacksonville
 
 **904 Dumpster:** We are a licensed Clay County franchise hauler and hold all required permits across Duval, St. Johns, and Nassau counties.
 
+## What a Weight Overage Charge Looks Like With a Broker
+
+The fee structure that catches most people off guard is weight overage, billed after the dumpster is already picked up and weighed at the facility. Because a broker is not the company that physically hauls or weighs your load, disputing an unexpected overage charge means going back through the platform rather than talking directly to the driver or scale operator who generated it. 904 Dumpster's included tonnage is stated upfront (1 ton on a 10-yard, 1.5 on a 15-yard, 2 on a 20-yard), and if you go over, the same local team that delivered your container handles the overage conversation directly.
+
 ## Side-by-Side Summary
 
 | Factor | National Broker | 904 Dumpster (Local) |
@@ -1127,6 +1151,14 @@ See the [dumpster size guide](/dumpster-size-guide) to choose the right containe
 
 904 Dumpster offers same-day delivery across all of Jacksonville and Northeast Florida for orders placed before noon Monday–Saturday. Summer is our busiest season — book early in the day to secure your slot.
 
+## Don't Wait Until a Storm Has a Name
+
+Pre-storm cleanout demand spikes hard the moment a system gets named and starts tracking toward Florida, and dumpster availability tightens right along with it. Booking a pre-season cleanout in June or early July, well before any specific storm is in the forecast, gets you normal scheduling instead of competing for a slot during an active watch. If a storm does make landfall and leaves debris behind, that is a different project with its own timeline; our [hurricane debris cleanup guide](/blog/hurricane-debris-cleanup-jacksonville) covers what changes once you are dealing with storm damage rather than pre-storm prep.
+
+## Humidity Turns Slow Cleanouts Into Mold Problems
+
+Jacksonville summer humidity accelerates mold growth on anything organic that sits too long, wet cardboard, water-damaged drywall, damp wood. A dumpster that sits half-loaded for weeks in July heat gives mold more time to establish than the same load would in cooler, drier months. If your project involves any water-damaged material, plan to fill and clear the dumpster in the shortest practical window rather than loading it gradually over your full rental period.
+
 ## Frequently Asked Questions
 
 ### What size dumpster do I need for a summer cleanout in Jacksonville FL?
@@ -1208,6 +1240,10 @@ Real estate investors have different priorities than a one-time homeowner doing 
 ## Sequential Delivery for Multi-Load Flips
 
 For full gut renovations or distressed property acquisitions, we coordinate sequential same-day delivery — pick up the full load, drop an empty container the same afternoon. Pre-schedule your multi-load sequence in advance so your crew never waits on debris removal.
+
+## Timing Delivery Around Your Demo Crew
+
+The most common scheduling mistake on a flip is ordering the dumpster for the same morning demo starts, which leaves a crew standing around waiting on delivery instead of working. Booking delivery the afternoon before demo begins, or first thing that morning before the crew arrives, means the container is already staged when work starts. On multi-load jobs, coordinate the pickup-and-redrop timing directly with us rather than assuming it happens automatically. We move fast, but a crew working around an absent dumpster still loses productive hours.
 
 ## Frequently Asked Questions
 
@@ -1455,6 +1491,14 @@ Dumpster placement at multi-family properties requires coordination with the pro
 ## Same-Day Delivery for Jacksonville Apartments
 
 904 Dumpster offers same-day delivery to apartment and condo addresses across Jacksonville FL for orders placed before noon Monday–Saturday. Ideal for property managers who need to turn a unit on a tight timeline.
+
+## Condo Association Rules Are Often Stricter Than an HOA
+
+A single-family HOA typically cares about placement and duration. A condo or homeowners association managing a shared building often adds its own layer: a required certificate of insurance naming the association, a maximum number of days the container can occupy a shared space, and sometimes a specific approved contractor or vendor list. Check with your association's management company before scheduling delivery, not after, since a container that has to be moved mid-project because it violated an association rule costs more time than the extra phone call up front.
+
+## Getting Debris From a Unit to the Dumpster
+
+Ground-floor and townhome units are straightforward: carry items directly out. Upper-floor condo units add a real logistics step, since debris has to travel down a hallway and either a stairwell or a shared elevator before it reaches the container. If your building's elevator requires a reservation or padding to protect the interior during a move-style job, book that access alongside your dumpster delivery so the two are ready on the same day instead of debris piling up in a hallway while you wait on elevator access.
 
 ## Frequently Asked Questions
 
