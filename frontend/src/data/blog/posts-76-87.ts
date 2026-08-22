@@ -253,6 +253,10 @@ A typical home renovation in either area (kitchen remodel, bathroom gut, floorin
 
 For Orange Park deliveries, ask whether the driver has routed around OakLeaf's internal road restrictions and confirm your HOA's placement rules if you are inside a gated section. For Middleburg, ask specifically about driveway length and surface (gravel vs. paved) so the truck arrives with the right approach plan, and mention if the property has a septic field near the driveway.
 
+## Booking Around Black Creek's Seasonal Flooding
+
+Black Creek and the surrounding low-lying stretches of Middleburg see seasonal high water during Florida's wet season, roughly June through September, which can affect drive access to some rural properties even when the home itself is unaffected. If your Middleburg property sits near the creek or on a low-lying approach road, checking current water levels before scheduling a firm delivery date avoids a truck getting turned back on a flooded access road. A quick call to confirm access ahead of time costs nothing and saves a wasted trip during peak wet season.
+
 ## Commercial and Business Dumpster Needs
 
 Small businesses and property managers in both areas (rental-property turnovers, small retail buildouts, HOA-managed common-area cleanups) typically use the same 15 or 20-yard containers as residential renovations, just on a recurring or multi-unit basis. 904 Dumpster offers standing accounts for property managers handling multiple Clay County units; call (904) 240-5598 to set one up.
@@ -433,6 +437,10 @@ Pricing includes delivery, pickup, and disposal, with a 3-day rental for the 10-
 
 If your project fits in the trunk of a car or a few trips with a truck, a small bin or a single bagged option covers it. If you are clearing a room, a garage, a renovation site, or anything involving furniture, flooring, drywall, or yard debris beyond a weekend's worth, a roll-off dumpster is both faster and cheaper per cubic yard. The crossover point is roughly 3 cubic yards. Below that, bags or bins usually win on convenience. Above it, a roll-off wins on cost.
 
+## Cost Per Cubic Yard, Side by Side
+
+Comparing options by total price alone hides how differently they scale. A bagged unit at roughly $200 for 3 cubic yards works out to about $67 per cubic yard. A 10-yard roll-off at $299 works out to about $30 per cubic yard, and a 20-yard at $399 drops to roughly $20 per cubic yard. The larger the project, the more the per-yard cost of a roll-off pulls ahead of bagged or small-bin options, which is why the crossover point favors a dumpster so quickly once a project exceeds a single room.
+
 ## Why the Search Terms Get Confused
 
 "Garbage bin," "dumpster," "roll-off," and "waste container" are used interchangeably in everyday speech even though they describe different products and price points. Waste haulers and municipal programs use "bin" for small carts on a collection schedule, while the construction and renovation industry uses "dumpster" or "roll-off" for the larger one-time containers. Knowing which term matches your actual need before you search saves a round of quote calls to the wrong type of company.
@@ -475,7 +483,7 @@ Some do, but many small-bin and cart rental companies are municipal contractors 
     title: '20 Yard Roll Off Dumpster Rental: Size, Price, What Fits',
     metaTitle: '20 Yard Roll Off Dumpster Rental Guide - Size, Price, What Fits',
     metaDescription: 'Everything to know before renting a 20 yard roll off dumpster: dimensions, weight limit, what actually fits, pricing, and how it compares to the 10 and 15-yard sizes.',
-    excerpt: 'A 20 yard roll off dumpster measures 22 feet long, holds 20 cubic yards and 2 tons of debris, and costs $399 at 904 Dumpster, covering whole-house renovations and multi-room remodels. This guide breaks down exact dimensions, weight limits, what fits, and when a smaller size saves money instead.',
+    excerpt: 'A 20 yard roll off dumpster measures 14 feet long, holds 20 cubic yards and 2 tons of debris, and costs $399 at 904 Dumpster, covering whole-house renovations and multi-room remodels. This guide breaks down exact dimensions, weight limits, what fits, and when a smaller size saves money instead.',
     category: 'dumpster-rental-tips',
     author: '904 Dumpster',
     publishedDate: '2026-07-06T18:00:00-04:00',
@@ -492,15 +500,15 @@ Some do, but many small-bin and cart rental companies are municipal contractors 
       { name: 'Waste management', sameAs: 'https://en.wikipedia.org/wiki/Waste_management' },
     ],
     content: `
-A 20-yard roll off dumpster is 22 feet long, 7.5 feet wide, and 4.5 feet tall, holding 20 cubic yards of debris, roughly 6 to 8 pickup truck loads. It is the best value per cubic yard in the [904 Dumpster](/20-yard-dumpster-rental) fleet at $399, but that value only holds if your project genuinely needs the capacity. This guide covers dimensions, weight limits, what actually fits, and when to size down to save money.
+A 20-yard roll off dumpster is 14 feet long, 7.5 feet wide, and 5.8 feet tall, holding 20 cubic yards of debris, roughly 6 to 8 pickup truck loads. It is the best value per cubic yard in the [904 Dumpster](/20-yard-dumpster-rental) fleet at $399, but that value only holds if your project genuinely needs the capacity. This guide covers dimensions, weight limits, what actually fits, and when to size down to save money.
 
 ## What Are the Dimensions of a 20-Yard Dumpster?
 
 | Spec | Measurement |
 |---|---|
-| Length | 22 feet |
+| Length | 14 feet |
 | Width | 7.5 feet |
-| Height | 4.5 feet |
+| Height | 5.8 feet |
 | Volume | 20 cubic yards |
 | Weight included | 2 tons |
 | Driveway footprint | Roughly 2 standard parking spaces |
@@ -537,6 +545,10 @@ The jump from 15-yard to 20-yard is only $50 for 5 additional cubic yards and an
 
 If your project is a single bathroom, a garage cleanout, or a small deck tear-off, the 20-yard's extra capacity is paid for and unused. The [EPA's guidance on construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) recommends estimating debris volume before ordering to avoid both under- and over-sizing, and the same logic applies to cost. When in doubt between the 15 and 20-yard, the $50 difference is usually worth it only if you expect to fill more than 15 cubic yards.
 
+## Loading a 20-Yard Efficiently
+
+The extra 1.3 feet of wall height over the 15-yard is easy to waste if you load loosely. Breaking down bulky items, flattening boxes, and stacking flat materials (drywall sheets, flooring) rather than tossing them in at odd angles makes a real difference in how much of the container's actual volume you use. A carelessly loaded 20-yard can look full at 12 cubic yards of real material; a deliberately packed one gets close to the full 20. If you are on the fence between the 15 and 20-yard, efficient loading technique sometimes closes the gap enough that the 15-yard covers a project you thought needed the larger size.
+
 ## Frequently Asked Questions
 
 ### How much does a 20 yard roll off dumpster cost?
@@ -545,7 +557,7 @@ If your project is a single bathroom, a garage cleanout, or a small deck tear-of
 
 ### What are the dimensions of a 20-yard dumpster?
 
-A 20-yard roll off measures approximately 22 feet long, 7.5 feet wide, and 4.5 feet tall, holding 20 cubic yards of debris, about 6 to 8 pickup truck loads. The footprint takes up roughly two standard parking spaces, the same width as the 15-yard but with extra length and height.
+A 20-yard roll off measures approximately 14 feet long, 7.5 feet wide, and 5.8 feet tall, holding 20 cubic yards of debris, about 6 to 8 pickup truck loads. The footprint takes up roughly two standard parking spaces, the same length and width as the 15-yard but with 1.3 feet of extra wall height.
 
 ### What fits in a 20-yard dumpster?
 
@@ -1032,14 +1044,14 @@ The [10-yard](/10-yard-dumpster-rental) and [20-yard](/20-yard-dumpster-rental) 
 | Spec | 10-Yard | 20-Yard |
 |---|---|---|
 | Price | $299 | $399 |
-| Length | 12 feet | 22 feet |
+| Length | 12 feet | 14 feet |
 | Width | 7.5 feet | 7.5 feet |
-| Height | 3.6 feet | 4.5 feet |
+| Height | 3.6 feet | 5.8 feet |
 | Weight included | 1 ton | 2 tons |
 | Rental period | 3 days | 5 days |
 | Truck loads equivalent | About 3 | About 6 to 8 |
 
-The width is identical, so the driveway footprint difference is mostly length and height, not how many parking spaces it consumes.
+The width is identical and the length is close, so the driveway footprint barely changes between the two. Nearly all of the 20-yard's extra volume comes from taller walls, 2.2 feet taller than the 10-yard, not a bigger footprint.
 
 ## Projects That Only Need the 10-Yard
 
@@ -1070,6 +1082,14 @@ Volume is not the only constraint. A 10-yard's 1-ton weight allowance is easy to
 | Multi-room estate cleanout | [20-yard](/20-yard-dumpster-rental) |
 
 For a project that seems to fall right on the line, sizing up to the 20-yard is usually the safer $100 bet over ordering a second 10-yard delivery mid-project, which costs more in total and disrupts the job.
+
+## Where the 15-Yard Fits Between Them
+
+Jumping straight from the 10-yard to the 20-yard skips a real middle option. The 15-yard sits almost exactly between the two on both price ($349) and capacity (15 cubic yards, 1.5 tons), and shares the 20-yard's 14-foot length and 7.5-foot width, just with 1.3 feet less wall height. For projects that clearly exceed a single room but stop short of a full renovation, a kitchen or bathroom gut, a roofing tear-off under about 30 squares, the 15-yard is often the better fit than jumping straight to the largest size out of caution.
+
+## Same Footprint, Different Capacity
+
+Because the 10-yard, 15-yard, and 20-yard share the same 7.5-foot width and nearly the same length, the decision between them almost never comes down to whether a container physically fits your driveway. It comes down to how much debris you actually expect to generate. If your driveway fits one size, it fits all three; use the project scope, not the parking space, to make the call.
 
 ## Frequently Asked Questions
 
