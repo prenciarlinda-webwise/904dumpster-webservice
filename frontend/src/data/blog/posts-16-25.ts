@@ -154,7 +154,7 @@ The 10-yard and 15-yard dumpsters are the most commonly rented sizes for residen
 
 ### Can a 20-yard dumpster fit in my driveway?
 
-A 20-yard dumpster is approximately 22 feet long and 7.5 feet wide. Most standard two-car driveways in Jacksonville can accommodate this size, but measure your space before ordering. You will also need vertical clearance for the delivery truck.
+A 20-yard dumpster is approximately 14 feet long and 7.5 feet wide. Most standard two-car driveways in Jacksonville can accommodate this size easily, but measure your space before ordering. You will also need vertical clearance for the delivery truck.
 
 ### Is a 12-yard or 14-yard dumpster available in Jacksonville?
 
