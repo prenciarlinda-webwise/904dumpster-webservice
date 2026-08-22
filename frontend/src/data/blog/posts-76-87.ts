@@ -162,6 +162,10 @@ Pricing includes delivery, pickup, and disposal, with no separate fuel or enviro
 
 Short-term-rental turnover cleanouts near Centre Street, A1A oceanfront cottage renovations, hurricane and tropical-system debris (Amelia takes a harder hit than areas farther south in Northeast Florida), and historic-home remodels in 1880s and 1890s properties make up most of the route's volume. Rural Yulee properties more often need the 20-yard for land-clearing and outbuilding debris.
 
+## Timing Around Peak Tourist Season
+
+Amelia Island's tourist season runs heaviest from spring through early fall, when Centre Street, the beaches, and A1A traffic all slow down considerably compared to winter months. A renovation or cleanout timed for delivery outside peak weekend traffic, weekday mornings rather than a Saturday in July, tends to go more smoothly for both the delivery truck and anyone trying to navigate a narrow historic-district street around it. If your project timeline is flexible, that is worth factoring in alongside the size and permit questions above.
+
 ## What a Dumpster Cannot Replace
 
 A roll-off is not a substitute for hazardous waste drop-off (paint, batteries, chemicals) or the [Florida ban on tires in landfills](https://floridadep.gov/waste). Those require separate handling regardless of which disposal method you choose for the rest of the project. See our [prohibited items list](/rules/prohibited-items-list) for the full rundown before you load.
@@ -335,6 +339,10 @@ Nocatee and Julington Creek are among the fastest-growing parts of the county, a
 | [20-yard](/20-yard-dumpster-rental) | $499 | 5 days | 2 tons |
 
 Pricing is flat across the entire county, whether the delivery address is downtown St. Augustine or a new build in Nocatee. Extensions past the 5-day window are $15 per day, with no separate fuel or environmental fee.
+
+## Barrier Island Delivery Considerations
+
+Ponte Vedra Beach and the coastal stretch of St. Augustine sit on barrier island terrain, which means sandy soil and driveways that sometimes shift or soften after heavy rain, different footing than the packed suburban driveways further inland toward Nocatee. Our drivers place boards under every container regardless of location, but on barrier island deliveries it is worth flagging any recent drainage or soil softness on your property when you book, since it affects exactly where on the lot a container sits most stably for the full rental period.
 
 ## Why There Is No 30-Yard Option
 
@@ -691,6 +699,10 @@ Older beachside cottages and bungalows, particularly close to the water, often h
 
 Pricing includes delivery, pickup, and disposal at Trail Ridge Landfill, matching standard Duval County rates. Extensions run $15 per day past the included rental window.
 
+## Sand-Adjacent Placement
+
+Properties within a block or two of the dune line sometimes have driveways that transition into looser, sandier soil near the edges rather than solid pavement the whole way, different footing than a standard inland driveway. Loose sand under a container's wheels can let it settle unevenly over a multi-day rental. Placement boards address most of this, but if your property's driveway has any sandy or unpaved sections, mention it when booking so delivery can plan the firmest available placement spot rather than defaulting to wherever is closest to the street.
+
 ## Common Jacksonville Beach Projects
 
 Condo kitchen and bathroom renovations, short-term rental turnover cleanouts, beach cottage remodels, and post-storm debris removal make up most of the local volume. Jacksonville Beach also sees seasonal spikes ahead of the summer rental season, when property owners and managers turn over units on a compressed timeline; booking a few days ahead during May and June avoids the tightest scheduling window.
@@ -773,6 +785,10 @@ Businesses generating debris on an ongoing basis, rather than a single project, 
 | [20-yard](/20-yard-dumpster-rental) | $399 | 5 days | Restaurant buildouts, larger renovations |
 
 Standard pricing includes delivery, pickup, and disposal. For recurring or multi-unit commercial needs, call (904) 240-5598 to discuss a standing account with volume pricing.
+
+## Scheduling Around Business Hours
+
+A dumpster parked in customer parking during peak hours costs a retail or restaurant business more in lost foot traffic than the rental itself. Scheduling delivery for early morning before opening, or coordinating placement in a rear service area rather than the front customer lot, keeps the container out of the way of paying customers. If your lease or center has a designated loading zone, direct our driver there specifically rather than defaulting to whatever spot looks open on delivery day.
 
 ## What Commercial Dumpsters Cannot Take
 
