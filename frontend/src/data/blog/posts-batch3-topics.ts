@@ -47,6 +47,14 @@ Most passenger cars hold 4 to 6 quarts of oil, and larger trucks and SUVs with b
 
 Keep used oil in a clean container with a secure lid, ideally one that originally held oil rather than a food or chemical container that could react with it. Store it away from heat sources and out of direct sun, since oil containers left in a hot Jacksonville garage or driveway can warp or crack over months of storage. Never mix used oil with antifreeze, gasoline, brake fluid, or water. Even a small amount of contamination can get an entire batch rejected by a recycler, since re-refining depends on the oil being reasonably pure.
 
+## Does the Grade or Weight of Oil Matter for Recycling?
+
+Recyclers do not sort used oil by grade (5W-30, 10W-40, and so on) or brand, since the re-refining process handles the range of common motor oil grades the same way. What actually matters is contamination, keeping the oil free of water, antifreeze, or fuel, not which grade or brand it originally was. This is worth knowing if you are consolidating oil from multiple vehicles into one container before a recycling trip.
+
+## What to Do If No Nearby Retailer Accepts Oil
+
+In the rare case a specific retailer location is not currently accepting oil, equipment downtime, a full collection tank, call ahead rather than showing up with a full container, since most locations can tell you over the phone whether they are accepting drop-offs that day. If a retailer genuinely cannot take it, the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) can point to the nearest household hazardous waste option as a backup.
+
 ## Oil-Soaked Rags Are Their Own Hazard
 
 Rags used to wipe up spilled oil, clean a drain pan, or handle a filter should not go straight into a trash bag or a dumpster while still oily. Oil-soaked rags piled together can generate enough heat through oxidation to ignite on their own, a real fire risk in a closed garage or a loaded dumpster. Lay them flat to fully dry outdoors first, or seal them in a metal container, before disposing of them with your general debris.
@@ -121,6 +129,18 @@ Pricing runs by category, and the categories are not close. Copper pays the most
 ## Preparing Metal to Get a Better Rate
 
 Separate ferrous metal (steel and iron, which stick to a magnet) from non-ferrous metal (copper, aluminum, brass, which do not) before you arrive, since a mixed load often gets sorted and priced at the lowest category present rather than weighed by individual material. Stripping non-metal attachments, plastic housings, insulation on wire, wood handles, also raises the payout, because yards pay for the metal weight, not the weight of what is attached to it.
+
+## Does the Facility Location Matter for Pricing?
+
+Scrap yards set their own daily rates independently, so it can be worth a quick phone call to more than one facility if you have a genuinely large load, since a few cents per pound difference adds up fast on hundreds of pounds of copper or aluminum. For a small, mixed load, the convenience of the closer facility usually outweighs a marginal price difference.
+
+## Documentation Some Yards Require
+
+Florida scrap yards are subject to state recordkeeping requirements meant to discourage stolen-metal sales, which means most facilities will ask for a photo ID and sometimes take a photo of the load or vehicle before paying out, especially for higher-value non-ferrous metal like copper. This is standard industry practice, not a sign of a problem with your load, and bringing ID along on a scrap run saves a wasted trip if you show up without it.
+
+## Aluminum Cans Are a Different Category Entirely
+
+Household aluminum cans, the beverage-can kind, pay a much lower per-pound rate than the aluminum siding, gutters, or window frames typically found during a renovation, and most scrap yards weigh and price them separately from other aluminum scrap. If your project includes both, keep beverage cans out of the same load as structural aluminum, since mixing them does not raise the beverage-can rate and can complicate how the load gets weighed.
 
 ## What Scrap Yards Typically Will Not Take As-Is
 
@@ -202,6 +222,18 @@ A spiral CFL bulb is compact and reasonably sturdy for transport, but a 4-foot o
 
 A shop vacuum or regular vacuum cleaner does not filter mercury vapor. Running one over a broken bulb aerosolizes the mercury and spreads it through the vacuum's exhaust and into the room's air, which is the opposite of containing it. Sweeping the pieces into a sealed container by hand, with gloves, is the safer approach every time.
 
+## Fluorescent Fixtures with Old Ballasts
+
+Older fluorescent fixtures, especially those installed before the mid-1980s, sometimes contain ballasts with PCBs (polychlorinated biphenyls), a separate hazardous material from the mercury in the bulb itself. If you are removing fixtures from a home or building old enough to still have its original ballasts, that component needs its own hazardous-waste handling distinct from the bulb recycling described above. When in doubt about a fixture's age, treat the ballast as needing separate disposal rather than assuming it is safe to toss with general debris.
+
+## Recycling Programs Can Change Without Notice
+
+Retailer take-back programs for CFLs and fluorescent tubes are run voluntarily, not required by law in most cases, which means availability at a specific store can change with little notice. Calling ahead before a special trip, rather than assuming a program that existed last year is still running, saves a wasted drive, especially for a larger batch from a renovation or retrofit project.
+
+## Commercial Retrofits Generate Bigger Volumes
+
+A full office or commercial space lighting retrofit can generate dozens or hundreds of fluorescent tubes at once, far beyond what any in-store take-back bin is set up to handle. For a project at that scale, a dedicated commercial bulb recycler, often the same company handling the retrofit installation, is the more realistic option than multiple trips to a retail take-back bin, and many can provide documentation of proper disposal for a business's own compliance records.
+
 ## Frequently Asked Questions
 
 ### Can I put fluorescent bulbs in my 904 Dumpster rental?
@@ -272,6 +304,18 @@ Testing is a small, low-disturbance sample, not a full inspection of the entire 
 ## 1980 Is a Guideline, Not a Guarantee
 
 The "built before 1980" rule of thumb reflects when asbestos use in building materials declined sharply in the U.S., but it was not banned outright, and some products manufactured into the 1980s still contained it. A home built in 1979 is higher risk than one built in 2005, but a slightly newer home is not automatically clear. When in doubt about a specific material, testing is still the only reliable answer regardless of the home's exact age.
+
+## Hiring the Right Kind of Contractor
+
+Not every contractor who handles demolition is licensed for asbestos abatement, and the two are separate credentials in Florida. Confirm a contractor's specific asbestos abatement license before hiring them for suspected asbestos work, rather than assuming a general demolition or renovation license covers it. A licensed abatement contractor can also advise on air-quality clearance testing after removal, confirming the space is safe before general renovation work resumes.
+
+## Asbestos Testing Cost Is Small Relative to the Risk
+
+A single material sample test is a minor expense compared to the cost of a full renovation, and it is far smaller than the cost, financial and otherwise, of discovering asbestos mid-demolition after material has already been disturbed and fibers may have spread through the work area. Testing before demo starts is the only point in the project where the cost of being wrong is genuinely low.
+
+## What Happens If Asbestos Is Found Mid-Project
+
+If suspected asbestos material is disturbed before it is tested, for example, a popcorn ceiling is already partially scraped when the concern comes up, work in that area should stop immediately rather than continuing. Ventilating the space, avoiding sweeping or vacuuming, which can spread fibers further, and calling a licensed abatement contractor for guidance on next steps is the safer path than trying to finish the job and deal with testing afterward.
 
 ## Frequently Asked Questions
 
