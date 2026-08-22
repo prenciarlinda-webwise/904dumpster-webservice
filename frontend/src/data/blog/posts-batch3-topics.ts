@@ -110,7 +110,7 @@ Old appliances, filing cabinets, bed frames, pipe, and rebar all come out of Jac
 
 ## You Have Two Options for Scrap Metal
 
-**Option 1: Throw it in the dumpster.** Metal items are accepted right alongside general household and renovation debris in a 904 Dumpster roll-off. If convenience matters more than a modest payout, or the volume of metal in your job is small, there is no reason to separate it out.
+**Option 1: Throw it in the dumpster.** Metal items are accepted right alongside general household and renovation debris in a [904 Dumpster roll-off](/dumpster-rental-pricing-jacksonville). If convenience matters more than a modest payout, or the volume of metal in your job is small, there is no reason to separate it out.
 
 **Option 2: Take it to a scrap yard for cash.** On a larger renovation, demolition, or estate cleanout with real volume of steel, copper, aluminum, or brass, separating scrap metal out and hauling it to a yard yourself can offset a meaningful chunk of your project cost. Two established Jacksonville facilities are SA Recycling at 2600 Talleyrand Avenue (32206) and Trademark Metals Recycling on North Main Street. Both accept walk-in loads and pay by the pound, with rates that vary by metal type and daily commodity pricing.
 
@@ -295,7 +295,7 @@ Intact asbestos-containing material that is not being cut, sanded, or broken apa
 
 **Do not attempt DIY removal.** Bagging up suspected asbestos material yourself and setting it out with regular trash or a dumpster load is both a serious health risk to you and a violation of disposal regulations. Always use a licensed contractor for confirmed or suspected asbestos.
 
-**Learn more from the EPA.** The [EPA's asbestos program](https://www.epa.gov/asbestos) explains health risks and regulatory background in more detail, and the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) can point Duval County residents toward local hazardous waste resources.
+**Learn more from the EPA.** The [EPA's asbestos program](https://www.epa.gov/asbestos) explains health risks and regulatory background in more detail, and the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) can point Duval County residents toward local hazardous waste resources. Asbestos is one of several materials that need this kind of separate handling; see our [hazardous waste disposal guide](/blog/hazardous-waste-disposal-near-me-jacksonville-fl) for the other common cleanout items that cannot go in a standard roll-off.
 
 ## What a Professional Test Actually Involves
 
