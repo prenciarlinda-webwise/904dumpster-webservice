@@ -46,6 +46,14 @@ Look up the business name plus "reviews" on Google separately from whatever site
 
 Get the full price in writing or by text before the truck shows up, including the size, rental period, included tonnage, and the exact overage and extension rates.
 
+## Bait-and-Switch After Delivery
+
+Some brokers quote one size and price, then either deliver a smaller container than promised or add fees once the truck is already on-site, betting that most customers will not send it back at that point. Confirming the exact size and total price in writing before the truck leaves the yard, not just before it arrives, closes this gap. A legitimate hauler has no reason to change the numbers between the phone call and the driveway.
+
+## What to Do If You Already Paid and Something Feels Wrong
+
+If a company already has your payment and is unresponsive, missed the delivery window, or delivered something different from what was quoted, dispute the charge with your card issuer if you paid by credit or debit card, since that is the fastest way to get money back on a service that was not delivered as promised. Peer-to-peer payment apps like Venmo, Zelle, and Cash App offer far less dispute protection, which is exactly why legitimate haulers rarely insist on them. You can also file a complaint with the [Florida Department of Agriculture and Consumer Services](https://www.fdacs.gov/), which tracks patterns against repeat offenders even when an individual complaint does not get resolved quickly.
+
 ## What This Looks Like Done Right
 
 904 Dumpster has owned and operated its own trucks in Jacksonville since 2016, and we are a licensed Clay County franchise hauler. Our flat rates ($299 for a 10-yard, $349 for a 15-yard, $399 for a 20-yard, all inclusive of delivery, pickup, and disposal) are the same number whether you call, text, or book online, and we tell you the weight allowance and overage rate ($75/ton) before you book, not after the truck leaves. You can check our reviews directly on Google, not just on our own site.
@@ -100,9 +108,21 @@ A typical waste bag holds about 3 cubic yards, roughly a quarter to a third of w
 
 A single waste bag typically costs $30 to $40 to buy, plus a separate pickup fee that commonly runs $150 to $200, putting the total cost close to $200 to $250 for roughly 3 cubic yards. A 10-yard dumpster from 904 Dumpster is $299 flat, delivery, pickup, and disposal included, for more than three times the capacity. Once a project needs more than one bag's worth of debris, a dumpster is almost always the better value per cubic yard.
 
+## What Actually Fits in 3 Cubic Yards?
+
+Three cubic yards is roughly the volume of a large walk-in closet packed floor to ceiling, or about 15 to 20 large trash bags. In practice that covers a bathroom vanity and toilet, a couple pieces of furniture, or a weekend's worth of yard debris. It does not cover flooring from more than one room, a mattress plus a bed frame plus other furniture, or any real volume of drywall or renovation debris, which fills a bag's limited footprint far faster than it fills a dumpster.
+
+## Weight Limits Apply to Bags Too
+
+A standard consumer waste bag carries its own weight limit, commonly around 3,300 pounds, separate from its 3-cubic-yard volume cap. Dense material like shingles, tile, or wet debris can hit that weight limit well before the bag looks full, the same overage risk that applies to a dumpster, just at a much lower threshold. This matters for renovation debris in particular, since drywall and tile are dense enough to make weight, not volume, the limiting factor even in a small bag.
+
 ## Pickup Timeline
 
 This is the part that surprises people most. A dumpster pickup is typically same-day or next-day once you call. Waste bag pickup is often scheduled several days out through a national service, and some areas have limited pickup windows, meaning a filled bag can sit in your driveway for a week or more waiting for collection.
+
+## The Real Cost of Needing More Than One Bag
+
+A single project rarely stops at exactly one bag's worth of debris. Three bags, a realistic count for a small bathroom demo or garage clear-out, run $600 to $750 total once pickup fees are included on each one. That is more than double the $299 flat rate for a 10-yard dumpster, which holds more than three bags' worth of debris in one delivery with one pickup, not three separate scheduled collections.
 
 ## When a Waste Bag Actually Makes Sense
 
@@ -174,6 +194,14 @@ A 10-yard dumpster holds about 3 pickup truck loads. At $50 to $75 in gate fees 
 
 For a 20-yard project, about 7 pickup truck loads, self-hauling means seven separate trips to the landfill, each with its own gate fee, versus one dumpster delivery at $399 flat.
 
+## Costs That Are Easy to Forget
+
+A few costs do not show up on either receipt but still apply: many public roads and landfill facilities require loads to be covered or secured with a tarp or straps to avoid a fine for debris falling from an uncovered truck bed, which adds a small extra cost or a delay if you show up without one. Loading is also doubled labor with a truck: once into the truck bed at home, then again off the truck at the landfill, whereas a dumpster is loaded once and never touched again until pickup. A rented truck or trailer also needs to be returned by a specific time, adding a second deadline on top of the landfill trip itself.
+
+## Bigger Truck, Fewer Trips: Does It Change the Math?
+
+Renting a larger box truck to consolidate a project into one or two runs instead of three or four pickup-truck trips cuts down on repeat drive time, but it does not reduce the landfill gate fee, which is billed by weight regardless of vehicle size. A bigger truck also typically costs more to rent per day than a compact pickup, so the total often lands close to the same range as several smaller trips, just condensed into fewer days. It rarely closes the gap with a flat-rate dumpster once total debris crosses roughly two truck loads.
+
 ## What Self-Hauling Does Not Include
 
 Renting a truck gets you the vehicle. It does not get you help loading heavy items, and it does not include the landfill fee, which is billed separately at the gate based on weight. Some first-time self-haulers are surprised that the truck rental was the cheap part and the disposal fee was the real cost.
@@ -241,6 +269,14 @@ The simplest approach is splitting evenly by household regardless of how much ea
 
 Whoever books the dumpster is the one on record with us, so it helps to settle payment among neighbors before delivery day rather than trying to collect afterward.
 
+## Setting Up a Simple Group Agreement
+
+A one-paragraph written agreement, even just a shared text thread or a group email, listing who is included, what the shared scope is (yard debris only versus anything goes), the per-household cost, and the payment deadline, prevents most disputes before they start. This does not need to be formal, just clear enough that nobody is guessing on delivery day.
+
+## HOA-Sponsored Cleanups
+
+Some HOAs organize a community-wide cleanup weekend and book the dumpster directly, either covering the cost from HOA dues or collecting a flat per-household fee. This removes the coordination problem entirely, since one entity is booking and one entity is billing, and it works well for larger groups of five or more households where informally splitting cost among individual neighbors gets harder to manage. Check with your HOA board before organizing a private street split, especially if the neighborhood already runs a regular community cleanup that could simply add a shared dumpster to it. See our [homeowner's first dumpster rental guide](/blog/dumpster-rental-for-homeowners-first-time-guide) for booking basics that apply whether it is one household or several splitting the cost.
+
 ## Whose Driveway Does It Go On?
 
 Pick the house with the most direct, clearest driveway access, ideally central to the group so nobody is hauling debris an extra block. If no single driveway works well, a temporary street placement is sometimes possible but generally needs a permit, so check with your city or HOA before assuming street placement is an option.
@@ -253,6 +289,14 @@ This is the most common way a shared dumpster goes wrong. A few tips:
 - **Load in the order you agreed on**, or set rough time windows, so the last household in the group is not left with no room.
 - **Cover it at night** once it is out. An open dumpster on a residential street attracts people outside your group just as easily as it attracts your own neighbors, sometimes faster.
 - **Size up if you are not sure.** The cost difference between a 15-yard and 20-yard dumpster ($349 vs $399) is small relative to the cost of running out of room and needing a second container.
+
+## What Happens If One Neighbor Backs Out
+
+Agree upfront on what happens if a neighbor drops out after the dumpster is booked, whether the remaining group absorbs the cost difference or the dropped share simply is not collected. This is much easier to resolve if it is discussed before delivery day rather than after the final bill is split.
+
+## Coordinating Pickup Timing
+
+Since the dumpster is picked up on the same schedule regardless of who has finished loading, agree on a rough order, or set aside the last day for a final walk-through, so nobody discovers unfilled space or a full container right before pickup. A shared reminder the day before pickup, confirming everyone has loaded what they need to, heads off the most common complaint: someone finds out too late that there was room left.
 
 ## What Size Do You Need for a Group Cleanup?
 
