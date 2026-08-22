@@ -68,6 +68,14 @@ Look for a rating above 4.7 and more than 50 reviews. A 5.0 with 5 reviews does 
 **5. Are they licensed for your county?**
 904 Dumpster is a licensed [Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl) franchise hauler and operates across Duval, St. Johns, and Nassau counties under the appropriate permits.
 
+## Spotting a Broker Before You Book
+
+A few signals give away a broker before you ever ask directly. If a website asks for your ZIP code before showing any price, that is usually because pricing depends on which regional hauler covers your area, not a flat company-wide rate. If the phone number has a national toll-free prefix rather than a local area code, or if the person answering cannot tell you the specific driver or truck coming to your address, you are likely talking to a dispatch platform rather than the company that will actually show up.
+
+## Reading Past the Star Rating
+
+A rating alone does not tell the full story. Read a handful of the actual reviews, not just the number, and look for specifics: does the reviewer mention an on-time delivery, a real interaction with a driver, a specific project? Reviews that read like generic templates, or a rating with very few written reviews behind it, are worth discounting relative to a company with a large volume of detailed, specific feedback.
+
 ## Frequently Asked Questions
 
 ### What is the best dumpster rental company in Jacksonville, FL?
@@ -252,6 +260,14 @@ Same-day delivery costs the same as next-day — **no rush fee** at 904 Dumpster
 
 **Know your weight.** A 20-yard includes up to 2 tons at the $399 flat rate. Concrete and brick reach weight limits before volume limits.
 
+## What If You Order After Noon?
+
+An order placed after the noon cutoff moves to next-morning delivery instead of that afternoon, which for most projects still means starting work the next day rather than waiting several days. If your timeline genuinely cannot wait, call rather than booking online; we occasionally have room for a late add-on that the online system will not show as an option.
+
+## Same-Day Availability Tightens During Peak Season
+
+Same-day delivery is our standard, not a guarantee independent of demand. During peak renovation season and ahead of hurricane season, when order volume is highest, same-day slots can fill before noon on a busy day. Booking first thing in the morning rather than right at the cutoff gives you the best odds of getting on the afternoon route.
+
 ## Frequently Asked Questions
 
 ### Can I get a dumpster delivered the same day in Jacksonville FL?
@@ -435,6 +451,14 @@ Call **[(904) 240-5598](tel:+19042405598)** to set up an account.
 **Accepted:** Furniture (sofas, mattresses, tables), carpet and flooring, appliances without refrigerants, light fixtures, drywall, cabinets, general debris.
 
 **Not accepted:** Refrigerators or window ACs with intact refrigerants, liquid paint, motor oil, propane tanks, batteries. See our [prohibited items list](/rules/prohibited-items-list).
+
+## Document the Unit Before Anything Goes in the Dumpster
+
+Photograph every room before loading starts, not just the areas with obvious damage. Timestamped photos of the full unit, condition of flooring, walls, and fixtures, protect you if a former tenant disputes a security deposit deduction later. This takes ten minutes and is far easier to do before the dumpster shows up than to reconstruct after the unit has already been cleared.
+
+## Left-Behind Property Has Its Own Rules
+
+Florida has specific legal requirements around handling a tenant's abandoned personal property, separate from general trash and debris, and the rules differ depending on whether the tenant was evicted or simply did not return for their belongings. Before loading anything you suspect might still legally belong to a former tenant, particularly after an eviction, confirm your notice and holding-period obligations with your attorney or property management company. Once that process is satisfied and the property is legally clear to dispose of, it goes in the dumpster the same as any other turnover debris.
 
 ## Frequently Asked Questions
 
@@ -880,6 +904,14 @@ Water damage — whether from plumbing failure, roof leak, or flooding — typic
 ## Working with Restoration Contractors in Jacksonville
 
 904 Dumpster works alongside Jacksonville's restoration and remediation contractors — Servpro, Paul Davis, and independent local restoration companies. If your contractor is coordinating the cleanup, they can contact us directly to schedule dumpster delivery timed to their demo schedule.
+
+## Why Water Damage Cleanup Cannot Wait
+
+Florida's heat and humidity accelerate mold growth on wet building materials, and visible mold can start developing within 24 to 48 hours on saturated drywall, insulation, and framing left in place. That timeline is part of why restoration contractors move fast on demo, cutting out affected material rather than waiting to see if it dries on its own. Having a dumpster already on-site when demo starts, rather than ordering it after the cut-out work is done, keeps the timeline moving instead of stalling with a pile of wet material sitting in the heat.
+
+## Why Some Fire-Damaged Items Look Salvageable But Are Not
+
+Smoke odor absorbs into porous materials, carpet, upholstery, drywall, insulation, in a way that surface cleaning does not fully remove. An item can look structurally fine after a fire and still need to be discarded because the smoke smell is permanently embedded. Restoration contractors typically make this call based on material type and proximity to the fire rather than visible damage alone, which is why a fire-damage cleanout often generates more debris volume than the visibly burned area would suggest.
 
 ## Insurance and Documentation
 
@@ -1566,6 +1598,10 @@ Under current Jacksonville zoning (DIA and City of Jacksonville Planning), ADUs 
 **HOA restrictions apply.** If your property is in an HOA community, construction dumpsters are usually permitted during active permitted construction but may be restricted in duration or placement. See our [HOA rules guide](/blog/hoa-dumpster-rules-jacksonville-fl) for details.
 
 **Right-of-way placement.** If the construction site is on a smaller lot without staging space for a dumpster, a Duval County right-of-way permit allows street placement during active construction. We can advise on the permit process.
+
+## One Dumpster Rarely Covers the Whole Project
+
+ADU and garage conversion projects run in phases, demo, framing, rough-in, finish, and each phase produces a different debris profile. Demo generates the heaviest load (old flooring, drywall, sometimes a section of slab), framing produces lumber cutoffs and packaging, and finish work adds drywall scrap, flooring offcuts, and trim waste. Ordering one dumpster for the demo phase and a fresh one when finish work starts, rather than trying to stretch a single container's rental period across the entire build, usually works out cheaper than paying overage fees on an over-stuffed container.
 
 ## Sizing Summary for Jacksonville ADU Projects
 
