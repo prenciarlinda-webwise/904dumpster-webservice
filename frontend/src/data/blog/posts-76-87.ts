@@ -64,6 +64,14 @@ The historic district's Aviles Street and Charlotte Street blocks, along with mu
 
 The [City of St. Augustine](https://www.citystaug.com/) requires a right-of-way permit if the dumpster has to sit on a public street rather than private property, which is common in the tightest parts of the historic core. A local company will flag this during booking rather than after the truck is already turned away.
 
+## Red Flags Specific to a St. Augustine Search
+
+Because "best dumpster rental company" pulls in national lead-generation sites alongside real local haulers, a few specific red flags are worth checking before booking anyone in this market: a website with no St. Johns County address, pricing that only appears after submitting a phone number, and reviews that mention a city other than St. Augustine in the text. Our [broker and scam red-flags guide](/blog/dumpster-rental-scams-and-broker-red-flags-jacksonville) covers the full checklist, and it applies just as much here as in Jacksonville proper.
+
+## Anastasia Island Beach Placement
+
+Anastasia Island properties close to the coast share some of the same placement considerations as Jacksonville Beach: driveways that transition to sandier soil near the edges, and HOA or condo association rules for shared parking areas. A company familiar with the island knows to bring placement boards as a default rather than an afterthought, and to ask about HOA notice requirements before delivery day rather than discovering them when the truck is already en route.
+
 ## St. Augustine Pricing (What Should Be on the Website, Not Behind a Quote Form)
 
 904 Dumpster prices in St. Johns County, all-inclusive of delivery, pickup, and disposal:
@@ -162,6 +170,14 @@ Pricing includes delivery, pickup, and disposal, with no separate fuel or enviro
 
 Short-term-rental turnover cleanouts near Centre Street, A1A oceanfront cottage renovations, hurricane and tropical-system debris (Amelia takes a harder hit than areas farther south in Northeast Florida), and historic-home remodels in 1880s and 1890s properties make up most of the route's volume. Rural Yulee properties more often need the 20-yard for land-clearing and outbuilding debris.
 
+## Historic Home Renovation Debris
+
+Fernandina Beach's 1880s and 1890s homes often involve plaster-and-lath walls rather than modern drywall, which is denser and generates more debris weight per room removed than a typical drywall demo. Original heart pine flooring, another common feature in these homes, is also heavier than modern engineered flooring if it is being replaced rather than refinished. Factoring in the age and construction type of a historic property, not just its square footage, gives a more accurate weight estimate before booking.
+
+## What a Dumpster Can Take for Rural Land Clearing
+
+A standard roll-off handles cut brush, small tree branches, fencing material, and outbuilding debris without issue. Large tree stumps and root balls typically exceed what a roll-off can safely hold and are usually better handled by a land-clearing contractor with grinding equipment rather than loaded whole into a dumpster. For a Yulee property clearing several acres, multiple swap-outs across the project are more realistic than trying to fit everything into one container regardless of size.
+
 ## Timing Around Peak Tourist Season
 
 Amelia Island's tourist season runs heaviest from spring through early fall, when Centre Street, the beaches, and A1A traffic all slow down considerably compared to winter months. A renovation or cleanout timed for delivery outside peak weekend traffic, weekday mornings rather than a Saturday in July, tends to go more smoothly for both the delivery truck and anyone trying to navigate a narrow historic-district street around it. If your project timeline is flexible, that is worth factoring in alongside the size and permit questions above.
@@ -257,6 +273,14 @@ For Orange Park deliveries, ask whether the driver has routed around OakLeaf's i
 
 Black Creek and the surrounding low-lying stretches of Middleburg see seasonal high water during Florida's wet season, roughly June through September, which can affect drive access to some rural properties even when the home itself is unaffected. If your Middleburg property sits near the creek or on a low-lying approach road, checking current water levels before scheduling a firm delivery date avoids a truck getting turned back on a flooded access road. A quick call to confirm access ahead of time costs nothing and saves a wasted trip during peak wet season.
 
+## OakLeaf Plantation HOA Placement Rules
+
+OakLeaf Plantation is a large gated community with its own HOA architectural review process, and many sections require advance notice before any temporary container, including a dumpster, is placed in a driveway or on an internal street. Checking with the OakLeaf HOA office before delivery day, rather than assuming standard driveway placement rules apply, avoids a truck being turned back at the gate. Residents outside gated sections generally do not face this extra step.
+
+## Sizing for Rural Clearing and Barn Tear-Outs
+
+Middleburg's larger rural lots generate different debris profiles than a typical suburban Orange Park renovation. A barn or outbuilding tear-out mixes structural lumber with roofing material and sometimes livestock-related debris, which is bulkier and less predictable in weight than a standard home renovation. For these projects, starting with the 20-yard and keeping a swap-out available is a safer default than trying to estimate volume from square footage alone, since rural structures rarely have the documented dimensions a suburban remodel does.
+
 ## Commercial and Business Dumpster Needs
 
 Small businesses and property managers in both areas (rental-property turnovers, small retail buildouts, HOA-managed common-area cleanups) typically use the same 15 or 20-yard containers as residential renovations, just on a recurring or multi-unit basis. 904 Dumpster offers standing accounts for property managers handling multiple Clay County units; call (904) 240-5598 to set one up.
@@ -343,6 +367,18 @@ Nocatee and Julington Creek are among the fastest-growing parts of the county, a
 | [20-yard](/20-yard-dumpster-rental) | $499 | 5 days | 2 tons |
 
 Pricing is flat across the entire county, whether the delivery address is downtown St. Augustine or a new build in Nocatee. Extensions past the 5-day window are $15 per day, with no separate fuel or environmental fee.
+
+## Common Projects by Area
+
+St. Augustine's historic district sees mostly interior renovation and cleanout debris from older homes; Ponte Vedra Beach sees full-scale renovations and new luxury construction; Nocatee and Julington Creek see new-construction cleanup and builder-grade upgrades on recently finished homes. Knowing which category a project falls into helps predict weight before booking, since renovation debris from an older St. Augustine home, plaster, older flooring, tends to run heavier per cubic yard than new-construction packaging and offcuts in Nocatee, even when the two projects look similar in volume.
+
+## Swap-Out Scheduling for New Construction
+
+New builds in Nocatee and Julington Creek run over weeks or months rather than days, and a single dumpster rarely covers the whole build. Builders and remodelers typically schedule a swap-out at each major phase, framing debris first, then finish-work debris, rather than keeping one container on-site the entire time and paying daily extension fees. See our [monthly and long-term rental guide](/blog/monthly-dumpster-rental-cost-guide) for how swap-out pricing compares to a single extended rental.
+
+## Getting a Certificate of Insurance for Your HOA
+
+Most St. Johns County HOA communities require a certificate of insurance naming the association as additional insured before approving dumpster placement. 904 Dumpster provides this on request at no extra charge; requesting it when you book, rather than after your HOA asks for it, avoids a delay on delivery day.
 
 ## Barrier Island Delivery Considerations
 
@@ -440,6 +476,14 @@ If your project fits in the trunk of a car or a few trips with a truck, a small 
 ## Cost Per Cubic Yard, Side by Side
 
 Comparing options by total price alone hides how differently they scale. A bagged unit at roughly $200 for 3 cubic yards works out to about $67 per cubic yard. A 10-yard roll-off at $299 works out to about $30 per cubic yard, and a 20-yard at $399 drops to roughly $20 per cubic yard. The larger the project, the more the per-yard cost of a roll-off pulls ahead of bagged or small-bin options, which is why the crossover point favors a dumpster so quickly once a project exceeds a single room.
+
+## Weight Limits Are a Hidden Difference Too
+
+Volume is not the only place these options differ. Small bins and carts are designed for light, low-density trash and are not rated for anything heavy. Bagged units carry their own weight limit, commonly around 3,300 pounds, separate from their volume cap. A roll-off dumpster's weight allowance scales with size: 1 ton on the 10-yard, 1.5 tons on the 15-yard, 2 tons on the 20-yard. For projects involving anything dense, tile, concrete, wet debris, this weight difference matters as much as the volume difference, since a bin or bag can hit its weight limit well before it looks full.
+
+## How Long Can You Keep Each Option?
+
+A small bin or cart is an ongoing rental, billed on a recurring schedule for as long as the service continues, since it is designed for routine trash rather than a single project. A bagged unit is meant to be filled once and picked up on a scheduled date, often several days out. A roll-off dumpster sits on your property for a defined rental period, 3 days for a 10-yard or 5 days for a 15 or 20-yard at 904 Dumpster, giving you a fixed window to load at your own pace with extensions available if the project runs longer.
 
 ## Why the Search Terms Get Confused
 
@@ -544,6 +588,14 @@ The jump from 15-yard to 20-yard is only $50 for 5 additional cubic yards and an
 ## When to Size Down Instead
 
 If your project is a single bathroom, a garage cleanout, or a small deck tear-off, the 20-yard's extra capacity is paid for and unused. The [EPA's guidance on construction and demolition debris](https://www.epa.gov/smm/sustainable-management-construction-and-demolition-materials) recommends estimating debris volume before ordering to avoid both under- and over-sizing, and the same logic applies to cost. When in doubt between the 15 and 20-yard, the $50 difference is usually worth it only if you expect to fill more than 15 cubic yards.
+
+## Placement Requirements for a 20-Yard
+
+Beyond the container's own footprint, the delivery truck needs roughly 60 feet of straight clearance to back into a driveway and lower the container safely, along with about 14 feet of overhead clearance for the truck bed to tilt during drop-off and pickup. Low tree branches, power lines, or a carport roofline close to the driveway are the most common placement obstacles for this size, more so than for the smaller 10 or 15-yard, simply because the 20-yard's added height leaves less margin under any overhead obstruction. Flagging any low branches or wires when booking lets the driver plan the approach before the truck is already in your driveway.
+
+## When One 20-Yard Isn't Enough
+
+For projects that generate more debris than a single 20-yard can hold, a full structure demolition or a large whole-house gut, a scheduled swap-out (the container emptied and returned, or exchanged for an empty one) is the standard next step rather than trying to find a larger container. Each swap resets the full 2-ton weight allowance, which is usually more cost-effective than guessing at an oversized single container that may not even fit a residential driveway. See our [monthly and long-term rental guide](/blog/monthly-dumpster-rental-cost-guide) for how swap-out pricing works.
 
 ## Loading a 20-Yard Efficiently
 
@@ -727,6 +779,18 @@ Pricing includes delivery, pickup, and disposal at Trail Ridge Landfill, matchin
 
 Properties within a block or two of the dune line sometimes have driveways that transition into looser, sandier soil near the edges rather than solid pavement the whole way, different footing than a standard inland driveway. Loose sand under a container's wheels can let it settle unevenly over a multi-day rental. Placement boards address most of this, but if your property's driveway has any sandy or unpaved sections, mention it when booking so delivery can plan the firmest available placement spot rather than defaulting to wherever is closest to the street.
 
+## Storm Season and Beach Property Debris
+
+Beachside properties see more storm exposure than inland Jacksonville, and post-storm cleanup at Jacksonville Beach often involves a mix of yard debris, damaged fencing, and sometimes flood-damaged interior materials from properties closer to the water. During active hurricane season, 904 Dumpster prioritizes beach-area deliveries for storm recovery; see our [hurricane debris cleanup guide](/blog/hurricane-debris-cleanup-jacksonville) for how to size and schedule a post-storm dumpster.
+
+## Short-Term Rental Turnover Cleanouts
+
+Jacksonville Beach has a dense concentration of short-term rental properties, and turnover cleanouts, clearing a unit between long-term tenants or ahead of a rental refresh, run on tighter timelines than a typical homeowner project. Property managers handling multiple units benefit from scheduling delivery and pickup around a specific turnover window rather than the standard flexible timeline, and a standing account simplifies repeat bookings across a portfolio of units. Call ahead during the May-through-June ramp-up to lock in a delivery slot before the summer booking season fills the schedule.
+
+## Choosing Between the 10-Yard and 15-Yard for a Beach Condo
+
+For single-unit condo work, the 10-yard is the default recommendation because it fits the parking-lot footprint most associations approve without extra review. A 15-yard is only worth requesting when the unit renovation includes flooring throughout plus a full kitchen or bathroom gut, since the added weight allowance, 1.5 tons versus 1 ton, matters more than the modest size difference in a shared lot. Confirm with your HOA which size, if any, requires board approval beyond the standard 24 to 48 hour notice.
+
 ## Common Jacksonville Beach Projects
 
 Condo kitchen and bathroom renovations, short-term rental turnover cleanouts, beach cottage remodels, and post-storm debris removal make up most of the local volume. Jacksonville Beach also sees seasonal spikes ahead of the summer rental season, when property owners and managers turn over units on a compressed timeline; booking a few days ahead during May and June avoids the tightest scheduling window.
@@ -809,6 +873,18 @@ Businesses generating debris on an ongoing basis, rather than a single project, 
 | [20-yard](/20-yard-dumpster-rental) | $399 | 5 days | Restaurant buildouts, larger renovations |
 
 Standard pricing includes delivery, pickup, and disposal. For recurring or multi-unit commercial needs, call (904) 240-5598 to discuss a standing account with volume pricing.
+
+## Coordinating With Neighboring Businesses in Shared Retail Centers
+
+Strip retail centers along Mayport Road and Atlantic Boulevard often share a single loading area or dumpster enclosure among multiple tenants, which means a temporary construction dumpster needs its own designated spot rather than blocking the enclosure other businesses use daily. Confirming placement with the property manager, not just the business owner leasing the space, avoids a conflict with neighboring tenants during the rental period.
+
+## Restaurant-Specific Debris Considerations
+
+Restaurant buildouts generate a mix of construction debris (drywall, flooring, old fixtures) and equipment packaging that is bulkier than a typical retail remodel. Commercial kitchen equipment such as ovens, hood systems, and walk-in coolers is heavy enough that it should be confirmed against the container's weight allowance before loading, and any equipment that held refrigerant needs professional evacuation before it can go in the dumpster at all. Planning the grease trap installation and equipment delivery around the dumpster's rental window, rather than overlapping them, keeps the loading area clear for both.
+
+## HOA Common-Area Cleanups
+
+Beachside HOAs occasionally need a dumpster for shared amenities, storm debris in common areas, or a community-wide cleanup rather than an individual homeowner's project. Booking through the HOA management company, with the HOA as the account holder, simplifies billing compared to an individual board member covering the cost personally. The same certificate-of-insurance process used for individual residential and commercial placements applies to HOA-booked containers.
 
 ## Scheduling Around Business Hours
 
@@ -1127,6 +1203,14 @@ Volume is not the only constraint. A 10-yard's 1-ton weight allowance is easy to
 | Multi-room estate cleanout | [20-yard](/20-yard-dumpster-rental) |
 
 For a project that seems to fall right on the line, sizing up to the 20-yard is usually the safer $100 bet over ordering a second 10-yard delivery mid-project, which costs more in total and disrupts the job.
+
+## Does Loading Technique Change Which Size You Need?
+
+Careless loading, tossing bulky items in at odd angles instead of breaking them down, wastes a larger share of a 10-yard's smaller volume than it does on a 20-yard, since there is less room to begin with for the same wasted air gaps. A well-loaded 10-yard, flattened boxes, broken-down furniture, flat materials stacked rather than tossed, can sometimes handle a project that would otherwise have pushed toward the 15-yard. This matters most on borderline projects where the choice between sizes is close either way.
+
+## Why the Rental Period Differs Between the Two
+
+The 10-yard's shorter 3-day rental period reflects its typical use case: smaller, faster projects that do not need a full workweek to load. The 20-yard's 5-day period matches larger renovations where demo, sorting, and hauling happen across several days rather than one afternoon. If a small project genuinely needs more than 3 days, extensions are available at $15 per day, but projects that consistently need the longer window are often a sign the 15 or 20-yard, with its built-in 5-day period, is the more cost-effective size to begin with.
 
 ## Where the 15-Yard Fits Between Them
 
