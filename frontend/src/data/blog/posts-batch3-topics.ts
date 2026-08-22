@@ -357,7 +357,7 @@ Once any confirmed asbestos material has been professionally abated and removed,
     relatedSlugs: ['moving-day-waste-declutter-dispose-guide', 'dumpster-rental-vs-junk-removal-comparison'],
     content: `## Moving Pod vs Dumpster Rental: Solving Two Different Problems
 
-A moving pod and a [904 Dumpster](/) roll-off get confused for the same thing, but they solve opposite problems. A moving pod is a portable storage container you fill with items you are keeping, then have moved or held until you are ready for them. A dumpster is a container you fill with items you are throwing away, then have hauled off to disposal. Many Jacksonville moves and downsizing projects end up needing both, delivered to the same driveway on the same week.
+A moving pod and a [904 Dumpster](/20-yard-dumpster-rental) roll-off get confused for the same thing, but they solve opposite problems. A moving pod is a portable storage container you fill with items you are keeping, then have moved or held until you are ready for them. A dumpster is a container you fill with items you are throwing away, then have hauled off to disposal. Many Jacksonville moves and downsizing projects end up needing both, delivered to the same driveway on the same week.
 
 ## When You Need a Moving Pod
 
@@ -423,7 +423,7 @@ Deciding what goes in the pod versus the dumpster is the real work of a move. Ou
 
 ## Book Your Jacksonville Dumpster Today
 
-[Rent a dumpster in Jacksonville FL](/) for the parts of your move you are not keeping. Flat rates from $299, same-day delivery available. Call **[(904) 240-5598](tel:+19042405598)**.`,
+[Rent a dumpster in Jacksonville FL](/dumpster-rental-pricing-jacksonville) for the parts of your move you are not keeping. Flat rates from $299, same-day delivery available. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   {
@@ -443,7 +443,7 @@ Deciding what goes in the pod versus the dumpster is the real work of a move. Ou
     relatedSlugs: ['apartment-condo-cleanout-dumpster-jacksonville', 'estate-cleanout-guide-jacksonville'],
     content: `## Clearing Out a Jacksonville Storage Unit
 
-Storage unit cleanouts almost always come with a deadline attached: a move-out date, an auction cutoff on a unit you inherited or fell behind on, or the end of a grace period after consolidating units to cut monthly fees. [904 Dumpster](/) delivers same-day in Jacksonville FL for orders before noon, which matters when a storage facility deadline is not flexible.
+Storage unit cleanouts almost always come with a deadline attached: a move-out date, an auction cutoff on a unit you inherited or fell behind on, or the end of a grace period after consolidating units to cut monthly fees. [904 Dumpster](/20-yard-dumpster-rental) delivers same-day in Jacksonville FL for orders before noon, which matters when a storage facility deadline is not flexible.
 
 ## What Size Dumpster for Your Storage Unit
 
@@ -528,6 +528,6 @@ A 10-yard often works well if you are only clearing out a portion of a unit rath
 
 ## Book Your Jacksonville Storage Cleanout Dumpster
 
-[Rent a dumpster in Jacksonville FL](/) for your storage unit cleanout. Flat rates from $299, same-day delivery available before noon. Call **[(904) 240-5598](tel:+19042405598)**.`,
+[Rent a dumpster in Jacksonville FL](/dumpster-rental-pricing-jacksonville) for your storage unit cleanout. Flat rates from $299, same-day delivery available before noon. Call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 ]

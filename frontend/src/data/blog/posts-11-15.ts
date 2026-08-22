@@ -19,7 +19,7 @@ export const POSTS_11_TO_15: BlogPost[] = [
     content: `
 ## How to Handle an Estate Cleanout in Jacksonville
 
-An estate cleanout is one of the most emotionally and physically demanding tasks a family can face. Whether you are clearing out a loved one's home after they have passed away, helping aging parents downsize, or preparing an inherited property for sale, the process involves sorting through decades of belongings, making tough decisions about what to keep, and disposing of everything else. With a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) from 904 Dumpster and a well-planned approach, [Jacksonville families](/) can turn a weeks-long ordeal into a manageable project you can finish in a single weekend.
+An estate cleanout is one of the most emotionally and physically demanding tasks a family can face. Whether you are clearing out a loved one's home after they have passed away, helping aging parents downsize, or preparing an inherited property for sale, the process involves sorting through decades of belongings, making tough decisions about what to keep, and disposing of everything else. With a [residential dumpster rental](/residential-dumpster-rental-jacksonville-fl) from 904 Dumpster and a well-planned approach, [Jacksonville families](/20-yard-dumpster-rental) can turn a weeks-long ordeal into a manageable project you can finish in a single weekend.
 
 ## Why Estate Cleanouts Are Different from Regular Cleanouts
 
@@ -181,7 +181,7 @@ Yes. Mattresses, box springs, and old furniture are all accepted in our dumpster
     content: `
 ## What You Can Actually Recycle from Your Jacksonville Project
 
-If you are doing a renovation, demolition, or construction project in [Jacksonville](/), a surprising amount of the debris you generate can be recycled instead of going straight to the landfill. With a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) from 904 Dumpster, you can sort recyclable materials like metal, concrete, clean lumber, cardboard, asphalt shingles, and drywall at local facilities. Separating recyclable materials from general waste can lower your disposal costs, reduce your environmental footprint, and keep usable materials in circulation throughout Northeast Florida's construction industry.
+If you are doing a renovation, demolition, or construction project in [Jacksonville](/commercial-dumpster-rental-jacksonville-fl), a surprising amount of the debris you generate can be recycled instead of going straight to the landfill. With a [construction dumpster rental](/construction-dumpster-rental-jacksonville-fl) from 904 Dumpster, you can sort recyclable materials like metal, concrete, clean lumber, cardboard, asphalt shingles, and drywall at local facilities. Separating recyclable materials from general waste can lower your disposal costs, reduce your environmental footprint, and keep usable materials in circulation throughout Northeast Florida's construction industry.
 
 ## Why Construction Recycling Matters in Jacksonville
 
@@ -530,7 +530,7 @@ No permit is needed if the dumpster is placed on your private property such as a
     content: `
 ## How to Tear Down a Shed, Deck, or Fence Yourself
 
-Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville-fl) from 904 Dumpster in your driveway, most [Jacksonville homeowners](/) can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
+Demolishing a shed, deck, or fence is one of the most satisfying DIY projects you can tackle because the results are immediate and dramatic. With basic hand tools, a little planning, and a [demolition dumpster rental](/demolition-services-jacksonville-fl) from 904 Dumpster in your driveway, most [Jacksonville homeowners](/10-yard-dumpster-rental) can tear down these outdoor structures in a single weekend. The key is working in the right order, having a safe plan for debris removal, and understanding how much material you will generate so you rent the right size dumpster.
 
 ## Before You Start - Planning Your Teardown
 
@@ -739,7 +739,7 @@ For simple wood-framed sheds, basic decks, and fences, DIY demolition is straigh
 
 A [15 yard dumpster](/15-yard-dumpster-rental) holds about 5 full-size pickup truck loads of debris, which makes it the right fit for most mid-range home projects: a kitchen remodel, a single-room flooring tear-out, a deck replacement, a roof tear-off on a smaller home, or a whole-house spring cleanout. This guide walks through what realistically fits, real examples from Jacksonville-area projects, and how to load efficiently so you avoid paying for a second haul.
 
-Spring is the busiest season for home projects in [Jacksonville](/), and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the [15 yard dumpster](/15-yard-dumpster-rental) is the size that handles most of these jobs in one container.
+Spring is the busiest season for home projects in [Jacksonville](/15-yard-dumpster-rental), and for good reason. The temperatures are comfortable for working outdoors, the humidity has not hit peak levels yet, and there is a natural motivation to refresh your home after winter. Whether you are tearing out a dated kitchen, replacing a worn deck, building a new patio, or finally tackling that whole-house spring cleaning you have been putting off, the [15 yard dumpster](/15-yard-dumpster-rental) is the size that handles most of these jobs in one container.
 
 You'll sometimes see the same container written as a "15 yd dumpster" or a "15 cubic yard dumpster" in online listings and supplier quotes. All three terms refer to the same physical container.
 

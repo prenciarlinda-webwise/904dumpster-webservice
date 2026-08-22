@@ -23,7 +23,7 @@ export const AI_VISIBILITY_POSTS: BlogPost[] = [
     tags: ['mattress disposal jacksonville', 'how to dispose of mattress', 'mattress pickup jacksonville', 'free mattress disposal', 'mattress recycling', 'bulk waste pickup', 'old mattress removal'],
     relatedSlugs: ['how-to-dispose-of-old-furniture-guide', 'donate-furniture-vs-dumpster-rental-jacksonville', 'bulk-waste-disposal-jacksonville-guide'],
     content: `
-Disposing of an old mattress in [Jacksonville](/) costs $0 to $75 depending on the route you take. The fastest free option is your scheduled curbside bulk pickup day through the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division). The fastest paid option is a same-day [10 yard dumpster rental](/10-yard-dumpster-rental) when you also have furniture, flooring, or other bedroom debris going at the same time. This guide walks through every option so you can pick the right one for a single mattress or a full multi-bedroom estate cleanout.
+Disposing of an old mattress in [Jacksonville](/dumpster-rental-pricing-jacksonville) costs $0 to $75 depending on the route you take. The fastest free option is your scheduled curbside bulk pickup day through the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division). The fastest paid option is a same-day [10 yard dumpster rental](/10-yard-dumpster-rental) when you also have furniture, flooring, or other bedroom debris going at the same time. This guide walks through every option so you can pick the right one for a single mattress or a full multi-bedroom estate cleanout.
 
 ## Curbside Bulk Pickup in Jacksonville (Free)
 
@@ -128,7 +128,7 @@ Donating old furniture in Jacksonville can save you $300 and earn a tax-deductib
 
 ## The Two Paths Compared
 
-| Factor | Donation Pickup | [Dumpster Rental](/) |
+| Factor | Donation Pickup | [Dumpster Rental](/dumpster-rental-pricing-jacksonville) |
 |---|---|---|
 | Cost | $0 plus optional tip | $299 to $399 flat rate |
 | Speed | 5 to 14 days for pickup | Same-day if booked before noon |
@@ -181,7 +181,7 @@ Selling on Facebook Marketplace, OfferUp, or estate sale services can recover re
 
 ### Is it better to donate furniture or rent a dumpster?
 
-Donation is better when items are in donatable condition, time is flexible, and you want a tax deduction. Dumpster rental is better for multi-room cleanouts, mixed-condition items, renovations, or any project with a deadline. Many Jacksonville homeowners use both: donate the good items first, then rent a [904 Dumpster roll-off](/) for the remainder.
+Donation is better when items are in donatable condition, time is flexible, and you want a tax deduction. Dumpster rental is better for multi-room cleanouts, mixed-condition items, renovations, or any project with a deadline. Many Jacksonville homeowners use both: donate the good items first, then rent a [904 Dumpster roll-off](/dumpster-rental-pricing-jacksonville) for the remainder.
 
 ### Will Salvation Army pick up furniture in Jacksonville?
 
@@ -193,11 +193,11 @@ Yes. The IRS allows a charitable deduction for the fair market value of donated 
 
 ### What if my furniture is damaged or stained?
 
-Damaged, stained, or odor-affected furniture will be rejected by every charity in Jacksonville. The only legal disposal routes are curbside bulk pickup (one item per week through the [City of Jacksonville](https://www.coj.net/departments/solid-waste-division)) or a [dumpster rental](/). For multiple damaged items, the dumpster is faster.
+Damaged, stained, or odor-affected furniture will be rejected by every charity in Jacksonville. The only legal disposal routes are curbside bulk pickup (one item per week through the [City of Jacksonville](https://www.coj.net/departments/solid-waste-division)) or a [dumpster rental](/10-yard-dumpster-rental). For multiple damaged items, the dumpster is faster.
 
 ### How fast is donation pickup in Jacksonville?
 
-Salvation Army pickup runs 7 to 14 days out from the booking date. Goodwill pickup is location-dependent and typically 5 to 10 days out. Habitat ReStores require drop-off rather than pickup. For same-day or next-day removal, [book a dumpster online](/) and load on your schedule.
+Salvation Army pickup runs 7 to 14 days out from the booking date. Goodwill pickup is location-dependent and typically 5 to 10 days out. Habitat ReStores require drop-off rather than pickup. For same-day or next-day removal, [book a dumpster online](/dumpster-rental-pricing-jacksonville) and load on your schedule.
 
 ### Can I donate a mattress in Jacksonville?
 
@@ -228,7 +228,7 @@ Mattresses must be in good condition with original tags, no stains, no rips, and
     tags: ['tire recycling jacksonville', 'where to dispose of tires', 'tire disposal fee', 'used tire recycling', 'tire drop off jacksonville', 'recycle tires near me'],
     relatedSlugs: ['where-to-dispose-of-old-paint-jacksonville', 'what-can-and-cannot-go-in-a-dumpster-rules', 'recycling-guide-jacksonville-construction-projects'],
     content: `
-Old tires cost $1 to $5 each to recycle [in Jacksonville](/). They are banned from every dumpster, every landfill, and every curbside trash pickup route in Florida under the [Florida Solid Waste Management Act](https://floridadep.gov/waste). That ban is why tires cannot go in a 904 Dumpster roll-off and why most tire shops in Jacksonville will accept your old tires when you buy replacement tires. When tires are tangled up with a larger pile of junk, our [junk removal in Jacksonville](/junk-removal-jacksonville-fl) crews can haul the rest while you route the tires to a recycler. This guide lists the actual drop-off locations and the rules that apply when you have more than a handful to get rid of.
+Old tires cost $1 to $5 each to recycle [in Jacksonville](/dumpster-rental-pricing-jacksonville). They are banned from every dumpster, every landfill, and every curbside trash pickup route in Florida under the [Florida Solid Waste Management Act](https://floridadep.gov/waste). That ban is why tires cannot go in a 904 Dumpster roll-off and why most tire shops in Jacksonville will accept your old tires when you buy replacement tires. When tires are tangled up with a larger pile of junk, our [junk removal in Jacksonville](/junk-removal-jacksonville-fl) crews can haul the rest while you route the tires to a recycler. This guide lists the actual drop-off locations and the rules that apply when you have more than a handful to get rid of.
 
 ## Why Tires Are Banned From Landfills
 
@@ -431,7 +431,7 @@ Once per week on your regular trash collection day. The city does not offer extr
 
 ### Can I put renovation debris in the bulk pile?
 
-No. Drywall, lumber, roofing materials, flooring, and tile are not bulk waste in Jacksonville. They require a [dumpster rental](/) or a contractor with their own hauling. Setting renovation debris at the curb as bulk triggers a code enforcement citation.
+No. Drywall, lumber, roofing materials, flooring, and tile are not bulk waste in Jacksonville. They require a [dumpster rental](/20-yard-dumpster-rental) or a contractor with their own hauling. Setting renovation debris at the curb as bulk triggers a code enforcement citation.
 
 ### What size dumpster do I need if bulk pickup will not work?
 
@@ -512,7 +512,7 @@ National brokers cannot promise same-day because their local subcontractor's rou
 
 If you are searching "dumpster rental near me" from a Northeast Florida address, the local hauler answer is usually 904 Dumpster. Coverage includes:
 
-- **Duval County:** [Jacksonville](/), [Arlington](/dumpster-rental-arlington-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl)
+- **Duval County:** [Jacksonville](/dumpster-rental-pricing-jacksonville), [Arlington](/dumpster-rental-arlington-fl), [Atlantic Beach](/dumpster-rental-atlantic-beach-fl), [Neptune Beach](/dumpster-rental-neptune-beach-fl), [Jacksonville Beach](/dumpster-rental-jacksonville-beach-fl)
 - **[St. Johns County](/blog/dumpster-rental-st-johns-county-fl):** [St. Augustine](/dumpster-rental-st-augustine-fl), [Ponte Vedra](/dumpster-rental-ponte-vedra-fl), Nocatee
 - **[Clay County](/blog/best-dumpster-rental-company-orange-park-middleburg-fl):** [Orange Park](/dumpster-rental-orange-park-fl), [Fleming Island](/dumpster-rental-fleming-island-fl), [Middleburg](/dumpster-rental-middleburg-fl), [Green Cove Springs](/dumpster-rental-green-cove-springs-fl)
 - **[Nassau County](/blog/nassau-county-dumpster-rental-fl):** [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), [Hilliard](/dumpster-rental-hilliard-fl), Yulee, Callahan
@@ -553,7 +553,7 @@ A hauler owns the trucks and employs the drivers. A broker takes your order and 
 
 ### How fast can a local dumpster rental company deliver?
 
-Same-day delivery is standard for orders placed before noon. Next-business-day is standard for afternoon orders. 904 Dumpster delivers same-day throughout Duval, St. Johns, Clay, and Nassau counties when you [book online](/) before 10 AM.
+Same-day delivery is standard for orders placed before noon. Next-business-day is standard for afternoon orders. 904 Dumpster delivers same-day throughout Duval, St. Johns, Clay, and Nassau counties when you [book online](/dumpster-rental-pricing-jacksonville) before 10 AM.
 
 ### Do local dumpster rental companies cost less than national brokers?
 
@@ -588,7 +588,7 @@ Ask whether they own the trucks or subcontract, what the all-in price is (no fue
     tags: ['small dumpster rental', 'apartment dumpster rental', 'condo dumpster rental', 'dumpster for apartment cleanout', 'HOA dumpster rules', 'small dumpster jacksonville'],
     relatedSlugs: ['dumpster-sizes-explained-complete-guide', 'dumpster-permit-guide-do-you-need-one', 'how-to-find-dumpster-rental-near-me'],
     content: `
-Renting a dumpster for an apartment or condo [cleanout in Jacksonville](/) works differently than a single-family home rental. You do not have a driveway, the HOA may have placement rules, the parking lot is shared, and a street drop may need a city permit. The good news: a 10-yard dumpster fits in two parking spaces and handles most one-bedroom or two-bedroom unit cleanouts at $299. This guide walks through where to place it, how to get HOA approval, and when a smaller option works.
+Renting a dumpster for an apartment or condo [cleanout in Jacksonville](/10-yard-dumpster-rental) works differently than a single-family home rental. You do not have a driveway, the HOA may have placement rules, the parking lot is shared, and a street drop may need a city permit. The good news: a 10-yard dumpster fits in two parking spaces and handles most one-bedroom or two-bedroom unit cleanouts at $299. This guide walks through where to place it, how to get HOA approval, and when a smaller option works.
 
 ## The Smallest Dumpster That Fits Apartment-Scale Projects
 

@@ -19,9 +19,9 @@ export const EDUCATIONAL_POSTS: BlogPost[] = [
     content: `
 ## What Is Waste Diversion? A Guide to Keeping Materials Out of the Landfill
 
-Every renovation, cleanout, and construction project generates waste. But not all of that waste needs to end up in a landfill. Waste diversion is the practice of redirecting materials away from disposal in landfills or incinerators and toward more productive uses like recycling, composting, donation, and reuse. Whether you are a homeowner tackling a garage cleanout or a contractor managing a job site, understanding waste diversion can save you money, reduce your environmental impact, and help [Jacksonville](/) move toward its sustainability goals.
+Every renovation, cleanout, and construction project generates waste. But not all of that waste needs to end up in a landfill. Waste diversion is the practice of redirecting materials away from disposal in landfills or incinerators and toward more productive uses like recycling, composting, donation, and reuse. Whether you are a homeowner tackling a garage cleanout or a contractor managing a job site, understanding waste diversion can save you money, reduce your environmental impact, and help [Jacksonville](/dumpster-rental-pricing-jacksonville) move toward its sustainability goals.
 
-[904 Dumpster](/) has routed Jacksonville and Northeast Florida debris to the correct disposal and recycling facilities since 2016, with 10, 15, and 20-yard containers starting at $299.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has routed Jacksonville and Northeast Florida debris to the correct disposal and recycling facilities since 2016, with 10, 15, and 20-yard containers starting at $299.
 
 ## Defining Waste Diversion
 
@@ -199,9 +199,9 @@ Duval County and the surrounding area have multiple recycling and processing fac
     content: `
 ## Dumpster Waste Types and What Goes Where
 
-When you rent a dumpster, one of the most important things to understand is what type of waste you are dealing with. Different waste types have different disposal requirements, weight considerations, and pricing implications. Mixing the wrong materials can result in additional charges, rejected loads, or even environmental violations. This guide breaks down the main categories of waste you will encounter during residential and commercial projects, which dumpster size works best for each, and how 904 Dumpster handles [different waste streams in Jacksonville](/).
+When you rent a dumpster, one of the most important things to understand is what type of waste you are dealing with. Different waste types have different disposal requirements, weight considerations, and pricing implications. Mixing the wrong materials can result in additional charges, rejected loads, or even environmental violations. This guide breaks down the main categories of waste you will encounter during residential and commercial projects, which dumpster size works best for each, and how 904 Dumpster handles [different waste streams in Jacksonville](/20-yard-dumpster-rental).
 
-[904 Dumpster](/) has sorted Jacksonville waste by type since 2016, offering 10, 15, and 20-yard roll-off containers starting at $299 flat.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has sorted Jacksonville waste by type since 2016, offering 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## The Five Main Categories of Waste
 
@@ -393,9 +393,9 @@ If you are uncertain about the volume or type of waste your project will generat
     content: `
 ## How Illegal Dumping Affects Jacksonville Communities and What You Can Do About It
 
-Illegal dumping is a persistent problem in [Jacksonville and across Northeast Florida](/). From mattresses tossed on the side of rural roads to construction debris piled in vacant lots, illegally dumped waste degrades neighborhoods, harms the environment, threatens public health, and costs taxpayers real money. Understanding the scope of the problem, its consequences, and the available solutions, including affordable dumpster rental, is an important step toward cleaner, healthier communities.
+Illegal dumping is a persistent problem in [Jacksonville and across Northeast Florida](/dumpster-rental-pricing-jacksonville). From mattresses tossed on the side of rural roads to construction debris piled in vacant lots, illegally dumped waste degrades neighborhoods, harms the environment, threatens public health, and costs taxpayers real money. Understanding the scope of the problem, its consequences, and the available solutions, including affordable dumpster rental, is an important step toward cleaner, healthier communities.
 
-[904 Dumpster](/) has offered a legal, affordable disposal alternative in Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299 flat.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has offered a legal, affordable disposal alternative in Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299 flat.
 
 ## What Is Illegal Dumping?
 
@@ -554,7 +554,7 @@ Report dumping when you see it through 630-CITY or the MyJax app. Participate in
 
 Renting a dumpster should be straightforward, but pricing in the waste industry can be surprisingly complicated. Different companies use different pricing models, and what looks like a great deal upfront can turn into an expensive surprise when the final bill arrives. Understanding how dumpster rental pricing works, what each model includes, and what to watch out for puts you in control and helps you choose the best value for your project.
 
-At [904 Dumpster](https://www.904dumpster.com), we are a [locally owned dumpster rental company serving Jacksonville](/) and Northeast Florida since 2016. We use flat-rate, all-inclusive pricing because we believe our customers deserve to know exactly what they will pay before they book. Our prices are $299 for a [10-yard dumpster](/10-yard-dumpster-rental), $349 for a [15-yard dumpster](/15-yard-dumpster-rental), and $399 for a [20-yard dumpster](/20-yard-dumpster-rental).
+At [904 Dumpster](https://www.904dumpster.com), we are a [locally owned dumpster rental company serving Jacksonville](/dumpster-rental-pricing-jacksonville) and Northeast Florida since 2016. We use flat-rate, all-inclusive pricing because we believe our customers deserve to know exactly what they will pay before they book. Our prices are $299 for a [10-yard dumpster](/10-yard-dumpster-rental), $349 for a [15-yard dumpster](/15-yard-dumpster-rental), and $399 for a [20-yard dumpster](/20-yard-dumpster-rental).
 
 ## The Three Main Pricing Models
 
@@ -855,7 +855,7 @@ For heavier specialty materials like concrete, brick, and stone, mixing them wit
 
 If you've read this far and your project is genuinely a 30 yard scale job, the right next step is calling a few suppliers to compare 30 yard pricing and confirm placement clearance. For most Jacksonville-area projects under a full home gut, our [20 yard dumpster rental](/20-yard-dumpster-rental) plus a scheduled swap delivers more total volume than a single 30 yard at a similar or lower combined cost, and the swap timing lets your crew keep loading without downtime.
 
-For commercial jobs, our [commercial dumpster service](/commercial-dumpster-rental-jacksonville-fl) coordinates multiple swaps over a project timeline. For renovation contractors managing multiple sites, the [construction dumpster rental for contractors](/blog/construction-dumpster-rental-contractors-guide) breakdown explains pricing tiers and standing-order options. Same-day [dumpster rental in Jacksonville](/) is available across Duval, St. Johns, Clay, and Nassau counties when booked before 10 AM, including [dumpster rental in Arlington](/dumpster-rental-arlington-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
+For commercial jobs, our [commercial dumpster service](/commercial-dumpster-rental-jacksonville-fl) coordinates multiple swaps over a project timeline. For renovation contractors managing multiple sites, the [construction dumpster rental for contractors](/blog/construction-dumpster-rental-contractors-guide) breakdown explains pricing tiers and standing-order options. Same-day [dumpster rental in Jacksonville](/dumpster-rental-pricing-jacksonville) is available across Duval, St. Johns, Clay, and Nassau counties when booked before 10 AM, including [dumpster rental in Arlington](/dumpster-rental-arlington-fl), [Fernandina Beach](/dumpster-rental-fernandina-beach-fl), and [Orange Park](/dumpster-rental-orange-park-fl).
 
 ## Frequently asked questions
 

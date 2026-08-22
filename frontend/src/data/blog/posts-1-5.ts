@@ -364,7 +364,7 @@ For a complete list with disposal alternatives for each item, read our [what can
 
 ### How much does a dumpster cost for spring cleaning in Jacksonville?
 
-A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental. Ready to [rent a dumpster jacksonville](/) homeowners trust? [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
+A spring cleaning dumpster in Jacksonville costs $299 to $399 depending on size. A 10-yard dumpster at $299 works for one-room cleanouts, while a 15-yard at $349 handles whole-house decluttering projects. Prices include delivery, pickup, disposal, and a 3-day (10-yard) or 5-day (15/20-yard) rental. Ready to [rent a dumpster jacksonville](/dumpster-rental-pricing-jacksonville) homeowners trust? [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call (904) 240-5598.
 
 ### Can I put furniture in a dumpster during spring cleaning?
 
@@ -404,13 +404,13 @@ March through early May is the ideal window. Temperatures are comfortable in the
     featuredImage: '/images/residential-dumpster-jacksonville-fl.jpg',
     tags: ['bathroom renovation debris', 'bathroom remodel dumpster', 'tile disposal', 'bathroom demolition waste', 'diy bathroom remodel', 'how to remodel a bathroom'],
     status: 'published' as const,
-    relatedSlugs: ['kitchen-renovation-debris-disposal', 'dumpster-sizes-explained-complete-guide'],
+    relatedSlugs: ['kitchen-renovation-debris-disposal-guide', 'dumpster-sizes-explained-complete-guide'],
     content: `
 ## How to Handle Bathroom Renovation Waste and Debris
 
 Whether you are tackling a [DIY bathroom remodel](/residential-dumpster-rental-jacksonville-fl) or a full contractor-led renovation, the project generates between 500 and 2,000 pounds of debris. 904 Dumpster recommends a 10-yard dumpster for most single-bathroom remodels, while a 15-yard is the safer choice if you are gutting the entire room down to the studs. Knowing what waste to expect and how to dispose of it properly saves you time, money, and the headache of multiple dump runs.
 
-Bathroom remodels are one of the most popular home improvement projects in [Jacksonville](/), FL. Whether you are updating a guest bathroom in your [San Marco](/dumpster-rental-san-marco-fl) bungalow, gutting the master bath in a [Mandarin](/dumpster-rental-mandarin-fl) home, or renovating rental property bathrooms in the [Arlington](/dumpster-rental-arlington-fl) or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
+Bathroom remodels are one of the most popular home improvement projects in [Jacksonville](/10-yard-dumpster-rental), FL. Whether you are updating a guest bathroom in your [San Marco](/dumpster-rental-san-marco-fl) bungalow, gutting the master bath in a [Mandarin](/dumpster-rental-mandarin-fl) home, or renovating rental property bathrooms in the [Arlington](/dumpster-rental-arlington-fl) or Westside neighborhoods, the debris adds up quickly. Tile, cement board, vanities, toilets, tubs, and plumbing fixtures are heavy and bulky, and your regular trash pickup will not touch any of it.
 
 ## Types of Bathroom Renovation Debris
 
@@ -797,7 +797,7 @@ We offer same-day delivery in Orange Park and throughout Clay County when you bo
     content: `
 ## What Actually Fits in a 10-Yard Dumpster
 
-A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1 ton (2,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in [Jacksonville](/) and the surrounding areas.
+A [10-yard dumpster](/10-yard-dumpster-rental) holds approximately 10 cubic yards of debris, which is roughly equivalent to 3 full-size pickup truck loads. 904 Dumpster's 10-yard container measures 12 feet long, 7.5 feet wide, and 3.6 feet tall, and it can handle up to 1 ton (2,000 pounds) of material. At $299, it is the most affordable roll-off option for small to medium projects in [Jacksonville](/dumpster-rental-pricing-jacksonville) and the surrounding areas.
 
 The 10-yard dumpster is our most frequently misunderstood size. Some people think it is too small to be useful, while others assume it can handle a full house cleanout. The truth is somewhere in between, and knowing exactly what fits helps you avoid ordering too large (wasting money) or too small (needing a second delivery). This guide uses real project examples from jobs we have completed across Jacksonville, [St. Augustine](/dumpster-rental-st-augustine-fl), [Orange Park](/dumpster-rental-orange-park-fl), and the Beaches to show you precisely what a 10-yard can handle.
 

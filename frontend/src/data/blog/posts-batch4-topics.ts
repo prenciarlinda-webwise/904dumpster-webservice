@@ -18,7 +18,7 @@ export const BATCH4_TOPIC_POSTS: BlogPost[] = [
     relatedSlugs: ['dumpster-rental-vs-national-company-jacksonville', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## How to Spot a Dumpster Rental Scam or Broker in Jacksonville, FL
 
-If a dumpster rental quote sounds too good to be true, or the company will only take Venmo, that is worth pausing on before you book. Jacksonville has a mix of real local haulers and brokers who take your order, mark it up, and hand it off to whoever bids lowest that week, sometimes a company with no real presence in Northeast Florida at all. 904 Dumpster is a [locally owned, licensed hauler](/) that owns its own trucks, so here is what we tell people to check before booking with anyone, including us.
+If a dumpster rental quote sounds too good to be true, or the company will only take Venmo, that is worth pausing on before you book. Jacksonville has a mix of real local haulers and brokers who take your order, mark it up, and hand it off to whoever bids lowest that week, sometimes a company with no real presence in Northeast Florida at all. 904 Dumpster is a [locally owned, licensed hauler](/dumpster-rental-pricing-jacksonville) that owns its own trucks, so here is what we tell people to check before booking with anyone, including us.
 
 ## What Is a Dumpster Rental Broker?
 
@@ -74,7 +74,7 @@ Ask for the exact size, rental period, included tonnage, overage rate per ton, e
 
 ## Book With a Real Local Jacksonville Hauler
 
-[904 Dumpster](/) has delivered its own trucks throughout Duval, Clay, St. Johns, and Nassau counties since 2016. Flat rates from $299, no broker markup, no surprise fees. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **[(904) 240-5598](tel:+19042405598)**.`,
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has delivered its own trucks throughout Duval, Clay, St. Johns, and Nassau counties since 2016. Flat rates from $299, no broker markup, no surprise fees. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   {
@@ -156,7 +156,7 @@ Generally no if it stays on your driveway, the same rule that applies to a dumps
 
 ## Not Sure Which Makes Sense for Your Project?
 
-Call [904 Dumpster](/) at **[(904) 240-5598](tel:+19042405598)** and tell us what you are clearing out. We will give you an honest read on whether a 10-yard dumpster is worth it or if your project is small enough that a bag would do. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) if a dumpster is the right call, flat rates from $299.`,
+Call [904 Dumpster](/10-yard-dumpster-rental) at **[(904) 240-5598](tel:+19042405598)** and tell us what you are clearing out. We will give you an honest read on whether a 10-yard dumpster is worth it or if your project is small enough that a bag would do. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) if a dumpster is the right call, flat rates from $299.`,
   },
 
   {
@@ -237,7 +237,7 @@ Yes. 904 Dumpster's flat rates ($299 for a 10-yard, $349 for a 15-yard, $399 for
 
 ## Skip the Repeat Landfill Trips
 
-For anything more than a single truck load, [904 Dumpster](/) delivers a flat-rate roll-off to your Jacksonville driveway, disposal included. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **[(904) 240-5598](tel:+19042405598)**.`,
+For anything more than a single truck load, [904 Dumpster](/dumpster-rental-pricing-jacksonville) delivers a flat-rate roll-off to your Jacksonville driveway, disposal included. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **[(904) 240-5598](tel:+19042405598)**.`,
   },
 
   {
@@ -318,6 +318,6 @@ For 2 to 3 households with light cleanouts, a 15-yard dumpster is often enough. 
 
 ## Book a Dumpster for Your Street or HOA Cleanup
 
-[904 Dumpster](/) delivers flat-rate roll-offs throughout Jacksonville and Northeast Florida, $349 for a 15-yard, $399 for a 20-yard, delivery and pickup included. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **[(904) 240-5598](tel:+19042405598)** to coordinate a group delivery.`,
+[904 Dumpster](/15-yard-dumpster-rental) delivers flat-rate roll-offs throughout Jacksonville and Northeast Florida, $349 for a 15-yard, $399 for a 20-yard, delivery and pickup included. [Book online](https://app.icans.ai/customer-portal/904dumpster/book/) or call **[(904) 240-5598](tel:+19042405598)** to coordinate a group delivery.`,
   },
 ]

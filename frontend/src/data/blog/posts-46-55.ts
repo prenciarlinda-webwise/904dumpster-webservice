@@ -19,9 +19,9 @@ export const POSTS_46_TO_55: BlogPost[] = [
     content: `
 ## Screened-In Porch Project Debris and Waste Planning
 
-Adding a screened-in porch is one of the most popular home improvement projects in Northeast Florida. [Jacksonville homeowners](/) love the idea of enjoying the outdoors without dealing with mosquitoes, no-see-ums, and the relentless summer humidity. Whether you are enclosing an existing patio, converting an open porch into a screened space, or building a brand-new screened-in porch exterior from the ground up, every version of this project produces waste that needs a plan. Old materials come off, new packaging piles up, and concrete dust, wood scraps, and discarded screening accumulate faster than most people anticipate.
+Adding a screened-in porch is one of the most popular home improvement projects in Northeast Florida. [Jacksonville homeowners](/15-yard-dumpster-rental) love the idea of enjoying the outdoors without dealing with mosquitoes, no-see-ums, and the relentless summer humidity. Whether you are enclosing an existing patio, converting an open porch into a screened space, or building a brand-new screened-in porch exterior from the ground up, every version of this project produces waste that needs a plan. Old materials come off, new packaging piles up, and concrete dust, wood scraps, and discarded screening accumulate faster than most people anticipate.
 
-[904 Dumpster](/) has served Jacksonville home-improvement projects since 2016, offering 10, 15, and 20-yard containers starting at $299 flat.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has served Jacksonville home-improvement projects since 2016, offering 10, 15, and 20-yard containers starting at $299 flat.
 
 ## Types of Waste from a Screened-In Porch Project
 
@@ -149,9 +149,9 @@ In Jacksonville, no permit is needed if the dumpster sits on your private drivew
     content: `
 ## How to Find and Prepare for a Roof Leak Repair
 
-A roof leak is one of those home problems that demands immediate attention. Left unaddressed, even a small leak can lead to mold growth, structural damage, ruined insulation, and thousands of dollars in additional repairs. For [Jacksonville](/) homeowners, the combination of heavy summer thunderstorms, hurricane season, and intense UV exposure means roofs take a beating year-round. Knowing how to find a roof leak, what the repair process involves, and how to plan for the resulting waste puts you in control of the situation instead of scrambling to react.
+A roof leak is one of those home problems that demands immediate attention. Left unaddressed, even a small leak can lead to mold growth, structural damage, ruined insulation, and thousands of dollars in additional repairs. For [Jacksonville](/15-yard-dumpster-rental) homeowners, the combination of heavy summer thunderstorms, hurricane season, and intense UV exposure means roofs take a beating year-round. Knowing how to find a roof leak, what the repair process involves, and how to plan for the resulting waste puts you in control of the situation instead of scrambling to react.
 
-Roofing debris is heavy and time-sensitive, and [904 Dumpster](/) has hauled it across Jacksonville and Northeast Florida since 2016, in 10, 15, and 20-yard sizes from $299.
+Roofing debris is heavy and time-sensitive, and [904 Dumpster](/dumpster-rental-pricing-jacksonville) has hauled it across Jacksonville and Northeast Florida since 2016, in 10, 15, and 20-yard sizes from $299.
 
 ## Signs You Have a Roof Leak
 
@@ -300,7 +300,7 @@ For a minor patch repair involving just a few shingles and a vent boot, heavy-du
 
 Replacing the flooring in your home is one of the most impactful renovation projects you can take on. But before new floors go down, the old ones have to come up. Whether you are removing laminate wood flooring from a living room, ripping up carpet from bedrooms, pulling laminate tile flooring from a kitchen, or dealing with decades-old hardwood that is beyond refinishing, the debris from flooring removal is heavier and bulkier than most homeowners anticipate. A single room of tile can weigh hundreds of pounds. An entire house of carpet and pad fills a pickup truck bed several times over.
 
-Flooring tear-outs are dense, weight-limited jobs, and [904 Dumpster](/) has served Jacksonville since 2016 with 10, 15, and 20-yard containers starting at $299.
+Flooring tear-outs are dense, weight-limited jobs, and [904 Dumpster](/dumpster-rental-pricing-jacksonville) has served Jacksonville since 2016 with 10, 15, and 20-yard containers starting at $299.
 
 ## Waste Volume by Flooring Type
 
@@ -308,7 +308,7 @@ Not all flooring materials produce the same amount or weight of waste. Understan
 
 ### Carpet and Pad Removal
 
-Carpet is one of the easiest flooring materials to remove, but it creates deceptively bulky waste. A standard room with carpet and padding generates large, rolled bundles that take up significant volume in a dumpster even though they are relatively lightweight. For a whole-house carpet removal in a typical 1,500 to 2,500 square-foot [Jacksonville home](/), expect 1 to 3 cubic yards of rolled carpet and pad, plus tack strips, staples, and adhesive residue scraps. Many homeowners wonder how much to rip up carpet will cost in terms of disposal, and the answer is that a [10-yard dumpster](/10-yard-dumpster-rental) handles most whole-house carpet removals.
+Carpet is one of the easiest flooring materials to remove, but it creates deceptively bulky waste. A standard room with carpet and padding generates large, rolled bundles that take up significant volume in a dumpster even though they are relatively lightweight. For a whole-house carpet removal in a typical 1,500 to 2,500 square-foot [Jacksonville home](/10-yard-dumpster-rental), expect 1 to 3 cubic yards of rolled carpet and pad, plus tack strips, staples, and adhesive residue scraps. Many homeowners wonder how much to rip up carpet will cost in terms of disposal, and the answer is that a [10-yard dumpster](/10-yard-dumpster-rental) handles most whole-house carpet removals.
 
 ### Laminate and Engineered Wood Flooring Removal
 
@@ -426,9 +426,9 @@ Carpet can be removed from a full house in one to two days. Laminate removal typ
     content: `
 ## Building Code Violations Every Homeowner Should Know
 
-Whether you are buying [an older home in Jacksonville](/), preparing a property for sale, or planning a renovation, building code violations can throw a wrench into your timeline and budget. Common building code violations range from unpermitted additions and improper electrical work to missing smoke detectors and inadequate egress windows. Correcting these house code violations often means tearing out non-compliant work and starting over, which creates construction debris that needs proper disposal. Understanding the most frequent home violations and what fixing them involves helps you plan ahead for both the renovation work and the waste it produces.
+Whether you are buying [an older home in Jacksonville](/dumpster-rental-pricing-jacksonville), preparing a property for sale, or planning a renovation, building code violations can throw a wrench into your timeline and budget. Common building code violations range from unpermitted additions and improper electrical work to missing smoke detectors and inadequate egress windows. Correcting these house code violations often means tearing out non-compliant work and starting over, which creates construction debris that needs proper disposal. Understanding the most frequent home violations and what fixing them involves helps you plan ahead for both the renovation work and the waste it produces.
 
-[904 Dumpster](/), locally owned in Jacksonville since 2016, offers 10, 15, and 20-yard roll-off containers starting at $299 flat for code-compliance cleanups.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville), locally owned in Jacksonville since 2016, offers 10, 15, and 20-yard roll-off containers starting at $299 flat for code-compliance cleanups.
 
 ## What Are Building Code Violations?
 
@@ -564,7 +564,7 @@ Some work, like installing smoke detectors or improving ventilation, can be done
     content: `
 ## Laundry Room and Bathroom Renovation Waste Planning
 
-Bathrooms and laundry rooms are the smallest rooms in most [Jacksonville homes](/), but renovating them produces a disproportionate amount of waste. Tile on floors and walls, heavy vanities, cast iron tubs, ceramic toilets, old cabinetry, plumbing fixtures, and water-damaged drywall all have to be removed before new materials can go in. Understanding the bathroom remodel order and knowing what waste each phase generates helps you plan disposal efficiently, keep costs down, and avoid delays from overflowing debris piles. The same applies to laundry room renovations, where old cabinets, shelving, flooring, and sometimes plumbing relocations create significant cleanup demands.
+Bathrooms and laundry rooms are the smallest rooms in most [Jacksonville homes](/10-yard-dumpster-rental), but renovating them produces a disproportionate amount of waste. Tile on floors and walls, heavy vanities, cast iron tubs, ceramic toilets, old cabinetry, plumbing fixtures, and water-damaged drywall all have to be removed before new materials can go in. Understanding the bathroom remodel order and knowing what waste each phase generates helps you plan disposal efficiently, keep costs down, and avoid delays from overflowing debris piles. The same applies to laundry room renovations, where old cabinets, shelving, flooring, and sometimes plumbing relocations create significant cleanup demands.
 
 Bathroom and laundry renovations are among the most common jobs 904 Dumpster has served in Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299.
 
@@ -715,9 +715,9 @@ If your update is limited to painting, replacing fixtures, and swapping a vanity
     content: `
 ## How to Dispose of Appliances in Jacksonville FL
 
-Replacing old appliances is a routine part of homeownership, but figuring out what to do with the old ones is rarely as simple as dragging them to the curb. Old refrigerators, water heaters, dishwashers, ovens, washing machines, and dryers are too heavy and bulky for regular trash pickup, and some contain materials that require special handling. [Jacksonville](/) homeowners regularly ask us where to throw away appliances, whether the garbage man will take a hot water heater, and if you can take a dishwasher to the dump. The answers depend on the appliance type, its condition, and which disposal method works best for your situation.
+Replacing old appliances is a routine part of homeownership, but figuring out what to do with the old ones is rarely as simple as dragging them to the curb. Old refrigerators, water heaters, dishwashers, ovens, washing machines, and dryers are too heavy and bulky for regular trash pickup, and some contain materials that require special handling. [Jacksonville](/dumpster-rental-pricing-jacksonville) homeowners regularly ask us where to throw away appliances, whether the garbage man will take a hot water heater, and if you can take a dishwasher to the dump. The answers depend on the appliance type, its condition, and which disposal method works best for your situation.
 
-Old appliances add weight fast, and [904 Dumpster](/) has hauled them out of Jacksonville homes since 2016, with 10, 15, and 20-yard roll-off containers starting at $299 flat.
+Old appliances add weight fast, and [904 Dumpster](/dumpster-rental-pricing-jacksonville) has hauled them out of Jacksonville homes since 2016, with 10, 15, and 20-yard roll-off containers starting at $299 flat.
 
 ## Appliance Disposal Options in Jacksonville
 
@@ -844,9 +844,9 @@ Costs range from free (city bulk pickup or scrap yard) to $299-$399 for a dumpst
     content: `
 ## Yard Drainage Solutions and Debris Removal
 
-Standing water in your yard is more than an inconvenience. In [Jacksonville's flat terrain](/) with its high water table and heavy seasonal rainfall, a yard not draining water properly can lead to foundation damage, mosquito breeding, landscape destruction, and soil erosion. Yard drainage solutions range from simple regrading and French drains to more complex systems involving catch basins and underground piping. Whatever the solution, these projects share one thing in common: they produce a lot of dirt, gravel, old pipe, rock, and landscape debris that needs to go somewhere. Planning for debris removal is just as important as planning the drainage fix itself.
+Standing water in your yard is more than an inconvenience. In [Jacksonville's flat terrain](/20-yard-dumpster-rental) with its high water table and heavy seasonal rainfall, a yard not draining water properly can lead to foundation damage, mosquito breeding, landscape destruction, and soil erosion. Yard drainage solutions range from simple regrading and French drains to more complex systems involving catch basins and underground piping. Whatever the solution, these projects share one thing in common: they produce a lot of dirt, gravel, old pipe, rock, and landscape debris that needs to go somewhere. Planning for debris removal is just as important as planning the drainage fix itself.
 
-[904 Dumpster](/) has served Jacksonville drainage and landscaping projects since 2016, offering 10, 15, and 20-yard containers starting at $299.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has served Jacksonville drainage and landscaping projects since 2016, offering 10, 15, and 20-yard containers starting at $299.
 
 ## Common Yard Drainage Projects and Their Waste
 
@@ -996,7 +996,7 @@ Start with a landscape contractor for most residential drainage issues. For prob
 
 Moving to a new home is one of life's biggest transitions, and it comes with an uncomfortable truth: you probably own more stuff than you think, and a lot of it is not worth taking with you. That worn-out sofa, the mattress that has seen better days, the garage full of forgotten boxes, and the closets packed with clothes you have not worn in years all take time and money to move. The smartest thing you can do before a move is declutter aggressively. Getting rid of what you do not need reduces your moving costs, speeds up packing, and gives you a genuine fresh start. The question is what to do with everything you are leaving behind.
 
-Moving day generates more discarded items than most people plan for, and [904 Dumpster](/) has helped Jacksonville movers clear them since 2016, with 10, 15, and 20-yard containers from $299.
+Moving day generates more discarded items than most people plan for, and [904 Dumpster](/dumpster-rental-pricing-jacksonville) has helped Jacksonville movers clear them since 2016, with 10, 15, and 20-yard containers from $299.
 
 ## Why Decluttering Before a Move Saves Money
 
@@ -1024,7 +1024,7 @@ The living room often contains the biggest items to evaluate: sofas, armchairs, 
 
 ### Bedrooms
 
-Old mattresses are among the most common items people want to leave behind. The cheapest mattress removal option in [Jacksonville](/) is putting it in a dumpster rental along with other items you are getting rid of. Mattresses are accepted in our dumpsters with no special requirements. Clothing, shoes, and linens in good condition can be donated to local charities.
+Old mattresses are among the most common items people want to leave behind. The cheapest mattress removal option in [Jacksonville](/10-yard-dumpster-rental) is putting it in a dumpster rental along with other items you are getting rid of. Mattresses are accepted in our dumpsters with no special requirements. Clothing, shoes, and linens in good condition can be donated to local charities.
 
 ### Garage and Storage Areas
 
@@ -1143,9 +1143,9 @@ Hazardous materials like paint, chemicals, batteries, propane tanks, and refrige
     content: `
 ## Dumpster Rental vs Junk Removal Compared
 
-When you have a pile of debris, a house full of junk, or a renovation producing waste, you need a way to get rid of it. The two most common options are renting a roll-off dumpster and hiring a junk removal service. Both get the job done, but they work in fundamentally different ways, cost different amounts, and suit different situations. Choosing the wrong one can mean paying more than you need to or not getting the service you actually need. This guide breaks down the real differences so you can make the right call for [your specific project in Jacksonville](/).
+When you have a pile of debris, a house full of junk, or a renovation producing waste, you need a way to get rid of it. The two most common options are renting a roll-off dumpster and hiring a junk removal service. Both get the job done, but they work in fundamentally different ways, cost different amounts, and suit different situations. Choosing the wrong one can mean paying more than you need to or not getting the service you actually need. This guide breaks down the real differences so you can make the right call for [your specific project in Jacksonville](/dumpster-rental-pricing-jacksonville).
 
-[904 Dumpster](/) has offered both dumpster rental and disposal guidance across Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville) has offered both dumpster rental and disposal guidance across Jacksonville since 2016, with 10, 15, and 20-yard containers starting at $299.
 
 ## How Dumpster Rental Works
 
@@ -1314,9 +1314,9 @@ Absolutely. Many Jacksonville homeowners rent a dumpster from us and hire day la
     content: `
 ## How to Dispose of Rocks, Dirt, and Landscaping Materials
 
-Landscaping projects are among the most satisfying home improvements, but they also produce some of the heaviest and most difficult-to-dispose-of waste. Rocks, dirt, old mulch, gravel, concrete pavers, lava rocks, and other hardscape materials do not fit in your regular trash bin and cannot simply be left in a pile on the curb. Whether you are redesigning your entire yard, removing an old rock garden, tearing out a paver patio, or just getting rid of extra dirt from a grading project, you need a plan for handling this heavy, bulky material. [Jacksonville homeowners](/) have several disposal options depending on the material type, volume, and condition.
+Landscaping projects are among the most satisfying home improvements, but they also produce some of the heaviest and most difficult-to-dispose-of waste. Rocks, dirt, old mulch, gravel, concrete pavers, lava rocks, and other hardscape materials do not fit in your regular trash bin and cannot simply be left in a pile on the curb. Whether you are redesigning your entire yard, removing an old rock garden, tearing out a paver patio, or just getting rid of extra dirt from a grading project, you need a plan for handling this heavy, bulky material. [Jacksonville homeowners](/20-yard-dumpster-rental) have several disposal options depending on the material type, volume, and condition.
 
-Rock and dirt are dense enough to hit a weight limit fast, and [904 Dumpster](/) has served Jacksonville landscaping projects since 2016 with 10, 15, and 20-yard containers from $299.
+Rock and dirt are dense enough to hit a weight limit fast, and [904 Dumpster](/dumpster-rental-pricing-jacksonville) has served Jacksonville landscaping projects since 2016 with 10, 15, and 20-yard containers from $299.
 
 ## How to Dispose of Rocks
 

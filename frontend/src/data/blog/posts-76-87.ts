@@ -459,7 +459,7 @@ Bagged options (large woven bags you fill yourself, then schedule a pickup) sit 
 
 ## Roll-Off Dumpster Rental
 
-A roll-off dumpster is a steel container delivered by truck and picked up by the same truck when you are done. It is the right tool for renovation debris, whole-room or whole-house cleanouts, construction waste, and any project generating more than a few bags of material. 904 Dumpster offers three sizes for [dumpster rental in Jacksonville, FL](/):
+A roll-off dumpster is a steel container delivered by truck and picked up by the same truck when you are done. It is the right tool for renovation debris, whole-room or whole-house cleanouts, construction waste, and any project generating more than a few bags of material. 904 Dumpster offers three sizes for [dumpster rental in Jacksonville, FL](/dumpster-rental-pricing-jacksonville):
 
 | Size | Capacity | Price | Best For |
 |---|---|---|---|
@@ -605,7 +605,7 @@ The extra 1.3 feet of wall height over the 15-yard is easy to waste if you load 
 
 ### How much does a 20 yard roll off dumpster cost?
 
-[904 Dumpster](/) prices the 20-yard at $399 in Duval County, including delivery, pickup, disposal, and a 5-day rental period covering up to 2 tons of debris. Pricing varies slightly by county across Northeast Florida. [St. Johns County](/blog/dumpster-rental-st-johns-county-fl) runs $499 and Clay and Nassau counties run $459 for the same container and terms.
+[904 Dumpster](/20-yard-dumpster-rental) prices the 20-yard at $399 in Duval County, including delivery, pickup, disposal, and a 5-day rental period covering up to 2 tons of debris. Pricing varies slightly by county across Northeast Florida. [St. Johns County](/blog/dumpster-rental-st-johns-county-fl) runs $499 and Clay and Nassau counties run $459 for the same container and terms.
 
 ### What are the dimensions of a 20-yard dumpster?
 
@@ -660,7 +660,7 @@ A monthly dumpster rental in Jacksonville typically runs $700 to $1,400 dependin
 
 ## How Much Does a Monthly Dumpster Rental Cost?
 
-Most dumpster companies, including [904 Dumpster](/), price the standard rental (3 days for a 10-yard, 5 days for a 15 or 20-yard) as a flat rate, then charge a daily extension fee of $15 per day beyond that window. Extended out to a full month, a single 20-yard container kept for 30 days works out to roughly $399 plus 25 extra days at $15, or about $774 total. That is the simplest long-term option, but it assumes the same container sits on-site the whole time without being emptied.
+Most dumpster companies, including [904 Dumpster](/dumpster-rental-pricing-jacksonville), price the standard rental (3 days for a 10-yard, 5 days for a 15 or 20-yard) as a flat rate, then charge a daily extension fee of $15 per day beyond that window. Extended out to a full month, a single 20-yard container kept for 30 days works out to roughly $399 plus 25 extra days at $15, or about $774 total. That is the simplest long-term option, but it assumes the same container sits on-site the whole time without being emptied.
 
 ## When a Swap-Out Plan Beats a Single Extended Rental
 
@@ -1014,7 +1014,7 @@ Yes, proportionally, but the per-cubic-yard cost improves with the larger 20-yar
 
 ### Do contractors get different pricing than homeowners?
 
-[904 Dumpster](/)'s published flat rates apply to both, but contractors with recurring or multi-project needs can set up a standing account with volume pricing. See our [contractor dumpster guide](/blog/construction-dumpster-rental-contractors-guide) for details. Standing accounts also get priority scheduling and simplified billing, which matters on job sites running back-to-back phases.
+[904 Dumpster](/dumpster-rental-pricing-jacksonville)'s published flat rates apply to both, but contractors with recurring or multi-project needs can set up a standing account with volume pricing. See our [contractor dumpster guide](/blog/construction-dumpster-rental-contractors-guide) for details. Standing accounts also get priority scheduling and simplified billing, which matters on job sites running back-to-back phases.
 
 ### What construction materials add the most weight to a dumpster?
 
@@ -1119,7 +1119,7 @@ Yes, in sticker price. Trash pickup is included in city service or free for qual
 
 ### Can trash pickup take construction debris?
 
-No. Drywall, lumber, flooring, tile, and other construction or renovation materials are excluded from municipal trash and bulk-item pickup in [Jacksonville](/) and the surrounding counties. A dumpster rental is the only standard option for this material, with sizes starting at the 10-yard for $299 and scaling up to the 20-yard at $399 depending on project volume.
+No. Drywall, lumber, flooring, tile, and other construction or renovation materials are excluded from municipal trash and bulk-item pickup in [Jacksonville](/dumpster-rental-pricing-jacksonville) and the surrounding counties. A dumpster rental is the only standard option for this material, with sizes starting at the 10-yard for $299 and scaling up to the 20-yard at $399 depending on project volume.
 
 ### What if I only have one large item to get rid of?
 
@@ -1158,7 +1158,7 @@ For a single item within your city's bulk-item allowance, scheduled bulk pickup 
       { name: 'Construction waste', sameAs: 'https://en.wikipedia.org/wiki/Construction_waste' },
     ],
     content: `
-The [10-yard](/10-yard-dumpster-rental) and [20-yard](/20-yard-dumpster-rental) are the two most-booked dumpster sizes for [dumpster rental in Jacksonville, FL](/), and the decision between them comes down to project scope more than yard size or square footage. The 10-yard runs $299 for small, contained jobs. The 20-yard runs $399 for anything spanning multiple rooms or involving construction debris. This guide walks through the real-world projects that land on each side of that line.
+The [10-yard](/10-yard-dumpster-rental) and [20-yard](/20-yard-dumpster-rental) are the two most-booked dumpster sizes for [dumpster rental in Jacksonville, FL](/dumpster-rental-pricing-jacksonville), and the decision between them comes down to project scope more than yard size or square footage. The 10-yard runs $299 for small, contained jobs. The 20-yard runs $399 for anything spanning multiple rooms or involving construction debris. This guide walks through the real-world projects that land on each side of that line.
 
 ## What Is the Difference Between a 10-Yard and 20-Yard Dumpster?
 

@@ -37,7 +37,7 @@ To become a franchise hauler, a company must:
 
 ## Why Clay County Requires Franchise Hauler Licensing
 
-Clay County uses a franchise hauler system specifically for solid waste collection and roll-off container service, which means a company must apply and be approved by the county before legally operating within it, not just carry a general business license. That is a more involved bar than the "appropriate permits" model used in neighboring [Duval](/), St. Johns, and Nassau counties, where 904 Dumpster also operates. Clay County's approach exists because the county directly manages its franchise agreements for waste collection, giving it more direct oversight over who is authorized to haul debris within its jurisdiction.
+Clay County uses a franchise hauler system specifically for solid waste collection and roll-off container service, which means a company must apply and be approved by the county before legally operating within it, not just carry a general business license. That is a more involved bar than the "appropriate permits" model used in neighboring [Duval](/dumpster-rental-pricing-jacksonville), St. Johns, and Nassau counties, where 904 Dumpster also operates. Clay County's approach exists because the county directly manages its franchise agreements for waste collection, giving it more direct oversight over who is authorized to haul debris within its jurisdiction.
 
 ## How to Verify Any Hauler's Franchise Status Yourself
 
@@ -138,7 +138,7 @@ Yes. We deliver to all of Clay County including Orange Park, Fleming Island, Mid
     content: `
 ## How to Do a Home Cleanout in Jacksonville
 
-A home cleanout in [Jacksonville](/) typically takes 2-5 days and costs between $299 and $399 for debris disposal when you rent a dumpster from 904 Dumpster. Sort items into keep, donate, sell, and dispose categories, then rent a roll-off container sized to your project. Most single-room cleanouts fit in a [10-yard dumpster](/10-yard-dumpster-rental) ($299), while whole-house and estate cleanouts require a [20-yard dumpster](/20-yard-dumpster-rental) ($399).
+A home cleanout in [Jacksonville](/dumpster-rental-pricing-jacksonville) typically takes 2-5 days and costs between $299 and $399 for debris disposal when you rent a dumpster from 904 Dumpster. Sort items into keep, donate, sell, and dispose categories, then rent a roll-off container sized to your project. Most single-room cleanouts fit in a [10-yard dumpster](/10-yard-dumpster-rental) ($299), while whole-house and estate cleanouts require a [20-yard dumpster](/20-yard-dumpster-rental) ($399).
 
 After completing over 2,000 dumpster deliveries for Jacksonville cleanout projects since 2016, we have seen what works and what wastes time. This guide shares the system that gets results.
 
@@ -281,7 +281,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://app.icans.ai/custom
     content: `
 ## Kitchen Renovation Debris
 
-A standard kitchen renovation in [Jacksonville](/) generates 1,500-3,000 pounds of debris, including cabinets, countertops, flooring, drywall, and old appliances. A [15-yard dumpster](/15-yard-dumpster-rental) ($349 flat rate) handles most full kitchen gut renovations, while minor updates fit in a [10-yard dumpster](/10-yard-dumpster-rental) ($299). Have your dumpster delivered the day before demolition begins so you can load debris as you work.
+A standard kitchen renovation in [Jacksonville](/dumpster-rental-pricing-jacksonville) generates 1,500-3,000 pounds of debris, including cabinets, countertops, flooring, drywall, and old appliances. A [15-yard dumpster](/15-yard-dumpster-rental) ($349 flat rate) handles most full kitchen gut renovations, while minor updates fit in a [10-yard dumpster](/10-yard-dumpster-rental) ($299). Have your dumpster delivered the day before demolition begins so you can load debris as you work.
 
 At 904 Dumpster, we have delivered dumpsters for hundreds of Jacksonville kitchen remodels since 2016. This guide covers what debris to expect, which items need special disposal, and how to keep your project on schedule.
 
@@ -429,7 +429,7 @@ Call 904 Dumpster at (904) 240-5598 or [book online](https://app.icans.ai/custom
     content: `
 ## Roofing Project Waste Management
 
-A [15-yard dumpster](/15-yard-dumpster-rental) ($349) is the best dumpster for most residential roofing projects in [Jacksonville](/). It handles roofs up to 2,500 sq ft with a single layer of shingles. For larger roofs or multi-layer tear-offs, use a [20-yard dumpster](/20-yard-dumpster-rental) ($399) or schedule a swap-out. The critical factor for roofing dumpsters is weight, not volume, since asphalt shingles weigh 200-300 pounds per 100 square feet of coverage.
+A [15-yard dumpster](/15-yard-dumpster-rental) ($349) is the best dumpster for most residential roofing projects in [Jacksonville](/dumpster-rental-pricing-jacksonville). It handles roofs up to 2,500 sq ft with a single layer of shingles. For larger roofs or multi-layer tear-offs, use a [20-yard dumpster](/20-yard-dumpster-rental) ($399) or schedule a swap-out. The critical factor for roofing dumpsters is weight, not volume, since asphalt shingles weigh 200-300 pounds per 100 square feet of coverage.
 
 904 Dumpster has been the go-to dumpster provider for Jacksonville roofing contractors since 2016. Here is how to plan your debris management based on real project data from our local deliveries.
 
@@ -602,7 +602,7 @@ Before your project, review our guide on [what items cannot go in a dumpster](/b
     content: `
 ## Demolition Debris Disposal
 
-Demolition debris in [Jacksonville](/) requires a [15-yard](/15-yard-dumpster-rental) ($349) or [20-yard dumpster](/20-yard-dumpster-rental) ($399), depending on the project scope. Interior demo (gutting rooms, removing walls) typically fits in a 15-yard, while exterior demo (decks, sheds, structural teardown) needs a 20-yard or multiple containers. Heavy materials like concrete and brick must be separated from general debris to manage weight limits. Jacksonville requires a demolition permit for any structure over 120 square feet.
+Demolition debris in [Jacksonville](/dumpster-rental-pricing-jacksonville) requires a [15-yard](/15-yard-dumpster-rental) ($349) or [20-yard dumpster](/20-yard-dumpster-rental) ($399), depending on the project scope. Interior demo (gutting rooms, removing walls) typically fits in a 15-yard, while exterior demo (decks, sheds, structural teardown) needs a 20-yard or multiple containers. Heavy materials like concrete and brick must be separated from general debris to manage weight limits. Jacksonville requires a demolition permit for any structure over 120 square feet.
 
 904 Dumpster has supported [demolition projects](/demolition-services-jacksonville-fl) across Northeast Florida since 2016, from single-room gut jobs to full structure teardowns. Here is how to handle debris disposal properly.
 
@@ -779,7 +779,7 @@ Call (904) 240-5598 or [book online](https://app.icans.ai/customer-portal/904dum
     content: `
 ## Hurricane Debris Cleanup in Jacksonville
 
-After a hurricane in [Jacksonville](/), separate debris into four categories (vegetative, construction, household, hazardous) and place them curbside for city collection, or rent a [20-yard dumpster](/20-yard-dumpster-rental) ($399) for immediate private cleanup. The City of Jacksonville activates curbside debris collection after major storms, but pickup can take weeks depending on severity. For faster cleanup, a dumpster rental lets you work at your own pace without waiting for city trucks.
+After a hurricane in [Jacksonville](/20-yard-dumpster-rental), separate debris into four categories (vegetative, construction, household, hazardous) and place them curbside for city collection, or rent a [20-yard dumpster](/20-yard-dumpster-rental) ($399) for immediate private cleanup. The City of Jacksonville activates curbside debris collection after major storms, but pickup can take weeks depending on severity. For faster cleanup, a dumpster rental lets you work at your own pace without waiting for city trucks.
 
 As a locally owned company that stays in Jacksonville through every storm, 904 Dumpster has supported hurricane recovery across Northeast Florida since 2016. We prioritize post-storm deliveries and extend rental periods for disaster situations. Here is what you need to know.
 
