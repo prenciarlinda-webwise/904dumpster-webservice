@@ -265,6 +265,14 @@ Intact asbestos-containing material that is not being cut, sanded, or broken apa
 
 **Learn more from the EPA.** The [EPA's asbestos program](https://www.epa.gov/asbestos) explains health risks and regulatory background in more detail, and the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) can point Duval County residents toward local hazardous waste resources.
 
+## What a Professional Test Actually Involves
+
+Testing is a small, low-disturbance sample, not a full inspection of the entire home. A trained inspector or contractor takes a small piece of the suspect material, seals it, and sends it to an accredited lab for analysis under a microscope. Results typically take a few days. This is a different, more limited step than a full home inspection, and it is worth doing before demo starts on any material you are unsure about rather than assuming either way.
+
+## 1980 Is a Guideline, Not a Guarantee
+
+The "built before 1980" rule of thumb reflects when asbestos use in building materials declined sharply in the U.S., but it was not banned outright, and some products manufactured into the 1980s still contained it. A home built in 1979 is higher risk than one built in 2005, but a slightly newer home is not automatically clear. When in doubt about a specific material, testing is still the only reliable answer regardless of the home's exact age.
+
 ## Frequently Asked Questions
 
 ### Can I put asbestos material in a 904 Dumpster rental?

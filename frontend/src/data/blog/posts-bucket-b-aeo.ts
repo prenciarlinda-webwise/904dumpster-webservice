@@ -62,6 +62,14 @@ Not everything belongs in general household trash, at either the curb or the lan
 
 We cover each of those categories, with Jacksonville-specific disposal guidance, in separate guides linked at the end of this article. None of these can go in a 904 Dumpster roll-off container either — see our full [prohibited items list](/rules/prohibited-items-list) before you load.
 
+## Construction Debris Gets Diverted Before It Reaches the Landfill
+
+Not all construction and demolition debris ends up buried. Clean concrete gets crushed and reused as road base, clean wood gets ground into mulch, and scrap metal gets pulled for recycling before the rest reaches the landfill. This diversion happens at the transfer station or a dedicated C&D recycling facility, not curbside, which is one more reason a roll-off dumpster routed through a hauler that sorts loads can recover more material than a straight-to-landfill personal haul. Our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) covers which materials get diverted and how to keep loads separated if you want to maximize what gets recycled instead of landfilled.
+
+## A Personal Dump Run Costs More Time Than People Expect
+
+Between loading the truck, driving to Trail Ridge or a transfer station, waiting in the gate line, unloading, and driving back, a single trip routinely takes an hour or more, longer during peak weekend hours when other homeowners are making the same run. Multiply that by 3 to 7 trips for a midsize project and the time cost alone often exceeds what a flat-rate roll-off would have cost, before counting gate fees or fuel.
+
 ## Dumpster Rental vs. Landfill Runs: Quick Comparison
 
 | | DIY Landfill Run | 904 Dumpster Roll-Off |
@@ -156,6 +164,14 @@ If your project is generating sorted, clean recyclable material in large volume 
 
 Scrap metal is worth calling out separately from general recycling, since it is one of the few materials that pays you back rather than just being free to drop off. Old appliances, pipe, and metal furniture are also allowed straight in a roll-off dumpster if separating them out is not worth the trip — see our [scrap metal recycling guide](/blog/scrap-metal-recycling-near-me-jacksonville-fl) for when it makes sense to haul metal to a scrap yard instead.
 
+## Why Contaminated Loads Sometimes Get Landfilled Anyway
+
+Single-stream recycling gets sorted at a materials recovery facility using a mix of optical scanners, magnets, and manual sorting, and the process breaks down when a load is too contaminated to sort economically. A bin heavy with food residue, plastic bags tangled in the equipment, or non-recyclable items mixed in can result in the whole load, not just the bad items, getting diverted to the landfill instead of processed. This is why keeping obvious contaminants like greasy pizza boxes and plastic film out of your cart matters more than people expect: it is not just about your one bin, it protects the batch it gets combined with at the facility.
+
+## Electronics Need a Different Drop-Off Than General Recycling
+
+Old TVs, computers, and monitors are not accepted in curbside recycling or a standard drop-off center, and most haulers will not take them in a roll-off dumpster either, since they can contain materials that require dedicated e-waste processing. See our [electronics and e-waste disposal guide](/blog/how-to-dispose-of-electronics-e-waste) for where these go in Jacksonville.
+
 ## Have More Debris Than Your Recycling Bin Can Handle?
 
 For moves, renovations, and cleanouts that produce more than curbside recycling can absorb, [book a 904 Dumpster roll-off online](https://app.icans.ai/customer-portal/904dumpster/book/) with flat-rate pricing from $299 and same-day delivery across Jacksonville. Call **(904) 240-5598** with questions.`,
@@ -209,6 +225,18 @@ Household hazardous waste requires a dedicated collection stream rather than sta
 ## What 904 Dumpster Can Still Handle
 
 Separating out the hazardous items does not mean you need a second hauler for everything else. A 904 Dumpster roll-off handles the rest of a garage, shed, or estate cleanout — old furniture, boxes, scrap wood, general clutter, and non-hazardous debris — at the same flat rate as any other project. Pull hazardous items aside first, and load everything else as usual.
+
+## How to Tell If Something Counts as Hazardous
+
+When a product's original container is gone or the label has faded, check for signal words like "danger," "warning," "caution," "flammable," "corrosive," "toxic," or "poison," any of which mean the product needs hazardous handling rather than the trash. If you genuinely cannot identify a chemical, do not guess: treat it as hazardous and bring it to a collection event, since misjudging it wrong in the direction of "probably fine" is the mistake that causes contamination or injury.
+
+## Storing Hazardous Items Safely Until Drop-Off
+
+Keep hazardous materials in their original, labeled containers whenever possible; a label is often the only way a collection facility can tell what they are receiving. Store them upright, away from heat and direct sun (a hot Florida garage or shed is not ideal for propane or aerosols), and keep incompatible chemicals apart, since some household products react dangerously if mixed, even by accident during storage. Never combine leftover paint, chemicals, or fuels into a single container to save space.
+
+## Dried Latex Paint Is the One Exception
+
+Wet, liquid paint of any kind is hazardous waste. But fully dried latex (water-based) paint is generally treated as solid waste once it has hardened all the way through, since it is no longer a liquid that can leak or react. That distinction is why our [paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) walks through the dry-out process: it is often the fastest legal path to getting old latex paint into a regular trash or dumpster load instead of a hazardous waste drop-off.
 
 ## Frequently Asked Questions
 
@@ -270,6 +298,14 @@ Batteries, especially lithium-ion and rechargeable types, can short-circuit and 
 ## Battery Fires Are More Common Than You'd Think
 
 Lithium-ion battery fires in waste and recycling trucks have become a documented, growing problem nationally as more devices — power tools, e-bikes, laptops — rely on them. A single damaged or crushed battery can ignite an entire load. Taking the extra step to recycle batteries properly instead of tossing them in with general debris protects the crews handling your trash, recycling, and dumpster loads.
+
+## Tape the Terminals Before You Transport Batteries
+
+Loose batteries touching each other, or touching loose change or keys in the same bag, can short-circuit through their exposed terminals. Cover the terminals of car and lead-acid batteries with electrical tape, and bag rechargeable batteries individually or tape over the contacts before carrying a batch to a drop-off point. It takes an extra minute and meaningfully reduces the fire risk during the trip itself, not just at the collection facility.
+
+## Check for Swelling or Damage Before Handling
+
+A lithium-ion battery that is swollen, dented, punctured, or feels unusually hot is more likely to ignite when handled or transported. If a battery from a power tool, laptop, or e-bike looks physically damaged, do not put it in a bag with other batteries or toss it loosely in your car. Many battery take-back programs and household hazardous waste events have a protocol for damaged batteries specifically, so call ahead and mention the damage before you show up.
 
 ## Frequently Asked Questions
 
@@ -342,6 +378,14 @@ Estate cleanouts, hoarder house cleanouts, and rental turnovers sometimes involv
 4. Once sharps are removed, everything else — furniture, medical equipment packaging, general clutter — can go in a standard 904 Dumpster roll-off
 
 Our [hoarder house cleanout guide](/blog/hoarder-house-cleanout-dumpster-jacksonville) covers the broader process for properties with this level of accumulation.
+
+## Sharps Containers Should Never Be Overfilled
+
+A sharps container is designed to be sealed and disposed of once it reaches about three-quarters full, not packed to the top. Overfilling makes it easier for a needle tip to poke through the opening or for the lid to fail to seal properly, defeating the point of using a rigid container in the first place. If you find a container that is already full or overfilled during a cleanout, treat it carefully and avoid pressing down on the contents to make room for more.
+
+## What Else Counts as a Sharp
+
+Beyond hypodermic needles and syringes, sharps disposal also applies to lancets from diabetes test kits, insulin pen needles, and auto-injectors like EpiPens once they have been used. Any of these found during a cleanout should go into the same rigid container and follow the same disposal path as loose needles, rather than being separated out as "probably fine" because they look different from a syringe.
 
 ## Frequently Asked Questions
 
