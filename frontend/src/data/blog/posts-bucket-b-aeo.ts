@@ -66,6 +66,14 @@ We cover each of those categories, with Jacksonville-specific disposal guidance,
 
 Not all construction and demolition debris ends up buried. Clean concrete gets crushed and reused as road base, clean wood gets ground into mulch, and scrap metal gets pulled for recycling before the rest reaches the landfill. This diversion happens at the transfer station or a dedicated C&D recycling facility, not curbside, which is one more reason a roll-off dumpster routed through a hauler that sorts loads can recover more material than a straight-to-landfill personal haul. Our [recycling guide for Jacksonville construction projects](/blog/recycling-guide-jacksonville-construction-projects) covers which materials get diverted and how to keep loads separated if you want to maximize what gets recycled instead of landfilled.
 
+## What Counts as Construction Debris vs. Household Trash
+
+The dividing line matters because it determines which disposal path applies. Drywall, lumber, flooring, roofing material, and tile all count as construction and demolition debris and require a dumpster or dedicated drop-off, not curbside pickup, regardless of volume. See our [full guide to what can and cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for the complete breakdown by material.
+
+## Sizing a Dumpster Instead of Multiple Landfill Runs
+
+Once you have decided a roll-off makes more sense than repeated dump runs, the next question is size. A [10-yard](/10-yard-dumpster-rental) replaces roughly 3 pickup truck loads, a [15-yard](/15-yard-dumpster-rental) about 5, and a [20-yard](/20-yard-dumpster-rental) about 7, at flat rates from $299. See our [full pricing breakdown](/blog/dumpster-rental-cost-complete-pricing-guide) for how these compare county by county.
+
 ## A Personal Dump Run Costs More Time Than People Expect
 
 Between loading the truck, driving to Trail Ridge or a transfer station, waiting in the gate line, unloading, and driving back, a single trip routinely takes an hour or more, longer during peak weekend hours when other homeowners are making the same run. Multiply that by 3 to 7 trips for a midsize project and the time cost alone often exceeds what a flat-rate roll-off would have cost, before counting gate fees or fuel.
@@ -145,6 +153,18 @@ Rules vary slightly by hauler, but across most of Jacksonville, curbside single-
 A single moving box or two of packing material fits your curbside cart. A whole-house move, kitchen renovation, or garage cleanout does not. Once cardboard, packaging, or clean scrap material exceeds what your cart holds in a week, a drop-off center or a dedicated roll-off dumpster becomes the practical option. For construction and demolition projects specifically, our [construction and demolition recycling guide](/blog/recycling-guide-jacksonville-construction-projects) covers which materials (concrete, metal, clean wood) are worth separating for recycling versus disposing of together.
 
 904 Dumpster roll-off containers are built for mixed debris, not sorted recyclables — see our guide on [what you can actually recycle from your Jacksonville project](/blog/recycling-guide-jacksonville-construction-projects) for how to separate recyclable material before it goes in the bin.
+
+## Where Duval County Recycling Actually Gets Processed
+
+Curbside recycling collected in Duval County is sorted at a materials recovery facility before being sold to buyers who reprocess it into new material, a step most residents never see between the truck picking up the cart and the material eventually becoming something else. Understanding this middle step matters for one practical reason: local hauler and facility contracts occasionally change which materials are accepted, so a Jacksonville-specific list can shift year to year even when the general categories, cans, bottles, cardboard, paper, stay the same. Checking the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division) site periodically, not just once, keeps your sorting habits current.
+
+## Bulk Recycling Pickup Versus a Drop-Off Trip
+
+Some Jacksonville service areas offer a scheduled bulk recycling pickup for a larger-than-normal load, separate from both weekly curbside and a drop-off center run. This option exists specifically for situations like a post-holiday cardboard surge or a one-time large batch that does not justify renting a dumpster but exceeds what the weekly cart holds. Availability and scheduling requirements vary by provider, so confirming with your specific hauler before assuming it is offered saves a wasted call.
+
+## When to Just Use the Dumpster Instead
+
+For a full renovation or cleanout where recyclable material is mixed in with genuine debris throughout, drywall next to cardboard, old furniture next to scrap metal, sorting for a separate recycling trip is often not worth the time compared to letting the roll-off take everything and letting the disposal facility handle recovery. Pulling out only the highest-value separable items, clean scrap metal in particular, while sending the rest to the dumpster as mixed debris is usually the more realistic approach for a real project rather than trying to sort every material into its ideal stream.
 
 ## Frequently Asked Questions
 
@@ -238,6 +258,14 @@ Keep hazardous materials in their original, labeled containers whenever possible
 
 Wet, liquid paint of any kind is hazardous waste. But fully dried latex (water-based) paint is generally treated as solid waste once it has hardened all the way through, since it is no longer a liquid that can leak or react. That distinction is why our [paint disposal guide](/blog/where-to-dispose-of-old-paint-jacksonville) walks through the dry-out process: it is often the fastest legal path to getting old latex paint into a regular trash or dumpster load instead of a hazardous waste drop-off.
 
+## Battery Disposal Follows Similar Rules
+
+Batteries are technically a separate category from household chemicals, but they get grouped with hazardous waste for the same practical reason: fire and reactivity risk in a dumpster or trash truck. Car batteries, rechargeables, and household batteries each have a slightly different drop-off path; see our [battery disposal guide](/blog/battery-disposal-near-me-jacksonville-fl) for the breakdown by battery type.
+
+## Hazardous Waste Collection Events
+
+Beyond year-round drop-off options, Duval County periodically runs household hazardous waste collection events that accept a broader range of materials in one visit than a standard drop-off location, sometimes including items that otherwise require a special trip to a specific facility. These events are announced through the [City of Jacksonville Solid Waste Division](https://www.coj.net/departments/solid-waste-division), so checking their current schedule before assuming you need to find an everyday drop-off point can save a trip if an event is coming up.
+
 ## Frequently Asked Questions
 
 ### Can I put old paint cans in a dumpster rental?
@@ -306,6 +334,18 @@ Loose batteries touching each other, or touching loose change or keys in the sam
 ## Check for Swelling or Damage Before Handling
 
 A lithium-ion battery that is swollen, dented, punctured, or feels unusually hot is more likely to ignite when handled or transported. If a battery from a power tool, laptop, or e-bike looks physically damaged, do not put it in a bag with other batteries or toss it loosely in your car. Many battery take-back programs and household hazardous waste events have a protocol for damaged batteries specifically, so call ahead and mention the damage before you show up.
+
+## The Prohibited List Is Only Half the Answer
+
+Knowing a battery is prohibited is only half the practical question; the other half is what happens if one ends up in a load anyway. If a battery is found during loading or at pickup, it needs to come back out before the container is picked up, since a hauler cannot legally transport it mixed with general debris. See our [complete guide to what can and cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for the rest of the prohibited-items list and why each category is restricted.
+
+## E-Bike and Scooter Batteries Need Extra Care
+
+E-bike and electric scooter battery packs are larger and hold significantly more energy than a laptop or power tool battery, which makes a damaged or improperly stored pack a bigger fire risk during transport and storage. These typically need to go through a specialized recycler or the manufacturer's take-back program rather than a general battery drop-off bin, since many retail collection bins are not rated for packs that size. Check with the manufacturer or retailer directly before assuming a standard battery bin will accept one.
+
+## Why Some Retailers Charge a Core Fee for Old Batteries
+
+Some auto parts stores charge a small deposit or "core fee" if you buy a replacement car battery without turning in the old one, refunded once you bring the old battery back. This is not a disposal fee; it is designed to guarantee the old battery actually gets recycled rather than thrown away, since lead-acid batteries contain recoverable lead and acid that most retailers are required to process correctly rather than landfill.
 
 ## Frequently Asked Questions
 
@@ -386,6 +426,18 @@ A sharps container is designed to be sealed and disposed of once it reaches abou
 ## What Else Counts as a Sharp
 
 Beyond hypodermic needles and syringes, sharps disposal also applies to lancets from diabetes test kits, insulin pen needles, and auto-injectors like EpiPens once they have been used. Any of these found during a cleanout should go into the same rigid container and follow the same disposal path as loose needles, rather than being separated out as "probably fine" because they look different from a syringe.
+
+## Sharps vs. Other Hazardous Cleanout Items
+
+Sharps are handled separately from other prohibited materials like paint, batteries, and chemicals, since the risk they pose, puncture and infection, is different from a fire or chemical hazard. See our [full guide to what can and cannot go in a dumpster](/blog/what-can-and-cannot-go-in-a-dumpster-rules) for the complete prohibited-items list, and our [household hazardous waste guide](/blog/hazardous-waste-disposal-near-me-jacksonville-fl) for the other category of items that need separate handling during the same cleanout.
+
+## Home Health Equipment Beyond Sharps
+
+Estate and hoarder cleanouts involving a long illness sometimes include home health equipment beyond sharps: oxygen concentrators, hospital beds, mobility aids, that may still have medical or resale value rather than belonging in general debris. Many medical equipment suppliers and some nonprofit organizations accept donated durable medical equipment in working condition, which is worth checking before treating it as disposal alongside general cleanout debris.
+
+## Coordinating Sharps Removal With a Cleanout Timeline
+
+For a hoarder or estate cleanout where sharps are mixed throughout the property rather than contained in one spot, plan a dedicated pass to locate and remove them before the main cleanout crew starts loading the dumpster, rather than expecting general laborers to identify and safely handle sharps as they come across them mid-task. This is especially worth building into the timeline for severe accumulations where sorting happens quickly under time pressure.
 
 ## Frequently Asked Questions
 
