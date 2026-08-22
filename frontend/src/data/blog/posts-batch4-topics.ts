@@ -18,21 +18,21 @@ export const BATCH4_TOPIC_POSTS: BlogPost[] = [
     relatedSlugs: ['dumpster-rental-vs-national-company-jacksonville', 'best-dumpster-rental-company-jacksonville-fl'],
     content: `## How to Spot a Dumpster Rental Scam or Broker in Jacksonville, FL
 
-If a dumpster rental quote sounds too good to be true, or the company will only take Venmo, that is worth pausing on before you book. Jacksonville has a mix of real local haulers and brokers who take your order, mark it up, and hand it off to whoever bids lowest that week, sometimes a company with no real presence in Northeast Florida at all. [904 Dumpster](/) is a locally owned, licensed hauler that owns its own trucks, so here is what we tell people to check before booking with anyone, including us.
+If a dumpster rental quote sounds too good to be true, or the company will only take Venmo, that is worth pausing on before you book. Jacksonville has a mix of real local haulers and brokers who take your order, mark it up, and hand it off to whoever bids lowest that week, sometimes a company with no real presence in Northeast Florida at all. 904 Dumpster is a [locally owned, licensed hauler](/) that owns its own trucks, so here is what we tell people to check before booking with anyone, including us.
 
 ## What Is a Dumpster Rental Broker?
 
-A broker does not own trucks or containers. They run a website or a call center, take your order and payment, then subcontract the actual delivery to a local hauler, sometimes the cheapest one they can find that day. That is not automatically a scam, some brokers are legitimate businesses, but it means the price you were quoted often is not the price the hauler actually charges, and you have no real relationship with the company doing the physical work. If something goes wrong (late delivery, wrong size, a container left too long), you are dealing with a middleman, not the people driving the truck.
+A broker does not own trucks or containers. They run a website or a call center, take your order and payment, then subcontract the actual delivery to a local hauler, sometimes the cheapest one they can find that day. That is not automatically a scam, some brokers are legitimate businesses, but it means the price you were quoted often is not the price the hauler actually charges, and you have no real relationship with the company doing the physical work. If something goes wrong (late delivery, wrong size, a container left too long), you are dealing with a middleman, not the people driving the truck. See our [local hauler versus national company comparison](/blog/dumpster-rental-vs-national-company-jacksonville) for how this broker model shows up across most of the national dumpster brands.
 
 ## Red Flags to Watch For
 
-**Prices noticeably lower than every other quote.** A 10-yard dumpster in Jacksonville generally runs $299 to $400 with a real local company. A quote well under that, especially $150 to $200, is either missing fees that get added later or is not going to show up as quoted.
+**Prices noticeably lower than every other quote.** A [10-yard dumpster](/10-yard-dumpster-rental) in Jacksonville generally runs $299 to $400 with a real local company. A quote well under that, especially $150 to $200, is either missing fees that get added later or is not going to show up as quoted.
 
 **Only Zelle, Venmo, or Cash App accepted.** Legitimate local haulers take a card and give you a receipt. A company that insists on a peer-to-peer payment app, especially before delivery, is much harder to get a refund from if the dumpster never shows up.
 
 **No real website, or a website with no address or local phone number.** A hauler that actually owns trucks and operates in Duval, Clay, St. Johns, or Nassau County has a reason to list a real Jacksonville address and phone number. A generic 800-number with no local details is a sign you are talking to a national lead-generation site, not the company that will show up.
 
-**No Google Business Profile, or one with very few reviews.** A company that has been delivering dumpsters in Jacksonville for any length of time accumulates real Google reviews. Zero reviews, or reviews that all sound generic and were posted the same week, are worth a second look.
+**No Google Business Profile, or one with very few reviews.** A company that has been [delivering dumpsters in Jacksonville](/dumpster-rental-pricing-jacksonville) for any length of time accumulates real Google reviews. Zero reviews, or reviews that all sound generic and were posted the same week, are worth a second look.
 
 **Vague or evasive answers about tonnage and fees.** Ask directly: what size, how many days, how much included tonnage, what is the overage rate per ton, is delivery included. A real local hauler answers this immediately because it is the same answer for every customer. A broker often cannot answer confidently because the subcontracted hauler sets some of those terms.
 
@@ -40,7 +40,7 @@ A broker does not own trucks or containers. They run a website or a call center,
 
 Ask if they own their own trucks. A real hauler will say yes without hesitation, and can usually tell you roughly where their yard is.
 
-Check for franchise hauler licensing in whichever county the company operates in. Franchise hauler status means the county has vetted the business for licensing, insurance, and approved disposal, and it is public information most legitimate haulers are glad to point to.
+Check for [franchise hauler licensing](/blog/904-dumpster-clay-county-licensed-franchise-hauler) in whichever county the company operates in. Franchise hauler status means the county has vetted the business for licensing, insurance, and approved disposal, and it is public information most legitimate haulers are glad to point to.
 
 Look up the business name plus "reviews" on Google separately from whatever site you found them on. A pattern of real, specific reviews (mentioning actual sizes, streets, or projects) is a much stronger signal than a star badge embedded on their own website.
 
@@ -56,7 +56,7 @@ If a company already has your payment and is unresponsive, missed the delivery w
 
 ## What This Looks Like Done Right
 
-904 Dumpster has owned and operated its own trucks in Jacksonville since 2016, and we are a licensed Clay County franchise hauler. Our flat rates ($299 for a 10-yard, $349 for a 15-yard, $399 for a 20-yard, all inclusive of delivery, pickup, and disposal) are the same number whether you call, text, or book online, and we tell you the weight allowance and overage rate ($75/ton) before you book, not after the truck leaves. You can check our reviews directly on Google, not just on our own site.
+904 Dumpster has owned and operated its own trucks in Jacksonville since 2016, and we are a licensed Clay County franchise hauler. Our flat rates ($299 for a [10-yard](/10-yard-dumpster-rental), $349 for a [15-yard](/15-yard-dumpster-rental), $399 for a [20-yard](/20-yard-dumpster-rental), all inclusive of delivery, pickup, and disposal) are the same number whether you call, text, or book online, and we tell you the weight allowance and overage rate ($75/ton) before you book, not after the truck leaves. You can check our reviews directly on Google, not just on our own site. For a fuller checklist beyond avoiding scams, see our guide to [choosing the best dumpster rental company in Jacksonville](/blog/best-dumpster-rental-company-jacksonville-fl).
 
 ## Frequently Asked Questions
 
